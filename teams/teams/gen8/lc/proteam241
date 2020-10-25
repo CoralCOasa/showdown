@@ -1,63 +1,59 @@
+Porygon @ Eviolite  
+Ability: Download  
+Level: 5  
+EVs: 36 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Tri Attack  
+- Recover  
+- Ice Beam  
+- Psychic  
+
+Pawniard @ Eviolite  
+Ability: Defiant  
+Level: 5  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Iron Head  
+- Knock Off  
+- Sucker Punch  
+- Stealth Rock  
+
+Meowth @ Life Orb  
+Ability: Technician  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 196 Spe  
+Jolly Nature  
+- Fake Out  
+- Feint  
+- Aerial Ace  
+- Water Pulse  
+
 Spritzee @ Eviolite  
 Ability: Aroma Veil  
 Level: 5  
 EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
 Bold Nature  
-IVs: 0 Atk  
+- Moonblast  
 - Wish  
 - Protect  
-- Moonblast  
-- Psychic 
+- Calm Mind  
 
-Mareanie @ Eviolite  
-Ability: Regenerator  
+Larvesta @ Eviolite  
+Ability: Flame Body  
 Level: 5  
-EVs: 196 HP / 100 Def / 92 SpA / 100 SpD  
-Calm Nature  
-IVs: 0 Atk  
-- Scald  
-- Sludge Bomb  
-- Recover  
-- Iron Defense
-
-Cutiefly @ Focus Sash 
-Ability: Sweet Veil  
-Level: 5  
-EVs: 236 SpA / 244 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Moonblast  
-- Bug Buzz 
-- Sticky Web  
-- Quiver Dance 
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- U-turn  
+- Flare Blitz  
+- Morning Sun  
+- Will-O-Wisp  
 
 Timburr @ Eviolite  
-Ability: Iron Fist 
+Ability: Iron Fist  
 Level: 5  
 EVs: 196 Atk / 156 Def / 156 SpD  
 Adamant Nature  
 - Drain Punch  
-- Thunder Punch  
 - Mach Punch  
-- Defog 
-
-Vulpix @ Eviolite  
-Ability: Drought  
-Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Fire Blast  
-- Energy Ball  
-- Will-O-Wisp  
-- Memento 
-
-Dwebble @ Eviolite  
-Ability: Weak Armor  
-Level: 5  
-EVs: 36 HP / 156 Atk / 76 Def / 236 Spe  
-Jolly Nature  
-- Stealth Rock  
-- Spikes  
-- Rock Blast  
-- Knock Off
+- Knock Off  
+- Defog  

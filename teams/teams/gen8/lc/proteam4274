@@ -1,62 +1,59 @@
-Cutiefly @ Focus Sash 
-Ability: Shield Dust 
+Carvanha @ Life Orb  
+Ability: Speed Boost  
 Level: 5  
-EVs: 236 SpA / 244 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Moonblast  
-- Bug Buzz 
-- Sticky Web  
-- Stun Spore 
-
-Cufant @ Eviolite 
-Ability: Sheer Force  
-Level: 5  
-EVs: 20 HP / 196 Atk / 204 Def / 44 SpD / 36 Spe  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
 Adamant Nature  
-- Iron Head  
-- Play Rough  
-- Power Whip 
-- Stealth Rock
-
-Wingull @ Life Orb  
-Ability: Hydration  
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-IVs: 0 HP  
-- Scald  
-- Hurricane  
-- U-turn  
-- Knock Off 
-
-Mareanie @ Eviolite  
-Ability: Regenerator  
-Level: 5  
-EVs: 196 HP / 100 Def / 92 SpA / 100 SpD  
-Calm Nature  
-IVs: 0 Atk  
-- Scald  
-- Sludge Bomb  
-- Recover  
-- Haze 
-
-Drifloon @ Berry Juice  
-Ability: Unburden  
-Level: 5  
-EVs: 36 HP / 36 Atk / 84 Def / 116 SpA / 196 Spe  
-Naive Nature  
-- Shadow Ball  
-- Acrobatics  
-- Thunderbolt 
-- Substitute
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation  
 
 Corphish @ Eviolite  
 Ability: Adaptability  
 Level: 5  
 EVs: 196 Atk / 76 Def / 236 Spe  
-Adamant Nature
+Adamant Nature  
+- Aqua Jet  
 - Crabhammer  
 - Knock Off  
-- Aqua Jet  
-- Dragon Dance
+- Dragon Dance  
+
+Abra @ Focus Sash  
+Ability: Magic Guard  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Psychic  
+- Dazzling Gleam  
+- Energy Ball  
+- Shadow Ball  
+
+Staryu @ Eviolite  
+Ability: Natural Cure  
+Level: 5  
+EVs: 116 HP / 156 Def / 236 Spe  
+Timid Nature  
+- Rapid Spin  
+- Thunderbolt  
+- Recover  
+- Scald  
+
+Porygon @ Eviolite  
+Ability: Download  
+Level: 5  
+EVs: 36 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Tri Attack  
+- Recover  
+- Ice Beam  
+- Psychic  
+
+Ponyta-Galar @ Eviolite  
+Ability: Pastel Veil  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Mystical Fire  
+- Psychic  
+- Dazzling Gleam  
+- Calm Mind  

@@ -1,61 +1,59 @@
-Diglett @ Focus Sash  
-Ability: Arena Trap  
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
 Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Earthquake  
-- Rock Slide  
-- Sucker Punch  
-- Stealth Rock 
+EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
+Impish Nature  
+- Knock Off  
+- Thunder Wave  
+- Spikes  
+- Giga Drain
 
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
+Scorbunny @ Berry Juice  
+Ability: Libero  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
+EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
+Jolly Nature  
+- High Jump Kick  
+- U-turn  
+- Blaze Kick  
+- Gunk Shot  
+
+Woobat @ Berry Juice  
+Ability: Simple  
+Level: 5  
+EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
+Timid Nature  
+- Nasty Plot  
+- Psychic  
+- Heat Wave  
+- Air Slash  
+
+Timburr @ Eviolite  
+Ability: Iron Fist  
+Level: 5  
+EVs: 196 Atk / 156 Def / 156 SpD  
 Adamant Nature  
-- Body Slam  
-- Fire Punch  
-- Curse  
-- Recycle
+- Drain Punch  
+- Mach Punch  
+- Knock Off  
+- Defog  
 
 Mareanie @ Eviolite  
 Ability: Regenerator  
 Level: 5  
-EVs: 196 HP / 100 Def / 92 SpA / 100 SpD  
-Calm Nature  
-IVs: 0 Atk  
-- Scald  
-- Sludge Bomb  
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+Bold Nature  
 - Recover  
-- Haze 
+- Scald  
+- Toxic Spikes  
+- Sludge Bomb  
 
-Croagunk @ Eviolite 
-Ability: Dry Skin  
-Level: 5  
-EVs: 52 HP / 116 Def / 188 SpA / 116 SpD / 36 Spe  
-Modest Nature  
-IVs: 0 Atk  
-- Sludge Wave  
-- Focus Blast  
-- Vacuum Wave  
-- Nasty Plot
-
-Dwebble @ Berry Juice  
+Onix @ Berry Juice  
 Ability: Sturdy  
 Level: 5  
-EVs: 236 Atk / 236 Spe  
-Adamant Nature  
-- Shell Smash  
-- Rock Blast  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
 - Earthquake  
-- Knock Off
-
-Shellder @ Eviolite  
-Ability: Skill Link  
-Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Shell Smash  
-- Icicle Spear  
+- Stealth Rock  
 - Rock Blast  
-- Liquidation
+- Dragon Dance  

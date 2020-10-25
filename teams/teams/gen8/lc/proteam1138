@@ -1,59 +1,59 @@
-Trapinch @ Eviolite  
-Ability: Arena Trap  
+Mareanie @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Adamant Nature  
-- Earthquake  
-- First Impression  
-- Superpower  
-- Rock Slide
-
-Chinchou @ Berry Juice 
-Ability: Volt Absorb  
-Level: 5  
-EVs: 76 HP / 212 Def / 152 SpA / 60 Spe  
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
 Bold Nature  
+- Recover  
 - Scald  
-- Volt Switch  
-- Ice Beam  
-- Thunder Wave
+- Toxic Spikes  
+- Sludge Bomb  
 
-Wingull @ Eviolite  
+Dewpider @ Berry Juice  
+Ability: Water Bubble  
+Level: 5  
+EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
+Modest Nature  
+- Sticky Web  
+- Surf  
+- Icy Wind  
+- Giga Drain
+
+Grookey @ Eviolite  
+Ability: Grassy Surge  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Grassy Glide  
+- Knock Off  
+- Drain Punch  
+- U-turn  
+
+Wingull @ Life Orb  
 Ability: Hydration  
 Level: 5  
 EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
 - Scald  
 - Hurricane  
-- U-turn 
-- Roost
+- U-turn  
+- Air Slash  
 
-Frillish @ Eviolite  
-Ability: Water Absorb  
+Bunnelby @ Eviolite  
+Ability: Huge Power  
 Level: 5  
-EVs: 236 HP / 116 Def / 76 SpA / 76 SpD  
-Bold Nature  
-- Scald  
-- Shadow Ball 
-- Strength Sap  
-- Will-O-Wisp
-
-Mudbray @ Eviolite 
-Ability: Stamina  
-Level: 5  
-EVs: 116 HP / 196 Atk / 36 Def / 156 Spe  
+EVs: 228 Atk / 132 Def / 148 SpD  
 Adamant Nature  
 - Earthquake  
-- Heavy Slam  
-- Close Combat  
-- Stealth Rock
+- Quick Attack  
+- U-turn  
+- Facade
 
-Shellder @ Eviolite  
-Ability: Skill Link  
+Archen @ Berry Juice  
+Ability: Defeatist  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Shell Smash  
-- Icicle Spear  
-- Rock Blast  
-- Liquidation
+EVs: 76 HP / 180 Atk / 196 Spe  
+Jolly Nature  
+- Stone Edge  
+- Dual Wingbeat  
+- Earthquake  
+- U-turn

@@ -1,60 +1,59 @@
-Drifloon @ Berry Juice  
-Ability: Unburden  
+Scorbunny @ Berry Juice  
+Ability: Libero  
 Level: 5  
-EVs: 36 HP / 36 Atk / 84 Def / 116 SpA / 196 Spe  
-Naive Nature  
-- Shadow Ball  
-- Acrobatics  
-- Destiny Bond 
-- Substitute
-
-Mudbray @ Eviolite  
-Ability: Stamina  
-Level: 5  
-EVs: 116 HP / 116 Atk / 36 Def / 236 SpD  
-Careful Nature  
-- Earthquake  
-- Rest  
-- Sleep Talk  
-- Heavy Slam
-
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
-Adamant Nature  
-- Body Slam  
-- Fire Punch  
-- Earthquake 
-- Recycle
-
-Dwebble @ Eviolite  
-Ability: Weak Armor  
-Level: 5  
-EVs: 36 HP / 156 Atk / 76 Def / 236 Spe  
+EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
 Jolly Nature  
-- Stealth Rock  
-- Spikes  
-- Rock Blast  
-- Knock Off
+- High Jump Kick  
+- U-turn  
+- Blaze Kick  
+- Gunk Shot  
 
-Trapinch @ Eviolite  
-Ability: Arena Trap  
+Grookey @ Eviolite  
+Ability: Grassy Surge  
 Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Brave Nature  
-- Earthquake  
-- First Impression  
-- Superpower  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Grassy Glide  
+- Knock Off  
+- Drain Punch  
+- U-turn  
+
+Farfetch’d-Galar @ Eviolite  
+Ability: Scrappy  
+Level: 5  
+EVs: 20 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Swords Dance  
+- Close Combat  
+- Brave Bird  
+- Knock Off  
+
+Dewpider @ Berry Juice  
+Ability: Water Bubble  
+Level: 5  
+EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
+Modest Nature  
+- Sticky Web  
+- Surf  
+- Icy Wind  
 - Giga Drain
 
-Ponyta-Galar @ Life Orb  
-Ability: Pastel Veil  
+Drilbur @ Eviolite  
+Ability: Mold Breaker  
 Level: 5  
-EVs: 76 Def / 236 SpA / 196 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Psychic  
-- Mystical Fire  
-- Morning Sun  
-- Calm Mind 
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
+Jolly Nature  
+- Earthquake  
+- Rapid Spin  
+- Rock Slide  
+- Stealth Rock  
+
+Corphish @ Eviolite  
+Ability: Adaptability  
+Level: 5  
+EVs: 196 Atk / 76 Def / 236 Spe  
+Adamant Nature  
+- Aqua Jet  
+- Crabhammer  
+- Knock Off  
+- Dragon Dance  

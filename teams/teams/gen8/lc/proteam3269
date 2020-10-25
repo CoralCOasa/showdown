@@ -1,61 +1,59 @@
-Croagunk @ Eviolite 
-Ability: Dry Skin  
+Scraggy @ Eviolite  
+Ability: Moxie  
 Level: 5  
-EVs: 52 HP / 116 Def / 188 SpA / 116 SpD / 36 Spe  
-Modest Nature  
-IVs: 0 Atk  
-- Sludge Wave  
-- Focus Blast  
-- Vacuum Wave  
-- Nasty Plot
-
-Mudbray @ Eviolite 
-Ability: Stamina  
-Level: 5  
-EVs: 116 HP / 196 Atk / 36 Def / 156 SpD  
+EVs: 236 Atk / 36 SpD / 212 Spe  
 Adamant Nature  
-- Earthquake  
-- Heavy Slam  
-- Rock Slide  
-- Stealth Rock
-
-Cutiefly @ Eviolite 
-Ability: Shield Dust 
-Level: 5  
-EVs: 236 SpA / 244 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Moonblast  
-- Bug Buzz  
-- Psychic  
-- Quiver Dance  
-
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
-Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
-Jolly Nature
-- Brave Bird  
-- Rock Slide 
-- Close Combat  
-- U-turn
-
-Drifloon @ Berry Juice  
-Ability: Unburden  
-Level: 5  
-EVs: 36 HP / 36 Atk / 84 Def / 116 SpA / 196 Spe  
-Naive Nature  
-- Shadow Ball  
-- Acrobatics  
-- Destiny Bond 
-- Substitute
-
-Farfetch'd-Galar @ Eviolite  
-Ability: Scrappy  
-Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Close Combat  
-- Brave Bird  
+- Dragon Dance  
 - Knock Off  
-- Poison Jab 
+- Drain Punch  
+- High Jump Kick  
+
+Pawniard @ Eviolite  
+Ability: Defiant  
+Level: 5  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Iron Head  
+- Knock Off  
+- Sucker Punch  
+- Stealth Rock  
+
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Knock Off  
+- U-turn  
+- High Jump Kick  
+- Fake Out  
+
+Vullaby @ Berry Juice  
+Ability: Weak Armor  
+Level: 5  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Jolly Nature  
+- Knock Off  
+- Brave Bird  
+- U-turn  
+- Defog  
+
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
+Level: 5  
+EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
+Impish Nature  
+- Knock Off  
+- Thunder Wave  
+- Spikes  
+- Giga Drain
+
+Grookey @ Eviolite  
+Ability: Grassy Surge  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Grassy Glide  
+- Knock Off  
+- Drain Punch  
+- U-turn  

@@ -1,62 +1,59 @@
-Oddish @ Eviolite  
-Ability: Chlorophyll  
+Chinchou @ Eviolite  
+Ability: Volt Absorb  
 Level: 5  
-EVs: 156 HP / 236 Def / 76 SpD / 36 Spe  
-Bold Nature  
-IVs: 0 Atk  
-- Giga Drain  
-- Sludge Bomb  
-- Strength Sap  
-- Stun Spore
-
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
-Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
-Jolly Nature
-- Brave Bird  
-- Retaliate 
-- Close Combat  
-- U-turn
-
-Drifloon @ Berry Juice  
-Ability: Unburden  
-Level: 5  
-EVs: 116 HP / 196 SpA / 196 Spe  
+EVs: 52 Def / 228 SpA / 220 Spe  
 Timid Nature  
-IVs: 0 Atk  
-- Shadow Ball  
+- Volt Switch  
+- Scald  
+- Ice Beam  
 - Thunderbolt  
-- Calm Mind 
-- Substitute
 
-Ferroseed @ Eviolite  
-Ability: Iron Barbs  
+Pawniard @ Eviolite  
+Ability: Defiant  
 Level: 5  
-EVs: 84 HP / 36 Atk / 108 Def / 228 SpD / 36 Spe  
-Impish Nature  
-- Bullet Seed  
-- Knock Off 
-- Thunder Wave  
-- Stealth Rock 
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Iron Head  
+- Knock Off  
+- Sucker Punch  
+- Stealth Rock  
 
 Spritzee @ Eviolite  
 Ability: Aroma Veil  
 Level: 5  
 EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
 Bold Nature  
-IVs: 0 Atk  
+- Moonblast  
 - Wish  
 - Protect  
-- Moonblast  
-- Psychic 
+- Calm Mind  
 
-Dwebble @ Berry Juice  
+Vulpix @ Choice Scarf  
+Ability: Drought  
+Level: 5  
+EVs: 52 HP / 196 SpA / 236 Spe  
+Timid Nature  
+- Energy Ball  
+- Weather Ball  
+- Overheat  
+- Fire Blast  
+
+Scraggy @ Eviolite  
+Ability: Moxie  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 212 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Knock Off  
+- Drain Punch  
+- High Jump Kick  
+
+Magnemite @ Berry Juice  
 Ability: Sturdy  
 Level: 5  
-EVs: 236 Atk / 236 Spe  
-Adamant Nature  
-- Shell Smash  
-- Rock Blast  
-- Earthquake  
-- Knock Off
+EVs: 36 Def / 236 SpA / 236 Spe  
+Timid Nature  
+- Flash Cannon  
+- Volt Switch  
+- Thunderbolt  
+- Recycle  

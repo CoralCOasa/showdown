@@ -1,63 +1,59 @@
-Mudbray @ Eviolite 
-Ability: Stamina  
+Corphish @ Eviolite  
+Ability: Adaptability  
 Level: 5  
-EVs: 116 HP / 196 Atk / 36 Def / 156 Spe  
+EVs: 196 Atk / 76 Def / 236 Spe  
 Adamant Nature  
-- Earthquake  
-- Heavy Slam  
-- Rock Slide 
-- Stealth Rock
-
-Vullaby @ Berry Juice 
-Ability: Weak Armor  
-Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Adamant Nature  
-- Brave Bird  
+- Aqua Jet  
+- Crabhammer  
 - Knock Off  
-- U-turn  
-- Defog
+- Dragon Dance  
 
-Oddish @ Eviolite  
-Ability: Chlorophyll  
+Foongus @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 156 HP / 236 Def / 76 SpD / 36 Spe  
+EVs: 124 HP / 156 Def / 156 SpD  
 Bold Nature  
-IVs: 0 Atk  
 - Giga Drain  
+- Spore  
 - Sludge Bomb  
-- Strength Sap  
-- Sleep Powder 
+- Synthesis  
 
-Ponyta-Galar @ Life Orb  
-Ability: Pastel Veil  
+Meowth @ Life Orb  
+Ability: Technician  
 Level: 5  
-EVs: 76 Def / 236 SpA / 196 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Psychic  
-- Mystical Fire  
-- Morning Sun  
-- Calm Mind 
+EVs: 236 Atk / 36 SpD / 196 Spe  
+Jolly Nature  
+- Fake Out  
+- Feint  
+- Aerial Ace  
+- Water Pulse  
 
-Chinchou @ Choice Scarf  
-Ability: Volt Absorb  
+Trapinch @ Eviolite  
+Ability: Arena Trap  
 Level: 5  
-EVs: 52 Def / 228 SpA / 220 Spe  
+EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
+Relaxed Nature  
+- Earthquake  
+- First Impression  
+- Superpower  
+- Giga Drain  
+
+Magnemite @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
-IVs: 0 Atk  
+- Flash Cannon  
 - Volt Switch  
-- Scald  
-- Ice Beam  
-- Hydro Pump 
+- Thunderbolt  
+- Recycle  
 
-Vulpix @ Choice Scarf  
-Ability: Drought  
+Scraggy @ Eviolite  
+Ability: Moxie  
 Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
-Timid Nature
-IVs: 0 Atk  
-- Fire Blast  
-- Energy Ball  
-- Extrasensory  
-- Memento
+EVs: 236 Atk / 36 SpD / 212 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Knock Off  
+- Drain Punch  
+- High Jump Kick  

@@ -1,61 +1,59 @@
-Trapinch @ Eviolite  
-Ability: Arena Trap  
+Abra @ Focus Sash  
+Ability: Magic Guard  
 Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Brave Nature  
-- Earthquake  
-- First Impression  
-- Superpower  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Psychic  
+- Dazzling Gleam  
+- Energy Ball  
+- Shadow Ball  
+
+Carvanha @ Life Orb  
+Ability: Speed Boost  
+Level: 5  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+Adamant Nature  
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation  
+
+Dewpider @ Berry Juice  
+Ability: Water Bubble  
+Level: 5  
+EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
+Modest Nature  
+- Sticky Web  
+- Surf  
+- Icy Wind  
 - Giga Drain
 
-Chinchou @ Choice Scarf  
-Ability: Volt Absorb  
+Pawniard @ Eviolite  
+Ability: Defiant  
 Level: 5  
-EVs: 52 Def / 228 SpA / 220 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Volt Switch  
-- Scald  
-- Ice Beam  
-- Thunderbolt 
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Iron Head  
+- Knock Off  
+- Sucker Punch  
+- Stealth Rock  
 
-Wingull @ Eviolite  
-Ability: Keen Eye 
+Farfetch’d-Galar @ Eviolite  
+Ability: Scrappy  
 Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-- Scald  
-- Hurricane  
-- U-turn 
-- Roost
-
-Croagunk @ Berry Juice  
-Ability: Dry Skin  
-Level: 5  
-EVs: 52 HP / 116 Def / 188 SpA / 116 SpD / 36 Spe  
-Modest Nature  
-IVs: 0 Atk  
-- Sludge Wave  
-- Focus Blast  
-- Vacuum Wave  
-- Nasty Plot
+EVs: 20 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Swords Dance  
+- Close Combat  
+- Brave Bird  
+- Knock Off  
 
 Timburr @ Eviolite  
-Ability: Iron Fist 
+Ability: Iron Fist  
 Level: 5  
 EVs: 196 Atk / 156 Def / 156 SpD  
 Adamant Nature  
 - Drain Punch  
-- Thunder Punch  
 - Mach Punch  
-- Defog 
-
-Dwebble @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 236 Atk / 236 Spe  
-Adamant Nature  
-- Shell Smash  
-- Rock Blast  
-- Earthquake  
-- Knock Off
+- Knock Off  
+- Defog  

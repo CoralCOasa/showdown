@@ -1,60 +1,60 @@
-Mudbray @ Berry Juice  
-Ability: Stamina  
-Level: 5  
-EVs: 116 HP / 196 Atk / 36 Def / 156 SpD  
-Adamant Nature  
-- Earthquake  
-- Heavy Slam  
-- Close Combat  
-- Stealth Rock
-
-Scraggy @ Eviolite  
-Ability: Shed Skin 
-Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
-Adamant Nature  
-- Dragon Dance  
-- High Jump Kick 
-- Crunch  
-- Poison Jab
-
 Mareanie @ Eviolite  
 Ability: Regenerator  
 Level: 5  
-EVs: 196 HP / 100 Def / 92 SpA / 100 SpD  
-Calm Nature  
-IVs: 0 Atk  
-- Scald  
-- Sludge Bomb  
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+Bold Nature  
 - Recover  
-- Toxic Spikes 
+- Scald  
+- Toxic Spikes  
+- Sludge Bomb  
 
-Shellder @ Eviolite  
-Ability: Skill Link  
+Amaura @ Choice Scarf  
+Ability: Refrigerate  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Shell Smash  
-- Icicle Spear  
-- Rock Blast  
-- Liquidation
+EVs: 60 HP / 220 SpA / 228 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hyper Voice  
+- Earth Power  
+- Thunderbolt  
+- Ancient Power
 
-Croagunk @ Berry Juice  
+Meowth @ Life Orb  
+Ability: Technician  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 196 Spe  
+Jolly Nature  
+- Fake Out  
+- Feint  
+- Aerial Ace  
+- Water Pulse  
+
+Croagunk @ Eviolite  
 Ability: Dry Skin  
 Level: 5  
-EVs: 52 HP / 188 Atk / 116 Def / 116 SpD / 36 Spe  
-Adamant Nature  
-- Gunk Shot  
-- Drain Punch  
-- Sucker Punch  
-- Bulk Up
+EVs: 116 Def / 188 SpA / 196 Spe  
+Timid Nature  
+- Vacuum Wave  
+- Nasty Plot  
+- Sludge Wave  
+- Focus Blast  
 
-Vullaby @ Berry Juice 
-Ability: Weak Armor  
+Scorbunny @ Berry Juice  
+Ability: Libero  
 Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Adamant Nature  
-- Brave Bird  
-- Knock Off  
+EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
+Jolly Nature  
+- High Jump Kick  
 - U-turn  
-- Defog
+- Blaze Kick  
+- Gunk Shot  
+
+Timburr @ Eviolite  
+Ability: Iron Fist  
+Level: 5  
+EVs: 196 Atk / 156 Def / 156 SpD  
+Adamant Nature  
+- Drain Punch  
+- Mach Punch  
+- Knock Off  
+- Defog  

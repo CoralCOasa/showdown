@@ -1,59 +1,60 @@
-Onix @ Berry Juice  
+Timburr @ Eviolite  
+Ability: Iron Fist  
+Level: 5  
+EVs: 196 Atk / 156 Def / 156 SpD  
+Adamant Nature  
+- Drain Punch  
+- Mach Punch  
+- Knock Off  
+- Defog  
+
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
+Level: 5  
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
+Bold Nature  
+- Moonblast  
+- Wish  
+- Protect  
+- Calm Mind  
+
+Tirtouga @ Berry Juice  
 Ability: Sturdy  
 Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
+EVs: 212 Atk / 92 Def / 180 Spe  
 Jolly Nature  
+- Shell Smash  
+- Waterfall  
+- Stone Edge  
+- Zen Headbutt
+
+Drilbur @ Eviolite  
+Ability: Mold Breaker  
+Level: 5  
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
+Jolly Nature  
+- Earthquake  
+- Rapid Spin  
+- Rock Slide  
 - Stealth Rock  
-- Rock Blast  
-- Earthquake  
-- Body Press 
 
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
+Grookey @ Eviolite  
+Ability: Grassy Surge  
 Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
-Jolly Nature
-- Brave Bird  
-- Retaliate  
-- Close Combat  
-- U-turn
-
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
-Adamant Nature  
-- Facade 
-- Fire Punch  
-- Earthquake 
-- Recycle
-
-Trapinch @ Eviolite  
-Ability: Arena Trap  
-Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Brave Nature  
-- Earthquake  
-- First Impression  
-- Superpower  
-- Giga Drain
-
-Scraggy @ Eviolite  
-Ability: Moxie 
-Level: 5  
-EVs: 36 HP / 156 Atk / 36 Def / 36 SpD / 212 Spe  
-Adamant Nature  
-- Dragon Dance  
-- High Jump Kick 
-- Crunch  
-- Zen Headbutt 
-
-Corphish @ Eviolite  
-Ability: Adaptability  
-Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
+EVs: 236 Atk / 36 Def / 236 Spe  
 Jolly Nature  
-- Crabhammer  
+- Grassy Glide  
 - Knock Off  
-- Aqua Jet  
-- Swords Dance 
+- Drain Punch  
+- U-turn  
+
+Natu @ Eviolite  
+Ability: Magic Bounce  
+Level: 5  
+EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Heat Wave  
+- U-turn  
+- Roost  

@@ -1,59 +1,59 @@
-Cufant @ Eviolite 
-Ability: Sheer Force  
-Level: 5  
-EVs: 20 HP / 196 Atk / 204 Def / 44 SpD / 36 Spe  
-Adamant Nature  
-- Iron Head  
-- Play Rough  
-- High Horsepower
-- Stealth Rock
-
-Trapinch @ Eviolite  
-Ability: Arena Trap  
-Level: 5  
-EVs: 196 Atk / 76 Def / 236 SpD  
-Adamant Nature  
-- Earthquake  
-- First Impression  
-- Superpower  
-- Rock Slide
-
-Croagunk @ Eviolite 
-Ability: Dry Skin  
-Level: 5  
-EVs: 52 HP / 188 Atk / 116 Def / 116 SpD / 36 Spe  
-Adamant Nature  
-- Gunk Shot  
-- Drain Punch  
-- Sucker Punch  
-- Bulk Up
-
-Dwebble @ Berry Juice  
+Tirtouga @ Berry Juice  
 Ability: Sturdy  
 Level: 5  
-EVs: 236 Atk / 236 Spe  
-Adamant Nature  
-- Shell Smash  
-- Rock Blast  
-- Earthquake  
-- Knock Off
-
-Frillish @ Eviolite  
-Ability: Water Absorb  
-Level: 5  
-EVs: 236 HP / 116 Def / 76 SpA / 76 SpD  
-Bold Nature  
-- Scald  
-- Shadow Ball 
-- Strength Sap  
-- Will-O-Wisp
-
-Ponyta-Galar @ Eviolite 
-Ability: Pastel Veil  
-Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
+EVs: 212 Atk / 92 Def / 180 Spe  
 Jolly Nature  
-- Zen Headbutt  
-- Play Rough  
-- High Horsepower 
-- Morning Sun 
+- Shell Smash  
+- Waterfall  
+- Stone Edge  
+- Zen Headbutt
+
+Carvanha @ Life Orb  
+Ability: Speed Boost  
+Level: 5  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+Adamant Nature  
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation  
+
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Knock Off  
+- U-turn  
+- High Jump Kick  
+- Fake Out  
+
+Wingull @ Life Orb  
+Ability: Hydration  
+Level: 5  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Timid Nature  
+- Scald  
+- Hurricane  
+- U-turn  
+- Air Slash  
+
+Bunnelby @ Eviolite  
+Ability: Huge Power  
+Level: 5  
+EVs: 228 Atk / 132 Def / 148 SpD  
+Adamant Nature  
+- Earthquake  
+- Quick Attack  
+- U-turn  
+- Facade
+
+Timburr @ Eviolite  
+Ability: Iron Fist  
+Level: 5  
+EVs: 196 Atk / 156 Def / 156 SpD  
+Adamant Nature  
+- Drain Punch  
+- Mach Punch  
+- Knock Off  
+- Defog  

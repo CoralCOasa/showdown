@@ -1,61 +1,59 @@
+Munchlax @ Berry Juice  
+Ability: Thick Fat  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 SpD  
+Adamant Nature  
+- Body Slam  
+- Earthquake  
+- Curse  
+- Recycle
+
+Shellder @ Eviolite  
+Ability: Skill Link  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Adamant Nature  
+- Icicle Spear  
+- Shell Smash  
+- Rock Blast  
+- Liquidation  
+
 Vulpix @ Choice Scarf  
 Ability: Drought  
 Level: 5  
 EVs: 52 HP / 196 SpA / 236 Spe  
-Modest Nature  
-IVs: 0 Atk  
-- Fire Blast  
-- Energy Ball  
-- Extrasensory  
-- Overheat 
-
-Scraggy @ Eviolite  
-Ability: Moxie 
-Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
-Adamant Nature  
-- Dragon Dance  
-- Drain Punch  
-- Crunch  
-- Poison Jab
-
-Cufant @ Eviolite  
-Ability: Sheer Force  
-Level: 5  
-EVs: 100 HP / 36 Atk / 204 Def / 124 SpD / 36 Spe  
-Careful Nature  
-- Iron Head  
-- Play Rough  
-- Power Whip 
-- Stealth Rock
-
-Ponyta-Galar @ Eviolite 
-Ability: Pastel Veil  
-Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
 Timid Nature  
-IVs: 0 Atk  
-- Psychic  
-- Mystical Fire  
-- Dazzling Gleam 
-- Calm Mind 
+- Energy Ball  
+- Weather Ball  
+- Overheat  
+- Fire Blast  
 
-Timburr @ Eviolite  
-Ability: Guts  
+Mareanie @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
-Adamant Nature  
-- Drain Punch  
-- Thunder Punch  
-- Mach Punch  
-- Defog 
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+Bold Nature  
+- Recover  
+- Scald  
+- Toxic Spikes  
+- Sludge Bomb  
 
-Mudbray @ Eviolite  
-Ability: Stamina  
+Foongus @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 116 HP / 116 Atk / 36 Def / 236 SpD  
-Careful Nature  
-- Earthquake  
-- Rest  
-- Sleep Talk  
-- Heavy Slam
+EVs: 124 HP / 156 Def / 156 SpD  
+Bold Nature  
+- Giga Drain  
+- Spore  
+- Sludge Bomb  
+- Synthesis  
+
+Pawniard @ Eviolite  
+Ability: Defiant  
+Level: 5  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Iron Head  
+- Knock Off  
+- Sucker Punch  
+- Stealth Rock  

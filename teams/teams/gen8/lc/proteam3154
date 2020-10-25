@@ -1,60 +1,59 @@
-Diglett @ Focus Sash  
-Ability: Arena Trap  
+Shellder @ Eviolite  
+Ability: Skill Link  
 Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Earthquake  
-- Rock Slide  
-- Sucker Punch  
-- Stealth Rock 
-
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
-Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
-Jolly Nature
-- Brave Bird  
-- Rock Slide 
-- Close Combat  
-- U-turn
-
-Dwebble @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 236 Atk / 236 Spe  
+EVs: 236 Atk / 76 SpD / 196 Spe  
 Adamant Nature  
+- Icicle Spear  
 - Shell Smash  
 - Rock Blast  
-- Earthquake  
-- Knock Off
+- Liquidation  
 
-Ponyta-Galar @ Eviolite 
-Ability: Pastel Veil  
+Wingull @ Life Orb  
+Ability: Hydration  
+Level: 5  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Timid Nature  
+- Scald  
+- Hurricane  
+- U-turn  
+- Air Slash  
+
+Meowth @ Life Orb  
+Ability: Technician  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 196 Spe  
+Jolly Nature  
+- Fake Out  
+- Feint  
+- Aerial Ace  
+- Water Pulse  
+
+Scraggy @ Eviolite  
+Ability: Moxie  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 212 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Knock Off  
+- Drain Punch  
+- High Jump Kick  
+
+Abra @ Focus Sash  
+Ability: Magic Guard  
 Level: 5  
 EVs: 236 SpA / 76 SpD / 196 Spe  
 Timid Nature  
-IVs: 0 Atk  
 - Psychic  
-- Mystical Fire  
-- Dazzling Gleam 
-- Calm Mind 
+- Dazzling Gleam  
+- Energy Ball  
+- Shadow Ball  
 
-Trapinch @ Eviolite  
-Ability: Arena Trap  
+Foongus @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Brave Nature  
-- Earthquake  
-- First Impression  
-- Superpower  
-- Giga Drain
-
-Corphish @ Eviolite  
-Ability: Adaptability  
-Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
-Adamant Nature
-- Crabhammer  
-- Knock Off  
-- Aqua Jet  
-- Swords Dance 
+EVs: 124 HP / 156 Def / 156 SpD  
+Bold Nature  
+- Giga Drain  
+- Spore  
+- Sludge Bomb  
+- Synthesis  

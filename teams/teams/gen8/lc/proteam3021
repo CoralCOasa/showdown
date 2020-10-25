@@ -1,61 +1,59 @@
-Dwebble @ Berry Juice  
-Ability: Sturdy  
+Trapinch @ Eviolite  
+Ability: Arena Trap  
 Level: 5  
-EVs: 236 Atk / 236 Spe  
+EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
+Relaxed Nature  
+- Earthquake  
+- First Impression  
+- Superpower  
+- Giga Drain  
+
+Porygon @ Eviolite  
+Ability: Download  
+Level: 5  
+EVs: 36 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Tri Attack  
+- Recover  
+- Ice Beam  
+- Psychic  
+
+Carvanha @ Life Orb  
+Ability: Speed Boost  
+Level: 5  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
 Adamant Nature  
-- Shell Smash  
-- Rock Blast  
-- Earthquake  
-- Knock Off
-
-Cutiefly @ Focus Sash 
-Ability: Shield Dust 
-Level: 5  
-EVs: 236 SpA / 244 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Moonblast  
-- Psychic
-- Sticky Web  
-- Quiver Dance 
-
-Drilbur @ Eviolite 
-Ability: Mold Breaker  
-Level: 5  
-EVs: 36 HP / 236 Atk / 212 Spe  
-Jolly Nature  
-- Earthquake  
-- Rock Slide  
-- Rapid Spin  
-- Stealth Rock 
-
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
-Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
-Bold Nature  
-IVs: 0 Atk  
-- Wish  
+- Crunch  
+- Psychic Fangs  
 - Protect  
-- Moonblast  
-- Calm Mind 
+- Liquidation  
 
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
+Pawniard @ Eviolite  
+Ability: Defiant  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
-Adamant Nature  
-- Facade 
-- Fire Punch  
-- Curse  
-- Recycle
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Iron Head  
+- Knock Off  
+- Sucker Punch  
+- Stealth Rock  
 
-Mudbray @ Eviolite  
-Ability: Stamina  
+Chinchou @ Eviolite  
+Ability: Volt Absorb  
 Level: 5  
-EVs: 116 HP / 116 Atk / 36 Def / 236 SpD  
-Careful Nature  
-- Earthquake  
-- Rest  
-- Sleep Talk  
-- Heavy Slam
+EVs: 52 Def / 228 SpA / 220 Spe  
+Timid Nature  
+- Volt Switch  
+- Scald  
+- Ice Beam  
+- Thunderbolt  
+
+Vullaby @ Berry Juice  
+Ability: Weak Armor  
+Level: 5  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Jolly Nature  
+- Knock Off  
+- Brave Bird  
+- U-turn  
+- Defog  

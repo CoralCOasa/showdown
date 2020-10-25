@@ -1,61 +1,59 @@
-Pawniard @ Eviolite  
-Ability: Defiant  
+Tirtouga @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+EVs: 212 Atk / 92 Def / 180 Spe  
 Jolly Nature  
-- Iron Head  
-- Sucker Punch  
-- Stealth Rock
-- Night Slash 
+- Shell Smash  
+- Waterfall  
+- Stone Edge  
+- Zen Headbutt
 
-Vulpix @ Eviolite  
-Ability: Drought  
-Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Fire Blast  
-- Energy Ball  
-- Will-O-Wisp  
-- Memento 
-
-Cutiefly @ Eviolite  
-Ability: Sweet Veil
-Level: 5  
-EVs: 236 SpA / 244 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Moonblast  
-- Psychic
-- Sticky Web  
-- Stun Spore 
-
-Corphish @ Eviolite  
-Ability: Adaptability  
-Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
-Adamant Nature
-- Crabhammer  
-- Knock Off  
-- Aqua Jet  
-- Swords Dance 
-
-Ponyta-Galar @ Eviolite 
+Ponyta-Galar @ Eviolite  
 Ability: Pastel Veil  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Jolly Nature  
-- Zen Headbutt  
-- Play Rough  
-- Wild Charge  
-- Morning Sun 
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Mystical Fire  
+- Psychic  
+- Dazzling Gleam  
+- Calm Mind  
 
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
+Dwebble @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
+EVs: 236 Atk / 236 Spe  
 Adamant Nature  
-- Facade 
-- Fire Punch  
-- Earthquake 
-- Recycle
+- Shell Smash  
+- Rock Blast  
+- Earthquake  
+- Knock Off  
+
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
+Level: 5  
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
+Bold Nature  
+- Moonblast  
+- Wish  
+- Protect  
+- Calm Mind  
+
+Dewpider @ Berry Juice  
+Ability: Water Bubble  
+Level: 5  
+EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
+Modest Nature  
+- Sticky Web  
+- Surf  
+- Icy Wind  
+- Giga Drain
+
+Zigzagoon @ Berry Juice  
+Ability: Quick Feet  
+Level: 5  
+EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
+Adamant Nature  
+- Extreme Speed  
+- Belly Drum  
+- Thief  
+- Seed Bomb  

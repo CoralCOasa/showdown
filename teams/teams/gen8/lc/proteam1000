@@ -1,63 +1,60 @@
-Vulpix @ Eviolite  
-Ability: Drought  
+Zigzagoon @ Berry Juice  
+Ability: Quick Feet  
 Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
-Timid Nature  
+EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
+Adamant Nature  
+- Extreme Speed  
+- Belly Drum  
+- Thief  
+- Seed Bomb  
+
+Amaura @ Choice Scarf  
+Ability: Refrigerate  
+Level: 5  
+EVs: 60 HP / 220 SpA / 228 Spe  
+Modest Nature  
 IVs: 0 Atk  
-- Fire Blast  
-- Energy Ball  
-- Will-O-Wisp  
-- Overheat 
+- Hyper Voice  
+- Earth Power  
+- Thunderbolt  
+- Ancient Power
+
+Archen @ Berry Juice  
+Ability: Defeatist  
+Level: 5  
+EVs: 76 HP / 180 Atk / 196 Spe  
+Jolly Nature  
+- Stone Edge  
+- Dual Wingbeat  
+- Earthquake  
+- U-turn
 
 Mareanie @ Eviolite  
 Ability: Regenerator  
 Level: 5  
-EVs: 196 HP / 100 Def / 92 SpA / 100 SpD  
-Calm Nature  
-IVs: 0 Atk  
-- Scald  
-- Sludge Bomb  
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+Bold Nature  
 - Recover  
-- Toxic Spikes 
-
-Drifloon @ Berry Juice  
-Ability: Unburden  
-Level: 5  
-EVs: 116 HP / 196 SpA / 196 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Shadow Ball  
-- Thunderbolt  
-- Destiny Bond  
-- Substitute
-
-Timburr @ Eviolite  
-Ability: Guts  
-Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
-Adamant Nature  
-- Drain Punch  
-- Thunder Punch 
-- Mach Punch  
-- Bulk Up
-
-Wingull @ Life Orb  
-Ability: Keen Eye 
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-IVs: 0 HP  
 - Scald  
-- Hurricane  
-- U-turn  
-- Knock Off 
+- Toxic Spikes  
+- Sludge Bomb  
 
-Diglett @ Focus Sash  
-Ability: Arena Trap  
+Abra @ Focus Sash  
+Ability: Magic Guard  
 Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Psychic  
+- Dazzling Gleam  
+- Energy Ball  
+- Shadow Ball  
+
+Onix @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 76 HP / 236 Atk / 196 Spe  
 Jolly Nature  
 - Earthquake  
-- Rock Slide  
-- Sucker Punch  
-- Memento  
+- Stealth Rock  
+- Rock Blast  
+- Dragon Dance  

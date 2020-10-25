@@ -1,60 +1,59 @@
-Onix @ Eviolite  
-Ability: Weak Armor  
+Pawniard @ Eviolite  
+Ability: Defiant  
 Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
 Jolly Nature  
+- Iron Head  
+- Knock Off  
+- Sucker Punch  
 - Stealth Rock  
-- Rock Blast  
-- Earthquake  
-- Dragon Dance
 
-Chinchou @ Berry Juice 
-Ability: Volt Absorb  
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
 Level: 5  
-EVs: 76 HP / 212 Def / 152 SpA / 60 Spe  
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
 Bold Nature  
-- Scald  
-- Volt Switch  
-- Ice Beam  
-- Thunder Wave
-
-Scraggy @ Eviolite  
-Ability: Moxie 
-Level: 5  
-EVs: 36 HP / 156 Atk / 36 Def / 36 SpD / 212 Spe  
-Adamant Nature  
-- Dragon Dance  
-- High Jump Kick 
-- Crunch  
-- Poison Jab
-
-Cutiefly @ Eviolite 
-Ability: Shield Dust 
-Level: 5  
-EVs: 236 SpA / 244 Spe  
-Timid Nature  
-IVs: 0 Atk  
 - Moonblast  
-- Bug Buzz  
-- Psychic  
-- Quiver Dance  
+- Wish  
+- Protect  
+- Calm Mind  
 
 Timburr @ Eviolite  
-Ability: Guts  
+Ability: Iron Fist  
 Level: 5  
 EVs: 196 Atk / 156 Def / 156 SpD  
 Adamant Nature  
 - Drain Punch  
-- Thunder Punch 
 - Mach Punch  
-- Defog 
+- Knock Off  
+- Defog  
 
-Farfetch'd-Galar @ Choice Scarf  
-Ability: Scrappy  
+Ponyta @ Eviolite  
+Ability: Flame Body  
 Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
+EVs: 236 Atk / 76 SpD / 196 Spe  
 Jolly Nature  
-- Close Combat  
-- Brave Bird  
-- Knock Off
-- Poison Jab 
+- Flare Blitz  
+- High Horsepower  
+- Morning Sun  
+- Wild Charge  
+
+Porygon @ Eviolite  
+Ability: Download  
+Level: 5  
+EVs: 36 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Tri Attack  
+- Recover  
+- Ice Beam  
+- Psychic  
+
+Chinchou @ Eviolite  
+Ability: Volt Absorb  
+Level: 5  
+EVs: 52 Def / 228 SpA / 220 Spe  
+Timid Nature  
+- Volt Switch  
+- Scald  
+- Ice Beam  
+- Thunderbolt  

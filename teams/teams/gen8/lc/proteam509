@@ -1,60 +1,59 @@
-Vullaby @ Eviolite  
-Ability: Weak Armor  
+Carvanha @ Life Orb  
+Ability: Speed Boost  
 Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
 Adamant Nature  
-- Brave Bird  
-- Knock Off  
-- U-turn  
-- Defog
-
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
-Adamant Nature  
-- Facade 
-- Fire Punch  
-- Earthquake 
-- Recycle
-
-Cufant @ Eviolite 
-Ability: Sheer Force  
-Level: 5  
-EVs: 20 HP / 196 Atk / 204 Def / 44 SpD / 36 Spe  
-Adamant Nature  
-- Iron Head  
-- Play Rough  
-- Power Whip  
-- Stealth Rock 
-
-Scraggy @ Berry Juice  
-Ability: Moxie  
-Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
-Adamant Nature
-- Dragon Dance  
-- High Jump Kick  
 - Crunch  
-- Poison Jab
+- Psychic Fangs  
+- Protect  
+- Liquidation  
 
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
+Shellder @ Eviolite  
+Ability: Skill Link  
 Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
-Jolly Nature
-- Brave Bird  
-- Retaliate  
-- Close Combat  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Adamant Nature  
+- Icicle Spear  
+- Shell Smash  
+- Rock Blast  
+- Liquidation  
+
+Grookey @ Eviolite  
+Ability: Grassy Surge  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Grassy Glide  
+- Knock Off  
+- Drain Punch  
+- U-turn  
+
+Archen @ Berry Juice  
+Ability: Defeatist  
+Level: 5  
+EVs: 76 HP / 180 Atk / 196 Spe  
+Jolly Nature  
+- Stone Edge  
+- Dual Wingbeat  
+- Earthquake  
 - U-turn
 
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
+Onix @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
-Bold Nature  
-IVs: 0 Atk  
-- Wish  
-- Protect  
-- Moonblast  
-- Calm Mind 
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- Earthquake  
+- Stealth Rock  
+- Rock Blast  
+- Dragon Dance  
+
+Dwebble @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 236 Atk / 236 Spe  
+Adamant Nature  
+- Shell Smash  
+- Rock Blast  
+- Earthquake  
+- Knock Off  

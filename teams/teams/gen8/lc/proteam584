@@ -1,60 +1,59 @@
-Pawniard @ Eviolite  
-Ability: Defiant  
+Wingull @ Life Orb  
+Ability: Hydration  
 Level: 5  
-EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
-Jolly Nature  
-- Iron Head  
-- Sucker Punch  
-- Swords Dance 
-- Night Slash 
-
-Corphish @ Eviolite  
-Ability: Adaptability  
-Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
-Jolly Nature  
-- Crabhammer  
-- Knock Off  
-- Aqua Jet  
-- Dragon Dance
-
-Scraggy @ Eviolite  
-Ability: Intimidate 
-Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
-Adamant Nature  
-- Dragon Dance  
-- Drain Punch  
-- Crunch  
-- Poison Jab 
-
-Trapinch @ Eviolite  
-Ability: Arena Trap  
-Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Brave Nature  
-- Earthquake  
-- First Impression  
-- Superpower  
-- Giga Drain
-
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
-Adamant Nature  
-- Facade 
-- Fire Punch  
-- Earthquake 
-- Recycle
-
-Ponyta-Galar @ Eviolite 
-Ability: Pastel Veil  
-Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
+EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
-IVs: 0 Atk  
+- Scald  
+- Hurricane  
+- U-turn  
+- Air Slash  
+
+Woobat @ Berry Juice  
+Ability: Simple  
+Level: 5  
+EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
+Timid Nature  
+- Nasty Plot  
 - Psychic  
-- Mystical Fire  
+- Heat Wave  
+- Air Slash  
+
+Bunnelby @ Eviolite  
+Ability: Huge Power  
+Level: 5  
+EVs: 228 Atk / 132 Def / 148 SpD  
+Adamant Nature  
+- Earthquake  
+- Quick Attack  
+- U-turn  
+- Facade
+
+Larvesta @ Eviolite  
+Ability: Flame Body  
+Level: 5  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- U-turn  
+- Flare Blitz  
 - Morning Sun  
-- Healing Wish
+- Will-O-Wisp  
+
+Carvanha @ Life Orb  
+Ability: Speed Boost  
+Level: 5  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+Adamant Nature  
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation  
+
+Scorbunny @ Berry Juice  
+Ability: Libero  
+Level: 5  
+EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
+Jolly Nature  
+- High Jump Kick  
+- U-turn  
+- Blaze Kick  
+- Gunk Shot  

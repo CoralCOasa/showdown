@@ -1,60 +1,59 @@
-Mudbray @ Choice Scarf  
-Ability: Stamina  
+Carvanha @ Life Orb  
+Ability: Speed Boost  
 Level: 5  
-EVs: 36 HP / 196 Atk / 36 Def / 236 Spe  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
 Adamant Nature  
-- Earthquake  
-- Heavy Slam  
-- Rock Slide  
-- Close Combat
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation  
 
-Croagunk @ Eviolite 
-Ability: Dry Skin  
+Staryu @ Eviolite  
+Ability: Natural Cure  
 Level: 5  
-EVs: 52 HP / 188 Atk / 116 Def / 116 SpD / 36 Spe  
-Adamant Nature  
-- Gunk Shot  
-- Drain Punch  
-- Sucker Punch  
-- Bulk Up
-
-Corphish @ Eviolite  
-Ability: Adaptability  
-Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
-Jolly Nature  
-- Crabhammer  
-- Knock Off  
-- Aqua Jet  
-- Swords Dance 
-
-Cutiefly @ Eviolite 
-Ability: Sweet Veil  
-Level: 5  
-EVs: 236 SpA / 244 Spe  
+EVs: 116 HP / 156 Def / 236 Spe  
 Timid Nature  
-IVs: 0 Atk  
-- Moonblast  
-- Bug Buzz  
+- Rapid Spin  
+- Thunderbolt  
+- Recover  
+- Scald  
+
+Ponyta-Galar @ Eviolite  
+Ability: Pastel Veil  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Mystical Fire  
 - Psychic  
-- Quiver Dance  
+- Dazzling Gleam  
+- Calm Mind  
 
-Cufant @ Eviolite  
-Ability: Sheer Force  
+Trapinch @ Eviolite  
+Ability: Arena Trap  
 Level: 5  
-EVs: 100 HP / 36 Atk / 204 Def / 124 SpD / 36 Spe  
-Careful Nature  
-- Iron Head  
-- Play Rough  
-- Superpower  
-- Stealth Rock
-
-Dwebble @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 236 Atk / 236 Spe  
-Adamant Nature  
-- Shell Smash  
-- Rock Blast  
+EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
+Relaxed Nature  
 - Earthquake  
-- Knock Off
+- First Impression  
+- Superpower  
+- Giga Drain  
+
+Larvesta @ Eviolite  
+Ability: Flame Body  
+Level: 5  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- U-turn  
+- Flare Blitz  
+- Morning Sun  
+- Will-O-Wisp  
+
+Diglett @ Life Orb  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Sucker Punch  
+- Rock Slide  
+- Stealth Rock  

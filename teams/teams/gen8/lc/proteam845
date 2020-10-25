@@ -1,62 +1,59 @@
-Croagunk @ Eviolite 
-Ability: Dry Skin  
+Foongus @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 52 HP / 116 Def / 188 SpA / 116 SpD / 36 Spe  
-Modest Nature  
-IVs: 0 Atk  
-- Sludge Wave  
-- Focus Blast  
-- Vacuum Wave  
-- Nasty Plot
-
-Frillish @ Eviolite  
-Ability: Water Absorb  
-Level: 5  
-EVs: 236 HP / 116 Def / 76 SpA / 76 SpD  
+EVs: 124 HP / 156 Def / 156 SpD  
 Bold Nature  
-- Scald  
-- Shadow Ball 
-- Recover 
-- Will-O-Wisp
+- Giga Drain  
+- Spore  
+- Sludge Bomb  
+- Synthesis  
 
-Ponyta-Galar @ Life Orb  
-Ability: Pastel Veil  
+Mareanie @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+Bold Nature  
+- Recover  
+- Scald  
+- Toxic Spikes  
+- Sludge Bomb  
+
+Farfetch’d-Galar @ Eviolite  
+Ability: Scrappy  
+Level: 5  
+EVs: 20 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Swords Dance  
+- Close Combat  
+- Brave Bird  
+- Knock Off  
+
+Grookey @ Eviolite  
+Ability: Grassy Surge  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Grassy Glide  
+- Knock Off  
+- Drain Punch  
+- U-turn  
+
+Ponyta @ Eviolite  
+Ability: Flame Body  
 Level: 5  
 EVs: 236 Atk / 76 SpD / 196 Spe  
 Jolly Nature  
-- Zen Headbutt  
-- Play Rough  
+- Flare Blitz  
+- High Horsepower  
+- Morning Sun  
 - Wild Charge  
-- Morning Sun 
 
-Trapinch @ Eviolite  
-Ability: Arena Trap  
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
 Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Brave Nature  
-- Earthquake  
-- First Impression  
-- Superpower  
+EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
+Impish Nature  
+- Knock Off  
+- Thunder Wave  
+- Spikes  
 - Giga Drain
-
-Wingull @ Life Orb  
-Ability: Hydration  
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-IVs: 0 HP  
-- Scald  
-- Hurricane  
-- U-turn  
-- Roost
-
-Oddish @ Eviolite  
-Ability: Chlorophyll  
-Level: 5  
-EVs: 156 HP / 236 Def / 76 SpD / 36 Spe  
-Bold Nature  
-IVs: 0 Atk  
-- Giga Drain  
-- Sludge Bomb  
-- Strength Sap  
-- Sleep Powder 

@@ -1,23 +1,42 @@
-Farfetch'd-Galar @ Choice Scarf  
-Ability: Scrappy  
+Carvanha @ Life Orb  
+Ability: Speed Boost  
 Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Close Combat  
-- Brave Bird  
-- Knock Off
-- Poison Jab
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+Adamant Nature  
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation  
 
-Ponyta-Galar @ Eviolite 
-Ability: Pastel Veil  
+Archen @ Berry Juice  
+Ability: Defeatist  
 Level: 5  
-EVs: 76 Def / 236 SpA / 196 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Psychic  
-- Mystical Fire  
-- Morning Sun  
-- Calm Mind 
+EVs: 76 HP / 180 Atk / 196 Spe  
+Jolly Nature  
+- Stone Edge  
+- Dual Wingbeat  
+- Earthquake  
+- U-turn
+
+Shellder @ Eviolite  
+Ability: Skill Link  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Adamant Nature  
+- Icicle Spear  
+- Shell Smash  
+- Rock Blast  
+- Liquidation  
+
+Scraggy @ Eviolite  
+Ability: Moxie  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 212 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Knock Off  
+- Drain Punch  
+- High Jump Kick  
 
 Pawniard @ Eviolite  
 Ability: Defiant  
@@ -25,37 +44,16 @@ Level: 5
 EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
 Jolly Nature  
 - Iron Head  
+- Knock Off  
 - Sucker Punch  
-- Night Slash  
-- Brick Break
-
-Drifloon @ Berry Juice  
-Ability: Unburden  
-Level: 5  
-EVs: 116 HP / 196 SpA / 196 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Shadow Ball  
-- Thunderbolt  
-- Destiny Bond  
-- Substitute
-
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
-Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
-Jolly Nature
-- Brave Bird  
-- Retaliate 
-- Close Combat  
-- U-turn
-
-Dwebble @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 156 Atk / 76 Def / 236 Spe  
-Jolly Nature  
 - Stealth Rock  
-- Spikes  
-- Rock Blast  
-- Knock Off
+
+Scorbunny @ Berry Juice  
+Ability: Libero  
+Level: 5  
+EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
+Jolly Nature  
+- High Jump Kick  
+- U-turn  
+- Blaze Kick  
+- Gunk Shot  

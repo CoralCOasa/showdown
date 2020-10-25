@@ -1,61 +1,59 @@
-Cutiefly @ Focus Sash 
-Ability: Shield Dust 
+Dewpider @ Berry Juice  
+Ability: Water Bubble  
 Level: 5  
-EVs: 236 SpA / 244 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Moonblast  
-- Psychic
+EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
+Modest Nature  
 - Sticky Web  
-- Quiver Dance 
-
-Drilbur @ Eviolite 
-Ability: Mold Breaker  
-Level: 5  
-EVs: 36 HP / 236 Atk / 212 Spe  
-Jolly Nature  
-- Earthquake  
-- Rock Slide  
-- Rapid Spin  
-- Swords Dance 
-
-Vullaby @ Eviolite  
-Ability: Weak Armor  
-Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Adamant Nature  
-- Brave Bird  
-- Knock Off  
-- U-turn  
-- Defog
-
-Croagunk @ Berry Juice  
-Ability: Dry Skin  
-Level: 5  
-EVs: 52 HP / 188 Atk / 116 Def / 116 SpD / 36 Spe  
-Adamant Nature  
-- Gunk Shot  
-- Drain Punch  
-- Sucker Punch  
-- Bulk Up
-
-Scraggy @ Eviolite  
-Ability: Moxie 
-Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
-Adamant Nature  
-- Dragon Dance  
-- High Jump Kick 
-- Crunch  
-- Poison Jab 
+- Surf  
+- Icy Wind  
+- Giga Drain
 
 Mareanie @ Eviolite  
 Ability: Regenerator  
 Level: 5  
-EVs: 196 HP / 100 Def / 92 SpA / 100 SpD  
-Calm Nature  
-IVs: 0 Atk  
-- Scald  
-- Sludge Bomb  
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+Bold Nature  
 - Recover  
-- Toxic Spikes 
+- Scald  
+- Toxic Spikes  
+- Sludge Bomb  
+
+Vulpix @ Choice Scarf  
+Ability: Drought  
+Level: 5  
+EVs: 52 HP / 196 SpA / 236 Spe  
+Timid Nature  
+- Energy Ball  
+- Weather Ball  
+- Overheat  
+- Fire Blast  
+
+Tirtouga @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 212 Atk / 92 Def / 180 Spe  
+Jolly Nature  
+- Shell Smash  
+- Waterfall  
+- Stone Edge  
+- Zen Headbutt
+
+Ponyta-Galar @ Eviolite  
+Ability: Pastel Veil  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Mystical Fire  
+- Psychic  
+- Dazzling Gleam  
+- Calm Mind  
+
+Ponyta @ Eviolite  
+Ability: Flame Body  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Jolly Nature  
+- Flare Blitz  
+- High Horsepower  
+- Morning Sun  
+- Wild Charge  

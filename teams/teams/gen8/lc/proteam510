@@ -1,61 +1,60 @@
-Vullaby @ Eviolite  
-Ability: Weak Armor  
+Carvanha @ Life Orb  
+Ability: Speed Boost  
 Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
 Adamant Nature  
-- Brave Bird  
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation  
+
+Dwebble @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 236 Atk / 236 Spe  
+Adamant Nature  
+- Shell Smash  
+- Rock Blast  
+- Earthquake  
 - Knock Off  
-- U-turn  
-- Defog
-
-Ferroseed @ Eviolite  
-Ability: Iron Barbs  
-Level: 5  
-EVs: 84 HP / 36 Atk / 108 Def / 228 SpD / 36 Spe  
-Impish Nature  
-- Bullet Seed  
-- Knock Off  
-- Thunder Wave 
-- Spikes
-
-Chinchou @ Berry Juice 
-Ability: Volt Absorb  
-Level: 5  
-EVs: 76 HP / 212 Def / 152 SpA / 60 Spe  
-Bold Nature  
-- Scald  
-- Volt Switch  
-- Ice Beam  
-- Thunder Wave
-
-Mareanie @ Eviolite  
-Ability: Regenerator  
-Level: 5  
-EVs: 196 HP / 100 Def / 92 SpA / 100 SpD  
-Calm Nature  
-IVs: 0 Atk  
-- Scald  
-- Sludge Bomb  
-- Recover  
-- Toxic Spikes 
 
 Timburr @ Eviolite  
-Ability: Iron Fist 
+Ability: Iron Fist  
 Level: 5  
 EVs: 196 Atk / 156 Def / 156 SpD  
 Adamant Nature  
 - Drain Punch  
-- Poison Jab 
 - Mach Punch  
-- Defog 
+- Knock Off  
+- Defog  
 
-Drifloon @ Berry Juice  
-Ability: Unburden  
+Woobat @ Berry Juice  
+Ability: Simple  
 Level: 5  
-EVs: 116 HP / 196 SpA / 196 Spe  
+EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
 Timid Nature  
+- Nasty Plot  
+- Psychic  
+- Heat Wave  
+- Air Slash  
+
+Amaura @ Choice Scarf  
+Ability: Refrigerate  
+Level: 5  
+EVs: 60 HP / 220 SpA / 228 Spe  
+Modest Nature  
 IVs: 0 Atk  
-- Shadow Ball  
+- Hyper Voice  
+- Earth Power  
 - Thunderbolt  
-- Destiny Bond  
-- Substitute
+- Ancient Power
+
+Zigzagoon @ Berry Juice  
+Ability: Quick Feet  
+Level: 5  
+EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
+Adamant Nature  
+- Extreme Speed  
+- Belly Drum  
+- Thief  
+- Seed Bomb  

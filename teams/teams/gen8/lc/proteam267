@@ -1,60 +1,60 @@
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
-Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
-Bold Nature  
-IVs: 0 Atk  
-- Wish  
-- Protect  
-- Moonblast  
-- Psychic 
-
-Croagunk @ Berry Juice  
-Ability: Dry Skin  
-Level: 5  
-EVs: 52 HP / 188 Atk / 116 Def / 116 SpD / 36 Spe  
-Adamant Nature  
-- Gunk Shot  
-- Drain Punch  
-- Sucker Punch  
-- Bulk Up
-
-Wingull @ Eviolite  
-Ability: Keen Eye 
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-- Scald  
-- Hurricane  
-- Knock Off  
-- Roost
-
-Cufant @ Life Orb  
-Ability: Sheer Force  
-Level: 5  
-EVs: 20 HP / 196 Atk / 204 Def / 44 SpD / 36 Spe  
-Adamant Nature  
-- Iron Head  
-- Play Rough  
-- Power Whip  
-- Stealth Rock 
-
 Corphish @ Eviolite  
 Ability: Adaptability  
 Level: 5  
 EVs: 196 Atk / 76 Def / 236 Spe  
-Jolly Nature  
+Adamant Nature  
+- Aqua Jet  
 - Crabhammer  
 - Knock Off  
-- Aqua Jet  
-- Dragon Dance
+- Dragon Dance  
 
-Vullaby @ Eviolite 
-Ability: Weak Armor  
+Diglett @ Life Orb  
+Ability: Arena Trap  
 Level: 5  
-EVs: 116 HP / 240 SpA / 116 Spe  
+EVs: 36 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Sucker Punch  
+- Rock Slide  
+- Stealth Rock  
+
+Grookey @ Eviolite  
+Ability: Grassy Surge  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Grassy Glide  
+- Knock Off  
+- Drain Punch  
+- U-turn  
+
+Dewpider @ Berry Juice  
+Ability: Water Bubble  
+Level: 5  
+EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
 Modest Nature  
-- Nasty Plot  
-- Air Slash  
-- Heat Wave  
-- Dark Pulse
+- Sticky Web  
+- Surf  
+- Icy Wind  
+- Giga Drain
+
+Amaura @ Choice Scarf  
+Ability: Refrigerate  
+Level: 5  
+EVs: 60 HP / 220 SpA / 228 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hyper Voice  
+- Earth Power  
+- Thunderbolt  
+- Ancient Power
+
+Bunnelby @ Eviolite  
+Ability: Huge Power  
+Level: 5  
+EVs: 228 Atk / 132 Def / 148 SpD  
+Adamant Nature  
+- Earthquake  
+- Quick Attack  
+- U-turn  
+- Facade

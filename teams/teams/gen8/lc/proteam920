@@ -1,61 +1,60 @@
-Trapinch @ Eviolite  
-Ability: Arena Trap  
-Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Brave Nature  
-- Earthquake  
-- First Impression  
-- Superpower  
-- Giga Drain
-
-Mudbray @ Choice Scarf  
+Mudbray @ Eviolite  
 Ability: Stamina  
 Level: 5  
-EVs: 36 HP / 196 Atk / 36 Def / 236 Spe  
-Jolly Nature
+EVs: 116 HP / 36 Atk / 196 Def / 156 Spe  
+Adamant Nature  
 - Earthquake  
-- Heavy Slam  
+- Stealth Rock  
 - Rock Slide  
-- Close Combat
+- Heavy Slam  
 
-Drifloon @ Berry Juice  
-Ability: Unburden  
+Scraggy @ Eviolite  
+Ability: Moxie  
 Level: 5  
-EVs: 116 HP / 196 SpA / 196 Spe  
+EVs: 236 Atk / 36 SpD / 212 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Knock Off  
+- Drain Punch  
+- High Jump Kick  
+
+Timburr @ Eviolite  
+Ability: Iron Fist  
+Level: 5  
+EVs: 196 Atk / 156 Def / 156 SpD  
+Adamant Nature  
+- Drain Punch  
+- Mach Punch  
+- Knock Off  
+- Defog  
+
+Natu @ Eviolite  
+Ability: Magic Bounce  
+Level: 5  
+EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
 Timid Nature  
 IVs: 0 Atk  
-- Shadow Ball  
-- Thunderbolt  
-- Destiny Bond  
-- Substitute
+- Psychic  
+- Heat Wave  
+- U-turn  
+- Roost  
 
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
+Grookey @ Eviolite  
+Ability: Grassy Surge  
 Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Grassy Glide  
+- Knock Off  
+- Drain Punch  
+- U-turn  
+
+Corphish @ Eviolite  
+Ability: Adaptability  
+Level: 5  
+EVs: 196 Atk / 76 Def / 236 Spe  
 Adamant Nature  
-- Brave Bird  
-- Retaliate  
-- Close Combat  
-- U-turn
-
-Shellder @ Eviolite  
-Ability: Skill Link  
-Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Shell Smash  
-- Icicle Spear  
-- Rock Blast  
-- Liquidation
-
-Croagunk @ Eviolite 
-Ability: Dry Skin  
-Level: 5  
-EVs: 52 HP / 116 Def / 188 SpA / 116 SpD / 36 Spe  
-Modest Nature  
-IVs: 0 Atk  
-- Sludge Wave  
-- Focus Blast  
-- Vacuum Wave  
-- Nasty Plot
+- Aqua Jet  
+- Crabhammer  
+- Knock Off  
+- Dragon Dance  

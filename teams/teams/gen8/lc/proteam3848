@@ -1,60 +1,60 @@
-Pawniard @ Eviolite  
-Ability: Defiant  
+Porygon @ Eviolite  
+Ability: Download  
 Level: 5  
-EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
-Jolly Nature  
-- Iron Head  
-- Sucker Punch  
-- Swords Dance 
-- Brick Break
+EVs: 36 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Tri Attack  
+- Recover  
+- Ice Beam  
+- Psychic  
 
 Chinchou @ Eviolite  
 Ability: Volt Absorb  
 Level: 5  
-EVs: 76 HP / 212 Def / 152 SpA / 60 Spe  
-Bold Nature  
-- Scald  
+EVs: 52 Def / 228 SpA / 220 Spe  
+Timid Nature  
 - Volt Switch  
+- Scald  
 - Ice Beam  
-- Thunder Wave
+- Thunderbolt  
 
-Farfetch'd-Galar @ Eviolite  
+Dewpider @ Berry Juice  
+Ability: Water Bubble  
+Level: 5  
+EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
+Modest Nature  
+- Sticky Web  
+- Surf  
+- Icy Wind  
+- Giga Drain
+
+Farfetch’d-Galar @ Eviolite  
 Ability: Scrappy  
 Level: 5  
 EVs: 20 HP / 236 Atk / 236 Spe  
 Jolly Nature  
+- Swords Dance  
 - Close Combat  
 - Brave Bird  
 - Knock Off  
-- Swords Dance 
 
-Ponyta-Galar @ Eviolite 
-Ability: Pastel Veil  
+Amaura @ Choice Scarf  
+Ability: Refrigerate  
 Level: 5  
-EVs: 76 Def / 236 SpA / 196 Spe  
-Timid Nature  
+EVs: 60 HP / 220 SpA / 228 Spe  
+Modest Nature  
 IVs: 0 Atk  
-- Psychic  
-- Mystical Fire  
-- Dazzling Gleam 
-- Healing Wish
+- Hyper Voice  
+- Earth Power  
+- Thunderbolt  
+- Ancient Power
 
-Mudbray @ Choice Scarf  
-Ability: Stamina  
+Larvesta @ Eviolite  
+Ability: Flame Body  
 Level: 5  
-EVs: 36 HP / 196 Atk / 36 Def / 236 Spe  
-Jolly Nature
-- Earthquake  
-- Heavy Slam  
-- Rock Slide  
-- Close Combat
-
-Vullaby @ Choice Scarf  
-Ability: Overcoat 
-Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Brave Bird  
-- Knock Off  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
 - U-turn  
-- Defog
+- Flare Blitz  
+- Morning Sun  
+- Will-O-Wisp  

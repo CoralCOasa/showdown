@@ -1,62 +1,59 @@
-Vulpix @ Choice Scarf  
-Ability: Drought  
+Farfetch’d-Galar @ Eviolite  
+Ability: Scrappy  
 Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
-Timid Nature
-IVs: 0 Atk  
-- Fire Blast  
-- Energy Ball  
-- Extrasensory  
-- Memento
-
-Onix @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
+EVs: 20 HP / 236 Atk / 236 Spe  
 Jolly Nature  
-- Stealth Rock  
-- Rock Blast  
-- Earthquake  
-- Dragon Dance 
-
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
-Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
-Adamant Nature  
-- Brave Bird  
-- Rock Slide 
+- Swords Dance  
 - Close Combat  
-- U-turn
+- Brave Bird  
+- Knock Off  
 
-Croagunk @ Eviolite 
+Croagunk @ Eviolite  
 Ability: Dry Skin  
 Level: 5  
-EVs: 52 HP / 116 Def / 188 SpA / 116 SpD / 36 Spe  
-Modest Nature  
-IVs: 0 Atk  
+EVs: 116 Def / 188 SpA / 196 Spe  
+Timid Nature  
+- Vacuum Wave  
+- Nasty Plot  
 - Sludge Wave  
 - Focus Blast  
-- Vacuum Wave  
-- Nasty Plot
 
-Chinchou @ Choice Scarf  
-Ability: Volt Absorb  
+Koffing @ Eviolite  
+Ability: Levitate  
 Level: 5  
-EVs: 52 Def / 228 SpA / 220 Spe  
+EVs: 36 HP / 236 Def / 236 SpD  
+Bold Nature  
+- Will-O-Wisp  
+- Toxic Spikes  
+- Pain Split  
+- Sludge Bomb  
+
+Wingull @ Life Orb  
+Ability: Hydration  
+Level: 5  
+EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
-IVs: 0 Atk  
-- Volt Switch  
 - Scald  
-- Ice Beam  
-- Hydro Pump 
+- Hurricane  
+- U-turn  
+- Air Slash  
 
-Shellder @ Eviolite  
-Ability: Skill Link  
+Abra @ Focus Sash  
+Ability: Magic Guard  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Shell Smash  
-- Icicle Spear  
-- Rock Blast  
-- Liquidation
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Psychic  
+- Dazzling Gleam  
+- Energy Ball  
+- Shadow Ball  
+
+Scorbunny @ Berry Juice  
+Ability: Libero  
+Level: 5  
+EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
+Jolly Nature  
+- High Jump Kick  
+- U-turn  
+- Blaze Kick  
+- Gunk Shot  

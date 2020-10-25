@@ -1,61 +1,59 @@
-Pawniard @ Eviolite  
-Ability: Defiant  
+Zigzagoon @ Berry Juice  
+Ability: Quick Feet  
 Level: 5  
-EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
-Jolly Nature  
-- Iron Head  
-- Sucker Punch  
-- Swords Dance 
-- Night Slash 
-
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
-Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
-Bold Nature  
-IVs: 0 Atk  
-- Wish  
-- Protect  
-- Moonblast  
-- Psychic
-
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
+EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
 Adamant Nature  
-- Body Slam  
-- Fire Punch  
-- Earthquake 
-- Recycle
+- Extreme Speed  
+- Belly Drum  
+- Thief  
+- Seed Bomb  
 
-Corphish @ Eviolite  
-Ability: Adaptability  
+Bunnelby @ Eviolite  
+Ability: Huge Power  
 Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
-Adamant Nature
-- Crabhammer  
-- Knock Off  
-- Aqua Jet  
-- Swords Dance 
-
-Dwebble @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 236 Atk / 236 Spe  
+EVs: 228 Atk / 132 Def / 148 SpD  
 Adamant Nature  
-- Shell Smash  
-- Rock Blast  
 - Earthquake  
-- Knock Off
+- Quick Attack  
+- U-turn  
+- Facade
 
-Vulpix @ Life Orb  
-Ability: Drought  
+Koffing @ Eviolite  
+Ability: Levitate  
 Level: 5  
-EVs: 36 Def / 196 SpA / 236 Spe  
+EVs: 36 HP / 236 Def / 236 SpD  
+Bold Nature  
+- Will-O-Wisp  
+- Toxic Spikes  
+- Pain Split  
+- Sludge Bomb  
+
+Meowth @ Life Orb  
+Ability: Technician  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 196 Spe  
+Jolly Nature  
+- Fake Out  
+- Feint  
+- Aerial Ace  
+- Water Pulse  
+
+Drilbur @ Eviolite  
+Ability: Mold Breaker  
+Level: 5  
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
+Jolly Nature  
+- Earthquake  
+- Rapid Spin  
+- Rock Slide  
+- Stealth Rock  
+
+Abra @ Focus Sash  
+Ability: Magic Guard  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
 Timid Nature  
-IVs: 4 HP  
-- Fire Blast  
+- Psychic  
+- Dazzling Gleam  
 - Energy Ball  
-- Extrasensory  
-- Overheat 
+- Shadow Ball  

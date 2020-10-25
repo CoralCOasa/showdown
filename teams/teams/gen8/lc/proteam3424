@@ -1,60 +1,59 @@
-Frillish @ Choice Scarf  
-Ability: Water Absorb  
+Wingull @ Life Orb  
+Ability: Hydration  
 Level: 5  
-EVs: 76 HP / 236 SpA / 196 Spe  
+EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
-- Water Spout  
-- Shadow Ball  
-- Ice Beam 
-- Trick
+- Scald  
+- Hurricane  
+- U-turn  
+- Air Slash  
 
-Farfetch'd-Galar @ Eviolite  
-Ability: Scrappy  
+Dewpider @ Berry Juice  
+Ability: Water Bubble  
 Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Close Combat  
-- Brave Bird  
-- Knock Off  
-- Poison Jab 
+EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
+Modest Nature  
+- Sticky Web  
+- Surf  
+- Icy Wind  
+- Giga Drain
 
-Chinchou @ Berry Juice 
+Ponyta-Galar @ Eviolite  
+Ability: Pastel Veil  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Mystical Fire  
+- Psychic  
+- Dazzling Gleam  
+- Calm Mind  
+
+Meowth @ Life Orb  
+Ability: Technician  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 196 Spe  
+Jolly Nature  
+- Fake Out  
+- Feint  
+- Aerial Ace  
+- Water Pulse  
+
+Chinchou @ Eviolite  
 Ability: Volt Absorb  
 Level: 5  
-EVs: 76 HP / 212 Def / 152 SpA / 60 Spe  
-Bold Nature  
-- Scald  
+EVs: 52 Def / 228 SpA / 220 Spe  
+Timid Nature  
 - Volt Switch  
+- Scald  
 - Ice Beam  
-- Thunder Wave
+- Thunderbolt  
 
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
+Porygon @ Eviolite  
+Ability: Download  
 Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
-Bold Nature  
-IVs: 0 Atk  
-- Wish  
-- Protect  
-- Moonblast  
-- Psychic 
-
-Scraggy @ Eviolite  
-Ability: Moxie  
-Level: 5  
-EVs: 36 HP / 156 Atk / 36 Def / 36 SpD / 212 Spe  
-Jolly Nature
-- Dragon Dance  
-- Drain Punch  
-- Crunch  
-- Poison Jab
-
-Trapinch @ Eviolite  
-Ability: Arena Trap  
-Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Adamant Nature  
-- Earthquake  
-- First Impression  
-- Superpower  
-- Rock Slide
+EVs: 36 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Tri Attack  
+- Recover  
+- Ice Beam  
+- Psychic  

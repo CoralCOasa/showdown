@@ -1,62 +1,59 @@
-Ferroseed @ Eviolite  
-Ability: Iron Barbs  
+Shellder @ Eviolite  
+Ability: Skill Link  
 Level: 5  
-EVs: 84 HP / 36 Atk / 108 Def / 228 SpD / 36 Spe  
-Impish Nature  
-- Bullet Seed  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Adamant Nature  
+- Icicle Spear  
+- Shell Smash  
+- Rock Blast  
+- Liquidation  
+
+Timburr @ Eviolite  
+Ability: Iron Fist  
+Level: 5  
+EVs: 196 Atk / 156 Def / 156 SpD  
+Adamant Nature  
+- Drain Punch  
+- Mach Punch  
 - Knock Off  
-- Thunder Wave 
-- Spikes
+- Defog  
 
-Vulpix @ Choice Scarf  
-Ability: Drought  
+Diglett @ Life Orb  
+Ability: Arena Trap  
 Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
-Timid Nature
-IVs: 0 Atk  
-- Fire Blast  
-- Energy Ball  
-- Extrasensory  
-- Memento
-
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
-Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
-Bold Nature  
-IVs: 0 Atk  
-- Wish  
-- Protect  
-- Moonblast  
-- Psychic
-
-Frillish @ Eviolite  
-Ability: Water Absorb  
-Level: 5  
-EVs: 236 HP / 116 Def / 76 SpA / 76 SpD  
-Bold Nature  
-- Scald  
-- Hex  
-- Strength Sap  
-- Will-O-Wisp
-
-Cutiefly @ Focus Sash 
-Ability: Shield Dust 
-Level: 5  
-EVs: 236 SpA / 244 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Moonblast  
-- Bug Buzz 
-- Sticky Web  
-- Quiver Dance 
-
-Mudbray @ Choice Scarf  
-Ability: Stamina  
-Level: 5  
-EVs: 36 HP / 196 Atk / 36 Def / 236 Spe  
-Jolly Nature
+EVs: 36 HP / 236 Atk / 236 Spe  
+Jolly Nature  
 - Earthquake  
-- Heavy Slam  
+- Sucker Punch  
 - Rock Slide  
-- Close Combat
+- Stealth Rock  
+
+Carvanha @ Life Orb  
+Ability: Speed Boost  
+Level: 5  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+Adamant Nature  
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation  
+
+Koffing @ Eviolite  
+Ability: Levitate  
+Level: 5  
+EVs: 36 HP / 236 Def / 236 SpD  
+Bold Nature  
+- Will-O-Wisp  
+- Toxic Spikes  
+- Pain Split  
+- Sludge Bomb  
+
+Meowth @ Life Orb  
+Ability: Technician  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 196 Spe  
+Jolly Nature  
+- Fake Out  
+- Feint  
+- Aerial Ace  
+- Water Pulse  

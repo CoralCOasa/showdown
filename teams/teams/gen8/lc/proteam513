@@ -1,61 +1,59 @@
-Scraggy @ Eviolite  
-Ability: Shed Skin 
+Drilbur @ Eviolite  
+Ability: Mold Breaker  
 Level: 5  
-EVs: 36 HP / 156 Atk / 36 Def / 36 SpD / 212 Spe  
-Jolly Nature
-- Dragon Dance  
-- Drain Punch  
-- Crunch  
-- Zen Headbutt 
-
-Drifloon @ Berry Juice  
-Ability: Unburden  
-Level: 5  
-EVs: 116 HP / 196 SpA / 196 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Shadow Ball  
-- Thunderbolt  
-- Destiny Bond  
-- Substitute
-
-Onix @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
 Jolly Nature  
-- Stealth Rock  
-- Rock Blast  
 - Earthquake  
-- Endure 
+- Rapid Spin  
+- Rock Slide  
+- Stealth Rock  
 
-Chinchou @ Berry Juice 
-Ability: Volt Absorb  
+Wingull @ Life Orb  
+Ability: Hydration  
 Level: 5  
-EVs: 76 HP / 212 Def / 152 SpA / 60 Spe  
-Bold Nature  
-- Scald  
-- Volt Switch  
-- Ice Beam  
-- Thunder Wave
-
-Vulpix @ Eviolite  
-Ability: Drought  
-Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
+EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
-IVs: 0 Atk  
-- Fire Blast  
-- Energy Ball  
-- Will-O-Wisp  
-- Extrasensory
+- Scald  
+- Hurricane  
+- U-turn  
+- Air Slash  
 
-Vullaby @ Choice Scarf  
-Ability: Overcoat 
+Corphish @ Eviolite  
+Ability: Adaptability  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
+EVs: 196 Atk / 76 Def / 236 Spe  
 Adamant Nature  
-- Brave Bird  
+- Aqua Jet  
+- Crabhammer  
+- Knock Off  
+- Dragon Dance  
+
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
 - Knock Off  
 - U-turn  
-- Defog
+- High Jump Kick  
+- Fake Out  
+
+Timburr @ Eviolite  
+Ability: Iron Fist  
+Level: 5  
+EVs: 196 Atk / 156 Def / 156 SpD  
+Adamant Nature  
+- Drain Punch  
+- Mach Punch  
+- Knock Off  
+- Defog  
+
+Vullaby @ Berry Juice  
+Ability: Weak Armor  
+Level: 5  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Jolly Nature  
+- Knock Off  
+- Brave Bird  
+- U-turn  
+- Defog  

@@ -1,60 +1,59 @@
-Drifloon @ Berry Juice  
-Ability: Unburden  
+Vullaby @ Berry Juice  
+Ability: Weak Armor  
 Level: 5  
-EVs: 36 HP / 36 Atk / 84 Def / 116 SpA / 196 Spe  
-Naive Nature  
-- Shadow Ball  
-- Acrobatics  
-- Will-O-Wisp  
-- Substitute
-
-Farfetch'd-Galar @ Choice Scarf  
-Ability: Scrappy  
-Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
+EVs: 236 Atk / 76 Def / 196 Spe  
 Jolly Nature  
-- Close Combat  
+- Knock Off  
 - Brave Bird  
-- Knock Off
-- Poison Jab 
-
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
-Adamant Nature  
-- Body Slam  
-- Fire Punch  
-- Curse  
-- Recycle
-
-Shellder @ Eviolite  
-Ability: Skill Link  
-Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Shell Smash  
-- Icicle Spear  
-- Rock Blast  
-- Liquidation
-
-Mareanie @ Eviolite  
-Ability: Regenerator  
-Level: 5  
-EVs: 196 HP / 100 Def / 92 SpA / 100 SpD  
-Calm Nature  
-IVs: 0 Atk  
-- Scald  
-- Sludge Bomb  
-- Recover  
-- Toxic Spikes 
+- U-turn  
+- Defog  
 
 Timburr @ Eviolite  
-Ability: Iron Fist 
+Ability: Iron Fist  
 Level: 5  
 EVs: 196 Atk / 156 Def / 156 SpD  
 Adamant Nature  
 - Drain Punch  
-- Thunder Punch 
 - Mach Punch  
-- Defog 
+- Knock Off  
+- Defog  
+
+Porygon @ Eviolite  
+Ability: Download  
+Level: 5  
+EVs: 36 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Tri Attack  
+- Recover  
+- Ice Beam  
+- Psychic  
+
+Chinchou @ Eviolite  
+Ability: Volt Absorb  
+Level: 5  
+EVs: 52 Def / 228 SpA / 220 Spe  
+Timid Nature  
+- Volt Switch  
+- Scald  
+- Ice Beam  
+- Thunderbolt  
+
+Bunnelby @ Eviolite  
+Ability: Huge Power  
+Level: 5  
+EVs: 228 Atk / 132 Def / 148 SpD  
+Adamant Nature  
+- Earthquake  
+- Quick Attack  
+- U-turn  
+- Facade
+
+Pawniard @ Eviolite  
+Ability: Defiant  
+Level: 5  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Iron Head  
+- Knock Off  
+- Sucker Punch  
+- Stealth Rock  

@@ -1,60 +1,60 @@
-Chinchou @ Eviolite  
-Ability: Volt Absorb  
-Level: 5  
-EVs: 76 HP / 212 Def / 152 SpA / 60 Spe  
-Bold Nature  
-- Scald  
-- Volt Switch  
-- Ice Beam  
-- Thunder Wave
-
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
-Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
-Jolly Nature
-- Brave Bird  
-- Shadow Claw 
-- Close Combat  
-- U-turn
-
-Shellder @ Eviolite  
-Ability: Skill Link  
-Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Shell Smash  
-- Icicle Spear  
-- Rock Blast  
-- Liquidation
-
-Wingull @ Life Orb  
-Ability: Keen Eye 
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-IVs: 0 HP  
-- Scald  
-- Hurricane  
-- U-turn  
-- Roost
-
-Croagunk @ Berry Juice  
+Croagunk @ Eviolite  
 Ability: Dry Skin  
 Level: 5  
-EVs: 52 HP / 188 Atk / 116 Def / 116 SpD / 36 Spe  
-Adamant Nature  
-- Gunk Shot  
-- Drain Punch  
-- Sucker Punch  
-- Bulk Up
+EVs: 116 Def / 188 SpA / 196 Spe  
+Timid Nature  
+- Vacuum Wave  
+- Nasty Plot  
+- Sludge Wave  
+- Focus Blast  
 
-Vullaby @ Berry Juice 
-Ability: Weak Armor  
+Natu @ Eviolite  
+Ability: Magic Bounce  
 Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Adamant Nature  
-- Brave Bird  
-- Knock Off  
+EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Heat Wave  
 - U-turn  
-- Defog
+- Roost  
+
+Trapinch @ Eviolite  
+Ability: Arena Trap  
+Level: 5  
+EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
+Relaxed Nature  
+- Earthquake  
+- First Impression  
+- Superpower  
+- Giga Drain  
+
+Carvanha @ Life Orb  
+Ability: Speed Boost  
+Level: 5  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+Adamant Nature  
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation  
+
+Grookey @ Eviolite  
+Ability: Grassy Surge  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Grassy Glide  
+- Knock Off  
+- Drain Punch  
+- U-turn  
+
+Foongus @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 124 HP / 156 Def / 156 SpD  
+Bold Nature  
+- Giga Drain  
+- Spore  
+- Sludge Bomb  
+- Synthesis  

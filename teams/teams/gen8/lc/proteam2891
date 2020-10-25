@@ -1,62 +1,59 @@
-Mareanie @ Eviolite  
-Ability: Regenerator  
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
 Level: 5  
-EVs: 196 HP / 100 Def / 92 SpA / 100 SpD  
-Calm Nature  
-IVs: 0 Atk  
-- Scald  
-- Sludge Bomb  
-- Recover  
-- Toxic Spikes 
-
-Oddish @ Eviolite  
-Ability: Chlorophyll  
-Level: 5  
-EVs: 156 HP / 236 Def / 76 SpD / 36 Spe  
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
 Bold Nature  
-IVs: 0 Atk  
-- Giga Drain  
-- Sludge Bomb  
-- Strength Sap  
-- Sleep Powder 
+- Moonblast  
+- Wish  
+- Protect  
+- Calm Mind  
 
-Vullaby @ Berry Juice  
-Ability: Weak Armor  
+Scorbunny @ Berry Juice  
+Ability: Libero  
 Level: 5  
-EVs: 116 HP / 240 SpA / 116 Spe  
-Modest Nature  
-- Nasty Plot  
-- Air Slash  
-- Heat Wave  
-- Dark Pulse
+EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
+Jolly Nature  
+- High Jump Kick  
+- U-turn  
+- Blaze Kick  
+- Gunk Shot  
 
-Vulpix @ Choice Scarf  
-Ability: Drought  
-Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
-Timid Nature
-IVs: 0 Atk  
-- Fire Blast  
-- Energy Ball  
-- Extrasensory  
-- Memento
-
-Wingull @ Eviolite  
-Ability: Keen Eye 
+Magnemite @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
 EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
-- Scald  
-- Hurricane  
-- Knock Off  
-- Roost
+- Flash Cannon  
+- Volt Switch  
+- Thunderbolt  
+- Recycle  
 
-Ponyta-Galar @ Eviolite 
-Ability: Pastel Veil  
+Carvanha @ Life Orb  
+Ability: Speed Boost  
+Level: 5  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+Adamant Nature  
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation  
+
+Timburr @ Eviolite  
+Ability: Iron Fist  
+Level: 5  
+EVs: 196 Atk / 156 Def / 156 SpD  
+Adamant Nature  
+- Drain Punch  
+- Mach Punch  
+- Knock Off  
+- Defog  
+
+Shellder @ Eviolite  
+Ability: Skill Link  
 Level: 5  
 EVs: 236 Atk / 76 SpD / 196 Spe  
-Jolly Nature  
-- Zen Headbutt  
-- Play Rough  
-- High Horsepower 
-- Morning Sun 
+Adamant Nature  
+- Icicle Spear  
+- Shell Smash  
+- Rock Blast  
+- Liquidation  

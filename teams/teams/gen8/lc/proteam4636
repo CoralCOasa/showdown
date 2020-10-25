@@ -1,63 +1,59 @@
+Zigzagoon @ Berry Juice  
+Ability: Quick Feet  
+Level: 5  
+EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
+Adamant Nature  
+- Extreme Speed  
+- Belly Drum  
+- Thief  
+- Seed Bomb  
+
 Mareanie @ Eviolite  
 Ability: Regenerator  
 Level: 5  
-EVs: 196 HP / 100 Def / 92 SpA / 100 SpD  
-Calm Nature  
-IVs: 0 Atk  
-- Scald  
-- Sludge Bomb  
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+Bold Nature  
 - Recover  
-- Iron Defense
+- Scald  
+- Toxic Spikes  
+- Sludge Bomb  
 
-Ponyta-Galar @ Eviolite 
-Ability: Pastel Veil  
+Mienfoo @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 76 Def / 236 SpA / 196 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Psychic  
-- Mystical Fire  
-- Morning Sun  
-- Calm Mind 
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Knock Off  
+- U-turn  
+- High Jump Kick  
+- Fake Out  
 
-Vulpix @ Eviolite  
-Ability: Drought  
-Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Fire Blast  
-- Energy Ball  
-- Will-O-Wisp  
-- Extrasensory
-
-Drilbur @ Eviolite 
+Drilbur @ Eviolite  
 Ability: Mold Breaker  
 Level: 5  
-EVs: 36 HP / 236 Atk / 212 Spe  
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
 Jolly Nature  
 - Earthquake  
-- Rock Slide  
 - Rapid Spin  
-- Stealth Rock 
+- Rock Slide  
+- Stealth Rock  
 
-Croagunk @ Berry Juice  
-Ability: Dry Skin  
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
 Level: 5  
-EVs: 52 HP / 116 Def / 188 SpA / 116 SpD / 36 Spe  
-Modest Nature  
-IVs: 0 Atk  
-- Sludge Wave  
-- Focus Blast  
-- Vacuum Wave  
-- Nasty Plot
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
+Bold Nature  
+- Moonblast  
+- Wish  
+- Protect  
+- Calm Mind  
 
-Shellder @ Eviolite  
-Ability: Skill Link  
+Dwebble @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
+EVs: 236 Atk / 236 Spe  
 Adamant Nature  
 - Shell Smash  
-- Icicle Spear  
 - Rock Blast  
-- Liquidation
+- Earthquake  
+- Knock Off  

@@ -1,60 +1,59 @@
-Mudbray @ Eviolite 
-Ability: Stamina  
-Level: 5  
-EVs: 116 HP / 196 Atk / 36 Def / 156 SpD  
-Adamant Nature  
-- Earthquake  
-- Heavy Slam  
-- Rock Slide 
-- Stealth Rock
-
-Mareanie @ Eviolite  
-Ability: Regenerator  
-Level: 5  
-EVs: 196 HP / 100 Def / 92 SpA / 100 SpD  
-Calm Nature  
-IVs: 0 Atk  
-- Scald  
-- Sludge Bomb  
-- Recover  
-- Toxic Spikes 
-
-Ponyta-Galar @ Eviolite 
-Ability: Pastel Veil  
-Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Jolly Nature  
-- Zen Headbutt  
-- Play Rough  
-- High Horsepower 
-- Morning Sun 
-
-Chinchou @ Berry Juice 
+Chinchou @ Eviolite  
 Ability: Volt Absorb  
 Level: 5  
-EVs: 76 HP / 212 Def / 152 SpA / 60 Spe  
-Bold Nature  
-- Scald  
+EVs: 52 Def / 228 SpA / 220 Spe  
+Timid Nature  
 - Volt Switch  
+- Scald  
 - Ice Beam  
-- Thunder Wave
+- Thunderbolt  
 
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
+Pawniard @ Eviolite  
+Ability: Defiant  
 Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
-Jolly Nature
-- Brave Bird  
-- Retaliate  
-- Close Combat  
-- U-turn
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Iron Head  
+- Knock Off  
+- Sucker Punch  
+- Stealth Rock  
 
-Trapinch @ Eviolite  
-Ability: Arena Trap  
+Ponyta-Galar @ Eviolite  
+Ability: Pastel Veil  
 Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Mystical Fire  
+- Psychic  
+- Dazzling Gleam  
+- Calm Mind  
+
+Bunnelby @ Eviolite  
+Ability: Huge Power  
+Level: 5  
+EVs: 228 Atk / 132 Def / 148 SpD  
 Adamant Nature  
 - Earthquake  
-- First Impression  
-- Superpower  
-- Rock Slide
+- Quick Attack  
+- U-turn  
+- Facade
+
+Foongus @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 124 HP / 156 Def / 156 SpD  
+Bold Nature  
+- Giga Drain  
+- Spore  
+- Sludge Bomb  
+- Synthesis  
+
+Farfetch’d-Galar @ Eviolite  
+Ability: Scrappy  
+Level: 5  
+EVs: 20 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Swords Dance  
+- Close Combat  
+- Brave Bird  
+- Knock Off  

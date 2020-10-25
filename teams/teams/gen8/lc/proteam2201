@@ -1,13 +1,3 @@
-Cufant @ Eviolite 
-Ability: Sheer Force  
-Level: 5  
-EVs: 20 HP / 196 Atk / 204 Def / 44 SpD / 36 Spe  
-Adamant Nature  
-- Iron Head  
-- Play Rough  
-- Power Whip  
-- High Horsepower 
-
 Dwebble @ Berry Juice  
 Ability: Sturdy  
 Level: 5  
@@ -16,44 +6,54 @@ Adamant Nature
 - Shell Smash  
 - Rock Blast  
 - Earthquake  
-- Knock Off
-
-Pawniard @ Eviolite  
-Ability: Defiant  
-Level: 5  
-EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
-Jolly Nature  
-- Iron Head  
-- Sucker Punch  
-- Night Slash  
-- Brick Break
-
-Mudbray @ Eviolite  
-Ability: Stamina  
-Level: 5  
-EVs: 116 HP / 116 Atk / 36 Def / 236 SpD  
-Careful Nature  
-- Earthquake  
-- Rest  
-- Sleep Talk  
-- Heavy Slam
-
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
-Adamant Nature  
-- Facade 
-- Fire Punch  
-- Curse  
-- Recycle
-
-Vullaby @ Berry Juice 
-Ability: Weak Armor  
-Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Adamant Nature  
-- Brave Bird  
 - Knock Off  
+
+Dewpider @ Berry Juice  
+Ability: Water Bubble  
+Level: 5  
+EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
+Modest Nature  
+- Sticky Web  
+- Surf  
+- Icy Wind  
+- Giga Drain
+
+Larvesta @ Eviolite  
+Ability: Flame Body  
+Level: 5  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
 - U-turn  
-- Defog
+- Flare Blitz  
+- Morning Sun  
+- Will-O-Wisp  
+
+Foongus @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 124 HP / 156 Def / 156 SpD  
+Bold Nature  
+- Giga Drain  
+- Spore  
+- Sludge Bomb  
+- Synthesis  
+
+Bunnelby @ Eviolite  
+Ability: Huge Power  
+Level: 5  
+EVs: 228 Atk / 132 Def / 148 SpD  
+Adamant Nature  
+- Earthquake  
+- Quick Attack  
+- U-turn  
+- Facade
+
+Abra @ Focus Sash  
+Ability: Magic Guard  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Psychic  
+- Dazzling Gleam  
+- Energy Ball  
+- Shadow Ball  

@@ -1,62 +1,60 @@
+Pawniard @ Eviolite  
+Ability: Defiant  
+Level: 5  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Iron Head  
+- Knock Off  
+- Sucker Punch  
+- Stealth Rock  
+
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Knock Off  
+- U-turn  
+- High Jump Kick  
+- Fake Out  
+
+Foongus @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 124 HP / 156 Def / 156 SpD  
+Bold Nature  
+- Giga Drain  
+- Spore  
+- Sludge Bomb  
+- Synthesis  
+
+Koffing @ Eviolite  
+Ability: Levitate  
+Level: 5  
+EVs: 36 HP / 236 Def / 236 SpD  
+Bold Nature  
+- Will-O-Wisp  
+- Toxic Spikes  
+- Pain Split  
+- Sludge Bomb  
+
+Natu @ Eviolite  
+Ability: Magic Bounce  
+Level: 5  
+EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Heat Wave  
+- U-turn  
+- Roost  
+
 Wingull @ Life Orb  
-Ability: Keen Eye 
+Ability: Hydration  
 Level: 5  
 EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
-IVs: 0 HP  
 - Scald  
 - Hurricane  
 - U-turn  
-- Knock Off 
-
-Mareanie @ Eviolite  
-Ability: Regenerator  
-Level: 5  
-EVs: 196 HP / 100 Def / 92 SpA / 100 SpD  
-Calm Nature  
-IVs: 0 Atk  
-- Scald  
-- Sludge Bomb  
-- Recover  
-- Toxic Spikes 
-
-Onix @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
-Jolly Nature  
-- Stealth Rock  
-- Rock Blast  
-- Earthquake  
-- Taunt 
-
-Farfetch'd-Galar @ Eviolite  
-Ability: Scrappy  
-Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Close Combat  
-- Brave Bird  
-- Knock Off  
-- Swords Dance 
-
-Croagunk @ Eviolite 
-Ability: Dry Skin  
-Level: 5  
-EVs: 52 HP / 116 Def / 188 SpA / 116 SpD / 36 Spe  
-Modest Nature  
-IVs: 0 Atk  
-- Sludge Wave  
-- Focus Blast  
-- Vacuum Wave  
-- Nasty Plot
-
-Shellder @ Eviolite  
-Ability: Skill Link  
-Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Shell Smash  
-- Icicle Spear  
-- Rock Blast  
-- Liquidation
+- Air Slash  

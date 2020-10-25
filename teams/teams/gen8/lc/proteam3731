@@ -1,62 +1,59 @@
-Wingull @ Life Orb  
-Ability: Keen Eye 
+Carvanha @ Life Orb  
+Ability: Speed Boost  
 Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-IVs: 0 HP  
-- Scald  
-- Hurricane  
-- U-turn  
-- Roost
-
-Timburr @ Eviolite  
-Ability: Guts  
-Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
 Adamant Nature  
-- Drain Punch  
-- Thunder Punch 
-- Mach Punch  
-- Defog 
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation  
 
-Cufant @ Eviolite  
-Ability: Sheer Force  
+Vulpix @ Choice Scarf  
+Ability: Drought  
 Level: 5  
-EVs: 100 HP / 36 Atk / 204 Def / 124 SpD / 36 Spe  
-Careful Nature  
-- Iron Head  
-- Play Rough  
-- Superpower  
-- Stealth Rock
-
-Mareanie @ Eviolite  
-Ability: Regenerator  
-Level: 5  
-EVs: 196 HP / 100 Def / 92 SpA / 100 SpD  
-Calm Nature  
-IVs: 0 Atk  
-- Scald  
-- Sludge Bomb  
-- Recover  
-- Toxic Spikes 
-
-Cutiefly @ Eviolite  
-Ability: Shield Dust 
-Level: 5  
-EVs: 236 SpA / 244 Spe  
+EVs: 52 HP / 196 SpA / 236 Spe  
 Timid Nature  
-IVs: 0 Atk  
-- Moonblast  
-- Psychic
-- Sticky Web  
-- Stun Spore 
+- Energy Ball  
+- Weather Ball  
+- Overheat  
+- Fire Blast  
 
-Frillish @ Eviolite  
-Ability: Water Absorb  
+Munchlax @ Berry Juice  
+Ability: Thick Fat  
 Level: 5  
-EVs: 236 HP / 116 Def / 76 SpA / 76 SpD  
-Bold Nature  
-- Scald  
-- Hex  
-- Strength Sap  
-- Will-O-Wisp
+EVs: 236 Atk / 36 Def / 236 SpD  
+Adamant Nature  
+- Body Slam  
+- Earthquake  
+- Curse  
+- Recycle
+
+Croagunk @ Eviolite  
+Ability: Dry Skin  
+Level: 5  
+EVs: 116 Def / 188 SpA / 196 Spe  
+Timid Nature  
+- Vacuum Wave  
+- Nasty Plot  
+- Sludge Wave  
+- Focus Blast  
+
+Grookey @ Eviolite  
+Ability: Grassy Surge  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Grassy Glide  
+- Knock Off  
+- Drain Punch  
+- U-turn  
+
+Shellder @ Eviolite  
+Ability: Skill Link  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Adamant Nature  
+- Icicle Spear  
+- Shell Smash  
+- Rock Blast  
+- Liquidation  

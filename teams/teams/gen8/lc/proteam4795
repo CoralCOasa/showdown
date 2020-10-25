@@ -1,53 +1,32 @@
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
+Abra @ Focus Sash  
+Ability: Magic Guard  
 Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
-Jolly Nature
-- Brave Bird  
-- Retaliate 
-- Close Combat  
-- U-turn
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Psychic  
+- Dazzling Gleam  
+- Energy Ball  
+- Shadow Ball  
 
-Vullaby @ Choice Scarf  
-Ability: Overcoat 
+Tirtouga @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 212 Atk / 92 Def / 180 Spe  
+Jolly Nature  
+- Shell Smash  
+- Waterfall  
+- Stone Edge  
+- Zen Headbutt
+
+Ponyta @ Eviolite  
+Ability: Flame Body  
 Level: 5  
 EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Brave Bird  
-- Knock Off  
-- U-turn  
-- Defog
-
-Oddish @ Eviolite  
-Ability: Chlorophyll  
-Level: 5  
-EVs: 156 HP / 236 Def / 76 SpD / 36 Spe  
-Bold Nature  
-IVs: 0 Atk  
-- Giga Drain  
-- Sludge Bomb  
-- Strength Sap  
-- Stun Spore
-
-Corphish @ Eviolite  
-Ability: Adaptability  
-Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
-Adamant Nature
-- Crabhammer  
-- Knock Off  
-- Aqua Jet  
-- Superpower 
-
-Onix @ Eviolite  
-Ability: Rock Head  
-Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
 Jolly Nature  
-- Dragon Dance  
-- Head Smash  
-- Earthquake  
-- Taunt
+- Flare Blitz  
+- High Horsepower  
+- Morning Sun  
+- Wild Charge  
 
 Diglett @ Life Orb  
 Ability: Arena Trap  
@@ -55,6 +34,26 @@ Level: 5
 EVs: 36 HP / 236 Atk / 236 Spe  
 Jolly Nature  
 - Earthquake  
-- Rock Slide  
 - Sucker Punch  
-- Substitute 
+- Rock Slide  
+- Stealth Rock  
+
+Vulpix @ Choice Scarf  
+Ability: Drought  
+Level: 5  
+EVs: 52 HP / 196 SpA / 236 Spe  
+Timid Nature  
+- Energy Ball  
+- Weather Ball  
+- Overheat  
+- Fire Blast  
+
+Shellder @ Eviolite  
+Ability: Skill Link  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Adamant Nature  
+- Icicle Spear  
+- Shell Smash  
+- Rock Blast  
+- Liquidation  

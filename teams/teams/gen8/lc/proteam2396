@@ -1,61 +1,59 @@
-Farfetch'd-Galar @ Eviolite  
-Ability: Scrappy  
+Mareanie @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Close Combat  
-- Brave Bird  
-- Knock Off  
-- Poison Jab 
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+Bold Nature  
+- Recover  
+- Scald  
+- Toxic Spikes  
+- Sludge Bomb  
 
-Shellder @ Eviolite  
-Ability: Skill Link  
+Magnemite @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Shell Smash  
-- Icicle Spear  
-- Rock Blast  
-- Liquidation
-
-Ponyta-Galar @ Life Orb  
-Ability: Pastel Veil  
-Level: 5  
-EVs: 76 Def / 236 SpA / 196 Spe  
+EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
-IVs: 0 Atk  
+- Flash Cannon  
+- Volt Switch  
+- Thunderbolt  
+- Recycle  
+
+Trapinch @ Eviolite  
+Ability: Arena Trap  
+Level: 5  
+EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
+Relaxed Nature  
+- Earthquake  
+- First Impression  
+- Superpower  
+- Giga Drain  
+
+Porygon @ Eviolite  
+Ability: Download  
+Level: 5  
+EVs: 36 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Tri Attack  
+- Recover  
+- Ice Beam  
 - Psychic  
-- Mystical Fire  
-- Morning Sun  
-- Calm Mind 
+
+Tirtouga @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 212 Atk / 92 Def / 180 Spe  
+Jolly Nature  
+- Shell Smash  
+- Waterfall  
+- Stone Edge  
+- Zen Headbutt
 
 Dwebble @ Berry Juice  
 Ability: Sturdy  
 Level: 5  
-EVs: 156 Atk / 76 Def / 236 Spe  
-Jolly Nature  
-- Stealth Rock  
-- Spikes  
-- Rock Blast  
-- Knock Off
-
-Scraggy @ Eviolite  
-Ability: Moxie 
-Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
+EVs: 236 Atk / 236 Spe  
 Adamant Nature  
-- Dragon Dance  
-- Drain Punch  
-- Crunch  
-- Poison Jab
-
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
-Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
-Bold Nature  
-IVs: 0 Atk  
-- Wish  
-- Protect  
-- Moonblast  
-- Psychic 
+- Shell Smash  
+- Rock Blast  
+- Earthquake  
+- Knock Off  

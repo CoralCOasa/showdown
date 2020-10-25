@@ -1,61 +1,59 @@
-Cutiefly @ Eviolite  
-Ability: Shield Dust 
-Level: 5  
-EVs: 236 SpA / 244 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Moonblast  
-- Psychic
-- Sticky Web  
-- U-turn
-
-Ponyta-Galar @ Eviolite 
-Ability: Pastel Veil  
-Level: 5  
-EVs: 76 Def / 236 SpA / 196 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Psychic  
-- Mystical Fire  
-- Dazzling Gleam 
-- Calm Mind 
-
 Ferroseed @ Eviolite  
 Ability: Iron Barbs  
 Level: 5  
-EVs: 84 HP / 36 Atk / 108 Def / 228 SpD / 36 Spe  
+EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
 Impish Nature  
-- Bullet Seed 
 - Knock Off  
 - Thunder Wave  
-- Spikes
+- Spikes  
+- Giga Drain
 
-Wingull @ Eviolite  
-Ability: Hydration  
+Meowth @ Life Orb  
+Ability: Technician  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 196 Spe  
+Jolly Nature  
+- Fake Out  
+- Feint  
+- Aerial Ace  
+- Water Pulse  
+
+Magnemite @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
 EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
-- Scald  
-- Hurricane  
-- U-turn 
-- Roost
+- Flash Cannon  
+- Volt Switch  
+- Thunderbolt  
+- Recycle  
 
-Shellder @ Eviolite  
-Ability: Skill Link  
+Tirtouga @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
+EVs: 212 Atk / 92 Def / 180 Spe  
+Jolly Nature  
+- Shell Smash  
+- Waterfall  
+- Stone Edge  
+- Zen Headbutt
+
+Vullaby @ Berry Juice  
+Ability: Weak Armor  
+Level: 5  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Jolly Nature  
+- Knock Off  
+- Brave Bird  
+- U-turn  
+- Defog  
+
+Dwebble @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 236 Atk / 236 Spe  
 Adamant Nature  
 - Shell Smash  
-- Icicle Spear  
 - Rock Blast  
-- Liquidation
-
-Croagunk @ Berry Juice  
-Ability: Dry Skin  
-Level: 5  
-EVs: 52 HP / 188 Atk / 116 Def / 116 SpD / 36 Spe  
-Adamant Nature  
-- Gunk Shot  
-- Drain Punch  
-- Sucker Punch  
-- Bulk Up
+- Earthquake  
+- Knock Off  

@@ -1,61 +1,59 @@
-Pawniard @ Eviolite  
-Ability: Defiant  
-Level: 5  
-EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
-Jolly Nature  
-- Iron Head  
-- Sucker Punch  
-- Swords Dance 
-- Brick Break
-
-Vullaby @ Eviolite 
-Ability: Weak Armor  
-Level: 5  
-EVs: 116 HP / 240 SpA / 116 Spe  
-Modest Nature  
-- Nasty Plot  
-- Air Slash  
-- Heat Wave  
-- Dark Pulse
-
-Farfetch'd-Galar @ Eviolite  
+Farfetch’d-Galar @ Eviolite  
 Ability: Scrappy  
 Level: 5  
 EVs: 20 HP / 236 Atk / 236 Spe  
 Jolly Nature  
+- Swords Dance  
 - Close Combat  
 - Brave Bird  
 - Knock Off  
-- Swords Dance 
 
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
 Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
-Bold Nature  
-IVs: 0 Atk  
-- Wish  
-- Protect  
-- Moonblast  
-- Psychic 
+EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
+Impish Nature  
+- Knock Off  
+- Thunder Wave  
+- Spikes  
+- Giga Drain
+
+Dwebble @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 236 Atk / 236 Spe  
+Adamant Nature  
+- Shell Smash  
+- Rock Blast  
+- Earthquake  
+- Knock Off  
 
 Shellder @ Eviolite  
 Ability: Skill Link  
 Level: 5  
 EVs: 236 Atk / 76 SpD / 196 Spe  
 Adamant Nature  
-- Shell Smash  
 - Icicle Spear  
+- Shell Smash  
 - Rock Blast  
-- Liquidation
+- Liquidation  
 
-Cutiefly @ Eviolite  
-Ability: Sweet Veil
+Chinchou @ Eviolite  
+Ability: Volt Absorb  
 Level: 5  
-EVs: 236 SpA / 244 Spe  
+EVs: 52 Def / 228 SpA / 220 Spe  
 Timid Nature  
-IVs: 0 Atk  
-- Moonblast  
-- Psychic
-- Sticky Web  
-- U-turn
+- Volt Switch  
+- Scald  
+- Ice Beam  
+- Thunderbolt  
+
+Carvanha @ Life Orb  
+Ability: Speed Boost  
+Level: 5  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+Adamant Nature  
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation  

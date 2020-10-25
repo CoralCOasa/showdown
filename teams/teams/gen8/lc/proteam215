@@ -1,62 +1,60 @@
-Chinchou @ Choice Scarf  
-Ability: Volt Absorb  
+Diglett @ Life Orb  
+Ability: Arena Trap  
 Level: 5  
-EVs: 52 Def / 228 SpA / 220 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Volt Switch  
-- Scald  
-- Ice Beam  
-- Thunderbolt 
-
-Drilbur @ Eviolite 
-Ability: Mold Breaker  
-Level: 5  
-EVs: 36 HP / 236 Atk / 212 Spe  
+EVs: 36 HP / 236 Atk / 236 Spe  
 Jolly Nature  
 - Earthquake  
-- Rock Slide  
-- Rapid Spin  
-- Stealth Rock 
-
-Ponyta-Galar @ Eviolite 
-Ability: Pastel Veil  
-Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Jolly Nature  
-- Zen Headbutt  
-- Play Rough  
-- High Horsepower 
-- Morning Sun 
-
-Pawniard @ Eviolite  
-Ability: Defiant  
-Level: 5  
-EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
-Jolly Nature  
-- Iron Head  
 - Sucker Punch  
-- Night Slash  
-- Brick Break
+- Rock Slide  
+- Stealth Rock  
 
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
+Mienfoo @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
-Bold Nature  
-IVs: 0 Atk  
-- Wish  
-- Protect  
-- Moonblast  
-- Psychic
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Knock Off  
+- U-turn  
+- High Jump Kick  
+- Fake Out  
 
-Drifloon @ Berry Juice  
-Ability: Unburden  
+Wingull @ Life Orb  
+Ability: Hydration  
 Level: 5  
-EVs: 116 HP / 196 SpA / 196 Spe  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Timid Nature  
+- Scald  
+- Hurricane  
+- U-turn  
+- Air Slash  
+
+Scorbunny @ Berry Juice  
+Ability: Libero  
+Level: 5  
+EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
+Jolly Nature  
+- High Jump Kick  
+- U-turn  
+- Blaze Kick  
+- Gunk Shot  
+
+Tirtouga @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 212 Atk / 92 Def / 180 Spe  
+Jolly Nature  
+- Shell Smash  
+- Waterfall  
+- Stone Edge  
+- Zen Headbutt
+
+Natu @ Eviolite  
+Ability: Magic Bounce  
+Level: 5  
+EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
 Timid Nature  
 IVs: 0 Atk  
-- Shadow Ball  
-- Thunderbolt  
-- Destiny Bond  
-- Substitute
+- Psychic  
+- Heat Wave  
+- U-turn  
+- Roost  

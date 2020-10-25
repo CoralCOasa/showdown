@@ -1,60 +1,60 @@
-Farfetch'd-Galar @ Eviolite  
-Ability: Scrappy  
+Onix @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
+EVs: 76 HP / 236 Atk / 196 Spe  
 Jolly Nature  
-- Close Combat  
-- Brave Bird  
-- Knock Off  
-- Defog
+- Earthquake  
+- Stealth Rock  
+- Rock Blast  
+- Dragon Dance  
 
-Ferroseed @ Eviolite  
-Ability: Iron Barbs  
+Timburr @ Eviolite  
+Ability: Iron Fist  
 Level: 5  
-EVs: 84 HP / 36 Atk / 108 Def / 228 SpD / 36 Spe  
-Impish Nature  
-- Bullet Seed  
-- Knock Off  
-- Thunder Wave 
-- Stealth Rock 
-
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
+EVs: 196 Atk / 156 Def / 156 SpD  
 Adamant Nature  
-- Body Slam  
-- Fire Punch  
-- Curse  
-- Recycle
+- Drain Punch  
+- Mach Punch  
+- Knock Off  
+- Defog  
+
+Natu @ Eviolite  
+Ability: Magic Bounce  
+Level: 5  
+EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Heat Wave  
+- U-turn  
+- Roost  
 
 Shellder @ Eviolite  
 Ability: Skill Link  
 Level: 5  
 EVs: 236 Atk / 76 SpD / 196 Spe  
 Adamant Nature  
-- Shell Smash  
 - Icicle Spear  
+- Shell Smash  
 - Rock Blast  
-- Liquidation
+- Liquidation  
 
-Drifloon @ Berry Juice  
-Ability: Unburden  
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
 Level: 5  
-EVs: 116 HP / 196 SpA / 196 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Shadow Ball  
-- Thunderbolt  
-- Calm Mind 
-- Substitute
-
-Chinchou @ Eviolite  
-Ability: Volt Absorb  
-Level: 5  
-EVs: 76 HP / 212 Def / 152 SpA / 60 Spe  
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
 Bold Nature  
-- Scald  
-- Volt Switch  
-- Ice Beam  
-- Thunder Wave
+- Moonblast  
+- Wish  
+- Protect  
+- Calm Mind  
+
+Dewpider @ Berry Juice  
+Ability: Water Bubble  
+Level: 5  
+EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
+Modest Nature  
+- Sticky Web  
+- Surf  
+- Icy Wind  
+- Giga Drain

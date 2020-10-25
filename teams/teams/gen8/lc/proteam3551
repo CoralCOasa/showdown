@@ -1,63 +1,59 @@
-Chinchou @ Choice Scarf  
-Ability: Volt Absorb  
+Vulpix @ Choice Scarf  
+Ability: Drought  
 Level: 5  
-EVs: 52 Def / 228 SpA / 220 Spe  
+EVs: 52 HP / 196 SpA / 236 Spe  
 Timid Nature  
-IVs: 0 Atk  
-- Volt Switch  
-- Scald  
-- Ice Beam  
-- Thunderbolt 
+- Energy Ball  
+- Weather Ball  
+- Overheat  
+- Fire Blast  
 
-Scraggy @ Berry Juice  
-Ability: Moxie 
+Scraggy @ Eviolite  
+Ability: Moxie  
 Level: 5  
 EVs: 236 Atk / 36 SpD / 212 Spe  
 Adamant Nature  
 - Dragon Dance  
+- Knock Off  
+- Drain Punch  
 - High Jump Kick  
-- Crunch  
-- Poison Jab
 
-Mudbray @ Berry Juice  
-Ability: Stamina  
+Grookey @ Eviolite  
+Ability: Grassy Surge  
 Level: 5  
-EVs: 116 HP / 196 Atk / 36 Def / 156 SpD  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Grassy Glide  
+- Knock Off  
+- Drain Punch  
+- U-turn  
+
+Carvanha @ Life Orb  
+Ability: Speed Boost  
+Level: 5  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
 Adamant Nature  
-- Earthquake  
-- Heavy Slam  
-- Close Combat  
-- Stealth Rock
-
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
-Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
-Bold Nature  
-IVs: 0 Atk  
-- Wish  
+- Crunch  
+- Psychic Fangs  
 - Protect  
-- Moonblast  
-- Psychic 
+- Liquidation  
 
-Mareanie @ Eviolite  
-Ability: Regenerator  
-Level: 5  
-EVs: 196 HP / 100 Def / 92 SpA / 100 SpD  
-Calm Nature  
-IVs: 0 Atk  
-- Scald  
-- Sludge Bomb  
-- Recover  
-- Haze 
-
-Croagunk @ Eviolite 
+Croagunk @ Eviolite  
 Ability: Dry Skin  
 Level: 5  
-EVs: 52 HP / 116 Def / 188 SpA / 116 SpD / 36 Spe  
-Modest Nature  
-IVs: 0 Atk  
+EVs: 116 Def / 188 SpA / 196 Spe  
+Timid Nature  
+- Vacuum Wave  
+- Nasty Plot  
 - Sludge Wave  
 - Focus Blast  
-- Vacuum Wave  
-- Nasty Plot
+
+Drilbur @ Eviolite  
+Ability: Mold Breaker  
+Level: 5  
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
+Jolly Nature  
+- Earthquake  
+- Rapid Spin  
+- Rock Slide  
+- Stealth Rock  

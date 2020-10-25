@@ -1,62 +1,60 @@
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
+Larvesta @ Eviolite  
+Ability: Flame Body  
 Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
-Bold Nature  
-IVs: 0 Atk  
-- Wish  
-- Protect  
-- Moonblast  
-- Psychic 
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- U-turn  
+- Flare Blitz  
+- Morning Sun  
+- Will-O-Wisp  
 
-Oddish @ Eviolite  
-Ability: Chlorophyll  
+Mareanie @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 156 HP / 236 Def / 76 SpD / 36 Spe  
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
 Bold Nature  
-IVs: 0 Atk  
-- Giga Drain  
+- Recover  
+- Scald  
+- Toxic Spikes  
 - Sludge Bomb  
-- Strength Sap  
-- Sleep Powder 
 
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
+Archen @ Berry Juice  
+Ability: Defeatist  
 Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
-Jolly Nature
-- Brave Bird  
-- Retaliate 
-- Close Combat  
+EVs: 76 HP / 180 Atk / 196 Spe  
+Jolly Nature  
+- Stone Edge  
+- Dual Wingbeat  
+- Earthquake  
 - U-turn
 
-Vulpix @ Life Orb  
-Ability: Drought  
+Amaura @ Choice Scarf  
+Ability: Refrigerate  
 Level: 5  
-EVs: 36 Def / 196 SpA / 236 Spe  
-Timid Nature  
-IVs: 4 HP  
-- Fire Blast  
-- Energy Ball  
-- Extrasensory  
-- Will-O-Wisp 
+EVs: 60 HP / 220 SpA / 228 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hyper Voice  
+- Earth Power  
+- Thunderbolt  
+- Ancient Power
 
-Trapinch @ Eviolite  
-Ability: Arena Trap  
+Dwebble @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 196 Atk / 76 Def / 236 SpD  
+EVs: 236 Atk / 236 Spe  
 Adamant Nature  
+- Shell Smash  
+- Rock Blast  
 - Earthquake  
-- First Impression  
-- Superpower  
-- Rock Slide
-
-Corphish @ Eviolite  
-Ability: Adaptability  
-Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
-Adamant Nature
-- Crabhammer  
 - Knock Off  
-- Aqua Jet  
-- Swords Dance 
+
+Abra @ Focus Sash  
+Ability: Magic Guard  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Psychic  
+- Dazzling Gleam  
+- Energy Ball  
+- Shadow Ball  

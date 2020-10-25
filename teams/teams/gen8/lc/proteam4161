@@ -1,60 +1,59 @@
-Croagunk @ Eviolite 
-Ability: Dry Skin  
+Shellder @ Eviolite  
+Ability: Skill Link  
 Level: 5  
-EVs: 52 HP / 188 Atk / 116 Def / 116 SpD / 36 Spe  
+EVs: 236 Atk / 76 SpD / 196 Spe  
 Adamant Nature  
-- Gunk Shot  
-- Drain Punch  
-- Sucker Punch  
-- Bulk Up
+- Icicle Spear  
+- Shell Smash  
+- Rock Blast  
+- Liquidation  
 
-Onix @ Eviolite  
+Vullaby @ Berry Juice  
 Ability: Weak Armor  
 Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
+EVs: 236 Atk / 76 Def / 196 Spe  
 Jolly Nature  
+- Knock Off  
+- Brave Bird  
+- U-turn  
+- Defog  
+
+Drilbur @ Eviolite  
+Ability: Mold Breaker  
+Level: 5  
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
+Jolly Nature  
+- Earthquake  
+- Rapid Spin  
+- Rock Slide  
 - Stealth Rock  
+
+Timburr @ Eviolite  
+Ability: Iron Fist  
+Level: 5  
+EVs: 196 Atk / 156 Def / 156 SpD  
+Adamant Nature  
+- Drain Punch  
+- Mach Punch  
+- Knock Off  
+- Defog  
+
+Dwebble @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 236 Atk / 236 Spe  
+Adamant Nature  
+- Shell Smash  
 - Rock Blast  
 - Earthquake  
-- Self-Destruct 
+- Knock Off  
 
-Diglett @ Life Orb  
-Ability: Arena Trap  
+Magnemite @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Earthquake  
-- Rock Slide  
-- Sucker Punch  
-- Memento  
-
-Vulpix @ Choice Scarf  
-Ability: Drought  
-Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
-Modest Nature  
-IVs: 0 Atk  
-- Fire Blast  
-- Energy Ball  
-- Extrasensory  
-- Overheat 
-
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
-Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
-Adamant Nature  
-- Brave Bird  
-- Shadow Claw 
-- Close Combat  
-- U-turn
-
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
-Adamant Nature  
-- Body Slam  
-- Fire Punch  
-- Earthquake 
-- Recycle
+EVs: 36 Def / 236 SpA / 236 Spe  
+Timid Nature  
+- Flash Cannon  
+- Volt Switch  
+- Thunderbolt  
+- Recycle  

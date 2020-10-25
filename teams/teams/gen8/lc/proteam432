@@ -1,61 +1,60 @@
-Chinchou @ Berry Juice 
-Ability: Volt Absorb  
+Woobat @ Berry Juice  
+Ability: Simple  
 Level: 5  
-EVs: 76 HP / 212 Def / 152 SpA / 60 Spe  
-Bold Nature  
-- Scald  
-- Volt Switch  
-- Ice Beam  
-- Thunder Wave
+EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
+Timid Nature  
+- Nasty Plot  
+- Psychic  
+- Heat Wave  
+- Air Slash  
 
-Onix @ Eviolite  
-Ability: Weak Armor  
+Meowth @ Life Orb  
+Ability: Technician  
 Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
+EVs: 236 Atk / 36 SpD / 196 Spe  
 Jolly Nature  
-- Stealth Rock  
-- Rock Blast  
-- Earthquake  
-- Dragon Dance 
+- Fake Out  
+- Feint  
+- Aerial Ace  
+- Water Pulse  
 
-Corphish @ Eviolite  
-Ability: Adaptability  
+Natu @ Eviolite  
+Ability: Magic Bounce  
 Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
-Adamant Nature
-- Crabhammer  
-- Knock Off  
-- Aqua Jet  
-- Swords Dance 
-
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
-Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
-Bold Nature  
-IVs: 0 Atk  
-- Wish  
-- Protect  
-- Moonblast  
-- Calm Mind 
-
-Trapinch @ Eviolite  
-Ability: Arena Trap  
-Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Adamant Nature  
-- Earthquake  
-- First Impression  
-- Superpower  
-- Rock Slide
-
-Drifloon @ Berry Juice  
-Ability: Unburden  
-Level: 5  
-EVs: 116 HP / 196 SpA / 196 Spe  
+EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
 Timid Nature  
 IVs: 0 Atk  
-- Shadow Ball  
+- Psychic  
+- Heat Wave  
+- U-turn  
+- Roost  
+
+Staryu @ Eviolite  
+Ability: Natural Cure  
+Level: 5  
+EVs: 116 HP / 156 Def / 236 Spe  
+Timid Nature  
+- Rapid Spin  
 - Thunderbolt  
-- Calm Mind 
-- Substitute
+- Recover  
+- Scald  
+
+Vulpix @ Choice Scarf  
+Ability: Drought  
+Level: 5  
+EVs: 52 HP / 196 SpA / 236 Spe  
+Timid Nature  
+- Energy Ball  
+- Weather Ball  
+- Overheat  
+- Fire Blast  
+
+Tirtouga @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 212 Atk / 92 Def / 180 Spe  
+Jolly Nature  
+- Shell Smash  
+- Waterfall  
+- Stone Edge  
+- Zen Headbutt

@@ -1,62 +1,59 @@
-Frillish @ Eviolite  
-Ability: Water Absorb  
+Woobat @ Berry Juice  
+Ability: Simple  
 Level: 5  
-EVs: 236 HP / 116 Def / 76 SpA / 76 SpD  
-Bold Nature  
-- Scald  
-- Hex  
-- Recover 
-- Will-O-Wisp
+EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
+Timid Nature  
+- Nasty Plot  
+- Psychic  
+- Heat Wave  
+- Air Slash  
 
-Mareanie @ Eviolite  
-Ability: Regenerator  
+Pawniard @ Eviolite  
+Ability: Defiant  
 Level: 5  
-EVs: 196 HP / 100 Def / 92 SpA / 100 SpD  
-Calm Nature  
-IVs: 0 Atk  
-- Scald  
-- Sludge Bomb  
-- Recover  
-- Toxic Spikes 
-
-Oddish @ Eviolite  
-Ability: Chlorophyll  
-Level: 5  
-EVs: 156 HP / 236 Def / 76 SpD / 36 Spe  
-Bold Nature  
-IVs: 0 Atk  
-- Giga Drain  
-- Sludge Bomb  
-- Strength Sap  
-- Sleep Powder 
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Iron Head  
+- Knock Off  
+- Sucker Punch  
+- Stealth Rock  
 
 Trapinch @ Eviolite  
 Ability: Arena Trap  
 Level: 5  
 EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Adamant Nature  
+Relaxed Nature  
 - Earthquake  
 - First Impression  
 - Superpower  
-- Rock Slide
+- Giga Drain  
 
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
+Porygon @ Eviolite  
+Ability: Download  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
-Adamant Nature  
-- Facade 
-- Fire Punch  
-- Curse  
-- Recycle
+EVs: 36 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Tri Attack  
+- Recover  
+- Ice Beam  
+- Psychic  
 
-Drifloon @ Berry Juice  
-Ability: Unburden  
+Abra @ Focus Sash  
+Ability: Magic Guard  
 Level: 5  
-EVs: 116 HP / 196 SpA / 196 Spe  
+EVs: 236 SpA / 76 SpD / 196 Spe  
 Timid Nature  
-IVs: 0 Atk  
+- Psychic  
+- Dazzling Gleam  
+- Energy Ball  
 - Shadow Ball  
-- Thunderbolt  
-- Will-O-Wisp 
-- Substitute
+
+Ponyta-Galar @ Eviolite  
+Ability: Pastel Veil  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Mystical Fire  
+- Psychic  
+- Dazzling Gleam  
+- Calm Mind  

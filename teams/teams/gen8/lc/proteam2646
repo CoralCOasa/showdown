@@ -1,3 +1,13 @@
+Abra @ Focus Sash  
+Ability: Magic Guard  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Psychic  
+- Dazzling Gleam  
+- Energy Ball  
+- Shadow Ball  
+
 Dwebble @ Berry Juice  
 Ability: Sturdy  
 Level: 5  
@@ -6,57 +16,44 @@ Adamant Nature
 - Shell Smash  
 - Rock Blast  
 - Earthquake  
-- Knock Off
+- Knock Off  
 
-Cutiefly @ Eviolite  
-Ability: Sweet Veil  
+Dewpider @ Berry Juice  
+Ability: Water Bubble  
 Level: 5  
-EVs: 236 SpA / 244 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Moonblast  
-- Bug Buzz  
-- Psychic  
-- Quiver Dance  
-
-Croagunk @ Berry Juice  
-Ability: Dry Skin  
-Level: 5  
-EVs: 52 HP / 116 Def / 188 SpA / 116 SpD / 36 Spe  
+EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
 Modest Nature  
-IVs: 0 Atk  
-- Sludge Wave  
-- Focus Blast  
-- Vacuum Wave  
-- Nasty Plot
+- Sticky Web  
+- Surf  
+- Icy Wind  
+- Giga Drain
 
-Vulpix @ Eviolite  
-Ability: Drought  
+Mienfoo @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Knock Off  
+- U-turn  
+- High Jump Kick  
+- Fake Out  
+
+Wingull @ Life Orb  
+Ability: Hydration  
+Level: 5  
+EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
-IVs: 0 Atk  
-- Fire Blast  
-- Energy Ball  
-- Will-O-Wisp  
-- Extrasensory
+- Scald  
+- Hurricane  
+- U-turn  
+- Air Slash  
 
-Trapinch @ Eviolite  
-Ability: Arena Trap  
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
 Level: 5  
-EVs: 196 Atk / 76 Def / 236 SpD  
-Adamant Nature  
-- Earthquake  
-- First Impression  
-- Superpower  
-- Rock Slide
-
-Cufant @ Life Orb  
-Ability: Sheer Force  
-Level: 5  
-EVs: 20 HP / 196 Atk / 204 Def / 44 SpD / 36 Spe  
-Adamant Nature  
-- Iron Head  
-- Play Rough  
-- Power Whip  
-- Superpower
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
+Bold Nature  
+- Moonblast  
+- Wish  
+- Protect  
+- Calm Mind  

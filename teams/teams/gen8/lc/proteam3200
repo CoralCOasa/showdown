@@ -1,3 +1,23 @@
+Drilbur @ Eviolite  
+Ability: Mold Breaker  
+Level: 5  
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
+Jolly Nature  
+- Earthquake  
+- Rapid Spin  
+- Rock Slide  
+- Stealth Rock  
+
+Grookey @ Eviolite  
+Ability: Grassy Surge  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Grassy Glide  
+- Knock Off  
+- Drain Punch  
+- U-turn  
+
 Dwebble @ Berry Juice  
 Ability: Sturdy  
 Level: 5  
@@ -6,55 +26,34 @@ Adamant Nature
 - Shell Smash  
 - Rock Blast  
 - Earthquake  
-- Knock Off
+- Knock Off  
 
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
+Bunnelby @ Eviolite  
+Ability: Huge Power  
 Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
-Jolly Nature
-- Brave Bird  
-- Rock Slide 
-- Close Combat  
+EVs: 228 Atk / 132 Def / 148 SpD  
+Adamant Nature  
+- Earthquake  
+- Quick Attack  
+- U-turn  
+- Facade
+
+Archen @ Berry Juice  
+Ability: Defeatist  
+Level: 5  
+EVs: 76 HP / 180 Atk / 196 Spe  
+Jolly Nature  
+- Stone Edge  
+- Dual Wingbeat  
+- Earthquake  
 - U-turn
 
-Vullaby @ Choice Scarf  
-Ability: Overcoat 
+Dewpider @ Berry Juice  
+Ability: Water Bubble  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Brave Bird  
-- Knock Off  
-- U-turn  
-- Defog
-
-Farfetch'd-Galar @ Eviolite  
-Ability: Scrappy  
-Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Close Combat  
-- Brave Bird  
-- Knock Off  
-- Swords Dance 
-
-Wingull @ Life Orb  
-Ability: Keen Eye 
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-IVs: 0 HP  
-- Scald  
-- Hurricane  
-- U-turn  
-- Knock Off 
-
-Drilbur @ Eviolite 
-Ability: Mold Breaker  
-Level: 5  
-EVs: 36 HP / 236 Atk / 212 Spe  
-Jolly Nature  
-- Earthquake  
-- Rock Slide  
-- Rapid Spin  
-- Swords Dance 
+EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
+Modest Nature  
+- Sticky Web  
+- Surf  
+- Icy Wind  
+- Giga Drain

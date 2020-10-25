@@ -1,60 +1,59 @@
-Scraggy @ Berry Juice  
-Ability: Shed Skin 
+Mareanie @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+Bold Nature  
+- Recover  
+- Scald  
+- Toxic Spikes  
+- Sludge Bomb  
+
+Trapinch @ Eviolite  
+Ability: Arena Trap  
+Level: 5  
+EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
+Relaxed Nature  
+- Earthquake  
+- First Impression  
+- Superpower  
+- Giga Drain  
+
+Magnemite @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Timid Nature  
+- Flash Cannon  
+- Volt Switch  
+- Thunderbolt  
+- Recycle  
+
+Scraggy @ Eviolite  
+Ability: Moxie  
 Level: 5  
 EVs: 236 Atk / 36 SpD / 212 Spe  
 Adamant Nature  
 - Dragon Dance  
-- High Jump Kick  
-- Crunch  
-- Poison Jab 
-
-Timburr @ Eviolite  
-Ability: Iron Fist 
-Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
-Adamant Nature  
+- Knock Off  
 - Drain Punch  
-- Thunder Punch  
-- Mach Punch  
-- Defog 
+- High Jump Kick  
 
-Onix @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
-Jolly Nature  
-- Stealth Rock  
-- Rock Blast  
-- Earthquake  
-- Endure 
-
-Ponyta-Galar @ Eviolite 
-Ability: Pastel Veil  
+Ponyta @ Eviolite  
+Ability: Flame Body  
 Level: 5  
 EVs: 236 Atk / 76 SpD / 196 Spe  
 Jolly Nature  
-- Zen Headbutt  
-- Play Rough  
-- High Horsepower 
-- Morning Sun 
+- Flare Blitz  
+- High Horsepower  
+- Morning Sun  
+- Wild Charge  
 
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
+Vulpix @ Choice Scarf  
+Ability: Drought  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
-Adamant Nature  
-- Body Slam  
-- Fire Punch  
-- Curse  
-- Recycle
-
-Wingull @ Life Orb  
-Ability: Hydration  
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
+EVs: 52 HP / 196 SpA / 236 Spe  
 Timid Nature  
-IVs: 0 HP  
-- Scald  
-- Hurricane  
-- U-turn  
-- Roost
+- Energy Ball  
+- Weather Ball  
+- Overheat  
+- Fire Blast  

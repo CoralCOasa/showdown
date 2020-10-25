@@ -1,61 +1,59 @@
-Oddish @ Eviolite  
-Ability: Chlorophyll  
+Porygon @ Eviolite  
+Ability: Download  
 Level: 5  
-EVs: 156 HP / 236 Def / 76 SpD / 36 Spe  
-Bold Nature  
-IVs: 0 Atk  
-- Giga Drain  
-- Sludge Bomb  
-- Strength Sap  
-- Stun Spore
+EVs: 36 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Tri Attack  
+- Recover  
+- Ice Beam  
+- Psychic  
 
-Vullaby @ Berry Juice 
+Corphish @ Eviolite  
+Ability: Adaptability  
+Level: 5  
+EVs: 196 Atk / 76 Def / 236 Spe  
+Adamant Nature  
+- Aqua Jet  
+- Crabhammer  
+- Knock Off  
+- Dragon Dance  
+
+Meowth @ Life Orb  
+Ability: Technician  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 196 Spe  
+Jolly Nature  
+- Fake Out  
+- Feint  
+- Aerial Ace  
+- Water Pulse  
+
+Croagunk @ Eviolite  
+Ability: Dry Skin  
+Level: 5  
+EVs: 116 Def / 188 SpA / 196 Spe  
+Timid Nature  
+- Vacuum Wave  
+- Nasty Plot  
+- Sludge Wave  
+- Focus Blast  
+
+Vullaby @ Berry Juice  
 Ability: Weak Armor  
 Level: 5  
 EVs: 236 Atk / 76 Def / 196 Spe  
-Adamant Nature  
-- Brave Bird  
+Jolly Nature  
 - Knock Off  
-- U-turn  
-- Defog
-
-Farfetch'd-Galar @ Choice Scarf  
-Ability: Scrappy  
-Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Close Combat  
 - Brave Bird  
-- Knock Off
-- Poison Jab 
+- U-turn  
+- Defog  
 
-Drifloon @ Berry Juice  
-Ability: Unburden  
+Wingull @ Life Orb  
+Ability: Hydration  
 Level: 5  
-EVs: 116 HP / 196 SpA / 196 Spe  
+EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
-IVs: 0 Atk  
-- Shadow Ball  
-- Thunderbolt  
-- Destiny Bond  
-- Substitute
-
-Onix @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
-Jolly Nature  
-- Stealth Rock  
-- Rock Blast  
-- Earthquake  
-- Self-Destruct
-
-Mudbray @ Choice Scarf  
-Ability: Stamina  
-Level: 5  
-EVs: 36 HP / 196 Atk / 36 Def / 236 Spe  
-Adamant Nature
-- Earthquake  
-- Heavy Slam  
-- Rock Slide  
-- Close Combat
+- Scald  
+- Hurricane  
+- U-turn  
+- Air Slash  

@@ -1,61 +1,60 @@
-Dwebble @ Berry Juice  
-Ability: Sturdy  
+Zigzagoon @ Berry Juice  
+Ability: Quick Feet  
 Level: 5  
-EVs: 236 Atk / 236 Spe  
+EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
 Adamant Nature  
+- Extreme Speed  
+- Belly Drum  
+- Thief  
+- Seed Bomb  
+
+Amaura @ Choice Scarf  
+Ability: Refrigerate  
+Level: 5  
+EVs: 60 HP / 220 SpA / 228 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hyper Voice  
+- Earth Power  
+- Thunderbolt  
+- Ancient Power
+
+Drilbur @ Eviolite  
+Ability: Mold Breaker  
+Level: 5  
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
+Jolly Nature  
+- Earthquake  
+- Rapid Spin  
+- Rock Slide  
+- Stealth Rock  
+
+Shellder @ Eviolite  
+Ability: Skill Link  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Adamant Nature  
+- Icicle Spear  
 - Shell Smash  
 - Rock Blast  
-- Earthquake  
-- Knock Off
+- Liquidation  
 
-Frillish @ Eviolite  
-Ability: Water Absorb  
+Mienfoo @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 236 HP / 116 Def / 76 SpA / 76 SpD  
-Bold Nature  
-- Scald  
-- Shadow Ball 
-- Strength Sap  
-- Will-O-Wisp
-
-Vullaby @ Eviolite  
-Ability: Weak Armor  
-Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Adamant Nature  
-- Brave Bird  
-- Knock Off  
-- U-turn  
-- Defog
-
-Cutiefly @ Eviolite 
-Ability: Shield Dust 
-Level: 5  
-EVs: 236 SpA / 244 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Moonblast  
-- Bug Buzz  
-- Psychic  
-- Quiver Dance  
-
-Farfetch'd-Galar @ Eviolite  
-Ability: Scrappy  
-Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
+EVs: 236 Atk / 36 Def / 236 Spe  
 Jolly Nature  
-- Close Combat  
-- Brave Bird  
 - Knock Off  
-- Swords Dance 
-
-Wingull @ Life Orb  
-Ability: Keen Eye 
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-IVs: 0 HP  
-- Scald  
-- Hurricane  
 - U-turn  
-- Knock Off 
+- High Jump Kick  
+- Fake Out  
+
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
+Level: 5  
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
+Bold Nature  
+- Moonblast  
+- Wish  
+- Protect  
+- Calm Mind  

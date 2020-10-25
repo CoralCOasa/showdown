@@ -1,61 +1,59 @@
-Ponyta-Galar @ Eviolite 
-Ability: Pastel Veil  
+Dwebble @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 76 Def / 236 SpA / 196 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Psychic  
-- Mystical Fire  
-- Dazzling Gleam 
-- Healing Wish
+EVs: 236 Atk / 236 Spe  
+Adamant Nature  
+- Shell Smash  
+- Rock Blast  
+- Earthquake  
+- Knock Off  
 
-Farfetch'd-Galar @ Choice Scarf  
+Farfetch’d-Galar @ Eviolite  
 Ability: Scrappy  
 Level: 5  
 EVs: 20 HP / 236 Atk / 236 Spe  
 Jolly Nature  
+- Swords Dance  
 - Close Combat  
 - Brave Bird  
-- Knock Off
-- Poison Jab 
+- Knock Off  
 
-Scraggy @ Eviolite  
-Ability: Shed Skin 
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
-Adamant Nature  
-- Dragon Dance  
-- Drain Punch  
-- Crunch  
-- Zen Headbutt 
+EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
+Impish Nature  
+- Knock Off  
+- Thunder Wave  
+- Spikes  
+- Giga Drain
 
-Onix @ Eviolite  
-Ability: Rock Head  
+Chinchou @ Eviolite  
+Ability: Volt Absorb  
+Level: 5  
+EVs: 52 Def / 228 SpA / 220 Spe  
+Timid Nature  
+- Volt Switch  
+- Scald  
+- Ice Beam  
+- Thunderbolt  
+
+Onix @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
 EVs: 76 HP / 236 Atk / 196 Spe  
 Jolly Nature  
-- Dragon Dance  
-- Head Smash  
 - Earthquake  
-- Taunt
+- Stealth Rock  
+- Rock Blast  
+- Dragon Dance  
 
 Wingull @ Life Orb  
-Ability: Keen Eye 
+Ability: Hydration  
 Level: 5  
 EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
-IVs: 0 HP  
 - Scald  
 - Hurricane  
 - U-turn  
-- Knock Off 
-
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
-Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
-Adamant Nature  
-- Brave Bird  
-- Shadow Claw 
-- Close Combat  
-- U-turn
+- Air Slash  

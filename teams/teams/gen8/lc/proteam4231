@@ -1,61 +1,60 @@
-Ponyta-Galar @ Eviolite 
-Ability: Pastel Veil  
+Wingull @ Life Orb  
+Ability: Hydration  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Jolly Nature  
-- Zen Headbutt  
-- Play Rough  
-- High Horsepower 
-- Healing Wish  
-
-Scraggy @ Eviolite  
-Ability: Moxie 
-Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
-Adamant Nature  
-- Dragon Dance  
-- High Jump Kick 
-- Crunch  
-- Poison Jab
-
-Frillish @ Eviolite  
-Ability: Water Absorb  
-Level: 5  
-EVs: 236 HP / 116 Def / 76 SpA / 76 SpD  
-Bold Nature  
-- Scald  
-- Shadow Ball 
-- Strength Sap  
-- Will-O-Wisp
-
-Drifloon @ Berry Juice  
-Ability: Unburden  
-Level: 5  
-EVs: 116 HP / 196 SpA / 196 Spe  
+EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
+- Scald  
+- Hurricane  
+- U-turn  
+- Air Slash  
+
+Amaura @ Choice Scarf  
+Ability: Refrigerate  
+Level: 5  
+EVs: 60 HP / 220 SpA / 228 Spe  
+Modest Nature  
 IVs: 0 Atk  
-- Shadow Ball  
+- Hyper Voice  
+- Earth Power  
 - Thunderbolt  
-- Calm Mind 
-- Substitute
+- Ancient Power
 
-Chinchou @ Choice Scarf  
-Ability: Volt Absorb  
+Staryu @ Eviolite  
+Ability: Natural Cure  
 Level: 5  
-EVs: 52 Def / 228 SpA / 220 Spe  
+EVs: 116 HP / 156 Def / 236 Spe  
 Timid Nature  
-IVs: 0 Atk  
-- Volt Switch  
+- Rapid Spin  
+- Thunderbolt  
+- Recover  
 - Scald  
-- Ice Beam  
-- Hydro Pump 
 
-Corphish @ Eviolite  
-Ability: Adaptability  
+Woobat @ Berry Juice  
+Ability: Simple  
 Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
-Adamant Nature
-- Crabhammer  
-- Knock Off  
-- Aqua Jet  
-- Swords Dance 
+EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
+Timid Nature  
+- Nasty Plot  
+- Psychic  
+- Heat Wave  
+- Air Slash  
+
+Diglett @ Life Orb  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Sucker Punch  
+- Rock Slide  
+- Stealth Rock  
+
+Abra @ Focus Sash  
+Ability: Magic Guard  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Psychic  
+- Dazzling Gleam  
+- Energy Ball  
+- Shadow Ball  

@@ -1,60 +1,59 @@
-Pawniard @ Eviolite  
-Ability: Defiant  
+Abra @ Focus Sash  
+Ability: Magic Guard  
 Level: 5  
-EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
-Jolly Nature  
-- Iron Head  
-- Sucker Punch  
-- Swords Dance 
-- Night Slash 
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Psychic  
+- Dazzling Gleam  
+- Energy Ball  
+- Shadow Ball  
 
-Scraggy @ Berry Juice  
-Ability: Moxie 
+Dwebble @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
-Jolly Nature
-- Dragon Dance  
-- High Jump Kick  
-- Crunch  
-- Poison Jab
-
-Shellder @ Eviolite  
-Ability: Skill Link  
-Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
+EVs: 236 Atk / 236 Spe  
 Adamant Nature  
 - Shell Smash  
-- Icicle Spear  
 - Rock Blast  
-- Liquidation
+- Earthquake  
+- Knock Off  
 
-Vulpix @ Eviolite  
+Munchlax @ Berry Juice  
+Ability: Thick Fat  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 SpD  
+Adamant Nature  
+- Body Slam  
+- Earthquake  
+- Curse  
+- Recycle
+
+Vulpix @ Choice Scarf  
 Ability: Drought  
 Level: 5  
 EVs: 52 HP / 196 SpA / 236 Spe  
 Timid Nature  
-IVs: 0 Atk  
-- Fire Blast  
 - Energy Ball  
-- Will-O-Wisp  
-- Extrasensory
+- Weather Ball  
+- Overheat  
+- Fire Blast  
 
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
+Tirtouga @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
-Jolly Nature
-- Brave Bird  
-- Rock Slide 
-- Close Combat  
-- U-turn
+EVs: 212 Atk / 92 Def / 180 Spe  
+Jolly Nature  
+- Shell Smash  
+- Waterfall  
+- Stone Edge  
+- Zen Headbutt
 
-Trapinch @ Eviolite  
-Ability: Arena Trap  
+Staryu @ Eviolite  
+Ability: Natural Cure  
 Level: 5  
-EVs: 196 Atk / 76 Def / 236 SpD  
-Adamant Nature  
-- Earthquake  
-- First Impression  
-- Superpower  
-- Rock Slide
+EVs: 116 HP / 156 Def / 236 Spe  
+Timid Nature  
+- Rapid Spin  
+- Thunderbolt  
+- Recover  
+- Scald  

@@ -1,61 +1,60 @@
-Onix @ Eviolite  
-Ability: Rock Head  
+Larvesta @ Eviolite  
+Ability: Flame Body  
 Level: 5  
 EVs: 76 HP / 236 Atk / 196 Spe  
 Jolly Nature  
-- Dragon Dance  
-- Head Smash  
-- Earthquake  
-- Heavy Slam 
+- U-turn  
+- Flare Blitz  
+- Morning Sun  
+- Will-O-Wisp  
 
-Croagunk @ Berry Juice  
+Farfetch’d-Galar @ Eviolite  
+Ability: Scrappy  
+Level: 5  
+EVs: 20 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Swords Dance  
+- Close Combat  
+- Brave Bird  
+- Knock Off  
+
+Croagunk @ Eviolite  
 Ability: Dry Skin  
 Level: 5  
-EVs: 52 HP / 116 Def / 188 SpA / 116 SpD / 36 Spe  
-Modest Nature  
-IVs: 0 Atk  
+EVs: 116 Def / 188 SpA / 196 Spe  
+Timid Nature  
+- Vacuum Wave  
+- Nasty Plot  
 - Sludge Wave  
 - Focus Blast  
-- Vacuum Wave  
-- Nasty Plot
 
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
+Natu @ Eviolite  
+Ability: Magic Bounce  
 Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
-Jolly Nature
-- Brave Bird  
-- Shadow Claw 
-- Close Combat  
-- U-turn
-
-Shellder @ Eviolite  
-Ability: Skill Link  
-Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Shell Smash  
-- Icicle Spear  
-- Rock Blast  
-- Liquidation
-
-Mareanie @ Eviolite  
-Ability: Regenerator  
-Level: 5  
-EVs: 196 HP / 100 Def / 92 SpA / 100 SpD  
-Calm Nature  
+EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
+Timid Nature  
 IVs: 0 Atk  
-- Scald  
-- Sludge Bomb  
-- Recover  
-- Toxic Spikes 
+- Psychic  
+- Heat Wave  
+- U-turn  
+- Roost  
 
-Timburr @ Eviolite  
-Ability: Iron Fist 
+Tirtouga @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
-Adamant Nature  
-- Drain Punch  
-- Thunder Punch 
-- Mach Punch  
-- Defog 
+EVs: 212 Atk / 92 Def / 180 Spe  
+Jolly Nature  
+- Shell Smash  
+- Waterfall  
+- Stone Edge  
+- Zen Headbutt
+
+Ponyta-Galar @ Eviolite  
+Ability: Pastel Veil  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Mystical Fire  
+- Psychic  
+- Dazzling Gleam  
+- Calm Mind  

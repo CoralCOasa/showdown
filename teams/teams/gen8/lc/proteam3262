@@ -1,60 +1,59 @@
-Vullaby @ Eviolite 
-Ability: Weak Armor  
+Meowth @ Life Orb  
+Ability: Technician  
 Level: 5  
-EVs: 116 HP / 240 SpA / 116 Spe  
+EVs: 236 Atk / 36 SpD / 196 Spe  
+Jolly Nature  
+- Fake Out  
+- Feint  
+- Aerial Ace  
+- Water Pulse  
+
+Dewpider @ Berry Juice  
+Ability: Water Bubble  
+Level: 5  
+EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
 Modest Nature  
-- Nasty Plot  
-- Air Slash  
-- Heat Wave  
-- Dark Pulse
+- Sticky Web  
+- Surf  
+- Icy Wind  
+- Giga Drain
 
-Drilbur @ Eviolite 
-Ability: Mold Breaker  
+Foongus @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 36 HP / 236 Atk / 212 Spe  
-Jolly Nature  
-- Earthquake  
-- Rock Slide  
-- Rapid Spin  
-- Swords Dance
-
-Shellder @ Eviolite  
-Ability: Skill Link  
-Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Shell Smash  
-- Icicle Spear  
-- Rock Blast  
-- Liquidation
-
-Farfetch'd-Galar @ Eviolite  
-Ability: Scrappy  
-Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Close Combat  
-- Brave Bird  
-- Knock Off  
-- Swords Dance 
-
-Scraggy @ Eviolite  
-Ability: Intimidate 
-Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
-Adamant Nature  
-- Dragon Dance  
-- Drain Punch  
-- Crunch  
-- Zen Headbutt 
-
-Oddish @ Eviolite  
-Ability: Chlorophyll  
-Level: 5  
-EVs: 156 HP / 236 Def / 76 SpD / 36 Spe  
+EVs: 124 HP / 156 Def / 156 SpD  
 Bold Nature  
-IVs: 0 Atk  
 - Giga Drain  
+- Spore  
 - Sludge Bomb  
-- Strength Sap  
-- Stun Spore
+- Synthesis  
+
+Carvanha @ Life Orb  
+Ability: Speed Boost  
+Level: 5  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+Adamant Nature  
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation  
+
+Munchlax @ Berry Juice  
+Ability: Thick Fat  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 SpD  
+Adamant Nature  
+- Body Slam  
+- Earthquake  
+- Curse  
+- Recycle
+
+Ponyta-Galar @ Eviolite  
+Ability: Pastel Veil  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Mystical Fire  
+- Psychic  
+- Dazzling Gleam  
+- Calm Mind  

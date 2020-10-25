@@ -1,62 +1,60 @@
-Wingull @ Life Orb  
-Ability: Hydration  
+Corphish @ Eviolite  
+Ability: Adaptability  
+Level: 5  
+EVs: 196 Atk / 76 Def / 236 Spe  
+Adamant Nature  
+- Aqua Jet  
+- Crabhammer  
+- Knock Off  
+- Dragon Dance  
+
+Munchlax @ Berry Juice  
+Ability: Thick Fat  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 SpD  
+Adamant Nature  
+- Body Slam  
+- Earthquake  
+- Curse  
+- Recycle
+
+Magnemite @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
 EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
-IVs: 0 HP  
-- Scald  
-- Hurricane  
-- U-turn  
-- Knock Off 
+- Flash Cannon  
+- Volt Switch  
+- Thunderbolt  
+- Recycle  
 
-Vulpix @ Life Orb  
-Ability: Drought  
+Bunnelby @ Eviolite  
+Ability: Huge Power  
 Level: 5  
-EVs: 36 Def / 196 SpA / 236 Spe  
-Timid Nature  
-IVs: 4 HP  
-- Fire Blast  
-- Energy Ball  
-- Extrasensory  
-- Quick Attack  
-
-Drilbur @ Eviolite 
-Ability: Mold Breaker  
-Level: 5  
-EVs: 36 HP / 236 Atk / 212 Spe  
-Jolly Nature  
+EVs: 228 Atk / 132 Def / 148 SpD  
+Adamant Nature  
 - Earthquake  
-- Rock Slide  
-- Rapid Spin  
-- Stealth Rock 
+- Quick Attack  
+- U-turn  
+- Facade
 
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
+Scraggy @ Eviolite  
+Ability: Moxie  
 Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
-Jolly Nature
-- Brave Bird  
-- Rock Slide 
-- Close Combat  
-- U-turn
+EVs: 236 Atk / 36 SpD / 212 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Knock Off  
+- Drain Punch  
+- High Jump Kick  
 
-Drifloon @ Berry Juice  
-Ability: Unburden  
+Amaura @ Choice Scarf  
+Ability: Refrigerate  
 Level: 5  
-EVs: 36 HP / 36 Atk / 84 Def / 116 SpA / 196 Spe  
-Naive Nature  
-- Shadow Ball  
-- Acrobatics  
-- Will-O-Wisp  
-- Substitute
-
-Ponyta-Galar @ Eviolite 
-Ability: Pastel Veil  
-Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
+EVs: 60 HP / 220 SpA / 228 Spe  
+Modest Nature  
 IVs: 0 Atk  
-- Psychic  
-- Mystical Fire  
-- Morning Sun  
-- Calm Mind 
+- Hyper Voice  
+- Earth Power  
+- Thunderbolt  
+- Ancient Power

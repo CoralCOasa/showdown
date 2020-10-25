@@ -1,59 +1,59 @@
-Frillish @ Eviolite  
-Ability: Water Absorb  
+Ponyta @ Eviolite  
+Ability: Flame Body  
 Level: 5  
-EVs: 236 HP / 116 Def / 76 SpA / 76 SpD  
-Bold Nature  
-- Scald  
-- Shadow Ball 
-- Recover 
-- Will-O-Wisp
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Jolly Nature  
+- Flare Blitz  
+- High Horsepower  
+- Morning Sun  
+- Wild Charge  
 
-Vullaby @ Berry Juice 
-Ability: Weak Armor  
+Munchlax @ Berry Juice  
+Ability: Thick Fat  
 Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
+EVs: 236 Atk / 36 Def / 236 SpD  
 Adamant Nature  
-- Brave Bird  
+- Body Slam  
+- Earthquake  
+- Curse  
+- Recycle
+
+Diglett @ Life Orb  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Sucker Punch  
+- Rock Slide  
+- Stealth Rock  
+
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
+Level: 5  
+EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
+Impish Nature  
 - Knock Off  
-- U-turn  
-- Defog
+- Thunder Wave  
+- Spikes  
+- Giga Drain
 
 Timburr @ Eviolite  
-Ability: Iron Fist 
+Ability: Iron Fist  
 Level: 5  
 EVs: 196 Atk / 156 Def / 156 SpD  
 Adamant Nature  
 - Drain Punch  
-- Thunder Punch 
 - Mach Punch  
-- Defog 
+- Knock Off  
+- Defog  
 
-Farfetch'd-Galar @ Choice Scarf  
-Ability: Scrappy  
+Croagunk @ Eviolite  
+Ability: Dry Skin  
 Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Close Combat  
-- Brave Bird  
-- Knock Off
-- Poison Jab
-
-Dwebble @ Eviolite  
-Ability: Weak Armor  
-Level: 5  
-EVs: 36 HP / 156 Atk / 76 Def / 236 Spe  
-Jolly Nature  
-- Stealth Rock  
-- Spikes  
-- Rock Blast  
-- Knock Off
-
-Trapinch @ Eviolite  
-Ability: Arena Trap  
-Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Adamant Nature  
-- Earthquake  
-- First Impression  
-- Superpower  
-- Rock Slide
+EVs: 116 Def / 188 SpA / 196 Spe  
+Timid Nature  
+- Vacuum Wave  
+- Nasty Plot  
+- Sludge Wave  
+- Focus Blast  

@@ -1,61 +1,59 @@
-Croagunk @ Berry Juice  
-Ability: Dry Skin  
+Woobat @ Berry Juice  
+Ability: Simple  
 Level: 5  
-EVs: 52 HP / 188 Atk / 116 Def / 116 SpD / 36 Spe  
-Adamant Nature  
-- Gunk Shot  
-- Drain Punch  
-- Sucker Punch  
-- Bulk Up
-
-Drifloon @ Berry Juice  
-Ability: Unburden  
-Level: 5  
-EVs: 116 HP / 196 SpA / 196 Spe  
+EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
 Timid Nature  
-IVs: 0 Atk  
+- Nasty Plot  
+- Psychic  
+- Heat Wave  
+- Air Slash  
+
+Abra @ Focus Sash  
+Ability: Magic Guard  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Psychic  
+- Dazzling Gleam  
+- Energy Ball  
 - Shadow Ball  
-- Thunderbolt  
-- Will-O-Wisp 
-- Substitute
 
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
+Corphish @ Eviolite  
+Ability: Adaptability  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
+EVs: 196 Atk / 76 Def / 236 Spe  
 Adamant Nature  
-- Facade 
-- Fire Punch  
-- Curse  
-- Recycle
+- Aqua Jet  
+- Crabhammer  
+- Knock Off  
+- Dragon Dance  
 
-Timburr @ Eviolite  
-Ability: Iron Fist 
+Tirtouga @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
-Adamant Nature  
+EVs: 212 Atk / 92 Def / 180 Spe  
+Jolly Nature  
+- Shell Smash  
+- Waterfall  
+- Stone Edge  
+- Zen Headbutt
+
+Meowth @ Life Orb  
+Ability: Technician  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 196 Spe  
+Jolly Nature  
+- Fake Out  
+- Feint  
+- Aerial Ace  
+- Water Pulse  
+
+Grookey @ Eviolite  
+Ability: Grassy Surge  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Grassy Glide  
+- Knock Off  
 - Drain Punch  
-- Thunder Punch 
-- Mach Punch  
-- Defog 
-
-Mudbray @ Eviolite 
-Ability: Stamina  
-Level: 5  
-EVs: 116 HP / 196 Atk / 36 Def / 156 Spe  
-Adamant Nature  
-- Earthquake  
-- Heavy Slam  
-- Rock Slide  
-- Stealth Rock
-
-Mareanie @ Eviolite  
-Ability: Regenerator  
-Level: 5  
-EVs: 196 HP / 100 Def / 92 SpA / 100 SpD  
-Calm Nature  
-IVs: 0 Atk  
-- Scald  
-- Sludge Bomb  
-- Recover  
-- Iron Defense
+- U-turn  

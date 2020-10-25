@@ -1,61 +1,59 @@
-Mareanie @ Eviolite  
-Ability: Regenerator  
+Timburr @ Eviolite  
+Ability: Iron Fist  
 Level: 5  
-EVs: 196 HP / 100 Def / 92 SpA / 100 SpD  
-Calm Nature  
-IVs: 0 Atk  
-- Scald  
-- Sludge Bomb  
-- Recover  
-- Iron Defense
-
-Cutiefly @ Focus Sash 
-Ability: Shield Dust 
-Level: 5  
-EVs: 236 SpA / 244 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Moonblast  
-- Bug Buzz 
-- Sticky Web  
-- Quiver Dance 
-
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
+EVs: 196 Atk / 156 Def / 156 SpD  
 Adamant Nature  
-- Body Slam  
-- Fire Punch  
-- Curse  
-- Recycle
-
-Corphish @ Eviolite  
-Ability: Adaptability  
-Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
-Adamant Nature
-- Crabhammer  
+- Drain Punch  
+- Mach Punch  
 - Knock Off  
-- Aqua Jet  
-- Swords Dance 
+- Defog  
 
-Dwebble @ Eviolite  
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
+Level: 5  
+EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
+Impish Nature  
+- Knock Off  
+- Thunder Wave  
+- Spikes  
+- Giga Drain
+
+Koffing @ Eviolite  
+Ability: Levitate  
+Level: 5  
+EVs: 36 HP / 236 Def / 236 SpD  
+Bold Nature  
+- Will-O-Wisp  
+- Toxic Spikes  
+- Pain Split  
+- Sludge Bomb  
+
+Vullaby @ Berry Juice  
 Ability: Weak Armor  
 Level: 5  
-EVs: 36 HP / 156 Atk / 76 Def / 236 Spe  
+EVs: 236 Atk / 76 Def / 196 Spe  
 Jolly Nature  
-- Stealth Rock  
-- Spikes  
-- Rock Blast  
-- Knock Off
-
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
-Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
-Jolly Nature
+- Knock Off  
 - Brave Bird  
-- Shadow Claw 
-- Close Combat  
-- U-turn
+- U-turn  
+- Defog  
+
+Scorbunny @ Berry Juice  
+Ability: Libero  
+Level: 5  
+EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
+Jolly Nature  
+- High Jump Kick  
+- U-turn  
+- Blaze Kick  
+- Gunk Shot  
+
+Vulpix @ Choice Scarf  
+Ability: Drought  
+Level: 5  
+EVs: 52 HP / 196 SpA / 236 Spe  
+Timid Nature  
+- Energy Ball  
+- Weather Ball  
+- Overheat  
+- Fire Blast  

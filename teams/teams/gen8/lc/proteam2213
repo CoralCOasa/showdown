@@ -1,53 +1,22 @@
-Ponyta-Galar @ Life Orb  
-Ability: Pastel Veil  
+Archen @ Berry Juice  
+Ability: Defeatist  
 Level: 5  
-EVs: 76 Def / 236 SpA / 196 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Psychic  
-- Mystical Fire  
-- Morning Sun  
-- Calm Mind 
-
-Drilbur @ Eviolite 
-Ability: Mold Breaker  
-Level: 5  
-EVs: 36 HP / 236 Atk / 212 Spe  
+EVs: 76 HP / 180 Atk / 196 Spe  
 Jolly Nature  
+- Stone Edge  
+- Dual Wingbeat  
 - Earthquake  
-- Rock Slide  
-- Rapid Spin  
-- Stealth Rock 
+- U-turn
 
 Shellder @ Eviolite  
 Ability: Skill Link  
 Level: 5  
 EVs: 236 Atk / 76 SpD / 196 Spe  
 Adamant Nature  
-- Shell Smash  
 - Icicle Spear  
+- Shell Smash  
 - Rock Blast  
-- Liquidation
-
-Frillish @ Choice Scarf  
-Ability: Water Absorb  
-Level: 5  
-EVs: 76 HP / 236 SpA / 196 Spe  
-Timid Nature  
-- Water Spout  
-- Shadow Ball  
-- Energy Ball  
-- Trick
-
-Wingull @ Eviolite  
-Ability: Keen Eye 
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-- Scald  
-- Hurricane  
-- U-turn 
-- Roost
+- Liquidation  
 
 Munchlax @ Berry Juice  
 Ability: Thick Fat  
@@ -55,6 +24,36 @@ Level: 5
 EVs: 236 Atk / 36 Def / 236 SpD  
 Adamant Nature  
 - Body Slam  
-- Fire Punch  
-- Earthquake 
+- Earthquake  
+- Curse  
 - Recycle
+
+Ponyta @ Eviolite  
+Ability: Flame Body  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Jolly Nature  
+- Flare Blitz  
+- High Horsepower  
+- Morning Sun  
+- Wild Charge  
+
+Carvanha @ Life Orb  
+Ability: Speed Boost  
+Level: 5  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+Adamant Nature  
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation  
+
+Foongus @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 124 HP / 156 Def / 156 SpD  
+Bold Nature  
+- Giga Drain  
+- Spore  
+- Sludge Bomb  
+- Synthesis  

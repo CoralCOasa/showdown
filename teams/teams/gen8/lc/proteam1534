@@ -1,62 +1,60 @@
-Mareanie @ Eviolite  
-Ability: Regenerator  
+Ponyta @ Eviolite  
+Ability: Flame Body  
 Level: 5  
-EVs: 196 HP / 100 Def / 92 SpA / 100 SpD  
-Calm Nature  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Jolly Nature  
+- Flare Blitz  
+- High Horsepower  
+- Morning Sun  
+- Wild Charge  
+
+Amaura @ Choice Scarf  
+Ability: Refrigerate  
+Level: 5  
+EVs: 60 HP / 220 SpA / 228 Spe  
+Modest Nature  
 IVs: 0 Atk  
-- Scald  
-- Sludge Bomb  
+- Hyper Voice  
+- Earth Power  
+- Thunderbolt  
+- Ancient Power
+
+Ponyta-Galar @ Eviolite  
+Ability: Pastel Veil  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Mystical Fire  
+- Psychic  
+- Dazzling Gleam  
+- Calm Mind  
+
+Porygon @ Eviolite  
+Ability: Download  
+Level: 5  
+EVs: 36 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Tri Attack  
 - Recover  
-- Iron Defense
+- Ice Beam  
+- Psychic  
 
-Vulpix @ Life Orb  
-Ability: Drought  
+Corphish @ Eviolite  
+Ability: Adaptability  
 Level: 5  
-EVs: 36 Def / 196 SpA / 236 Spe  
+EVs: 196 Atk / 76 Def / 236 Spe  
+Adamant Nature  
+- Aqua Jet  
+- Crabhammer  
+- Knock Off  
+- Dragon Dance  
+
+Abra @ Focus Sash  
+Ability: Magic Guard  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
 Timid Nature  
-IVs: 4 HP  
-- Fire Blast  
+- Psychic  
+- Dazzling Gleam  
 - Energy Ball  
-- Extrasensory  
-- Will-O-Wisp 
-
-Trapinch @ Eviolite  
-Ability: Arena Trap  
-Level: 5  
-EVs: 196 Atk / 76 Def / 236 SpD  
-Adamant Nature  
-- Earthquake  
-- First Impression  
-- Superpower  
-- Rock Slide
-
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
-Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
-Adamant Nature  
-- Brave Bird  
-- Retaliate  
-- Close Combat  
-- U-turn
-
-Cufant @ Eviolite 
-Ability: Sheer Force  
-Level: 5  
-EVs: 20 HP / 196 Atk / 44 Def / 204 SpD / 36 Spe  
-Adamant Nature  
-- Iron Head  
-- Play Rough  
-- Superpower 
-- Stealth Rock
-
-Cutiefly @ Eviolite  
-Ability: Shield Dust 
-Level: 5  
-EVs: 236 SpA / 244 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Moonblast  
-- Psychic
-- Sticky Web  
-- Stun Spore 
+- Shadow Ball  

@@ -1,34 +1,12 @@
-Mareanie @ Eviolite  
-Ability: Regenerator  
+Chinchou @ Eviolite  
+Ability: Volt Absorb  
 Level: 5  
-EVs: 196 HP / 100 Def / 92 SpA / 100 SpD  
-Calm Nature  
-IVs: 0 Atk  
-- Scald  
-- Sludge Bomb  
-- Recover  
-- Toxic Spikes 
-
-Ponyta-Galar @ Eviolite 
-Ability: Pastel Veil  
-Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
+EVs: 52 Def / 228 SpA / 220 Spe  
 Timid Nature  
-IVs: 0 Atk  
-- Psychic  
-- Mystical Fire  
-- Morning Sun  
-- Calm Mind 
-
-Shellder @ Eviolite  
-Ability: Skill Link  
-Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Shell Smash  
-- Icicle Spear  
-- Rock Blast  
-- Liquidation
+- Volt Switch  
+- Scald  
+- Ice Beam  
+- Thunderbolt  
 
 Pawniard @ Eviolite  
 Ability: Defiant  
@@ -36,28 +14,46 @@ Level: 5
 EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
 Jolly Nature  
 - Iron Head  
+- Knock Off  
 - Sucker Punch  
-- Swords Dance 
-- Brick Break
+- Stealth Rock  
 
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
+Dewpider @ Berry Juice  
+Ability: Water Bubble  
 Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
-Bold Nature  
-IVs: 0 Atk  
-- Wish  
-- Protect  
-- Moonblast  
-- Calm Mind 
-
-Croagunk @ Berry Juice  
-Ability: Dry Skin  
-Level: 5  
-EVs: 52 HP / 116 Def / 188 SpA / 116 SpD / 36 Spe  
+EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
 Modest Nature  
-IVs: 0 Atk  
-- Sludge Wave  
-- Focus Blast  
-- Vacuum Wave  
-- Nasty Plot
+- Sticky Web  
+- Surf  
+- Icy Wind  
+- Giga Drain
+
+Mareanie @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+Bold Nature  
+- Recover  
+- Scald  
+- Toxic Spikes  
+- Sludge Bomb  
+
+Meowth @ Life Orb  
+Ability: Technician  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 196 Spe  
+Jolly Nature  
+- Fake Out  
+- Feint  
+- Aerial Ace  
+- Water Pulse  
+
+Bunnelby @ Eviolite  
+Ability: Huge Power  
+Level: 5  
+EVs: 228 Atk / 132 Def / 148 SpD  
+Adamant Nature  
+- Earthquake  
+- Quick Attack  
+- U-turn  
+- Facade

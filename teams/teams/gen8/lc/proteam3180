@@ -1,61 +1,60 @@
-Ferroseed @ Eviolite  
-Ability: Iron Barbs  
+Dwebble @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 84 HP / 36 Atk / 108 Def / 228 SpD / 36 Spe  
-Impish Nature  
-- Bullet Seed  
-- Knock Off 
-- Thunder Wave  
-- Stealth Rock 
-
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
+EVs: 236 Atk / 236 Spe  
 Adamant Nature  
-- Facade 
-- Fire Punch  
-- Curse  
-- Recycle
-
-Frillish @ Eviolite  
-Ability: Water Absorb  
-Level: 5  
-EVs: 236 HP / 116 Def / 76 SpA / 76 SpD  
-Bold Nature  
-- Scald  
-- Shadow Ball 
-- Recover 
-- Will-O-Wisp
-
-Farfetch'd-Galar @ Eviolite  
-Ability: Scrappy  
-Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Close Combat  
-- Brave Bird  
+- Shell Smash  
+- Rock Blast  
+- Earthquake  
 - Knock Off  
-- Poison Jab 
 
-Vulpix @ Life Orb  
-Ability: Drought  
+Scorbunny @ Berry Juice  
+Ability: Libero  
 Level: 5  
-EVs: 36 Def / 196 SpA / 236 Spe  
+EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
+Jolly Nature  
+- High Jump Kick  
+- U-turn  
+- Blaze Kick  
+- Gunk Shot  
+
+Corphish @ Eviolite  
+Ability: Adaptability  
+Level: 5  
+EVs: 196 Atk / 76 Def / 236 Spe  
+Adamant Nature  
+- Aqua Jet  
+- Crabhammer  
+- Knock Off  
+- Dragon Dance  
+
+Chinchou @ Eviolite  
+Ability: Volt Absorb  
+Level: 5  
+EVs: 52 Def / 228 SpA / 220 Spe  
 Timid Nature  
-IVs: 4 HP  
-- Fire Blast  
-- Energy Ball  
-- Extrasensory  
-- Overheat 
+- Volt Switch  
+- Scald  
+- Ice Beam  
+- Thunderbolt  
 
-Croagunk @ Eviolite 
-Ability: Dry Skin  
+Larvesta @ Eviolite  
+Ability: Flame Body  
 Level: 5  
-EVs: 52 HP / 116 Def / 188 SpA / 116 SpD / 36 Spe  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- U-turn  
+- Flare Blitz  
+- Morning Sun  
+- Will-O-Wisp  
+
+Amaura @ Choice Scarf  
+Ability: Refrigerate  
+Level: 5  
+EVs: 60 HP / 220 SpA / 228 Spe  
 Modest Nature  
 IVs: 0 Atk  
-- Sludge Wave  
-- Focus Blast  
-- Vacuum Wave  
-- Nasty Plot
+- Hyper Voice  
+- Earth Power  
+- Thunderbolt  
+- Ancient Power

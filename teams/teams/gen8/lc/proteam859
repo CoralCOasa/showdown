@@ -1,60 +1,59 @@
-Vulpix @ Life Orb  
-Ability: Drought  
+Diglett @ Life Orb  
+Ability: Arena Trap  
 Level: 5  
-EVs: 36 Def / 196 SpA / 236 Spe  
-Timid Nature  
-IVs: 4 HP  
-- Fire Blast  
-- Energy Ball  
-- Extrasensory  
-- Will-O-Wisp 
-
-Farfetch'd-Galar @ Choice Scarf  
-Ability: Scrappy  
-Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
+EVs: 36 HP / 236 Atk / 236 Spe  
 Jolly Nature  
-- Close Combat  
-- Brave Bird  
-- Knock Off
-- Defog 
+- Earthquake  
+- Sucker Punch  
+- Rock Slide  
+- Stealth Rock  
 
-Vullaby @ Berry Juice 
-Ability: Weak Armor  
-Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Adamant Nature  
-- Brave Bird  
-- Knock Off  
-- U-turn  
-- Defog
-
-Onix @ Berry Juice  
+Magnemite @ Berry Juice  
 Ability: Sturdy  
 Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Timid Nature  
+- Flash Cannon  
+- Volt Switch  
+- Thunderbolt  
+- Recycle  
+
+Tirtouga @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 212 Atk / 92 Def / 180 Spe  
 Jolly Nature  
-- Stealth Rock  
-- Rock Blast  
-- Earthquake  
-- Self-Destruct
+- Shell Smash  
+- Waterfall  
+- Stone Edge  
+- Zen Headbutt
 
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
+Mareanie @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
-Adamant Nature  
-- Body Slam  
-- Fire Punch  
-- Earthquake 
-- Recycle
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+Bold Nature  
+- Recover  
+- Scald  
+- Toxic Spikes  
+- Sludge Bomb  
 
-Shellder @ Eviolite  
-Ability: Skill Link  
+Dwebble @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
+EVs: 236 Atk / 236 Spe  
 Adamant Nature  
 - Shell Smash  
-- Icicle Spear  
 - Rock Blast  
-- Liquidation
+- Earthquake  
+- Knock Off  
+
+Trapinch @ Eviolite  
+Ability: Arena Trap  
+Level: 5  
+EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
+Relaxed Nature  
+- Earthquake  
+- First Impression  
+- Superpower  
+- Giga Drain  

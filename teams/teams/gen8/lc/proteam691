@@ -1,60 +1,59 @@
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
+Shellder @ Eviolite  
+Ability: Skill Link  
 Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
-Bold Nature  
-IVs: 0 Atk  
-- Wish  
-- Protect  
-- Moonblast  
-- Psychic 
-
-Timburr @ Eviolite  
-Ability: Iron Fist 
-Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
+EVs: 236 Atk / 76 SpD / 196 Spe  
 Adamant Nature  
-- Drain Punch  
-- Thunder Punch  
-- Mach Punch  
-- Defog 
+- Icicle Spear  
+- Shell Smash  
+- Rock Blast  
+- Liquidation  
 
-Farfetch'd-Galar @ Eviolite  
+Ponyta-Galar @ Eviolite  
+Ability: Pastel Veil  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Mystical Fire  
+- Psychic  
+- Dazzling Gleam  
+- Calm Mind  
+
+Bunnelby @ Eviolite  
+Ability: Huge Power  
+Level: 5  
+EVs: 228 Atk / 132 Def / 148 SpD  
+Adamant Nature  
+- Earthquake  
+- Quick Attack  
+- U-turn  
+- Facade
+
+Farfetch’d-Galar @ Eviolite  
 Ability: Scrappy  
 Level: 5  
 EVs: 20 HP / 236 Atk / 236 Spe  
 Jolly Nature  
+- Swords Dance  
 - Close Combat  
 - Brave Bird  
 - Knock Off  
-- Poison Jab 
 
-Corphish @ Eviolite  
-Ability: Adaptability  
+Dwebble @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
-Adamant Nature
-- Crabhammer  
-- Knock Off  
-- Aqua Jet  
-- Swords Dance 
-
-Croagunk @ Eviolite 
-Ability: Dry Skin  
-Level: 5  
-EVs: 52 HP / 188 Atk / 116 Def / 116 SpD / 36 Spe  
+EVs: 236 Atk / 236 Spe  
 Adamant Nature  
-- Gunk Shot  
-- Drain Punch  
-- Sucker Punch  
-- Bulk Up
-
-Drilbur @ Eviolite 
-Ability: Mold Breaker  
-Level: 5  
-EVs: 36 HP / 236 Atk / 212 Spe  
-Jolly Nature  
+- Shell Smash  
+- Rock Blast  
 - Earthquake  
-- Rock Slide  
-- Rapid Spin  
-- Swords Dance
+- Knock Off  
+
+Grookey @ Eviolite  
+Ability: Grassy Surge  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Grassy Glide  
+- Knock Off  
+- Drain Punch  
+- U-turn  

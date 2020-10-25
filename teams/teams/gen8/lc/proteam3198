@@ -1,60 +1,59 @@
-Wingull @ Eviolite  
-Ability: Keen Eye 
+Archen @ Berry Juice  
+Ability: Defeatist  
+Level: 5  
+EVs: 76 HP / 180 Atk / 196 Spe  
+Jolly Nature  
+- Stone Edge  
+- Dual Wingbeat  
+- Earthquake  
+- U-turn
+
+Magnemite @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Timid Nature  
+- Flash Cannon  
+- Volt Switch  
+- Thunderbolt  
+- Recycle  
+
+Shellder @ Eviolite  
+Ability: Skill Link  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Adamant Nature  
+- Icicle Spear  
+- Shell Smash  
+- Rock Blast  
+- Liquidation  
+
+Ponyta @ Eviolite  
+Ability: Flame Body  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Jolly Nature  
+- Flare Blitz  
+- High Horsepower  
+- Morning Sun  
+- Wild Charge  
+
+Wingull @ Life Orb  
+Ability: Hydration  
 Level: 5  
 EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
 - Scald  
 - Hurricane  
-- U-turn 
-- Roost
+- U-turn  
+- Air Slash  
 
-Corphish @ Eviolite  
-Ability: Adaptability  
+Woobat @ Berry Juice  
+Ability: Simple  
 Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
-Jolly Nature  
-- Crabhammer  
-- Knock Off  
-- Aqua Jet  
-- Superpower 
-
-Onix @ Eviolite  
-Ability: Rock Head  
-Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
-Jolly Nature  
-- Dragon Dance  
-- Head Smash  
-- Earthquake  
-- Stealth Rock 
-
-Drifloon @ Berry Juice  
-Ability: Unburden  
-Level: 5  
-EVs: 116 HP / 196 SpA / 196 Spe  
+EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
 Timid Nature  
-IVs: 0 Atk  
-- Shadow Ball  
-- Thunderbolt  
-- Will-O-Wisp 
-- Substitute
-
-Scraggy @ Eviolite  
-Ability: Moxie  
-Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
-Adamant Nature  
-- Dragon Dance  
-- Drain Punch  
-- Crunch  
-- Zen Headbutt 
-
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
-Adamant Nature  
-- Body Slam  
-- Fire Punch  
-- Earthquake 
-- Recycle
+- Nasty Plot  
+- Psychic  
+- Heat Wave  
+- Air Slash  

@@ -1,60 +1,59 @@
-Wingull @ Eviolite  
-Ability: Keen Eye 
+Chinchou @ Eviolite  
+Ability: Volt Absorb  
 Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
+EVs: 52 Def / 228 SpA / 220 Spe  
 Timid Nature  
+- Volt Switch  
 - Scald  
-- Hurricane  
-- U-turn 
-- Roost
+- Ice Beam  
+- Thunderbolt  
 
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
+Drilbur @ Eviolite  
+Ability: Mold Breaker  
 Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
-Jolly Nature
-- Brave Bird  
-- Retaliate 
-- Close Combat  
-- U-turn
-
-Dwebble @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 236 Atk / 236 Spe  
-Adamant Nature  
-- Shell Smash  
-- Rock Blast  
-- Earthquake  
-- Knock Off
-
-Diglett @ Focus Sash  
-Ability: Arena Trap  
-Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
 Jolly Nature  
 - Earthquake  
+- Rapid Spin  
 - Rock Slide  
-- Sucker Punch  
-- Stealth Rock 
+- Stealth Rock  
 
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
+Larvesta @ Eviolite  
+Ability: Flame Body  
 Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
-Bold Nature  
-IVs: 0 Atk  
-- Wish  
-- Protect  
-- Moonblast  
-- Psychic 
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- U-turn  
+- Flare Blitz  
+- Morning Sun  
+- Will-O-Wisp  
 
-Timburr @ Eviolite  
-Ability: Iron Fist 
+Zigzagoon @ Berry Juice  
+Ability: Quick Feet  
 Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
+EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
 Adamant Nature  
-- Drain Punch  
-- Thunder Punch 
-- Mach Punch  
-- Defog 
+- Extreme Speed  
+- Belly Drum  
+- Thief  
+- Seed Bomb  
+
+Staryu @ Eviolite  
+Ability: Natural Cure  
+Level: 5  
+EVs: 116 HP / 156 Def / 236 Spe  
+Timid Nature  
+- Rapid Spin  
+- Thunderbolt  
+- Recover  
+- Scald  
+
+Meowth @ Life Orb  
+Ability: Technician  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 196 Spe  
+Jolly Nature  
+- Fake Out  
+- Feint  
+- Aerial Ace  
+- Water Pulse  

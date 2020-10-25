@@ -1,59 +1,59 @@
-Ferroseed @ Eviolite  
-Ability: Iron Barbs  
+Foongus @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 84 HP / 36 Atk / 108 Def / 228 SpD / 36 Spe  
-Impish Nature  
-- Bullet Seed  
-- Iron Head  
-- Thunder Wave  
-- Stealth Rock 
-
-Timburr @ Eviolite  
-Ability: Guts  
-Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
-Adamant Nature  
-- Drain Punch  
-- Thunder Punch 
-- Mach Punch  
-- Defog 
-
-Chinchou @ Eviolite  
-Ability: Volt Absorb  
-Level: 5  
-EVs: 76 HP / 212 Def / 152 SpA / 60 Spe  
+EVs: 124 HP / 156 Def / 156 SpD  
 Bold Nature  
-- Scald  
-- Volt Switch  
-- Ice Beam  
-- Thunder Wave
+- Giga Drain  
+- Spore  
+- Sludge Bomb  
+- Synthesis  
 
-Farfetch'd-Galar @ Choice Scarf  
-Ability: Scrappy  
+Dewpider @ Berry Juice  
+Ability: Water Bubble  
 Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
+EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
+Modest Nature  
+- Sticky Web  
+- Surf  
+- Icy Wind  
+- Giga Drain
+
+Carvanha @ Life Orb  
+Ability: Speed Boost  
+Level: 5  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+Adamant Nature  
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation  
+
+Diglett @ Life Orb  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 236 Atk / 236 Spe  
 Jolly Nature  
-- Close Combat  
-- Brave Bird  
-- Knock Off
-- Defog 
+- Earthquake  
+- Sucker Punch  
+- Rock Slide  
+- Stealth Rock  
 
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
+Bunnelby @ Eviolite  
+Ability: Huge Power  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
+EVs: 228 Atk / 132 Def / 148 SpD  
 Adamant Nature  
-- Facade 
-- Fire Punch  
-- Curse  
-- Recycle
-
-Vullaby @ Eviolite  
-Ability: Weak Armor  
-Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Adamant Nature  
-- Brave Bird  
-- Knock Off  
+- Earthquake  
+- Quick Attack  
 - U-turn  
-- Defog
+- Facade
+
+Dwebble @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 236 Atk / 236 Spe  
+Adamant Nature  
+- Shell Smash  
+- Rock Blast  
+- Earthquake  
+- Knock Off  

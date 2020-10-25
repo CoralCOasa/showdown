@@ -1,61 +1,59 @@
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
+Vullaby @ Berry Juice  
+Ability: Weak Armor  
 Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
-Jolly Nature
-- Brave Bird  
-- Rock Slide 
-- Close Combat  
-- U-turn
-
-Croagunk @ Eviolite 
-Ability: Dry Skin  
-Level: 5  
-EVs: 52 HP / 116 Def / 188 SpA / 116 SpD / 36 Spe  
-Modest Nature  
-IVs: 0 Atk  
-- Sludge Wave  
-- Focus Blast  
-- Vacuum Wave  
-- Nasty Plot
-
-Corphish @ Eviolite  
-Ability: Adaptability  
-Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
+EVs: 236 Atk / 76 Def / 196 Spe  
 Jolly Nature  
-- Crabhammer  
 - Knock Off  
-- Aqua Jet  
-- Dragon Dance
+- Brave Bird  
+- U-turn  
+- Defog  
 
-Cufant @ Eviolite 
-Ability: Sheer Force  
+Mienfoo @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 20 HP / 196 Atk / 44 Def / 204 SpD / 36 Spe  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Knock Off  
+- U-turn  
+- High Jump Kick  
+- Fake Out  
+
+Munchlax @ Berry Juice  
+Ability: Thick Fat  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 SpD  
 Adamant Nature  
-- Iron Head  
-- Play Rough  
-- High Horsepower
-- Stealth Rock
+- Body Slam  
+- Earthquake  
+- Curse  
+- Recycle
+
+Diglett @ Life Orb  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Sucker Punch  
+- Rock Slide  
+- Stealth Rock  
+
+Vulpix @ Choice Scarf  
+Ability: Drought  
+Level: 5  
+EVs: 52 HP / 196 SpA / 236 Spe  
+Timid Nature  
+- Energy Ball  
+- Weather Ball  
+- Overheat  
+- Fire Blast  
 
 Shellder @ Eviolite  
 Ability: Skill Link  
 Level: 5  
 EVs: 236 Atk / 76 SpD / 196 Spe  
 Adamant Nature  
-- Shell Smash  
 - Icicle Spear  
+- Shell Smash  
 - Rock Blast  
-- Liquidation
-
-Wingull @ Life Orb  
-Ability: Hydration  
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-IVs: 0 HP  
-- Scald  
-- Hurricane  
-- U-turn  
-- Roost
+- Liquidation  

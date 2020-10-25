@@ -1,61 +1,60 @@
-Shellder @ Eviolite  
-Ability: Skill Link  
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Knock Off  
+- U-turn  
+- High Jump Kick  
+- Fake Out  
+
+Diglett @ Life Orb  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Sucker Punch  
+- Rock Slide  
+- Stealth Rock  
+
+Ponyta @ Eviolite  
+Ability: Flame Body  
 Level: 5  
 EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Shell Smash  
-- Icicle Spear  
-- Rock Blast  
-- Liquidation
+Jolly Nature  
+- Flare Blitz  
+- High Horsepower  
+- Morning Sun  
+- Wild Charge  
 
-Oddish @ Eviolite  
-Ability: Chlorophyll  
+Amaura @ Choice Scarf  
+Ability: Refrigerate  
 Level: 5  
-EVs: 156 HP / 236 Def / 76 SpD / 36 Spe  
-Bold Nature  
+EVs: 60 HP / 220 SpA / 228 Spe  
+Modest Nature  
 IVs: 0 Atk  
+- Hyper Voice  
+- Earth Power  
+- Thunderbolt  
+- Ancient Power
+
+Trapinch @ Eviolite  
+Ability: Arena Trap  
+Level: 5  
+EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
+Relaxed Nature  
+- Earthquake  
+- First Impression  
+- Superpower  
 - Giga Drain  
-- Sludge Bomb  
-- Strength Sap  
-- Sleep Powder 
-
-Scraggy @ Eviolite  
-Ability: Moxie 
-Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
-Adamant Nature  
-- Dragon Dance  
-- Drain Punch  
-- Crunch  
-- Poison Jab 
-
-Cufant @ Eviolite 
-Ability: Sheer Force  
-Level: 5  
-EVs: 20 HP / 196 Atk / 44 Def / 204 SpD / 36 Spe  
-Adamant Nature  
-- Iron Head  
-- Play Rough  
-- Power Whip 
-- Stealth Rock
 
 Spritzee @ Eviolite  
 Ability: Aroma Veil  
 Level: 5  
 EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
 Bold Nature  
-IVs: 0 Atk  
+- Moonblast  
 - Wish  
 - Protect  
-- Moonblast  
-- Psychic 
-
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
-Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
-Jolly Nature
-- Brave Bird  
-- Shadow Claw 
-- Close Combat  
-- U-turn
+- Calm Mind  

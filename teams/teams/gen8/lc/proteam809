@@ -1,60 +1,60 @@
-Oddish @ Eviolite  
-Ability: Chlorophyll  
+Meowth @ Life Orb  
+Ability: Technician  
 Level: 5  
-EVs: 156 HP / 236 Def / 76 SpD / 36 Spe  
+EVs: 236 Atk / 36 SpD / 196 Spe  
+Jolly Nature  
+- Fake Out  
+- Feint  
+- Aerial Ace  
+- Water Pulse  
+
+Abra @ Focus Sash  
+Ability: Magic Guard  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Psychic  
+- Dazzling Gleam  
+- Energy Ball  
+- Shadow Ball  
+
+Mareanie @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
 Bold Nature  
-IVs: 0 Atk  
-- Giga Drain  
+- Recover  
+- Scald  
+- Toxic Spikes  
 - Sludge Bomb  
-- Strength Sap  
-- Sleep Powder 
 
-Onix @ Eviolite  
-Ability: Rock Head  
+Amaura @ Choice Scarf  
+Ability: Refrigerate  
 Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
+EVs: 60 HP / 220 SpA / 228 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hyper Voice  
+- Earth Power  
+- Thunderbolt  
+- Ancient Power
+
+Tirtouga @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 212 Atk / 92 Def / 180 Spe  
 Jolly Nature  
-- Dragon Dance  
-- Head Smash  
-- Earthquake  
-- Heavy Slam 
+- Shell Smash  
+- Waterfall  
+- Stone Edge  
+- Zen Headbutt
 
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
 Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
-Adamant Nature  
-- Brave Bird  
-- Rock Slide 
-- Close Combat  
-- U-turn
-
-Scraggy @ Eviolite  
-Ability: Moxie  
-Level: 5  
-EVs: 36 HP / 156 Atk / 36 Def / 36 SpD / 212 Spe  
-Jolly Nature
-- Dragon Dance  
-- High Jump Kick 
-- Crunch  
-- Poison Jab
-
-Diglett @ Life Orb  
-Ability: Arena Trap  
-Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Earthquake  
-- Rock Slide  
-- Sucker Punch  
-- Memento  
-
-Farfetch'd-Galar @ Choice Scarf  
-Ability: Scrappy  
-Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Close Combat  
-- Brave Bird  
-- Knock Off
-- Poison Jab
+EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
+Impish Nature  
+- Knock Off  
+- Thunder Wave  
+- Spikes  
+- Giga Drain

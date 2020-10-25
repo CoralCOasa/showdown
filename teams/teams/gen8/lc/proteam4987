@@ -1,61 +1,59 @@
-Dwebble @ Berry Juice  
+Woobat @ Berry Juice  
+Ability: Simple  
+Level: 5  
+EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
+Timid Nature  
+- Nasty Plot  
+- Psychic  
+- Heat Wave  
+- Air Slash  
+
+Onix @ Berry Juice  
 Ability: Sturdy  
 Level: 5  
-EVs: 236 Atk / 236 Spe  
-Adamant Nature  
-- Shell Smash  
-- Rock Blast  
-- Earthquake  
-- Knock Off
-
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
-Adamant Nature  
-- Body Slam  
-- Fire Punch  
-- Curse  
-- Recycle
-
-Timburr @ Eviolite  
-Ability: Guts  
-Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
-Adamant Nature  
-- Drain Punch  
-- Thunder Punch 
-- Mach Punch  
-- Defog 
-
-Drilbur @ Eviolite 
-Ability: Mold Breaker  
-Level: 5  
-EVs: 36 HP / 236 Atk / 212 Spe  
+EVs: 76 HP / 236 Atk / 196 Spe  
 Jolly Nature  
 - Earthquake  
-- Rock Slide  
+- Stealth Rock  
+- Rock Blast  
+- Dragon Dance  
+
+Staryu @ Eviolite  
+Ability: Natural Cure  
+Level: 5  
+EVs: 116 HP / 156 Def / 236 Spe  
+Timid Nature  
 - Rapid Spin  
-- Stealth Rock 
-
-Chinchou @ Choice Scarf  
-Ability: Volt Absorb  
-Level: 5  
-EVs: 52 Def / 228 SpA / 220 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Volt Switch  
+- Thunderbolt  
+- Recover  
 - Scald  
-- Ice Beam  
-- Dazzling Gleam
 
-Wingull @ Life Orb  
-Ability: Keen Eye 
+Trapinch @ Eviolite  
+Ability: Arena Trap  
 Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-IVs: 0 HP  
-- Scald  
-- Hurricane  
-- U-turn  
-- Roost
+EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
+Relaxed Nature  
+- Earthquake  
+- First Impression  
+- Superpower  
+- Giga Drain  
+
+Dewpider @ Berry Juice  
+Ability: Water Bubble  
+Level: 5  
+EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
+Modest Nature  
+- Sticky Web  
+- Surf  
+- Icy Wind  
+- Giga Drain
+
+Meowth @ Life Orb  
+Ability: Technician  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 196 Spe  
+Jolly Nature  
+- Fake Out  
+- Feint  
+- Aerial Ace  
+- Water Pulse  

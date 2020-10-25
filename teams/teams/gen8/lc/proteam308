@@ -1,33 +1,12 @@
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
+Diglett @ Life Orb  
+Ability: Arena Trap  
 Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
-Bold Nature  
-IVs: 0 Atk  
-- Wish  
-- Protect  
-- Moonblast  
-- Psychic 
-
-Drifloon @ Berry Juice  
-Ability: Unburden  
-Level: 5  
-EVs: 36 HP / 36 Atk / 84 Def / 116 SpA / 196 Spe  
-Naive Nature  
-- Shadow Ball  
-- Acrobatics  
-- Destiny Bond 
-- Substitute
-
-Drilbur @ Eviolite 
-Ability: Mold Breaker  
-Level: 5  
-EVs: 36 HP / 236 Atk / 212 Spe  
+EVs: 36 HP / 236 Atk / 236 Spe  
 Jolly Nature  
 - Earthquake  
+- Sucker Punch  
 - Rock Slide  
-- Rapid Spin  
-- Swords Dance
+- Stealth Rock  
 
 Dwebble @ Berry Juice  
 Ability: Sturdy  
@@ -37,25 +16,44 @@ Adamant Nature
 - Shell Smash  
 - Rock Blast  
 - Earthquake  
-- Knock Off
+- Knock Off  
 
-Frillish @ Eviolite  
-Ability: Water Absorb  
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
 Level: 5  
-EVs: 236 HP / 116 Def / 76 SpA / 76 SpD  
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
 Bold Nature  
-- Scald  
-- Shadow Ball 
-- Strength Sap  
-- Will-O-Wisp
-
-Cutiefly @ Focus Sash 
-Ability: Shield Dust 
-Level: 5  
-EVs: 236 SpA / 244 Spe  
-Timid Nature  
-IVs: 0 Atk  
 - Moonblast  
-- Psychic
-- Sticky Web  
-- Quiver Dance 
+- Wish  
+- Protect  
+- Calm Mind  
+
+Archen @ Berry Juice  
+Ability: Defeatist  
+Level: 5  
+EVs: 76 HP / 180 Atk / 196 Spe  
+Jolly Nature  
+- Stone Edge  
+- Dual Wingbeat  
+- Earthquake  
+- U-turn
+
+Larvesta @ Eviolite  
+Ability: Flame Body  
+Level: 5  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- U-turn  
+- Flare Blitz  
+- Morning Sun  
+- Will-O-Wisp  
+
+Mareanie @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+Bold Nature  
+- Recover  
+- Scald  
+- Toxic Spikes  
+- Sludge Bomb  

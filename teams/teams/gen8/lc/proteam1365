@@ -1,60 +1,59 @@
-Scraggy @ Eviolite  
-Ability: Moxie  
+Pawniard @ Eviolite  
+Ability: Defiant  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
-Adamant Nature  
-- Dragon Dance  
-- High Jump Kick 
-- Crunch  
-- Poison Jab
-
-Cufant @ Eviolite  
-Ability: Sheer Force  
-Level: 5  
-EVs: 100 HP / 36 Atk / 204 Def / 124 SpD / 36 Spe  
-Careful Nature  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
 - Iron Head  
-- Play Rough  
-- Power Whip 
-- Stealth Rock
+- Knock Off  
+- Sucker Punch  
+- Stealth Rock  
 
-Chinchou @ Choice Scarf  
+Chinchou @ Eviolite  
 Ability: Volt Absorb  
 Level: 5  
 EVs: 52 Def / 228 SpA / 220 Spe  
 Timid Nature  
-IVs: 0 Atk  
 - Volt Switch  
 - Scald  
 - Ice Beam  
-- Dazzling Gleam
+- Thunderbolt  
 
 Timburr @ Eviolite  
-Ability: Guts  
+Ability: Iron Fist  
 Level: 5  
 EVs: 196 Atk / 156 Def / 156 SpD  
 Adamant Nature  
 - Drain Punch  
-- Thunder Punch  
 - Mach Punch  
-- Defog 
+- Knock Off  
+- Defog  
 
-Vullaby @ Berry Juice 
-Ability: Weak Armor  
+Bunnelby @ Eviolite  
+Ability: Huge Power  
 Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
+EVs: 228 Atk / 132 Def / 148 SpD  
 Adamant Nature  
-- Brave Bird  
-- Knock Off  
+- Earthquake  
+- Quick Attack  
 - U-turn  
-- Defog
+- Facade
 
-Corphish @ Eviolite  
-Ability: Adaptability  
+Zigzagoon @ Berry Juice  
+Ability: Quick Feet  
 Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
-Jolly Nature  
-- Crabhammer  
-- Knock Off  
-- Aqua Jet  
-- Dragon Dance
+EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
+Adamant Nature  
+- Extreme Speed  
+- Belly Drum  
+- Thief  
+- Seed Bomb  
+
+Porygon @ Eviolite  
+Ability: Download  
+Level: 5  
+EVs: 36 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Tri Attack  
+- Recover  
+- Ice Beam  
+- Psychic  

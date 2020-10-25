@@ -1,59 +1,59 @@
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
+Staryu @ Eviolite  
+Ability: Natural Cure  
 Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
-Jolly Nature
-- Brave Bird  
-- Retaliate 
-- Close Combat  
-- U-turn
-
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
-Adamant Nature  
-- Facade 
-- Fire Punch  
-- Curse  
-- Recycle
-
-Farfetch'd-Galar @ Choice Scarf  
-Ability: Scrappy  
-Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Close Combat  
-- Brave Bird  
-- Knock Off
-- Poison Jab 
-
-Diglett @ Life Orb  
-Ability: Arena Trap  
-Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Earthquake  
-- Rock Slide  
-- Sucker Punch  
-- Memento  
-
-Wingull @ Eviolite  
-Ability: Hydration  
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
+EVs: 116 HP / 156 Def / 236 Spe  
 Timid Nature  
+- Rapid Spin  
+- Thunderbolt  
+- Recover  
 - Scald  
-- Hurricane  
-- U-turn 
-- Roost
 
-Drifloon @ Berry Juice  
-Ability: Unburden  
+Scorbunny @ Berry Juice  
+Ability: Libero  
 Level: 5  
-EVs: 36 HP / 36 Atk / 84 Def / 116 SpA / 196 Spe  
-Naive Nature  
+EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
+Jolly Nature  
+- High Jump Kick  
+- U-turn  
+- Blaze Kick  
+- Gunk Shot  
+
+Ponyta-Galar @ Eviolite  
+Ability: Pastel Veil  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Mystical Fire  
+- Psychic  
+- Dazzling Gleam  
+- Calm Mind  
+
+Porygon @ Eviolite  
+Ability: Download  
+Level: 5  
+EVs: 36 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Tri Attack  
+- Recover  
+- Ice Beam  
+- Psychic  
+
+Zigzagoon @ Berry Juice  
+Ability: Quick Feet  
+Level: 5  
+EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
+Adamant Nature  
+- Extreme Speed  
+- Belly Drum  
+- Thief  
+- Seed Bomb  
+
+Abra @ Focus Sash  
+Ability: Magic Guard  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Psychic  
+- Dazzling Gleam  
+- Energy Ball  
 - Shadow Ball  
-- Acrobatics  
-- Will-O-Wisp  
-- Substitute

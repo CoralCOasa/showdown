@@ -1,61 +1,59 @@
-Frillish @ Eviolite  
-Ability: Water Absorb  
+Croagunk @ Eviolite  
+Ability: Dry Skin  
 Level: 5  
-EVs: 236 HP / 116 Def / 76 SpA / 76 SpD  
-Bold Nature  
-- Scald  
-- Hex  
-- Strength Sap  
-- Will-O-Wisp
-
-Wingull @ Eviolite  
-Ability: Hydration  
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
+EVs: 116 Def / 188 SpA / 196 Spe  
 Timid Nature  
-- Scald  
-- Hurricane  
-- U-turn 
-- Roost
+- Vacuum Wave  
+- Nasty Plot  
+- Sludge Wave  
+- Focus Blast  
+
+Meowth @ Life Orb  
+Ability: Technician  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 196 Spe  
+Jolly Nature  
+- Fake Out  
+- Feint  
+- Aerial Ace  
+- Water Pulse  
+
+Dewpider @ Berry Juice  
+Ability: Water Bubble  
+Level: 5  
+EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
+Modest Nature  
+- Sticky Web  
+- Surf  
+- Icy Wind  
+- Giga Drain
 
 Onix @ Berry Juice  
 Ability: Sturdy  
 Level: 5  
 EVs: 76 HP / 236 Atk / 196 Spe  
 Jolly Nature  
+- Earthquake  
 - Stealth Rock  
 - Rock Blast  
-- Earthquake  
-- Endure 
+- Dragon Dance  
 
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
+Chinchou @ Eviolite  
+Ability: Volt Absorb  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
-Adamant Nature  
-- Body Slam  
-- Fire Punch  
-- Curse  
-- Recycle
-
-Cutiefly @ Focus Sash 
-Ability: Sweet Veil
-Level: 5  
-EVs: 236 SpA / 244 Spe  
+EVs: 52 Def / 228 SpA / 220 Spe  
 Timid Nature  
-IVs: 0 Atk  
-- Moonblast  
-- Bug Buzz 
-- Sticky Web  
-- Quiver Dance 
+- Volt Switch  
+- Scald  
+- Ice Beam  
+- Thunderbolt  
 
-Oddish @ Eviolite  
-Ability: Chlorophyll  
+Vulpix @ Choice Scarf  
+Ability: Drought  
 Level: 5  
-EVs: 156 HP / 236 Def / 76 SpD / 36 Spe  
-Bold Nature  
-IVs: 0 Atk  
-- Giga Drain  
-- Sludge Bomb  
-- Strength Sap  
-- Sleep Powder 
+EVs: 52 HP / 196 SpA / 236 Spe  
+Timid Nature  
+- Energy Ball  
+- Weather Ball  
+- Overheat  
+- Fire Blast  

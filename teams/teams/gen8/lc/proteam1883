@@ -1,61 +1,60 @@
-Chinchou @ Choice Scarf  
-Ability: Volt Absorb  
+Ponyta @ Eviolite  
+Ability: Flame Body  
 Level: 5  
-EVs: 52 Def / 228 SpA / 220 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Volt Switch  
-- Scald  
-- Ice Beam  
-- Hydro Pump 
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Jolly Nature  
+- Flare Blitz  
+- High Horsepower  
+- Morning Sun  
+- Wild Charge  
 
-Wingull @ Eviolite  
-Ability: Keen Eye 
+Archen @ Berry Juice  
+Ability: Defeatist  
+Level: 5  
+EVs: 76 HP / 180 Atk / 196 Spe  
+Jolly Nature  
+- Stone Edge  
+- Dual Wingbeat  
+- Earthquake  
+- U-turn
+
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
+Level: 5  
+EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
+Impish Nature  
+- Knock Off  
+- Thunder Wave  
+- Spikes  
+- Giga Drain
+
+Magnemite @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
 EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
-- Scald  
-- Hurricane  
-- Knock Off  
-- Roost
+- Flash Cannon  
+- Volt Switch  
+- Thunderbolt  
+- Recycle  
 
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
+Zigzagoon @ Berry Juice  
+Ability: Quick Feet  
 Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
-Bold Nature  
-IVs: 0 Atk  
-- Wish  
-- Protect  
-- Moonblast  
-- Calm Mind 
-
-Shellder @ Eviolite  
-Ability: Skill Link  
-Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
+EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
 Adamant Nature  
-- Shell Smash  
-- Icicle Spear  
-- Rock Blast  
-- Liquidation
+- Extreme Speed  
+- Belly Drum  
+- Thief  
+- Seed Bomb  
 
-Onix @ Eviolite  
-Ability: Weak Armor  
+Amaura @ Choice Scarf  
+Ability: Refrigerate  
 Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
-Jolly Nature  
-- Stealth Rock  
-- Rock Blast  
-- Earthquake  
-- Self-Destruct 
-
-Diglett @ Life Orb  
-Ability: Arena Trap  
-Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Earthquake  
-- Rock Slide  
-- Sucker Punch  
-- Substitute 
+EVs: 60 HP / 220 SpA / 228 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hyper Voice  
+- Earth Power  
+- Thunderbolt  
+- Ancient Power

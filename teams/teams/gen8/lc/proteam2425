@@ -1,62 +1,60 @@
-Drifloon @ Berry Juice  
-Ability: Unburden  
+Natu @ Eviolite  
+Ability: Magic Bounce  
 Level: 5  
-EVs: 36 HP / 36 Atk / 84 Def / 116 SpA / 196 Spe  
-Naive Nature  
-- Shadow Ball  
-- Acrobatics  
-- Destiny Bond 
-- Substitute
-
-Cufant @ Eviolite  
-Ability: Sheer Force  
-Level: 5  
-EVs: 100 HP / 36 Atk / 204 Def / 124 SpD / 36 Spe  
-Careful Nature  
-- Iron Head  
-- Play Rough  
-- Power Whip 
-- Stealth Rock
-
-Wingull @ Life Orb  
-Ability: Keen Eye 
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
+EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
 Timid Nature  
-IVs: 0 HP  
-- Scald  
-- Hurricane  
-- U-turn  
-- Knock Off 
-
-Oddish @ Eviolite  
-Ability: Chlorophyll  
-Level: 5  
-EVs: 156 HP / 236 Def / 76 SpD / 36 Spe  
-Bold Nature  
 IVs: 0 Atk  
-- Giga Drain  
-- Sludge Bomb  
-- Strength Sap  
-- Sleep Powder 
+- Psychic  
+- Heat Wave  
+- U-turn  
+- Roost  
 
-Scraggy @ Berry Juice  
-Ability: Intimidate 
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
+Level: 5  
+EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
+Impish Nature  
+- Knock Off  
+- Thunder Wave  
+- Spikes  
+- Giga Drain
+
+Corphish @ Eviolite  
+Ability: Adaptability  
+Level: 5  
+EVs: 196 Atk / 76 Def / 236 Spe  
+Adamant Nature  
+- Aqua Jet  
+- Crabhammer  
+- Knock Off  
+- Dragon Dance  
+
+Bunnelby @ Eviolite  
+Ability: Huge Power  
+Level: 5  
+EVs: 228 Atk / 132 Def / 148 SpD  
+Adamant Nature  
+- Earthquake  
+- Quick Attack  
+- U-turn  
+- Facade
+
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
+Level: 5  
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
+Bold Nature  
+- Moonblast  
+- Wish  
+- Protect  
+- Calm Mind  
+
+Scraggy @ Eviolite  
+Ability: Moxie  
 Level: 5  
 EVs: 236 Atk / 36 SpD / 212 Spe  
-Adamant Nature
+Adamant Nature  
 - Dragon Dance  
+- Knock Off  
+- Drain Punch  
 - High Jump Kick  
-- Crunch  
-- Poison Jab 
-
-Vulpix @ Eviolite  
-Ability: Drought  
-Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Fire Blast  
-- Energy Ball  
-- Will-O-Wisp  
-- Memento 

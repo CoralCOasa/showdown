@@ -1,60 +1,60 @@
-Mudbray @ Berry Juice  
-Ability: Stamina  
-Level: 5  
-EVs: 116 HP / 196 Atk / 36 Def / 156 SpD  
-Adamant Nature  
-- Earthquake  
-- Heavy Slam  
-- Rock Slide  
-- Stealth Rock
-
-Ponyta-Galar @ Life Orb  
-Ability: Pastel Veil  
-Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Jolly Nature  
-- Zen Headbutt  
-- Play Rough  
-- High Horsepower 
-- Morning Sun 
-
-Vullaby @ Eviolite 
-Ability: Weak Armor  
-Level: 5  
-EVs: 116 HP / 240 SpA / 116 Spe  
-Modest Nature  
-- Nasty Plot  
-- Air Slash  
-- Heat Wave  
-- Dark Pulse
-
-Shellder @ Eviolite  
-Ability: Skill Link  
-Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Shell Smash  
-- Icicle Spear  
-- Rock Blast  
-- Liquidation
-
-Chinchou @ Choice Scarf  
-Ability: Volt Absorb  
-Level: 5  
-EVs: 52 Def / 228 SpA / 220 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Volt Switch  
-- Scald  
-- Ice Beam  
-- Hydro Pump 
-
 Timburr @ Eviolite  
-Ability: Iron Fist 
+Ability: Iron Fist  
 Level: 5  
 EVs: 196 Atk / 156 Def / 156 SpD  
 Adamant Nature  
 - Drain Punch  
-- Thunder Punch 
 - Mach Punch  
-- Defog 
+- Knock Off  
+- Defog  
+
+Natu @ Eviolite  
+Ability: Magic Bounce  
+Level: 5  
+EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Heat Wave  
+- U-turn  
+- Roost  
+
+Wingull @ Life Orb  
+Ability: Hydration  
+Level: 5  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Timid Nature  
+- Scald  
+- Hurricane  
+- U-turn  
+- Air Slash  
+
+Scorbunny @ Berry Juice  
+Ability: Libero  
+Level: 5  
+EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
+Jolly Nature  
+- High Jump Kick  
+- U-turn  
+- Blaze Kick  
+- Gunk Shot  
+
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
+Level: 5  
+EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
+Impish Nature  
+- Knock Off  
+- Thunder Wave  
+- Spikes  
+- Giga Drain
+
+Corphish @ Eviolite  
+Ability: Adaptability  
+Level: 5  
+EVs: 196 Atk / 76 Def / 236 Spe  
+Adamant Nature  
+- Aqua Jet  
+- Crabhammer  
+- Knock Off  
+- Dragon Dance  

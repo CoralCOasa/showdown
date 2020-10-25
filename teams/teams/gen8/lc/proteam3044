@@ -1,59 +1,59 @@
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
 Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
-Adamant Nature  
-- Brave Bird  
-- Shadow Claw 
-- Close Combat  
-- U-turn
-
-Diglett @ Life Orb  
-Ability: Arena Trap  
-Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Earthquake  
-- Rock Slide  
-- Sucker Punch  
-- Memento  
-
-Corphish @ Eviolite  
-Ability: Adaptability  
-Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
-Adamant Nature
-- Crabhammer  
-- Knock Off  
-- Aqua Jet  
-- Swords Dance 
-
-Croagunk @ Berry Juice  
-Ability: Dry Skin  
-Level: 5  
-EVs: 52 HP / 188 Atk / 116 Def / 116 SpD / 36 Spe  
-Adamant Nature  
-- Gunk Shot  
-- Drain Punch  
-- Sucker Punch  
-- Bulk Up
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
+Bold Nature  
+- Moonblast  
+- Wish  
+- Protect  
+- Calm Mind  
 
 Onix @ Berry Juice  
 Ability: Sturdy  
 Level: 5  
 EVs: 76 HP / 236 Atk / 196 Spe  
 Jolly Nature  
+- Earthquake  
 - Stealth Rock  
 - Rock Blast  
-- Earthquake  
-- Endure 
+- Dragon Dance  
 
-Timburr @ Eviolite  
-Ability: Iron Fist 
+Trapinch @ Eviolite  
+Ability: Arena Trap  
 Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
+EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
+Relaxed Nature  
+- Earthquake  
+- First Impression  
+- Superpower  
+- Giga Drain  
+
+Carvanha @ Life Orb  
+Ability: Speed Boost  
+Level: 5  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
 Adamant Nature  
-- Drain Punch  
-- Thunder Punch  
-- Mach Punch  
-- Bulk Up 
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation  
+
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Knock Off  
+- U-turn  
+- High Jump Kick  
+- Fake Out  
+
+Bunnelby @ Eviolite  
+Ability: Huge Power  
+Level: 5  
+EVs: 228 Atk / 132 Def / 148 SpD  
+Adamant Nature  
+- Earthquake  
+- Quick Attack  
+- U-turn  
+- Facade

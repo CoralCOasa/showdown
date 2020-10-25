@@ -1,60 +1,59 @@
-Pawniard @ Eviolite  
-Ability: Defiant  
+Ponyta-Galar @ Eviolite  
+Ability: Pastel Veil  
 Level: 5  
-EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
-Jolly Nature  
-- Iron Head  
-- Sucker Punch  
-- Swords Dance 
-- Night Slash 
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Mystical Fire  
+- Psychic  
+- Dazzling Gleam  
+- Calm Mind  
 
-Frillish @ Eviolite  
-Ability: Water Absorb  
+Scraggy @ Eviolite  
+Ability: Moxie  
 Level: 5  
-EVs: 236 HP / 116 Def / 76 SpA / 76 SpD  
-Bold Nature  
-- Scald  
-- Hex  
-- Strength Sap  
-- Will-O-Wisp
+EVs: 236 Atk / 36 SpD / 212 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Knock Off  
+- Drain Punch  
+- High Jump Kick  
+
+Dewpider @ Berry Juice  
+Ability: Water Bubble  
+Level: 5  
+EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
+Modest Nature  
+- Sticky Web  
+- Surf  
+- Icy Wind  
+- Giga Drain
+
+Bunnelby @ Eviolite  
+Ability: Huge Power  
+Level: 5  
+EVs: 228 Atk / 132 Def / 148 SpD  
+Adamant Nature  
+- Earthquake  
+- Quick Attack  
+- U-turn  
+- Facade
 
 Shellder @ Eviolite  
 Ability: Skill Link  
 Level: 5  
 EVs: 236 Atk / 76 SpD / 196 Spe  
 Adamant Nature  
-- Shell Smash  
 - Icicle Spear  
+- Shell Smash  
 - Rock Blast  
-- Liquidation
+- Liquidation  
 
-Scraggy @ Berry Juice  
-Ability: Moxie 
+Mienfoo @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
-Adamant Nature  
-- Dragon Dance  
-- High Jump Kick  
-- Crunch  
-- Zen Headbutt 
-
-Wingull @ Life Orb  
-Ability: Keen Eye 
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-IVs: 0 HP  
-- Scald  
-- Hurricane  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Knock Off  
 - U-turn  
-- Knock Off 
-
-Timburr @ Eviolite  
-Ability: Iron Fist 
-Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
-Adamant Nature  
-- Drain Punch  
-- Poison Jab 
-- Mach Punch  
-- Defog 
+- High Jump Kick  
+- Fake Out  

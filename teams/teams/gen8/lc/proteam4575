@@ -1,61 +1,59 @@
-Ferroseed @ Eviolite  
-Ability: Iron Barbs  
+Tirtouga @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 84 HP / 36 Atk / 108 Def / 228 SpD / 36 Spe  
-Impish Nature  
-- Iron Head  
-- Knock Off  
-- Thunder Wave  
-- Stealth Rock 
+EVs: 212 Atk / 92 Def / 180 Spe  
+Jolly Nature  
+- Shell Smash  
+- Waterfall  
+- Stone Edge  
+- Zen Headbutt
 
-Vulpix @ Eviolite  
-Ability: Drought  
+Abra @ Focus Sash  
+Ability: Magic Guard  
 Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
+EVs: 236 SpA / 76 SpD / 196 Spe  
 Timid Nature  
-IVs: 0 Atk  
-- Fire Blast  
+- Psychic  
+- Dazzling Gleam  
 - Energy Ball  
-- Will-O-Wisp  
-- Memento 
-
-Corphish @ Eviolite  
-Ability: Adaptability  
-Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
-Jolly Nature  
-- Crabhammer  
-- Knock Off  
-- Aqua Jet  
-- Swords Dance 
-
-Drifloon @ Berry Juice  
-Ability: Unburden  
-Level: 5  
-EVs: 116 HP / 196 SpA / 196 Spe  
-Timid Nature  
-IVs: 0 Atk  
 - Shadow Ball  
-- Thunderbolt  
-- Will-O-Wisp 
-- Substitute
 
-Vullaby @ Choice Scarf  
-Ability: Overcoat 
+Koffing @ Eviolite  
+Ability: Levitate  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
+EVs: 36 HP / 236 Def / 236 SpD  
+Bold Nature  
+- Will-O-Wisp  
+- Toxic Spikes  
+- Pain Split  
+- Sludge Bomb  
+
+Dwebble @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 236 Atk / 236 Spe  
 Adamant Nature  
-- Brave Bird  
+- Shell Smash  
+- Rock Blast  
+- Earthquake  
 - Knock Off  
-- U-turn  
-- Defog
 
-Farfetch'd-Galar @ Eviolite  
-Ability: Scrappy  
+Foongus @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Close Combat  
-- Brave Bird  
-- Knock Off  
-- Defog
+EVs: 124 HP / 156 Def / 156 SpD  
+Bold Nature  
+- Giga Drain  
+- Spore  
+- Sludge Bomb  
+- Synthesis  
+
+Mareanie @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+Bold Nature  
+- Recover  
+- Scald  
+- Toxic Spikes  
+- Sludge Bomb  

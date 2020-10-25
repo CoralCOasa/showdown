@@ -1,60 +1,59 @@
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
+Staryu @ Eviolite  
+Ability: Natural Cure  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
+EVs: 116 HP / 156 Def / 236 Spe  
+Timid Nature  
+- Rapid Spin  
+- Thunderbolt  
+- Recover  
+- Scald  
+
+Corphish @ Eviolite  
+Ability: Adaptability  
+Level: 5  
+EVs: 196 Atk / 76 Def / 236 Spe  
 Adamant Nature  
-- Facade 
-- Fire Punch  
-- Earthquake 
-- Recycle
+- Aqua Jet  
+- Crabhammer  
+- Knock Off  
+- Dragon Dance  
 
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
-Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
-Bold Nature  
-IVs: 0 Atk  
-- Wish  
-- Protect  
-- Moonblast  
-- Psychic 
-
-Wingull @ Eviolite  
-Ability: Keen Eye 
+Wingull @ Life Orb  
+Ability: Hydration  
 Level: 5  
 EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
 - Scald  
 - Hurricane  
-- U-turn 
-- Roost
+- U-turn  
+- Air Slash  
 
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
+Dewpider @ Berry Juice  
+Ability: Water Bubble  
 Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
-Jolly Nature
-- Brave Bird  
-- Rock Slide 
-- Close Combat  
-- U-turn
+EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
+Modest Nature  
+- Sticky Web  
+- Surf  
+- Icy Wind  
+- Giga Drain
 
-Farfetch'd-Galar @ Eviolite  
-Ability: Scrappy  
+Vullaby @ Berry Juice  
+Ability: Weak Armor  
 Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
+EVs: 236 Atk / 76 Def / 196 Spe  
 Jolly Nature  
-- Close Combat  
-- Brave Bird  
 - Knock Off  
-- Poison Jab 
+- Brave Bird  
+- U-turn  
+- Defog  
 
-Dwebble @ Berry Juice  
-Ability: Sturdy  
+Ponyta @ Eviolite  
+Ability: Flame Body  
 Level: 5  
-EVs: 156 Atk / 76 Def / 236 Spe  
+EVs: 236 Atk / 76 SpD / 196 Spe  
 Jolly Nature  
-- Stealth Rock  
-- Spikes  
-- Rock Blast  
-- Knock Off
+- Flare Blitz  
+- High Horsepower  
+- Morning Sun  
+- Wild Charge  

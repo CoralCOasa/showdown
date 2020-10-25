@@ -1,60 +1,59 @@
-Frillish @ Choice Scarf  
-Ability: Water Absorb  
+Pawniard @ Eviolite  
+Ability: Defiant  
 Level: 5  
-EVs: 76 HP / 236 SpA / 196 Spe  
-Timid Nature  
-- Water Spout  
-- Shadow Ball  
-- Ice Beam 
-- Trick
-
-Onix @ Eviolite  
-Ability: Rock Head  
-Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
 Jolly Nature  
-- Dragon Dance  
-- Head Smash  
-- Earthquake  
-- Body Press 
+- Iron Head  
+- Knock Off  
+- Sucker Punch  
+- Stealth Rock  
 
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
+Chinchou @ Eviolite  
+Ability: Volt Absorb  
 Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
-Jolly Nature
-- Brave Bird  
-- Shadow Claw 
-- Close Combat  
-- U-turn
-
-Mareanie @ Eviolite  
-Ability: Regenerator  
-Level: 5  
-EVs: 196 HP / 100 Def / 92 SpA / 100 SpD  
-Calm Nature  
-IVs: 0 Atk  
+EVs: 52 Def / 228 SpA / 220 Spe  
+Timid Nature  
+- Volt Switch  
 - Scald  
-- Sludge Bomb  
-- Recover  
-- Haze 
+- Ice Beam  
+- Thunderbolt  
 
-Trapinch @ Eviolite  
-Ability: Arena Trap  
+Bunnelby @ Eviolite  
+Ability: Huge Power  
 Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Brave Nature  
-- Earthquake  
-- First Impression  
-- Superpower  
-- Giga Drain
-
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
+EVs: 228 Atk / 132 Def / 148 SpD  
 Adamant Nature  
-- Facade 
-- Fire Punch  
-- Earthquake 
-- Recycle
+- Earthquake  
+- Quick Attack  
+- U-turn  
+- Facade
+
+Farfetch’d-Galar @ Eviolite  
+Ability: Scrappy  
+Level: 5  
+EVs: 20 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Swords Dance  
+- Close Combat  
+- Brave Bird  
+- Knock Off  
+
+Scraggy @ Eviolite  
+Ability: Moxie  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 212 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Knock Off  
+- Drain Punch  
+- High Jump Kick  
+
+Ponyta @ Eviolite  
+Ability: Flame Body  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Jolly Nature  
+- Flare Blitz  
+- High Horsepower  
+- Morning Sun  
+- Wild Charge  

@@ -1,61 +1,59 @@
-Scraggy @ Eviolite  
-Ability: Intimidate 
+Ponyta @ Eviolite  
+Ability: Flame Body  
 Level: 5  
-EVs: 36 HP / 156 Atk / 36 Def / 36 SpD / 212 Spe  
-Adamant Nature  
-- Dragon Dance  
-- High Jump Kick 
-- Crunch  
-- Poison Jab
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Jolly Nature  
+- Flare Blitz  
+- High Horsepower  
+- Morning Sun  
+- Wild Charge  
 
-Vulpix @ Life Orb  
-Ability: Drought  
+Larvesta @ Eviolite  
+Ability: Flame Body  
 Level: 5  
-EVs: 36 Def / 196 SpA / 236 Spe  
-Timid Nature  
-IVs: 4 HP  
-- Fire Blast  
-- Energy Ball  
-- Extrasensory  
-- Overheat 
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- U-turn  
+- Flare Blitz  
+- Morning Sun  
+- Will-O-Wisp  
 
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
+Onix @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
-Jolly Nature
-- Brave Bird  
-- Retaliate  
-- Close Combat  
-- U-turn
-
-Croagunk @ Eviolite 
-Ability: Dry Skin  
-Level: 5  
-EVs: 52 HP / 116 Def / 188 SpA / 116 SpD / 36 Spe  
-Modest Nature  
-IVs: 0 Atk  
-- Sludge Wave  
-- Focus Blast  
-- Vacuum Wave  
-- Nasty Plot
-
-Trapinch @ Eviolite  
-Ability: Arena Trap  
-Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Brave Nature  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
 - Earthquake  
-- First Impression  
-- Superpower  
-- Giga Drain
+- Stealth Rock  
+- Rock Blast  
+- Dragon Dance  
 
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
+Carvanha @ Life Orb  
+Ability: Speed Boost  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
 Adamant Nature  
-- Body Slam  
-- Fire Punch  
-- Curse  
-- Recycle
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation  
+
+Dwebble @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 236 Atk / 236 Spe  
+Adamant Nature  
+- Shell Smash  
+- Rock Blast  
+- Earthquake  
+- Knock Off  
+
+Zigzagoon @ Berry Juice  
+Ability: Quick Feet  
+Level: 5  
+EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
+Adamant Nature  
+- Extreme Speed  
+- Belly Drum  
+- Thief  
+- Seed Bomb  

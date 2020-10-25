@@ -1,62 +1,59 @@
-Mareanie @ Eviolite  
+Pawniard @ Eviolite  
+Ability: Defiant  
+Level: 5  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Iron Head  
+- Knock Off  
+- Sucker Punch  
+- Stealth Rock  
+
+Foongus @ Eviolite  
 Ability: Regenerator  
 Level: 5  
-EVs: 196 HP / 100 Def / 92 SpA / 100 SpD  
-Calm Nature  
-IVs: 0 Atk  
-- Scald  
+EVs: 124 HP / 156 Def / 156 SpD  
+Bold Nature  
+- Giga Drain  
+- Spore  
 - Sludge Bomb  
-- Recover  
-- Iron Defense
+- Synthesis  
 
-Drilbur @ Berry Juice  
-Ability: Mold Breaker  
+Carvanha @ Life Orb  
+Ability: Speed Boost  
 Level: 5  
-EVs: 36 HP / 236 Atk / 212 Spe  
-Jolly Nature  
-- Earthquake  
-- Rock Slide  
-- Rapid Spin  
-- Stealth Rock 
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+Adamant Nature  
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation  
 
-Ponyta-Galar @ Eviolite 
-Ability: Pastel Veil  
+Koffing @ Eviolite  
+Ability: Levitate  
 Level: 5  
-EVs: 76 Def / 236 SpA / 196 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Psychic  
-- Mystical Fire  
-- Dazzling Gleam 
-- Healing Wish
+EVs: 36 HP / 236 Def / 236 SpD  
+Bold Nature  
+- Will-O-Wisp  
+- Toxic Spikes  
+- Pain Split  
+- Sludge Bomb  
 
-Chinchou @ Choice Scarf  
-Ability: Volt Absorb  
+Timburr @ Eviolite  
+Ability: Iron Fist  
 Level: 5  
-EVs: 52 Def / 228 SpA / 220 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Volt Switch  
-- Scald  
-- Ice Beam  
-- Thunderbolt 
+EVs: 196 Atk / 156 Def / 156 SpD  
+Adamant Nature  
+- Drain Punch  
+- Mach Punch  
+- Knock Off  
+- Defog  
 
-Dwebble @ Berry Juice  
+Tirtouga @ Berry Juice  
 Ability: Sturdy  
 Level: 5  
-EVs: 236 Atk / 236 Spe  
-Adamant Nature  
+EVs: 212 Atk / 92 Def / 180 Spe  
+Jolly Nature  
 - Shell Smash  
-- Rock Blast  
-- Earthquake  
-- Knock Off
-
-Trapinch @ Eviolite  
-Ability: Arena Trap  
-Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Brave Nature  
-- Earthquake  
-- First Impression  
-- Superpower  
-- Giga Drain
+- Waterfall  
+- Stone Edge  
+- Zen Headbutt

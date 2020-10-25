@@ -1,61 +1,59 @@
-Cutiefly @ Focus Sash 
-Ability: Shield Dust 
+Croagunk @ Eviolite  
+Ability: Dry Skin  
 Level: 5  
-EVs: 236 SpA / 244 Spe  
+EVs: 116 Def / 188 SpA / 196 Spe  
 Timid Nature  
-IVs: 0 Atk  
-- Moonblast  
-- Psychic
-- Sticky Web  
-- U-turn
+- Vacuum Wave  
+- Nasty Plot  
+- Sludge Wave  
+- Focus Blast  
 
-Mareanie @ Eviolite  
-Ability: Regenerator  
+Woobat @ Berry Juice  
+Ability: Simple  
 Level: 5  
-EVs: 196 HP / 100 Def / 92 SpA / 100 SpD  
-Calm Nature  
-IVs: 0 Atk  
-- Scald  
-- Sludge Bomb  
-- Recover  
-- Toxic Spikes 
+EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
+Timid Nature  
+- Nasty Plot  
+- Psychic  
+- Heat Wave  
+- Air Slash  
+
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
+Level: 5  
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
+Bold Nature  
+- Moonblast  
+- Wish  
+- Protect  
+- Calm Mind  
 
 Munchlax @ Berry Juice  
 Ability: Thick Fat  
 Level: 5  
 EVs: 236 Atk / 36 Def / 236 SpD  
 Adamant Nature  
-- Facade 
-- Fire Punch  
-- Earthquake 
+- Body Slam  
+- Earthquake  
+- Curse  
 - Recycle
 
-Vullaby @ Eviolite  
+Vullaby @ Berry Juice  
 Ability: Weak Armor  
 Level: 5  
 EVs: 236 Atk / 76 Def / 196 Spe  
-Adamant Nature  
-- Brave Bird  
-- Knock Off  
-- U-turn  
-- Defog
-
-Corphish @ Eviolite  
-Ability: Adaptability  
-Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
 Jolly Nature  
-- Crabhammer  
 - Knock Off  
-- Aqua Jet  
-- Swords Dance 
+- Brave Bird  
+- U-turn  
+- Defog  
 
-Timburr @ Eviolite  
-Ability: Guts  
+Pawniard @ Eviolite  
+Ability: Defiant  
 Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
-Adamant Nature  
-- Drain Punch  
-- Thunder Punch  
-- Mach Punch  
-- Defog 
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Iron Head  
+- Knock Off  
+- Sucker Punch  
+- Stealth Rock  

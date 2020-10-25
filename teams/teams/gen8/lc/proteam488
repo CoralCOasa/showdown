@@ -1,60 +1,59 @@
-Drifloon @ Berry Juice  
-Ability: Unburden  
-Level: 5  
-EVs: 116 HP / 196 SpA / 196 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Shadow Ball  
-- Thunderbolt  
-- Calm Mind 
-- Substitute
-
-Vullaby @ Eviolite  
-Ability: Weak Armor  
-Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Adamant Nature  
-- Brave Bird  
-- Knock Off  
-- U-turn  
-- Defog
-
-Wingull @ Eviolite  
-Ability: Keen Eye 
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-- Scald  
-- Hurricane  
-- Knock Off  
-- Roost
-
-Onix @ Eviolite  
-Ability: Rock Head  
+Onix @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
 EVs: 76 HP / 236 Atk / 196 Spe  
 Jolly Nature  
+- Earthquake  
+- Stealth Rock  
+- Rock Blast  
 - Dragon Dance  
-- Head Smash  
-- Earthquake  
-- Taunt
 
-Pawniard @ Eviolite  
-Ability: Defiant  
+Timburr @ Eviolite  
+Ability: Iron Fist  
 Level: 5  
-EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
-Jolly Nature  
-- Iron Head  
-- Sucker Punch  
-- Night Slash  
-- Brick Break
-
-Trapinch @ Eviolite  
-Ability: Arena Trap  
-Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
+EVs: 196 Atk / 156 Def / 156 SpD  
 Adamant Nature  
+- Drain Punch  
+- Mach Punch  
+- Knock Off  
+- Defog  
+
+Ponyta-Galar @ Eviolite  
+Ability: Pastel Veil  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Mystical Fire  
+- Psychic  
+- Dazzling Gleam  
+- Calm Mind  
+
+Porygon @ Eviolite  
+Ability: Download  
+Level: 5  
+EVs: 36 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Tri Attack  
+- Recover  
+- Ice Beam  
+- Psychic  
+
+Scraggy @ Eviolite  
+Ability: Moxie  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 212 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Knock Off  
+- Drain Punch  
+- High Jump Kick  
+
+Dwebble @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 236 Atk / 236 Spe  
+Adamant Nature  
+- Shell Smash  
+- Rock Blast  
 - Earthquake  
-- First Impression  
-- Superpower  
-- Rock Slide
+- Knock Off  

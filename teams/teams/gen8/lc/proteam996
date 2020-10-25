@@ -1,62 +1,59 @@
-Vulpix @ Eviolite  
-Ability: Drought  
+Mienfoo @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Fire Blast  
-- Energy Ball  
-- Will-O-Wisp  
-- Overheat 
-
-Pawniard @ Eviolite  
-Ability: Defiant  
-Level: 5  
-EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+EVs: 236 Atk / 36 Def / 236 Spe  
 Jolly Nature  
-- Iron Head  
-- Sucker Punch  
-- Swords Dance 
-- Night Slash 
+- Knock Off  
+- U-turn  
+- High Jump Kick  
+- Fake Out  
 
-Chinchou @ Eviolite  
-Ability: Volt Absorb  
+Drilbur @ Eviolite  
+Ability: Mold Breaker  
 Level: 5  
-EVs: 76 HP / 212 Def / 152 SpA / 60 Spe  
-Bold Nature  
-- Scald  
-- Volt Switch  
-- Ice Beam  
-- Thunder Wave
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
+Jolly Nature  
+- Earthquake  
+- Rapid Spin  
+- Rock Slide  
+- Stealth Rock  
 
-Croagunk @ Eviolite 
-Ability: Dry Skin  
+Tirtouga @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 52 HP / 116 Def / 188 SpA / 116 SpD / 36 Spe  
-Modest Nature  
-IVs: 0 Atk  
-- Sludge Wave  
-- Focus Blast  
-- Vacuum Wave  
-- Nasty Plot
+EVs: 212 Atk / 92 Def / 180 Spe  
+Jolly Nature  
+- Shell Smash  
+- Waterfall  
+- Stone Edge  
+- Zen Headbutt
 
-Ponyta-Galar @ Life Orb  
+Ponyta-Galar @ Eviolite  
 Ability: Pastel Veil  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Jolly Nature  
-- Zen Headbutt  
-- Play Rough  
-- High Horsepower 
-- Morning Sun 
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Mystical Fire  
+- Psychic  
+- Dazzling Gleam  
+- Calm Mind  
 
-Oddish @ Eviolite  
-Ability: Chlorophyll  
+Woobat @ Berry Juice  
+Ability: Simple  
 Level: 5  
-EVs: 156 HP / 236 Def / 76 SpD / 36 Spe  
+EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
+Timid Nature  
+- Nasty Plot  
+- Psychic  
+- Heat Wave  
+- Air Slash  
+
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
+Level: 5  
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
 Bold Nature  
-IVs: 0 Atk  
-- Giga Drain  
-- Sludge Bomb  
-- Strength Sap  
-- Stun Spore
+- Moonblast  
+- Wish  
+- Protect  
+- Calm Mind  

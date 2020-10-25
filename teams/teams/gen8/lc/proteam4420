@@ -1,61 +1,59 @@
-Shellder @ Eviolite  
-Ability: Skill Link  
-Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Shell Smash  
-- Icicle Spear  
-- Rock Blast  
-- Liquidation
-
-Cufant @ Eviolite 
-Ability: Sheer Force  
-Level: 5  
-EVs: 20 HP / 196 Atk / 44 Def / 204 SpD / 36 Spe  
-Adamant Nature  
-- Iron Head  
-- Play Rough  
-- High Horsepower
-- Stealth Rock
-
-Oddish @ Eviolite  
-Ability: Chlorophyll  
-Level: 5  
-EVs: 156 HP / 236 Def / 76 SpD / 36 Spe  
-Bold Nature  
-IVs: 0 Atk  
-- Giga Drain  
-- Sludge Bomb  
-- Strength Sap  
-- Sleep Powder 
-
-Corphish @ Eviolite  
-Ability: Adaptability  
-Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
-Jolly Nature  
-- Crabhammer  
-- Knock Off  
-- Aqua Jet  
-- Swords Dance 
-
-Vulpix @ Eviolite  
+Vulpix @ Choice Scarf  
 Ability: Drought  
 Level: 5  
 EVs: 52 HP / 196 SpA / 236 Spe  
 Timid Nature  
-IVs: 0 Atk  
-- Fire Blast  
 - Energy Ball  
-- Will-O-Wisp  
-- Overheat 
+- Weather Ball  
+- Overheat  
+- Fire Blast  
 
-Timburr @ Eviolite  
-Ability: Guts  
+Scraggy @ Eviolite  
+Ability: Moxie  
 Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
+EVs: 236 Atk / 36 SpD / 212 Spe  
 Adamant Nature  
+- Dragon Dance  
+- Knock Off  
 - Drain Punch  
-- Thunder Punch  
-- Mach Punch  
-- Poison Jab  
+- High Jump Kick  
+
+Zigzagoon @ Berry Juice  
+Ability: Quick Feet  
+Level: 5  
+EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
+Adamant Nature  
+- Extreme Speed  
+- Belly Drum  
+- Thief  
+- Seed Bomb  
+
+Wingull @ Life Orb  
+Ability: Hydration  
+Level: 5  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Timid Nature  
+- Scald  
+- Hurricane  
+- U-turn  
+- Air Slash  
+
+Munchlax @ Berry Juice  
+Ability: Thick Fat  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 SpD  
+Adamant Nature  
+- Body Slam  
+- Earthquake  
+- Curse  
+- Recycle
+
+Vullaby @ Berry Juice  
+Ability: Weak Armor  
+Level: 5  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Jolly Nature  
+- Knock Off  
+- Brave Bird  
+- U-turn  
+- Defog  

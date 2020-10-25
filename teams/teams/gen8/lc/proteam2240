@@ -1,60 +1,59 @@
-Vullaby @ Berry Juice 
-Ability: Weak Armor  
+Trapinch @ Eviolite  
+Ability: Arena Trap  
 Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Adamant Nature  
-- Brave Bird  
-- Knock Off  
-- U-turn  
-- Defog
+EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
+Relaxed Nature  
+- Earthquake  
+- First Impression  
+- Superpower  
+- Giga Drain  
 
-Drifloon @ Berry Juice  
-Ability: Unburden  
+Porygon @ Eviolite  
+Ability: Download  
 Level: 5  
-EVs: 116 HP / 196 SpA / 196 Spe  
+EVs: 36 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Tri Attack  
+- Recover  
+- Ice Beam  
+- Psychic  
+
+Carvanha @ Life Orb  
+Ability: Speed Boost  
+Level: 5  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+Adamant Nature  
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation  
+
+Ponyta-Galar @ Eviolite  
+Ability: Pastel Veil  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
 Timid Nature  
-IVs: 0 Atk  
-- Shadow Ball  
-- Thunderbolt  
-- Calm Mind 
-- Substitute
+- Mystical Fire  
+- Psychic  
+- Dazzling Gleam  
+- Calm Mind  
 
-Pawniard @ Eviolite  
-Ability: Defiant  
+Archen @ Berry Juice  
+Ability: Defeatist  
 Level: 5  
-EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+EVs: 76 HP / 180 Atk / 196 Spe  
 Jolly Nature  
-- Iron Head  
-- Sucker Punch  
-- Swords Dance 
-- Night Slash 
-
-Croagunk @ Eviolite 
-Ability: Dry Skin  
-Level: 5  
-EVs: 52 HP / 188 Atk / 116 Def / 116 SpD / 36 Spe  
-Adamant Nature  
-- Gunk Shot  
-- Drain Punch  
-- Sucker Punch  
-- Bulk Up
+- Stone Edge  
+- Dual Wingbeat  
+- Earthquake  
+- U-turn
 
 Timburr @ Eviolite  
-Ability: Iron Fist 
+Ability: Iron Fist  
 Level: 5  
 EVs: 196 Atk / 156 Def / 156 SpD  
 Adamant Nature  
 - Drain Punch  
-- Thunder Punch 
 - Mach Punch  
-- Defog 
-
-Dwebble @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 236 Atk / 236 Spe  
-Adamant Nature  
-- Shell Smash  
-- Rock Blast  
-- Earthquake  
-- Knock Off
+- Knock Off  
+- Defog  

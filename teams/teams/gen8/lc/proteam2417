@@ -1,61 +1,59 @@
-Drifloon @ Berry Juice  
-Ability: Unburden  
+Drilbur @ Eviolite  
+Ability: Mold Breaker  
 Level: 5  
-EVs: 36 HP / 36 Atk / 84 Def / 116 SpA / 196 Spe  
-Naive Nature  
-- Shadow Ball  
-- Acrobatics  
-- Will-O-Wisp  
-- Substitute
-
-Frillish @ Eviolite  
-Ability: Water Absorb  
-Level: 5  
-EVs: 236 HP / 116 Def / 76 SpA / 76 SpD  
-Bold Nature  
-- Scald  
-- Shadow Ball 
-- Strength Sap  
-- Will-O-Wisp
-
-Dwebble @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 236 Atk / 236 Spe  
-Adamant Nature  
-- Shell Smash  
-- Rock Blast  
-- Earthquake  
-- Knock Off
-
-Pawniard @ Eviolite  
-Ability: Defiant  
-Level: 5  
-EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
 Jolly Nature  
-- Iron Head  
-- Sucker Punch  
-- Stealth Rock
-- Night Slash 
+- Earthquake  
+- Rapid Spin  
+- Rock Slide  
+- Stealth Rock  
 
-Chinchou @ Choice Scarf  
-Ability: Volt Absorb  
-Level: 5  
-EVs: 52 Def / 228 SpA / 220 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Volt Switch  
-- Scald  
-- Ice Beam  
-- Hydro Pump 
-
-Mareanie @ Eviolite  
+Foongus @ Eviolite  
 Ability: Regenerator  
 Level: 5  
-EVs: 196 HP / 100 Def / 92 SpA / 100 SpD  
-Calm Nature  
-IVs: 0 Atk  
-- Scald  
+EVs: 124 HP / 156 Def / 156 SpD  
+Bold Nature  
+- Giga Drain  
+- Spore  
 - Sludge Bomb  
-- Recover  
-- Iron Defense
+- Synthesis  
+
+Woobat @ Berry Juice  
+Ability: Simple  
+Level: 5  
+EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
+Timid Nature  
+- Nasty Plot  
+- Psychic  
+- Heat Wave  
+- Air Slash  
+
+Grookey @ Eviolite  
+Ability: Grassy Surge  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Grassy Glide  
+- Knock Off  
+- Drain Punch  
+- U-turn  
+
+Croagunk @ Eviolite  
+Ability: Dry Skin  
+Level: 5  
+EVs: 116 Def / 188 SpA / 196 Spe  
+Timid Nature  
+- Vacuum Wave  
+- Nasty Plot  
+- Sludge Wave  
+- Focus Blast  
+
+Abra @ Focus Sash  
+Ability: Magic Guard  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Psychic  
+- Dazzling Gleam  
+- Energy Ball  
+- Shadow Ball  

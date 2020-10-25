@@ -1,61 +1,59 @@
-Chinchou @ Choice Scarf  
-Ability: Volt Absorb  
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
 Level: 5  
-EVs: 52 Def / 228 SpA / 220 Spe  
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
+Bold Nature  
+- Moonblast  
+- Wish  
+- Protect  
+- Calm Mind  
+
+Abra @ Focus Sash  
+Ability: Magic Guard  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
 Timid Nature  
-IVs: 0 Atk  
-- Volt Switch  
+- Psychic  
+- Dazzling Gleam  
+- Energy Ball  
+- Shadow Ball  
+
+Archen @ Berry Juice  
+Ability: Defeatist  
+Level: 5  
+EVs: 76 HP / 180 Atk / 196 Spe  
+Jolly Nature  
+- Stone Edge  
+- Dual Wingbeat  
+- Earthquake  
+- U-turn
+
+Wingull @ Life Orb  
+Ability: Hydration  
+Level: 5  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Timid Nature  
 - Scald  
-- Ice Beam  
-- Thunderbolt 
+- Hurricane  
+- U-turn  
+- Air Slash  
+
+Bunnelby @ Eviolite  
+Ability: Huge Power  
+Level: 5  
+EVs: 228 Atk / 132 Def / 148 SpD  
+Adamant Nature  
+- Earthquake  
+- Quick Attack  
+- U-turn  
+- Facade
 
 Dwebble @ Berry Juice  
 Ability: Sturdy  
 Level: 5  
-EVs: 156 Atk / 76 Def / 236 Spe  
-Jolly Nature  
-- Stealth Rock  
-- Spikes  
+EVs: 236 Atk / 236 Spe  
+Adamant Nature  
+- Shell Smash  
 - Rock Blast  
-- Knock Off
-
-Cutiefly @ Eviolite  
-Ability: Sweet Veil  
-Level: 5  
-EVs: 236 SpA / 244 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Moonblast  
-- Bug Buzz  
-- Psychic  
-- Quiver Dance  
-
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
-Adamant Nature  
-- Body Slam  
-- Fire Punch  
-- Curse  
-- Recycle
-
-Timburr @ Eviolite  
-Ability: Guts  
-Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
-Adamant Nature  
-- Drain Punch  
-- Thunder Punch  
-- Mach Punch  
-- Defog 
-
-Trapinch @ Eviolite  
-Ability: Arena Trap  
-Level: 5  
-EVs: 196 Atk / 76 Def / 236 SpD  
-Adamant Nature  
 - Earthquake  
-- First Impression  
-- Superpower  
-- Rock Slide
+- Knock Off  

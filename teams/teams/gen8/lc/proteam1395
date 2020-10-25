@@ -1,61 +1,60 @@
-Vullaby @ Berry Juice 
-Ability: Weak Armor  
+Natu @ Eviolite  
+Ability: Magic Bounce  
 Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Adamant Nature  
-- Brave Bird  
-- Knock Off  
-- U-turn  
-- Defog
-
-Vulpix @ Eviolite  
-Ability: Drought  
-Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
+EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
 Timid Nature  
 IVs: 0 Atk  
-- Fire Blast  
-- Energy Ball  
-- Will-O-Wisp  
-- Extrasensory
+- Psychic  
+- Heat Wave  
+- U-turn  
+- Roost  
 
-Drifloon @ Berry Juice  
-Ability: Unburden  
+Shellder @ Eviolite  
+Ability: Skill Link  
 Level: 5  
-EVs: 36 HP / 36 Atk / 84 Def / 116 SpA / 196 Spe  
-Naive Nature  
-- Shadow Ball  
-- Acrobatics  
-- Thunderbolt 
-- Substitute
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Adamant Nature  
+- Icicle Spear  
+- Shell Smash  
+- Rock Blast  
+- Liquidation  
 
-Corphish @ Eviolite  
-Ability: Adaptability  
+Bunnelby @ Eviolite  
+Ability: Huge Power  
 Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
-Adamant Nature
-- Crabhammer  
+EVs: 228 Atk / 132 Def / 148 SpD  
+Adamant Nature  
+- Earthquake  
+- Quick Attack  
+- U-turn  
+- Facade
+
+Onix @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- Earthquake  
+- Stealth Rock  
+- Rock Blast  
+- Dragon Dance  
+
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
+Level: 5  
+EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
+Impish Nature  
 - Knock Off  
-- Aqua Jet  
-- Dragon Dance
+- Thunder Wave  
+- Spikes  
+- Giga Drain
 
-Farfetch'd-Galar @ Eviolite  
+Farfetch’d-Galar @ Eviolite  
 Ability: Scrappy  
 Level: 5  
 EVs: 20 HP / 236 Atk / 236 Spe  
 Jolly Nature  
+- Swords Dance  
 - Close Combat  
 - Brave Bird  
 - Knock Off  
-- Poison Jab 
-
-Ponyta-Galar @ Life Orb  
-Ability: Pastel Veil  
-Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Psychic  
-- Mystical Fire  
-- Dazzling Gleam 
-- Healing Wish

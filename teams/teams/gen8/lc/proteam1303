@@ -1,61 +1,60 @@
-Cufant @ Eviolite  
-Ability: Sheer Force  
+Diglett @ Life Orb  
+Ability: Arena Trap  
 Level: 5  
-EVs: 100 HP / 36 Atk / 204 Def / 124 SpD / 36 Spe  
-Careful Nature  
-- Iron Head  
-- Play Rough  
-- Superpower  
-- Stealth Rock
+EVs: 36 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Sucker Punch  
+- Rock Slide  
+- Stealth Rock  
 
-Scraggy @ Eviolite  
-Ability: Shed Skin 
+Koffing @ Eviolite  
+Ability: Levitate  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
-Adamant Nature  
-- Dragon Dance  
-- Drain Punch  
-- Crunch  
-- Poison Jab 
+EVs: 36 HP / 236 Def / 236 SpD  
+Bold Nature  
+- Will-O-Wisp  
+- Toxic Spikes  
+- Pain Split  
+- Sludge Bomb  
 
-Ponyta-Galar @ Life Orb  
-Ability: Pastel Veil  
+Natu @ Eviolite  
+Ability: Magic Bounce  
 Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
+EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
 Timid Nature  
 IVs: 0 Atk  
 - Psychic  
-- Mystical Fire  
-- Dazzling Gleam 
-- Calm Mind 
+- Heat Wave  
+- U-turn  
+- Roost  
 
-Corphish @ Eviolite  
-Ability: Adaptability  
+Bunnelby @ Eviolite  
+Ability: Huge Power  
 Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
-Adamant Nature
-- Crabhammer  
-- Knock Off  
-- Aqua Jet  
-- Swords Dance 
-
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
-Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
+EVs: 228 Atk / 132 Def / 148 SpD  
 Adamant Nature  
-- Brave Bird  
-- Retaliate  
-- Close Combat  
-- U-turn
+- Earthquake  
+- Quick Attack  
+- U-turn  
+- Facade
 
-Croagunk @ Eviolite 
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
+Level: 5  
+EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
+Impish Nature  
+- Knock Off  
+- Thunder Wave  
+- Spikes  
+- Giga Drain
+
+Croagunk @ Eviolite  
 Ability: Dry Skin  
 Level: 5  
-EVs: 52 HP / 116 Def / 188 SpA / 116 SpD / 36 Spe  
-Modest Nature  
-IVs: 0 Atk  
+EVs: 116 Def / 188 SpA / 196 Spe  
+Timid Nature  
+- Vacuum Wave  
+- Nasty Plot  
 - Sludge Wave  
 - Focus Blast  
-- Vacuum Wave  
-- Nasty Plot

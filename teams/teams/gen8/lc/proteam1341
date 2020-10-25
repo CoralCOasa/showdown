@@ -1,62 +1,60 @@
-Vullaby @ Berry Juice 
-Ability: Weak Armor  
+Bunnelby @ Eviolite  
+Ability: Huge Power  
 Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
+EVs: 228 Atk / 132 Def / 148 SpD  
 Adamant Nature  
-- Brave Bird  
-- Knock Off  
-- U-turn  
-- Defog
-
-Drilbur @ Eviolite 
-Ability: Mold Breaker  
-Level: 5  
-EVs: 36 HP / 236 Atk / 212 Spe  
-Jolly Nature  
 - Earthquake  
-- Rock Slide  
-- Rapid Spin  
-- Swords Dance
-
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
-Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
-Bold Nature  
-IVs: 0 Atk  
-- Wish  
-- Protect  
-- Moonblast  
-- Psychic 
-
-Wingull @ Life Orb  
-Ability: Hydration  
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-IVs: 0 HP  
-- Scald  
-- Hurricane  
+- Quick Attack  
 - U-turn  
-- Roost
+- Facade
 
-Farfetch'd-Galar @ Choice Scarf  
-Ability: Scrappy  
+Dwebble @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
+EVs: 236 Atk / 236 Spe  
+Adamant Nature  
+- Shell Smash  
+- Rock Blast  
+- Earthquake  
+- Knock Off  
+
+Scorbunny @ Berry Juice  
+Ability: Libero  
+Level: 5  
+EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
 Jolly Nature  
-- Close Combat  
-- Brave Bird  
-- Knock Off
-- Poison Jab 
+- High Jump Kick  
+- U-turn  
+- Blaze Kick  
+- Gunk Shot  
 
-Oddish @ Eviolite  
-Ability: Chlorophyll  
+Amaura @ Choice Scarf  
+Ability: Refrigerate  
 Level: 5  
-EVs: 156 HP / 236 Def / 76 SpD / 36 Spe  
-Bold Nature  
+EVs: 60 HP / 220 SpA / 228 Spe  
+Modest Nature  
 IVs: 0 Atk  
-- Giga Drain  
+- Hyper Voice  
+- Earth Power  
+- Thunderbolt  
+- Ancient Power
+
+Corphish @ Eviolite  
+Ability: Adaptability  
+Level: 5  
+EVs: 196 Atk / 76 Def / 236 Spe  
+Adamant Nature  
+- Aqua Jet  
+- Crabhammer  
+- Knock Off  
+- Dragon Dance  
+
+Koffing @ Eviolite  
+Ability: Levitate  
+Level: 5  
+EVs: 36 HP / 236 Def / 236 SpD  
+Bold Nature  
+- Will-O-Wisp  
+- Toxic Spikes  
+- Pain Split  
 - Sludge Bomb  
-- Strength Sap  
-- Sleep Powder 

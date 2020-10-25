@@ -1,61 +1,60 @@
-Croagunk @ Eviolite 
-Ability: Dry Skin  
+Corphish @ Eviolite  
+Ability: Adaptability  
 Level: 5  
-EVs: 52 HP / 188 Atk / 116 Def / 116 SpD / 36 Spe  
+EVs: 196 Atk / 76 Def / 236 Spe  
 Adamant Nature  
-- Gunk Shot  
-- Drain Punch  
-- Sucker Punch  
-- Bulk Up
+- Aqua Jet  
+- Crabhammer  
+- Knock Off  
+- Dragon Dance  
 
-Drifloon @ Berry Juice  
-Ability: Unburden  
+Koffing @ Eviolite  
+Ability: Levitate  
 Level: 5  
-EVs: 116 HP / 196 SpA / 196 Spe  
-Timid Nature  
+EVs: 36 HP / 236 Def / 236 SpD  
+Bold Nature  
+- Will-O-Wisp  
+- Toxic Spikes  
+- Pain Split  
+- Sludge Bomb  
+
+Foongus @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 124 HP / 156 Def / 156 SpD  
+Bold Nature  
+- Giga Drain  
+- Spore  
+- Sludge Bomb  
+- Synthesis  
+
+Amaura @ Choice Scarf  
+Ability: Refrigerate  
+Level: 5  
+EVs: 60 HP / 220 SpA / 228 Spe  
+Modest Nature  
 IVs: 0 Atk  
-- Shadow Ball  
+- Hyper Voice  
+- Earth Power  
 - Thunderbolt  
-- Destiny Bond  
-- Substitute
+- Ancient Power
 
-Dwebble @ Berry Juice  
-Ability: Sturdy  
+Carvanha @ Life Orb  
+Ability: Speed Boost  
 Level: 5  
-EVs: 156 Atk / 76 Def / 236 Spe  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+Adamant Nature  
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation  
+
+Ponyta @ Eviolite  
+Ability: Flame Body  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
 Jolly Nature  
-- Stealth Rock  
-- Spikes  
-- Rock Blast  
-- Knock Off
-
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
-Adamant Nature  
-- Body Slam  
-- Fire Punch  
-- Curse  
-- Recycle
-
-Cutiefly @ Eviolite 
-Ability: Shield Dust 
-Level: 5  
-EVs: 236 SpA / 244 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Moonblast  
-- Bug Buzz  
-- Psychic  
-- Quiver Dance  
-
-Timburr @ Eviolite  
-Ability: Iron Fist 
-Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
-Adamant Nature  
-- Drain Punch  
-- Ice Punch
-- Mach Punch  
-- Defog 
+- Flare Blitz  
+- High Horsepower  
+- Morning Sun  
+- Wild Charge  

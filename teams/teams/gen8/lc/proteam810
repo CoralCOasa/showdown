@@ -1,61 +1,59 @@
-Drifloon @ Berry Juice  
-Ability: Unburden  
+Dwebble @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 116 HP / 196 SpA / 196 Spe  
+EVs: 236 Atk / 236 Spe  
+Adamant Nature  
+- Shell Smash  
+- Rock Blast  
+- Earthquake  
+- Knock Off  
+
+Wingull @ Life Orb  
+Ability: Hydration  
+Level: 5  
+EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
-IVs: 0 Atk  
-- Shadow Ball  
-- Thunderbolt  
-- Destiny Bond  
-- Substitute
+- Scald  
+- Hurricane  
+- U-turn  
+- Air Slash  
 
-Croagunk @ Berry Juice  
-Ability: Dry Skin  
+Onix @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 52 HP / 116 Def / 188 SpA / 116 SpD / 36 Spe  
-Modest Nature  
-IVs: 0 Atk  
-- Sludge Wave  
-- Focus Blast  
-- Vacuum Wave  
-- Nasty Plot
-
-Drilbur @ Eviolite 
-Ability: Mold Breaker  
-Level: 5  
-EVs: 36 HP / 236 Atk / 212 Spe  
+EVs: 76 HP / 236 Atk / 196 Spe  
 Jolly Nature  
 - Earthquake  
-- Rock Slide  
-- Rapid Spin  
-- Swords Dance 
+- Stealth Rock  
+- Rock Blast  
+- Dragon Dance  
 
-Vullaby @ Eviolite 
-Ability: Weak Armor  
+Munchlax @ Berry Juice  
+Ability: Thick Fat  
 Level: 5  
-EVs: 116 HP / 240 SpA / 116 Spe  
-Modest Nature  
-- Nasty Plot  
-- Air Slash  
-- Heat Wave  
-- Dark Pulse
-
-Frillish @ Choice Scarf  
-Ability: Water Absorb  
-Level: 5  
-EVs: 76 HP / 236 SpA / 196 Spe  
-Timid Nature  
-- Water Spout  
-- Shadow Ball  
-- Ice Beam 
-- Trick
-
-Trapinch @ Eviolite  
-Ability: Arena Trap  
-Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
+EVs: 236 Atk / 36 Def / 236 SpD  
 Adamant Nature  
+- Body Slam  
 - Earthquake  
-- First Impression  
-- Superpower  
-- Rock Slide
+- Curse  
+- Recycle
+
+Foongus @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 124 HP / 156 Def / 156 SpD  
+Bold Nature  
+- Giga Drain  
+- Spore  
+- Sludge Bomb  
+- Synthesis  
+
+Vulpix @ Choice Scarf  
+Ability: Drought  
+Level: 5  
+EVs: 52 HP / 196 SpA / 236 Spe  
+Timid Nature  
+- Energy Ball  
+- Weather Ball  
+- Overheat  
+- Fire Blast  

@@ -1,61 +1,59 @@
-Drilbur @ Eviolite 
-Ability: Mold Breaker  
+Koffing @ Eviolite  
+Ability: Levitate  
 Level: 5  
-EVs: 36 HP / 236 Atk / 212 Spe  
-Jolly Nature  
-- Earthquake  
-- Rock Slide  
-- Rapid Spin  
-- Stealth Rock 
-
-Drifloon @ Berry Juice  
-Ability: Unburden  
-Level: 5  
-EVs: 36 HP / 36 Atk / 84 Def / 116 SpA / 196 Spe  
-Naive Nature  
-- Shadow Ball  
-- Acrobatics  
+EVs: 36 HP / 236 Def / 236 SpD  
+Bold Nature  
 - Will-O-Wisp  
-- Substitute
-
-Mareanie @ Eviolite  
-Ability: Regenerator  
-Level: 5  
-EVs: 196 HP / 100 Def / 92 SpA / 100 SpD  
-Calm Nature  
-IVs: 0 Atk  
-- Scald  
+- Toxic Spikes  
+- Pain Split  
 - Sludge Bomb  
-- Recover  
-- Toxic Spikes 
 
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
+Larvesta @ Eviolite  
+Ability: Flame Body  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- U-turn  
+- Flare Blitz  
+- Morning Sun  
+- Will-O-Wisp  
+
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
+Level: 5  
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
+Bold Nature  
+- Moonblast  
+- Wish  
+- Protect  
+- Calm Mind  
+
+Shellder @ Eviolite  
+Ability: Skill Link  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
 Adamant Nature  
-- Body Slam  
-- Fire Punch  
-- Earthquake 
-- Recycle
+- Icicle Spear  
+- Shell Smash  
+- Rock Blast  
+- Liquidation  
 
-Vulpix @ Choice Scarf  
-Ability: Drought  
+Zigzagoon @ Berry Juice  
+Ability: Quick Feet  
 Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
-Modest Nature  
-IVs: 0 Atk  
-- Fire Blast  
-- Energy Ball  
-- Extrasensory  
-- Overheat 
+EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
+Adamant Nature  
+- Extreme Speed  
+- Belly Drum  
+- Thief  
+- Seed Bomb  
 
-Wingull @ Eviolite  
-Ability: Hydration  
+Magnemite @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
 EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
-- Scald  
-- Hurricane  
-- U-turn 
-- Roost
+- Flash Cannon  
+- Volt Switch  
+- Thunderbolt  
+- Recycle  

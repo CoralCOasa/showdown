@@ -1,61 +1,60 @@
-Dwebble @ Eviolite  
-Ability: Weak Armor  
+Drilbur @ Eviolite  
+Ability: Mold Breaker  
 Level: 5  
-EVs: 36 HP / 156 Atk / 76 Def / 236 Spe  
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
 Jolly Nature  
+- Earthquake  
+- Rapid Spin  
+- Rock Slide  
 - Stealth Rock  
-- Spikes  
-- Rock Blast  
-- Knock Off
 
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
+Timburr @ Eviolite  
+Ability: Iron Fist  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
+EVs: 196 Atk / 156 Def / 156 SpD  
 Adamant Nature  
-- Facade 
-- Fire Punch  
-- Curse  
-- Recycle
+- Drain Punch  
+- Mach Punch  
+- Knock Off  
+- Defog  
 
-Mareanie @ Eviolite  
-Ability: Regenerator  
+Larvesta @ Eviolite  
+Ability: Flame Body  
 Level: 5  
-EVs: 196 HP / 100 Def / 92 SpA / 100 SpD  
-Calm Nature  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- U-turn  
+- Flare Blitz  
+- Morning Sun  
+- Will-O-Wisp  
+
+Wingull @ Life Orb  
+Ability: Hydration  
+Level: 5  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Timid Nature  
+- Scald  
+- Hurricane  
+- U-turn  
+- Air Slash  
+
+Amaura @ Choice Scarf  
+Ability: Refrigerate  
+Level: 5  
+EVs: 60 HP / 220 SpA / 228 Spe  
+Modest Nature  
 IVs: 0 Atk  
-- Scald  
-- Sludge Bomb  
-- Recover  
-- Toxic Spikes 
+- Hyper Voice  
+- Earth Power  
+- Thunderbolt  
+- Ancient Power
 
-Chinchou @ Eviolite  
-Ability: Volt Absorb  
-Level: 5  
-EVs: 76 HP / 212 Def / 152 SpA / 60 Spe  
-Bold Nature  
-- Scald  
-- Volt Switch  
-- Ice Beam  
-- Thunder Wave
-
-Ponyta-Galar @ Life Orb  
-Ability: Pastel Veil  
+Abra @ Focus Sash  
+Ability: Magic Guard  
 Level: 5  
 EVs: 236 SpA / 76 SpD / 196 Spe  
 Timid Nature  
-IVs: 0 Atk  
 - Psychic  
-- Mystical Fire  
-- Dazzling Gleam 
-- Calm Mind 
-
-Scraggy @ Eviolite  
-Ability: Intimidate 
-Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
-Adamant Nature  
-- Dragon Dance  
-- Drain Punch  
-- Crunch  
-- Poison Jab 
+- Dazzling Gleam  
+- Energy Ball  
+- Shadow Ball  

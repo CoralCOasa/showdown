@@ -1,61 +1,59 @@
-Onix @ Eviolite  
-Ability: Weak Armor  
-Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
-Jolly Nature  
-- Stealth Rock  
-- Rock Blast  
-- Earthquake  
-- Body Press 
-
 Trapinch @ Eviolite  
 Ability: Arena Trap  
 Level: 5  
 EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Adamant Nature  
+Relaxed Nature  
 - Earthquake  
 - First Impression  
 - Superpower  
-- Rock Slide
+- Giga Drain  
 
-Shellder @ Eviolite  
-Ability: Skill Link  
+Drilbur @ Eviolite  
+Ability: Mold Breaker  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Shell Smash  
-- Icicle Spear  
-- Rock Blast  
-- Liquidation
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
+Jolly Nature  
+- Earthquake  
+- Rapid Spin  
+- Rock Slide  
+- Stealth Rock  
 
-Ponyta-Galar @ Eviolite 
-Ability: Pastel Veil  
+Mareanie @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+Bold Nature  
+- Recover  
+- Scald  
+- Toxic Spikes  
+- Sludge Bomb  
+
+Abra @ Focus Sash  
+Ability: Magic Guard  
 Level: 5  
 EVs: 236 SpA / 76 SpD / 196 Spe  
 Timid Nature  
-IVs: 0 Atk  
 - Psychic  
-- Mystical Fire  
-- Dazzling Gleam 
-- Calm Mind 
+- Dazzling Gleam  
+- Energy Ball  
+- Shadow Ball  
 
-Vullaby @ Choice Scarf  
-Ability: Weak Armor
+Staryu @ Eviolite  
+Ability: Natural Cure  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Brave Bird  
-- Knock Off  
-- U-turn  
-- Defog
-
-Cutiefly @ Focus Sash 
-Ability: Sweet Veil  
-Level: 5  
-EVs: 236 SpA / 244 Spe  
+EVs: 116 HP / 156 Def / 236 Spe  
 Timid Nature  
-IVs: 0 Atk  
-- Moonblast  
-- Bug Buzz 
-- Sticky Web  
-- Quiver Dance 
+- Rapid Spin  
+- Thunderbolt  
+- Recover  
+- Scald  
+
+Foongus @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 124 HP / 156 Def / 156 SpD  
+Bold Nature  
+- Giga Drain  
+- Spore  
+- Sludge Bomb  
+- Synthesis  

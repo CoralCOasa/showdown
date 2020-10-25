@@ -1,61 +1,59 @@
-Croagunk @ Berry Juice  
-Ability: Dry Skin  
+Zigzagoon @ Berry Juice  
+Ability: Quick Feet  
 Level: 5  
-EVs: 52 HP / 116 Def / 188 SpA / 116 SpD / 36 Spe  
-Modest Nature  
-IVs: 0 Atk  
-- Sludge Wave  
-- Focus Blast  
-- Vacuum Wave  
-- Nasty Plot
-
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
+EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
 Adamant Nature  
-- Body Slam  
-- Fire Punch  
-- Earthquake 
-- Recycle
+- Extreme Speed  
+- Belly Drum  
+- Thief  
+- Seed Bomb  
 
-Cufant @ Eviolite 
-Ability: Sheer Force  
+Onix @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 20 HP / 196 Atk / 44 Def / 204 SpD / 36 Spe  
-Adamant Nature  
-- Iron Head  
-- Play Rough  
-- High Horsepower
-- Stealth Rock
-
-Mudbray @ Eviolite  
-Ability: Stamina  
-Level: 5  
-EVs: 116 HP / 116 Atk / 36 Def / 236 SpD  
-Careful Nature  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
 - Earthquake  
-- Rest  
-- Sleep Talk  
-- Heavy Slam
+- Stealth Rock  
+- Rock Blast  
+- Dragon Dance  
 
 Scraggy @ Eviolite  
-Ability: Shed Skin 
+Ability: Moxie  
 Level: 5  
-EVs: 36 HP / 156 Atk / 36 Def / 36 SpD / 212 Spe  
-Jolly Nature
+EVs: 236 Atk / 36 SpD / 212 Spe  
+Adamant Nature  
 - Dragon Dance  
+- Knock Off  
 - Drain Punch  
-- Crunch  
-- Poison Jab 
+- High Jump Kick  
 
-Oddish @ Eviolite  
-Ability: Chlorophyll  
+Magnemite @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 156 HP / 236 Def / 76 SpD / 36 Spe  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Timid Nature  
+- Flash Cannon  
+- Volt Switch  
+- Thunderbolt  
+- Recycle  
+
+Vulpix @ Choice Scarf  
+Ability: Drought  
+Level: 5  
+EVs: 52 HP / 196 SpA / 236 Spe  
+Timid Nature  
+- Energy Ball  
+- Weather Ball  
+- Overheat  
+- Fire Blast  
+
+Mareanie @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
 Bold Nature  
-IVs: 0 Atk  
-- Giga Drain  
+- Recover  
+- Scald  
+- Toxic Spikes  
 - Sludge Bomb  
-- Strength Sap  
-- Sleep Powder 

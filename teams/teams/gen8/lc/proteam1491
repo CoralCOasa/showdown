@@ -1,61 +1,59 @@
-Cutiefly @ Eviolite 
-Ability: Shield Dust 
+Dwebble @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 236 SpA / 244 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Moonblast  
-- Bug Buzz  
-- Psychic  
-- Quiver Dance  
-
-Timburr @ Eviolite  
-Ability: Iron Fist 
-Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
+EVs: 236 Atk / 236 Spe  
 Adamant Nature  
-- Drain Punch  
-- Thunder Punch 
-- Mach Punch  
-- Defog 
-
-Vullaby @ Berry Juice 
-Ability: Weak Armor  
-Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Adamant Nature  
-- Brave Bird  
+- Shell Smash  
+- Rock Blast  
+- Earthquake  
 - Knock Off  
-- U-turn  
-- Defog
 
-Frillish @ Eviolite  
-Ability: Water Absorb  
+Vulpix @ Choice Scarf  
+Ability: Drought  
 Level: 5  
-EVs: 236 HP / 116 Def / 76 SpA / 76 SpD  
+EVs: 52 HP / 196 SpA / 236 Spe  
+Timid Nature  
+- Energy Ball  
+- Weather Ball  
+- Overheat  
+- Fire Blast  
+
+Koffing @ Eviolite  
+Ability: Levitate  
+Level: 5  
+EVs: 36 HP / 236 Def / 236 SpD  
 Bold Nature  
-- Scald  
-- Shadow Ball 
-- Strength Sap  
-- Will-O-Wisp
+- Will-O-Wisp  
+- Toxic Spikes  
+- Pain Split  
+- Sludge Bomb  
+
+Ponyta @ Eviolite  
+Ability: Flame Body  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Jolly Nature  
+- Flare Blitz  
+- High Horsepower  
+- Morning Sun  
+- Wild Charge  
 
 Mareanie @ Eviolite  
 Ability: Regenerator  
 Level: 5  
-EVs: 196 HP / 100 Def / 92 SpA / 100 SpD  
-Calm Nature  
-IVs: 0 Atk  
-- Scald  
-- Sludge Bomb  
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+Bold Nature  
 - Recover  
-- Haze 
+- Scald  
+- Toxic Spikes  
+- Sludge Bomb  
 
-Corphish @ Eviolite  
-Ability: Adaptability  
+Pawniard @ Eviolite  
+Ability: Defiant  
 Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
-Adamant Nature
-- Crabhammer  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Iron Head  
 - Knock Off  
-- Aqua Jet  
-- Swords Dance 
+- Sucker Punch  
+- Stealth Rock  

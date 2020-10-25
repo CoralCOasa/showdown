@@ -1,60 +1,59 @@
-Scraggy @ Eviolite  
-Ability: Intimidate 
+Ponyta-Galar @ Eviolite  
+Ability: Pastel Veil  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
-Adamant Nature
-- Dragon Dance  
-- High Jump Kick 
-- Crunch  
-- Poison Jab 
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Mystical Fire  
+- Psychic  
+- Dazzling Gleam  
+- Calm Mind  
 
-Vulpix @ Choice Scarf  
-Ability: Drought  
+Munchlax @ Berry Juice  
+Ability: Thick Fat  
 Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
-Modest Nature  
-IVs: 0 Atk  
-- Fire Blast  
-- Energy Ball  
-- Extrasensory  
-- Overheat 
-
-Trapinch @ Eviolite  
-Ability: Arena Trap  
-Level: 5  
-EVs: 196 Atk / 76 Def / 236 SpD  
+EVs: 236 Atk / 36 Def / 236 SpD  
 Adamant Nature  
+- Body Slam  
 - Earthquake  
-- First Impression  
-- Superpower  
-- Rock Slide
+- Curse  
+- Recycle
 
-Drilbur @ Eviolite 
-Ability: Mold Breaker  
-Level: 5  
-EVs: 36 HP / 236 Atk / 212 Spe  
-Jolly Nature  
-- Earthquake  
-- Rock Slide  
-- Rapid Spin  
-- Stealth Rock 
-
-Frillish @ Eviolite  
-Ability: Water Absorb  
-Level: 5  
-EVs: 236 HP / 116 Def / 76 SpA / 76 SpD  
-Bold Nature  
-- Scald  
-- Hex  
-- Strength Sap  
-- Will-O-Wisp
-
-Vullaby @ Eviolite 
+Vullaby @ Berry Juice  
 Ability: Weak Armor  
 Level: 5  
-EVs: 116 HP / 240 SpA / 116 Spe  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Jolly Nature  
+- Knock Off  
+- Brave Bird  
+- U-turn  
+- Defog  
+
+Tirtouga @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 212 Atk / 92 Def / 180 Spe  
+Jolly Nature  
+- Shell Smash  
+- Waterfall  
+- Stone Edge  
+- Zen Headbutt
+
+Dewpider @ Berry Juice  
+Ability: Water Bubble  
+Level: 5  
+EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
 Modest Nature  
-- Nasty Plot  
-- Air Slash  
-- Heat Wave  
-- Dark Pulse
+- Sticky Web  
+- Surf  
+- Icy Wind  
+- Giga Drain
+
+Abra @ Focus Sash  
+Ability: Magic Guard  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Psychic  
+- Dazzling Gleam  
+- Energy Ball  
+- Shadow Ball  

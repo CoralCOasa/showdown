@@ -1,61 +1,60 @@
-Shellder @ Eviolite  
-Ability: Skill Link  
+Ponyta @ Eviolite  
+Ability: Flame Body  
 Level: 5  
 EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Shell Smash  
-- Icicle Spear  
-- Rock Blast  
-- Liquidation
+Jolly Nature  
+- Flare Blitz  
+- High Horsepower  
+- Morning Sun  
+- Wild Charge  
 
-Onix @ Eviolite  
-Ability: Rock Head  
+Larvesta @ Eviolite  
+Ability: Flame Body  
 Level: 5  
 EVs: 76 HP / 236 Atk / 196 Spe  
 Jolly Nature  
-- Dragon Dance  
-- Head Smash  
-- Earthquake  
-- Stealth Rock 
+- U-turn  
+- Flare Blitz  
+- Morning Sun  
+- Will-O-Wisp  
 
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
+Grookey @ Eviolite  
+Ability: Grassy Surge  
 Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
-Bold Nature  
-IVs: 0 Atk  
-- Wish  
-- Protect  
-- Moonblast  
-- Psychic 
-
-Frillish @ Eviolite  
-Ability: Water Absorb  
-Level: 5  
-EVs: 236 HP / 116 Def / 76 SpA / 76 SpD  
-Bold Nature  
-- Scald  
-- Hex  
-- Recover 
-- Will-O-Wisp
-
-Farfetch'd-Galar @ Eviolite  
-Ability: Scrappy  
-Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
+EVs: 236 Atk / 36 Def / 236 Spe  
 Jolly Nature  
-- Close Combat  
-- Brave Bird  
+- Grassy Glide  
 - Knock Off  
-- Poison Jab 
+- Drain Punch  
+- U-turn  
 
-Oddish @ Eviolite  
-Ability: Chlorophyll  
+Natu @ Eviolite  
+Ability: Magic Bounce  
 Level: 5  
-EVs: 156 HP / 236 Def / 76 SpD / 36 Spe  
-Bold Nature  
+EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
+Timid Nature  
 IVs: 0 Atk  
-- Giga Drain  
-- Sludge Bomb  
-- Strength Sap  
-- Sleep Powder 
+- Psychic  
+- Heat Wave  
+- U-turn  
+- Roost  
+
+Onix @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- Earthquake  
+- Stealth Rock  
+- Rock Blast  
+- Dragon Dance  
+
+Meowth @ Life Orb  
+Ability: Technician  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 196 Spe  
+Jolly Nature  
+- Fake Out  
+- Feint  
+- Aerial Ace  
+- Water Pulse  

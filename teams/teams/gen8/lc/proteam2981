@@ -1,60 +1,59 @@
-Ponyta-Galar @ Eviolite 
-Ability: Pastel Veil  
+Woobat @ Berry Juice  
+Ability: Simple  
 Level: 5  
-EVs: 76 Def / 236 SpA / 196 Spe  
+EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
 Timid Nature  
-IVs: 0 Atk  
+- Nasty Plot  
 - Psychic  
-- Mystical Fire  
-- Dazzling Gleam 
-- Healing Wish
+- Heat Wave  
+- Air Slash  
 
-Dwebble @ Berry Juice  
-Ability: Sturdy  
+Pawniard @ Eviolite  
+Ability: Defiant  
 Level: 5  
-EVs: 156 Atk / 76 Def / 236 Spe  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
 Jolly Nature  
-- Stealth Rock  
-- Spikes  
-- Rock Blast  
-- Knock Off
-
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
-Adamant Nature  
-- Facade 
-- Fire Punch  
-- Curse  
-- Recycle
-
-Corphish @ Eviolite  
-Ability: Adaptability  
-Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
-Adamant Nature
-- Crabhammer  
+- Iron Head  
 - Knock Off  
-- Aqua Jet  
-- Swords Dance 
+- Sucker Punch  
+- Stealth Rock  
 
-Shellder @ Eviolite  
-Ability: Skill Link  
+Koffing @ Eviolite  
+Ability: Levitate  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Shell Smash  
-- Icicle Spear  
-- Rock Blast  
-- Liquidation
+EVs: 36 HP / 236 Def / 236 SpD  
+Bold Nature  
+- Will-O-Wisp  
+- Toxic Spikes  
+- Pain Split  
+- Sludge Bomb  
 
-Mudbray @ Choice Scarf  
-Ability: Stamina  
+Scraggy @ Eviolite  
+Ability: Moxie  
 Level: 5  
-EVs: 36 HP / 196 Atk / 36 Def / 236 Spe  
+EVs: 236 Atk / 36 SpD / 212 Spe  
 Adamant Nature  
-- Earthquake  
-- Heavy Slam  
-- Rock Slide  
-- Close Combat
+- Dragon Dance  
+- Knock Off  
+- Drain Punch  
+- High Jump Kick  
+
+Staryu @ Eviolite  
+Ability: Natural Cure  
+Level: 5  
+EVs: 116 HP / 156 Def / 236 Spe  
+Timid Nature  
+- Rapid Spin  
+- Thunderbolt  
+- Recover  
+- Scald  
+
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
+Level: 5  
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
+Bold Nature  
+- Moonblast  
+- Wish  
+- Protect  
+- Calm Mind  

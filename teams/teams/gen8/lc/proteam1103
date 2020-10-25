@@ -1,43 +1,42 @@
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
+Mareanie @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
-Jolly Nature
-- Brave Bird  
-- Shadow Claw 
-- Close Combat  
-- U-turn
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+Bold Nature  
+- Recover  
+- Scald  
+- Toxic Spikes  
+- Sludge Bomb  
 
-Timburr @ Eviolite  
-Ability: Iron Fist 
-Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
-Adamant Nature  
-- Drain Punch  
-- Thunder Punch  
-- Mach Punch  
-- Defog 
-
-Onix @ Eviolite  
-Ability: Rock Head  
+Onix @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
 EVs: 76 HP / 236 Atk / 196 Spe  
 Jolly Nature  
-- Dragon Dance  
-- Head Smash  
 - Earthquake  
-- Taunt
+- Stealth Rock  
+- Rock Blast  
+- Dragon Dance  
 
-Vulpix @ Choice Scarf  
-Ability: Drought  
+Wingull @ Life Orb  
+Ability: Hydration  
 Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
-Modest Nature  
-IVs: 0 Atk  
-- Fire Blast  
-- Energy Ball  
-- Extrasensory  
-- Memento
+EVs: 36 Def / 236 SpA / 236 Spe  
+Timid Nature  
+- Scald  
+- Hurricane  
+- U-turn  
+- Air Slash  
+
+Farfetch’d-Galar @ Eviolite  
+Ability: Scrappy  
+Level: 5  
+EVs: 20 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Swords Dance  
+- Close Combat  
+- Brave Bird  
+- Knock Off  
 
 Dwebble @ Berry Juice  
 Ability: Sturdy  
@@ -47,15 +46,14 @@ Adamant Nature
 - Shell Smash  
 - Rock Blast  
 - Earthquake  
-- Knock Off
+- Knock Off  
 
-Cutiefly @ Focus Sash 
-Ability: Sweet Veil  
+Meowth @ Life Orb  
+Ability: Technician  
 Level: 5  
-EVs: 236 SpA / 244 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Moonblast  
-- Psychic
-- Sticky Web  
-- U-turn
+EVs: 236 Atk / 36 SpD / 196 Spe  
+Jolly Nature  
+- Fake Out  
+- Feint  
+- Aerial Ace  
+- Water Pulse  

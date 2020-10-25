@@ -1,61 +1,60 @@
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
+Dwebble @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
+EVs: 236 Atk / 236 Spe  
 Adamant Nature  
-- Body Slam  
-- Fire Punch  
-- Earthquake 
-- Recycle
-
-Diglett @ Life Orb  
-Ability: Arena Trap  
-Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
-Jolly Nature  
+- Shell Smash  
+- Rock Blast  
 - Earthquake  
-- Rock Slide  
-- Sucker Punch  
-- Memento  
+- Knock Off  
 
-Ponyta-Galar @ Eviolite 
-Ability: Pastel Veil  
+Woobat @ Berry Juice  
+Ability: Simple  
 Level: 5  
-EVs: 76 Def / 236 SpA / 196 Spe  
+EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
 Timid Nature  
-IVs: 0 Atk  
+- Nasty Plot  
 - Psychic  
-- Mystical Fire  
-- Morning Sun  
-- Healing Wish
+- Heat Wave  
+- Air Slash  
+
+Amaura @ Choice Scarf  
+Ability: Refrigerate  
+Level: 5  
+EVs: 60 HP / 220 SpA / 228 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hyper Voice  
+- Earth Power  
+- Thunderbolt  
+- Ancient Power
+
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
+Level: 5  
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
+Bold Nature  
+- Moonblast  
+- Wish  
+- Protect  
+- Calm Mind  
 
 Onix @ Berry Juice  
 Ability: Sturdy  
 Level: 5  
 EVs: 76 HP / 236 Atk / 196 Spe  
 Jolly Nature  
+- Earthquake  
 - Stealth Rock  
 - Rock Blast  
-- Earthquake  
-- Taunt 
+- Dragon Dance  
 
-Farfetch'd-Galar @ Eviolite  
-Ability: Scrappy  
+Mareanie @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Close Combat  
-- Brave Bird  
-- Knock Off  
-- Poison Jab 
-
-Vulpix @ Choice Scarf  
-Ability: Drought  
-Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
-Timid Nature
-IVs: 0 Atk  
-- Fire Blast  
-- Energy Ball  
-- Extrasensory  
-- Memento
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+Bold Nature  
+- Recover  
+- Scald  
+- Toxic Spikes  
+- Sludge Bomb  

@@ -1,60 +1,59 @@
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
+Zigzagoon @ Berry Juice  
+Ability: Quick Feet  
 Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
-Jolly Nature
-- Brave Bird  
-- Retaliate  
-- Close Combat  
-- U-turn
-
-Shellder @ Eviolite  
-Ability: Skill Link  
-Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
+EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
 Adamant Nature  
-- Shell Smash  
-- Icicle Spear  
-- Rock Blast  
-- Liquidation
+- Extreme Speed  
+- Belly Drum  
+- Thief  
+- Seed Bomb  
 
-Croagunk @ Berry Juice  
-Ability: Dry Skin  
+Bunnelby @ Eviolite  
+Ability: Huge Power  
 Level: 5  
-EVs: 52 HP / 116 Def / 188 SpA / 116 SpD / 36 Spe  
-Modest Nature  
-IVs: 0 Atk  
-- Sludge Wave  
-- Focus Blast  
-- Vacuum Wave  
-- Nasty Plot
+EVs: 228 Atk / 132 Def / 148 SpD  
+Adamant Nature  
+- Earthquake  
+- Quick Attack  
+- U-turn  
+- Facade
 
-Corphish @ Eviolite  
-Ability: Adaptability  
+Abra @ Focus Sash  
+Ability: Magic Guard  
 Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
-Adamant Nature
-- Crabhammer  
-- Knock Off  
-- Aqua Jet  
-- Swords Dance 
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Psychic  
+- Dazzling Gleam  
+- Energy Ball  
+- Shadow Ball  
 
-Onix @ Eviolite  
-Ability: Rock Head  
+Farfetch’d-Galar @ Eviolite  
+Ability: Scrappy  
 Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
+EVs: 20 HP / 236 Atk / 236 Spe  
 Jolly Nature  
-- Dragon Dance  
-- Head Smash  
-- Earthquake  
-- Stealth Rock 
+- Swords Dance  
+- Close Combat  
+- Brave Bird  
+- Knock Off  
 
-Trapinch @ Eviolite  
-Ability: Arena Trap  
+Munchlax @ Berry Juice  
+Ability: Thick Fat  
 Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Brave Nature  
+EVs: 236 Atk / 36 Def / 236 SpD  
+Adamant Nature  
+- Body Slam  
 - Earthquake  
-- First Impression  
-- Superpower  
-- Giga Drain
+- Curse  
+- Recycle
+
+Porygon @ Eviolite  
+Ability: Download  
+Level: 5  
+EVs: 36 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Tri Attack  
+- Recover  
+- Ice Beam  
+- Psychic  

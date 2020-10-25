@@ -1,60 +1,59 @@
-Drilbur @ Eviolite 
-Ability: Mold Breaker  
-Level: 5  
-EVs: 36 HP / 236 Atk / 212 Spe  
-Jolly Nature  
-- Earthquake  
-- Rock Slide  
-- Rapid Spin  
-- Swords Dance
-
 Corphish @ Eviolite  
 Ability: Adaptability  
 Level: 5  
 EVs: 196 Atk / 76 Def / 236 Spe  
-Adamant Nature
+Adamant Nature  
+- Aqua Jet  
 - Crabhammer  
 - Knock Off  
-- Aqua Jet  
-- Superpower 
+- Dragon Dance  
 
-Timburr @ Eviolite  
-Ability: Iron Fist 
+Zigzagoon @ Berry Juice  
+Ability: Quick Feet  
 Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
+EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
 Adamant Nature  
-- Drain Punch  
-- Thunder Punch 
-- Mach Punch  
-- Defog 
+- Extreme Speed  
+- Belly Drum  
+- Thief  
+- Seed Bomb  
 
-Vulpix @ Choice Scarf  
-Ability: Drought  
+Trapinch @ Eviolite  
+Ability: Arena Trap  
 Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
-Timid Nature
-IVs: 0 Atk  
-- Fire Blast  
-- Energy Ball  
-- Extrasensory  
-- Memento
+EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
+Relaxed Nature  
+- Earthquake  
+- First Impression  
+- Superpower  
+- Giga Drain  
 
-Chinchou @ Berry Juice 
-Ability: Volt Absorb  
+Meowth @ Life Orb  
+Ability: Technician  
 Level: 5  
-EVs: 76 HP / 212 Def / 152 SpA / 60 Spe  
-Bold Nature  
-- Scald  
-- Volt Switch  
-- Ice Beam  
-- Thunder Wave
+EVs: 236 Atk / 36 SpD / 196 Spe  
+Jolly Nature  
+- Fake Out  
+- Feint  
+- Aerial Ace  
+- Water Pulse  
 
-Shellder @ Eviolite  
-Ability: Skill Link  
+Carvanha @ Life Orb  
+Ability: Speed Boost  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
 Adamant Nature  
-- Shell Smash  
-- Icicle Spear  
-- Rock Blast  
-- Liquidation
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation  
+
+Munchlax @ Berry Juice  
+Ability: Thick Fat  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 SpD  
+Adamant Nature  
+- Body Slam  
+- Earthquake  
+- Curse  
+- Recycle

@@ -1,61 +1,59 @@
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
+Timburr @ Eviolite  
+Ability: Iron Fist  
 Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
-Jolly Nature
-- Brave Bird  
-- Retaliate 
-- Close Combat  
-- U-turn
-
-Ponyta-Galar @ Eviolite 
-Ability: Pastel Veil  
-Level: 5  
-EVs: 76 Def / 236 SpA / 196 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Psychic  
-- Mystical Fire  
-- Morning Sun  
-- Calm Mind 
-
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
+EVs: 196 Atk / 156 Def / 156 SpD  
 Adamant Nature  
-- Body Slam  
-- Fire Punch  
-- Earthquake 
-- Recycle
+- Drain Punch  
+- Mach Punch  
+- Knock Off  
+- Defog  
 
-Oddish @ Eviolite  
-Ability: Chlorophyll  
+Diglett @ Life Orb  
+Ability: Arena Trap  
 Level: 5  
-EVs: 156 HP / 236 Def / 76 SpD / 36 Spe  
-Bold Nature  
-IVs: 0 Atk  
-- Giga Drain  
-- Sludge Bomb  
-- Strength Sap  
-- Sleep Powder 
+EVs: 36 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Sucker Punch  
+- Rock Slide  
+- Stealth Rock  
+
+Carvanha @ Life Orb  
+Ability: Speed Boost  
+Level: 5  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+Adamant Nature  
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation  
 
 Corphish @ Eviolite  
 Ability: Adaptability  
 Level: 5  
 EVs: 196 Atk / 76 Def / 236 Spe  
-Adamant Nature
+Adamant Nature  
+- Aqua Jet  
 - Crabhammer  
 - Knock Off  
-- Aqua Jet  
-- Swords Dance 
+- Dragon Dance  
 
-Ferroseed @ Eviolite  
-Ability: Iron Barbs  
+Mienfoo @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 84 HP / 36 Atk / 108 Def / 228 SpD / 36 Spe  
-Impish Nature  
-- Bullet Seed  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
 - Knock Off  
-- Thunder Wave 
-- Stealth Rock 
+- U-turn  
+- High Jump Kick  
+- Fake Out  
+
+Staryu @ Eviolite  
+Ability: Natural Cure  
+Level: 5  
+EVs: 116 HP / 156 Def / 236 Spe  
+Timid Nature  
+- Rapid Spin  
+- Thunderbolt  
+- Recover  
+- Scald  

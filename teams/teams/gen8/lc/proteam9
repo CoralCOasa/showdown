@@ -1,61 +1,59 @@
-Drilbur @ Eviolite 
-Ability: Mold Breaker  
+Timburr @ Eviolite  
+Ability: Iron Fist  
 Level: 5  
-EVs: 36 HP / 236 Atk / 212 Spe  
-Jolly Nature  
-- Earthquake  
-- Rock Slide  
-- Rapid Spin  
-- Stealth Rock 
-
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
-Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
-Bold Nature  
-IVs: 0 Atk  
-- Wish  
-- Protect  
-- Moonblast  
-- Psychic 
-
-Scraggy @ Eviolite  
-Ability: Moxie 
-Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
+EVs: 196 Atk / 156 Def / 156 SpD  
 Adamant Nature  
-- Dragon Dance  
 - Drain Punch  
-- Crunch  
-- Poison Jab
+- Mach Punch  
+- Knock Off  
+- Defog  
 
-Vullaby @ Choice Scarf  
-Ability: Overcoat 
+Dewpider @ Berry Juice  
+Ability: Water Bubble  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Brave Bird  
+EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
+Modest Nature  
+- Sticky Web  
+- Surf  
+- Icy Wind  
+- Giga Drain
+
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
 - Knock Off  
 - U-turn  
-- Defog
+- High Jump Kick  
+- Fake Out  
 
-Ponyta-Galar @ Life Orb  
-Ability: Pastel Veil  
+Archen @ Berry Juice  
+Ability: Defeatist  
+Level: 5  
+EVs: 76 HP / 180 Atk / 196 Spe  
+Jolly Nature  
+- Stone Edge  
+- Dual Wingbeat  
+- Earthquake  
+- U-turn
+
+Abra @ Focus Sash  
+Ability: Magic Guard  
 Level: 5  
 EVs: 236 SpA / 76 SpD / 196 Spe  
 Timid Nature  
-IVs: 0 Atk  
 - Psychic  
-- Mystical Fire  
-- Dazzling Gleam 
-- Calm Mind 
-
-Drifloon @ Berry Juice  
-Ability: Unburden  
-Level: 5  
-EVs: 36 HP / 36 Atk / 84 Def / 116 SpA / 196 Spe  
-Naive Nature  
+- Dazzling Gleam  
+- Energy Ball  
 - Shadow Ball  
-- Acrobatics  
-- Thunderbolt 
-- Substitute
+
+Diglett @ Life Orb  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Sucker Punch  
+- Rock Slide  
+- Stealth Rock  

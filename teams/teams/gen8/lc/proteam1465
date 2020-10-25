@@ -1,60 +1,59 @@
-Ponyta-Galar @ Eviolite 
-Ability: Pastel Veil  
+Mienfoo @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
+EVs: 236 Atk / 36 Def / 236 Spe  
 Jolly Nature  
-- Zen Headbutt  
-- Play Rough  
-- Wild Charge  
-- Morning Sun 
-
-Oddish @ Eviolite  
-Ability: Chlorophyll  
-Level: 5  
-EVs: 156 HP / 236 Def / 76 SpD / 36 Spe  
-Bold Nature  
-IVs: 0 Atk  
-- Giga Drain  
-- Sludge Bomb  
-- Strength Sap  
-- Sleep Powder 
-
-Drilbur @ Berry Juice  
-Ability: Mold Breaker  
-Level: 5  
-EVs: 36 HP / 236 Atk / 212 Spe  
-Jolly Nature  
-- Earthquake  
-- Rock Slide  
-- Rapid Spin  
-- Swords Dance
+- Knock Off  
+- U-turn  
+- High Jump Kick  
+- Fake Out  
 
 Shellder @ Eviolite  
 Ability: Skill Link  
 Level: 5  
 EVs: 236 Atk / 76 SpD / 196 Spe  
 Adamant Nature  
-- Shell Smash  
 - Icicle Spear  
+- Shell Smash  
 - Rock Blast  
-- Liquidation
+- Liquidation  
 
-Frillish @ Eviolite  
-Ability: Water Absorb  
+Trapinch @ Eviolite  
+Ability: Arena Trap  
 Level: 5  
-EVs: 236 HP / 116 Def / 76 SpA / 76 SpD  
-Bold Nature  
-- Scald  
-- Shadow Ball 
-- Recover 
-- Will-O-Wisp
+EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
+Relaxed Nature  
+- Earthquake  
+- First Impression  
+- Superpower  
+- Giga Drain  
 
-Farfetch'd-Galar @ Eviolite  
-Ability: Scrappy  
+Onix @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
+EVs: 76 HP / 236 Atk / 196 Spe  
 Jolly Nature  
-- Close Combat  
-- Brave Bird  
-- Knock Off  
-- Swords Dance 
+- Earthquake  
+- Stealth Rock  
+- Rock Blast  
+- Dragon Dance  
+
+Dewpider @ Berry Juice  
+Ability: Water Bubble  
+Level: 5  
+EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
+Modest Nature  
+- Sticky Web  
+- Surf  
+- Icy Wind  
+- Giga Drain
+
+Carvanha @ Life Orb  
+Ability: Speed Boost  
+Level: 5  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+Adamant Nature  
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation  

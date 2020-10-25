@@ -1,60 +1,59 @@
-Drilbur @ Eviolite 
-Ability: Mold Breaker  
+Carvanha @ Life Orb  
+Ability: Speed Boost  
 Level: 5  
-EVs: 36 HP / 236 Atk / 212 Spe  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+Adamant Nature  
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation  
+
+Pawniard @ Eviolite  
+Ability: Defiant  
+Level: 5  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
 Jolly Nature  
-- Earthquake  
-- Rock Slide  
-- Rapid Spin  
-- Swords Dance
+- Iron Head  
+- Knock Off  
+- Sucker Punch  
+- Stealth Rock  
 
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
-Adamant Nature  
-- Body Slam  
-- Fire Punch  
-- Curse  
-- Recycle
-
-Chinchou @ Eviolite  
-Ability: Volt Absorb  
-Level: 5  
-EVs: 76 HP / 212 Def / 152 SpA / 60 Spe  
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
 Bold Nature  
-- Scald  
-- Volt Switch  
-- Ice Beam  
-- Thunder Wave
+- Moonblast  
+- Wish  
+- Protect  
+- Calm Mind  
 
-Frillish @ Choice Scarf  
-Ability: Water Absorb  
+Mienfoo @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 76 HP / 236 SpA / 196 Spe  
-Timid Nature  
-- Water Spout  
-- Shadow Ball  
-- Ice Beam 
-- Trick
-
-Wingull @ Life Orb  
-Ability: Keen Eye 
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-IVs: 0 HP  
-- Scald  
-- Hurricane  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Knock Off  
 - U-turn  
-- Knock Off 
+- High Jump Kick  
+- Fake Out  
 
-Shellder @ Eviolite  
-Ability: Skill Link  
+Meowth @ Life Orb  
+Ability: Technician  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Shell Smash  
-- Icicle Spear  
-- Rock Blast  
-- Liquidation
+EVs: 236 Atk / 36 SpD / 196 Spe  
+Jolly Nature  
+- Fake Out  
+- Feint  
+- Aerial Ace  
+- Water Pulse  
+
+Croagunk @ Eviolite  
+Ability: Dry Skin  
+Level: 5  
+EVs: 116 Def / 188 SpA / 196 Spe  
+Timid Nature  
+- Vacuum Wave  
+- Nasty Plot  
+- Sludge Wave  
+- Focus Blast  

@@ -1,61 +1,59 @@
-Croagunk @ Berry Juice  
-Ability: Dry Skin  
+Grookey @ Eviolite  
+Ability: Grassy Surge  
 Level: 5  
-EVs: 52 HP / 116 Def / 188 SpA / 116 SpD / 36 Spe  
-Modest Nature  
-IVs: 0 Atk  
-- Sludge Wave  
-- Focus Blast  
-- Vacuum Wave  
-- Nasty Plot
-
-Timburr @ Eviolite  
-Ability: Iron Fist 
-Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
-Adamant Nature  
-- Drain Punch  
-- Thunder Punch  
-- Mach Punch  
-- Defog 
-
-Corphish @ Eviolite  
-Ability: Adaptability  
-Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
-Adamant Nature
-- Crabhammer  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Grassy Glide  
 - Knock Off  
-- Aqua Jet  
-- Dragon Dance
+- Drain Punch  
+- U-turn  
 
-Vullaby @ Eviolite 
-Ability: Weak Armor  
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
 Level: 5  
-EVs: 116 HP / 240 SpA / 116 Spe  
-Modest Nature  
-- Nasty Plot  
-- Air Slash  
-- Heat Wave  
-- Dark Pulse
+EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
+Impish Nature  
+- Knock Off  
+- Thunder Wave  
+- Spikes  
+- Giga Drain
 
-Scraggy @ Berry Juice  
-Ability: Moxie 
+Munchlax @ Berry Juice  
+Ability: Thick Fat  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
+EVs: 236 Atk / 36 Def / 236 SpD  
 Adamant Nature  
-- Dragon Dance  
-- High Jump Kick  
-- Crunch  
-- Zen Headbutt 
+- Body Slam  
+- Earthquake  
+- Curse  
+- Recycle
 
-Vulpix @ Life Orb  
-Ability: Drought  
+Ponyta @ Eviolite  
+Ability: Flame Body  
 Level: 5  
-EVs: 36 Def / 196 SpA / 236 Spe  
-Timid Nature  
-IVs: 4 HP  
-- Fire Blast  
-- Energy Ball  
-- Extrasensory  
-- Quick Attack  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Jolly Nature  
+- Flare Blitz  
+- High Horsepower  
+- Morning Sun  
+- Wild Charge  
+
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Knock Off  
+- U-turn  
+- High Jump Kick  
+- Fake Out  
+
+Onix @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- Earthquake  
+- Stealth Rock  
+- Rock Blast  
+- Dragon Dance  

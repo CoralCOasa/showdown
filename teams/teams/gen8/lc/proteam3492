@@ -1,33 +1,52 @@
-Oddish @ Eviolite  
-Ability: Chlorophyll  
+Vullaby @ Berry Juice  
+Ability: Weak Armor  
 Level: 5  
-EVs: 156 HP / 236 Def / 76 SpD / 36 Spe  
-Bold Nature  
-IVs: 0 Atk  
-- Giga Drain  
-- Sludge Bomb  
-- Strength Sap  
-- Sleep Powder 
-
-Corphish @ Eviolite  
-Ability: Adaptability  
-Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
-Adamant Nature
-- Crabhammer  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Jolly Nature  
 - Knock Off  
-- Aqua Jet  
-- Superpower 
+- Brave Bird  
+- U-turn  
+- Defog  
 
-Ferroseed @ Eviolite  
-Ability: Iron Barbs  
+Vulpix @ Choice Scarf  
+Ability: Drought  
 Level: 5  
-EVs: 84 HP / 36 Atk / 108 Def / 228 SpD / 36 Spe  
-Impish Nature  
-- Bullet Seed  
-- Knock Off 
-- Thunder Wave  
-- Stealth Rock 
+EVs: 52 HP / 196 SpA / 236 Spe  
+Timid Nature  
+- Energy Ball  
+- Weather Ball  
+- Overheat  
+- Fire Blast  
+
+Dewpider @ Berry Juice  
+Ability: Water Bubble  
+Level: 5  
+EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
+Modest Nature  
+- Sticky Web  
+- Surf  
+- Icy Wind  
+- Giga Drain
+
+Meowth @ Life Orb  
+Ability: Technician  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 196 Spe  
+Jolly Nature  
+- Fake Out  
+- Feint  
+- Aerial Ace  
+- Water Pulse  
+
+Tirtouga @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 212 Atk / 92 Def / 180 Spe  
+Jolly Nature  
+- Shell Smash  
+- Waterfall  
+- Stone Edge  
+- Zen Headbutt
 
 Scraggy @ Eviolite  
 Ability: Moxie  
@@ -35,27 +54,6 @@ Level: 5
 EVs: 236 Atk / 36 SpD / 212 Spe  
 Adamant Nature  
 - Dragon Dance  
-- High Jump Kick 
-- Crunch  
-- Poison Jab 
-
-Drifloon @ Berry Juice  
-Ability: Unburden  
-Level: 5  
-EVs: 116 HP / 196 SpA / 196 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Shadow Ball  
-- Thunderbolt  
-- Will-O-Wisp 
-- Substitute
-
-Ponyta-Galar @ Life Orb  
-Ability: Pastel Veil  
-Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Jolly Nature  
-- Zen Headbutt  
-- Play Rough  
-- High Horsepower 
-- Morning Sun 
+- Knock Off  
+- Drain Punch  
+- High Jump Kick  

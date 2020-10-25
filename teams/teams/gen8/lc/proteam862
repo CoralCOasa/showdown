@@ -1,62 +1,59 @@
-Dwebble @ Berry Juice  
-Ability: Sturdy  
+Koffing @ Eviolite  
+Ability: Levitate  
 Level: 5  
-EVs: 236 Atk / 236 Spe  
-Adamant Nature  
-- Shell Smash  
-- Rock Blast  
-- Earthquake  
-- Knock Off
-
-Cutiefly @ Eviolite  
-Ability: Shield Dust 
-Level: 5  
-EVs: 236 SpA / 244 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Moonblast  
-- Psychic
-- Sticky Web  
-- Quiver Dance 
-
-Timburr @ Eviolite  
-Ability: Guts  
-Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
-Adamant Nature  
-- Drain Punch  
-- Thunder Punch  
-- Mach Punch  
-- Fire Punch 
-
-Oddish @ Eviolite  
-Ability: Chlorophyll  
-Level: 5  
-EVs: 156 HP / 236 Def / 76 SpD / 36 Spe  
+EVs: 36 HP / 236 Def / 236 SpD  
 Bold Nature  
-IVs: 0 Atk  
-- Giga Drain  
+- Will-O-Wisp  
+- Toxic Spikes  
+- Pain Split  
 - Sludge Bomb  
-- Strength Sap  
-- Sleep Powder 
 
-Chinchou @ Choice Scarf  
-Ability: Volt Absorb  
+Drilbur @ Eviolite  
+Ability: Mold Breaker  
 Level: 5  
-EVs: 52 Def / 228 SpA / 220 Spe  
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
+Jolly Nature  
+- Earthquake  
+- Rapid Spin  
+- Rock Slide  
+- Stealth Rock  
+
+Munchlax @ Berry Juice  
+Ability: Thick Fat  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 SpD  
+Adamant Nature  
+- Body Slam  
+- Earthquake  
+- Curse  
+- Recycle
+
+Grookey @ Eviolite  
+Ability: Grassy Surge  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Grassy Glide  
+- Knock Off  
+- Drain Punch  
+- U-turn  
+
+Wingull @ Life Orb  
+Ability: Hydration  
+Level: 5  
+EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
-IVs: 0 Atk  
-- Volt Switch  
 - Scald  
-- Ice Beam  
-- Hydro Pump 
+- Hurricane  
+- U-turn  
+- Air Slash  
 
 Trapinch @ Eviolite  
 Ability: Arena Trap  
 Level: 5  
 EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Brave Nature  
+Relaxed Nature  
 - Earthquake  
 - First Impression  
 - Superpower  
-- Giga Drain
+- Giga Drain  

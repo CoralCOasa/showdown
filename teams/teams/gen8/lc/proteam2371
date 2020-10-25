@@ -1,62 +1,60 @@
-Mareanie @ Eviolite  
-Ability: Regenerator  
+Larvesta @ Eviolite  
+Ability: Flame Body  
 Level: 5  
-EVs: 196 HP / 100 Def / 92 SpA / 100 SpD  
-Calm Nature  
-IVs: 0 Atk  
-- Scald  
-- Sludge Bomb  
-- Recover  
-- Toxic Spikes 
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- U-turn  
+- Flare Blitz  
+- Morning Sun  
+- Will-O-Wisp  
 
-Ponyta-Galar @ Eviolite 
-Ability: Pastel Veil  
+Grookey @ Eviolite  
+Ability: Grassy Surge  
 Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Grassy Glide  
+- Knock Off  
+- Drain Punch  
+- U-turn  
+
+Natu @ Eviolite  
+Ability: Magic Bounce  
+Level: 5  
+EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
 Timid Nature  
 IVs: 0 Atk  
 - Psychic  
-- Mystical Fire  
-- Dazzling Gleam 
-- Healing Wish
+- Heat Wave  
+- U-turn  
+- Roost  
+
+Staryu @ Eviolite  
+Ability: Natural Cure  
+Level: 5  
+EVs: 116 HP / 156 Def / 236 Spe  
+Timid Nature  
+- Rapid Spin  
+- Thunderbolt  
+- Recover  
+- Scald  
 
 Trapinch @ Eviolite  
 Ability: Arena Trap  
 Level: 5  
 EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Adamant Nature  
+Relaxed Nature  
 - Earthquake  
 - First Impression  
 - Superpower  
-- Rock Slide
+- Giga Drain  
 
-Shellder @ Eviolite  
-Ability: Skill Link  
+Mareanie @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Shell Smash  
-- Icicle Spear  
-- Rock Blast  
-- Liquidation
-
-Cufant @ Life Orb  
-Ability: Sheer Force  
-Level: 5  
-EVs: 20 HP / 196 Atk / 204 Def / 44 SpD / 36 Spe  
-Adamant Nature  
-- Iron Head  
-- Play Rough  
-- Power Whip  
-- High Horsepower 
-
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
-Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
 Bold Nature  
-IVs: 0 Atk  
-- Wish  
-- Protect  
-- Moonblast  
-- Calm Mind 
+- Recover  
+- Scald  
+- Toxic Spikes  
+- Sludge Bomb  

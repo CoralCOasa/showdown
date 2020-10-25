@@ -1,61 +1,60 @@
-Frillish @ Eviolite  
-Ability: Water Absorb  
+Croagunk @ Eviolite  
+Ability: Dry Skin  
 Level: 5  
-EVs: 236 HP / 116 Def / 76 SpA / 76 SpD  
-Bold Nature  
+EVs: 116 Def / 188 SpA / 196 Spe  
+Timid Nature  
+- Vacuum Wave  
+- Nasty Plot  
+- Sludge Wave  
+- Focus Blast  
+
+Wingull @ Life Orb  
+Ability: Hydration  
+Level: 5  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Timid Nature  
 - Scald  
-- Hex  
-- Strength Sap  
-- Will-O-Wisp
+- Hurricane  
+- U-turn  
+- Air Slash  
 
-Diglett @ Life Orb  
-Ability: Arena Trap  
+Scraggy @ Eviolite  
+Ability: Moxie  
 Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Earthquake  
-- Rock Slide  
-- Sucker Punch  
-- Substitute 
+EVs: 236 Atk / 36 SpD / 212 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Knock Off  
+- Drain Punch  
+- High Jump Kick  
 
-Cutiefly @ Eviolite  
-Ability: Shield Dust 
+Carvanha @ Life Orb  
+Ability: Speed Boost  
 Level: 5  
-EVs: 236 SpA / 244 Spe  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+Adamant Nature  
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation  
+
+Vulpix @ Choice Scarf  
+Ability: Drought  
+Level: 5  
+EVs: 52 HP / 196 SpA / 236 Spe  
 Timid Nature  
-IVs: 0 Atk  
-- Moonblast  
-- Bug Buzz  
-- Psychic  
-- Quiver Dance  
+- Energy Ball  
+- Weather Ball  
+- Overheat  
+- Fire Blast  
 
-Dwebble @ Berry Juice  
-Ability: Sturdy  
+Natu @ Eviolite  
+Ability: Magic Bounce  
 Level: 5  
-EVs: 156 Atk / 76 Def / 236 Spe  
-Jolly Nature  
-- Stealth Rock  
-- Spikes  
-- Rock Blast  
-- Knock Off
-
-Farfetch'd-Galar @ Choice Scarf  
-Ability: Scrappy  
-Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Close Combat  
-- Brave Bird  
-- Knock Off
-- Poison Jab
-
-Ponyta-Galar @ Eviolite 
-Ability: Pastel Veil  
-Level: 5  
-EVs: 76 Def / 236 SpA / 196 Spe  
+EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
 Timid Nature  
 IVs: 0 Atk  
 - Psychic  
-- Mystical Fire  
-- Morning Sun  
-- Calm Mind 
+- Heat Wave  
+- U-turn  
+- Roost  

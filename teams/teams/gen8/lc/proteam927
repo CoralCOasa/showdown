@@ -1,60 +1,59 @@
-Trapinch @ Eviolite  
-Ability: Arena Trap  
+Archen @ Berry Juice  
+Ability: Defeatist  
 Level: 5  
-EVs: 196 Atk / 76 Def / 236 SpD  
-Adamant Nature  
+EVs: 76 HP / 180 Atk / 196 Spe  
+Jolly Nature  
+- Stone Edge  
+- Dual Wingbeat  
 - Earthquake  
-- First Impression  
-- Superpower  
-- Rock Slide
+- U-turn
 
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
+Ponyta-Galar @ Eviolite  
+Ability: Pastel Veil  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
-Adamant Nature  
-- Facade 
-- Fire Punch  
-- Earthquake 
-- Recycle
-
-Mudbray @ Eviolite  
-Ability: Stamina  
-Level: 5  
-EVs: 116 HP / 116 Atk / 36 Def / 236 SpD  
-Careful Nature  
-- Earthquake  
-- Rest  
-- Sleep Talk  
-- Heavy Slam
-
-Drifloon @ Berry Juice  
-Ability: Unburden  
-Level: 5  
-EVs: 36 HP / 36 Atk / 84 Def / 116 SpA / 196 Spe  
-Naive Nature  
-- Shadow Ball  
-- Acrobatics  
-- Thunderbolt 
-- Substitute
-
-Timburr @ Eviolite  
-Ability: Guts  
-Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
-Adamant Nature  
-- Drain Punch  
-- Thunder Punch 
-- Mach Punch  
-- Defog 
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Mystical Fire  
+- Psychic  
+- Dazzling Gleam  
+- Calm Mind  
 
 Spritzee @ Eviolite  
 Ability: Aroma Veil  
 Level: 5  
 EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
 Bold Nature  
-IVs: 0 Atk  
+- Moonblast  
 - Wish  
 - Protect  
-- Moonblast  
-- Psychic 
+- Calm Mind  
+
+Scorbunny @ Berry Juice  
+Ability: Libero  
+Level: 5  
+EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
+Jolly Nature  
+- High Jump Kick  
+- U-turn  
+- Blaze Kick  
+- Gunk Shot  
+
+Larvesta @ Eviolite  
+Ability: Flame Body  
+Level: 5  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- U-turn  
+- Flare Blitz  
+- Morning Sun  
+- Will-O-Wisp  
+
+Carvanha @ Life Orb  
+Ability: Speed Boost  
+Level: 5  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+Adamant Nature  
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation  

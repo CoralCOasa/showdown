@@ -1,60 +1,59 @@
-Frillish @ Eviolite  
-Ability: Water Absorb  
+Wingull @ Life Orb  
+Ability: Hydration  
 Level: 5  
-EVs: 236 HP / 116 Def / 76 SpA / 76 SpD  
-Bold Nature  
-- Scald  
-- Hex  
-- Recover 
-- Will-O-Wisp
-
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
-Adamant Nature  
-- Body Slam  
-- Fire Punch  
-- Earthquake 
-- Recycle
-
-Vulpix @ Eviolite  
-Ability: Drought  
-Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
+EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
-IVs: 0 Atk  
-- Fire Blast  
-- Energy Ball  
-- Will-O-Wisp  
-- Overheat 
+- Scald  
+- Hurricane  
+- U-turn  
+- Air Slash  
 
-Timburr @ Eviolite  
-Ability: Iron Fist 
+Mareanie @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+Bold Nature  
+- Recover  
+- Scald  
+- Toxic Spikes  
+- Sludge Bomb  
+
+Bunnelby @ Eviolite  
+Ability: Huge Power  
+Level: 5  
+EVs: 228 Atk / 132 Def / 148 SpD  
 Adamant Nature  
-- Drain Punch  
-- Ice Punch 
-- Mach Punch  
-- Defog 
+- Earthquake  
+- Quick Attack  
+- U-turn  
+- Facade
 
-Croagunk @ Eviolite 
-Ability: Dry Skin  
+Ponyta @ Eviolite  
+Ability: Flame Body  
 Level: 5  
-EVs: 52 HP / 188 Atk / 116 Def / 116 SpD / 36 Spe  
-Adamant Nature  
-- Gunk Shot  
-- Drain Punch  
-- Sucker Punch  
-- Bulk Up
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Jolly Nature  
+- Flare Blitz  
+- High Horsepower  
+- Morning Sun  
+- Wild Charge  
 
-Corphish @ Eviolite  
-Ability: Adaptability  
+Onix @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
-Adamant Nature
-- Crabhammer  
-- Knock Off  
-- Aqua Jet  
-- Swords Dance 
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- Earthquake  
+- Stealth Rock  
+- Rock Blast  
+- Dragon Dance  
+
+Ponyta-Galar @ Eviolite  
+Ability: Pastel Veil  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Mystical Fire  
+- Psychic  
+- Dazzling Gleam  
+- Calm Mind  

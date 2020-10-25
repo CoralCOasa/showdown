@@ -1,62 +1,60 @@
-Mareanie @ Eviolite  
-Ability: Regenerator  
+Wingull @ Life Orb  
+Ability: Hydration  
 Level: 5  
-EVs: 196 HP / 100 Def / 92 SpA / 100 SpD  
-Calm Nature  
-IVs: 0 Atk  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Timid Nature  
 - Scald  
-- Sludge Bomb  
-- Recover  
-- Toxic Spikes 
+- Hurricane  
+- U-turn  
+- Air Slash  
 
-Trapinch @ Eviolite  
-Ability: Arena Trap  
-Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Brave Nature  
-- Earthquake  
-- First Impression  
-- Superpower  
-- Giga Drain
-
-Farfetch'd-Galar @ Eviolite  
+Farfetch’d-Galar @ Eviolite  
 Ability: Scrappy  
 Level: 5  
 EVs: 20 HP / 236 Atk / 236 Spe  
 Jolly Nature  
+- Swords Dance  
 - Close Combat  
 - Brave Bird  
 - Knock Off  
-- Swords Dance 
 
-Diglett @ Focus Sash  
-Ability: Arena Trap  
+Zigzagoon @ Berry Juice  
+Ability: Quick Feet  
 Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Earthquake  
-- Rock Slide  
-- Sucker Punch  
-- Stealth Rock 
+EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
+Adamant Nature  
+- Extreme Speed  
+- Belly Drum  
+- Thief  
+- Seed Bomb  
 
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
+Natu @ Eviolite  
+Ability: Magic Bounce  
 Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
-Bold Nature  
+EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
+Timid Nature  
 IVs: 0 Atk  
-- Wish  
-- Protect  
-- Moonblast  
-- Calm Mind 
+- Psychic  
+- Heat Wave  
+- U-turn  
+- Roost  
 
-Oddish @ Eviolite  
-Ability: Chlorophyll  
+Abra @ Focus Sash  
+Ability: Magic Guard  
 Level: 5  
-EVs: 156 HP / 236 Def / 76 SpD / 36 Spe  
-Bold Nature  
-IVs: 0 Atk  
-- Giga Drain  
-- Sludge Bomb  
-- Strength Sap  
-- Sleep Powder 
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Psychic  
+- Dazzling Gleam  
+- Energy Ball  
+- Shadow Ball  
+
+Vulpix @ Choice Scarf  
+Ability: Drought  
+Level: 5  
+EVs: 52 HP / 196 SpA / 236 Spe  
+Timid Nature  
+- Energy Ball  
+- Weather Ball  
+- Overheat  
+- Fire Blast  

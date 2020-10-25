@@ -1,61 +1,59 @@
-Frillish @ Choice Scarf  
-Ability: Water Absorb  
+Diglett @ Life Orb  
+Ability: Arena Trap  
 Level: 5  
-EVs: 76 HP / 236 SpA / 196 Spe  
-Timid Nature  
-- Water Spout  
-- Shadow Ball  
-- Ice Beam 
-- Trick
-
-Cutiefly @ Focus Sash 
-Ability: Shield Dust 
-Level: 5  
-EVs: 236 SpA / 244 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Moonblast  
-- Psychic
-- Sticky Web  
-- Stun Spore 
-
-Dwebble @ Eviolite  
-Ability: Weak Armor  
-Level: 5  
-EVs: 36 HP / 156 Atk / 76 Def / 236 Spe  
+EVs: 36 HP / 236 Atk / 236 Spe  
 Jolly Nature  
+- Earthquake  
+- Sucker Punch  
+- Rock Slide  
 - Stealth Rock  
-- Spikes  
-- Rock Blast  
-- Knock Off
 
-Chinchou @ Berry Juice 
-Ability: Volt Absorb  
+Bunnelby @ Eviolite  
+Ability: Huge Power  
 Level: 5  
-EVs: 76 HP / 212 Def / 152 SpA / 60 Spe  
-Bold Nature  
-- Scald  
-- Volt Switch  
-- Ice Beam  
-- Thunder Wave
-
-Wingull @ Life Orb  
-Ability: Hydration  
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-IVs: 0 HP  
-- Scald  
-- Hurricane  
+EVs: 228 Atk / 132 Def / 148 SpD  
+Adamant Nature  
+- Earthquake  
+- Quick Attack  
 - U-turn  
-- Knock Off 
+- Facade
 
-Vullaby @ Eviolite  
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
+Level: 5  
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
+Bold Nature  
+- Moonblast  
+- Wish  
+- Protect  
+- Calm Mind  
+
+Corphish @ Eviolite  
+Ability: Adaptability  
+Level: 5  
+EVs: 196 Atk / 76 Def / 236 Spe  
+Adamant Nature  
+- Aqua Jet  
+- Crabhammer  
+- Knock Off  
+- Dragon Dance  
+
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Knock Off  
+- U-turn  
+- High Jump Kick  
+- Fake Out  
+
+Vullaby @ Berry Juice  
 Ability: Weak Armor  
 Level: 5  
 EVs: 236 Atk / 76 Def / 196 Spe  
-Adamant Nature  
-- Brave Bird  
+Jolly Nature  
 - Knock Off  
+- Brave Bird  
 - U-turn  
-- Defog
+- Defog  

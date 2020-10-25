@@ -1,61 +1,59 @@
-Vulpix @ Eviolite  
-Ability: Drought  
+Timburr @ Eviolite  
+Ability: Iron Fist  
 Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Fire Blast  
-- Energy Ball  
-- Will-O-Wisp  
-- Overheat 
-
-Dwebble @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 236 Atk / 236 Spe  
+EVs: 196 Atk / 156 Def / 156 SpD  
 Adamant Nature  
-- Shell Smash  
-- Rock Blast  
-- Earthquake  
-- Knock Off
+- Drain Punch  
+- Mach Punch  
+- Knock Off  
+- Defog  
 
-Drifloon @ Berry Juice  
-Ability: Unburden  
+Grookey @ Eviolite  
+Ability: Grassy Surge  
 Level: 5  
-EVs: 116 HP / 196 SpA / 196 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Shadow Ball  
-- Thunderbolt  
-- Calm Mind 
-- Substitute
-
-Onix @ Eviolite  
-Ability: Weak Armor  
-Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
+EVs: 236 Atk / 36 Def / 236 Spe  
 Jolly Nature  
-- Stealth Rock  
-- Rock Blast  
+- Grassy Glide  
+- Knock Off  
+- Drain Punch  
+- U-turn  
+
+Trapinch @ Eviolite  
+Ability: Arena Trap  
+Level: 5  
+EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
+Relaxed Nature  
 - Earthquake  
-- Dragon Dance
+- First Impression  
+- Superpower  
+- Giga Drain  
 
-Shellder @ Eviolite  
-Ability: Skill Link  
+Croagunk @ Eviolite  
+Ability: Dry Skin  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Shell Smash  
-- Icicle Spear  
-- Rock Blast  
-- Liquidation
+EVs: 116 Def / 188 SpA / 196 Spe  
+Timid Nature  
+- Vacuum Wave  
+- Nasty Plot  
+- Sludge Wave  
+- Focus Blast  
 
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
+Porygon @ Eviolite  
+Ability: Download  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
-Adamant Nature  
-- Body Slam  
-- Fire Punch  
-- Curse  
-- Recycle
+EVs: 36 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Tri Attack  
+- Recover  
+- Ice Beam  
+- Psychic  
+
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Knock Off  
+- U-turn  
+- High Jump Kick  
+- Fake Out  

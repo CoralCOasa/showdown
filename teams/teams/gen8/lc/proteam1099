@@ -1,60 +1,59 @@
-Wingull @ Eviolite  
-Ability: Keen Eye 
+Porygon @ Eviolite  
+Ability: Download  
+Level: 5  
+EVs: 36 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Tri Attack  
+- Recover  
+- Ice Beam  
+- Psychic  
+
+Magnemite @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
 EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
-- Scald  
-- Hurricane  
-- U-turn 
-- Roost
+- Flash Cannon  
+- Volt Switch  
+- Thunderbolt  
+- Recycle  
 
-Timburr @ Eviolite  
-Ability: Iron Fist 
+Zigzagoon @ Berry Juice  
+Ability: Quick Feet  
 Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
+EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
 Adamant Nature  
-- Drain Punch  
-- Thunder Punch  
-- Mach Punch  
-- Defog 
+- Extreme Speed  
+- Belly Drum  
+- Thief  
+- Seed Bomb  
 
-Onix @ Eviolite  
-Ability: Rock Head  
+Scraggy @ Eviolite  
+Ability: Moxie  
 Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
-Jolly Nature  
+EVs: 236 Atk / 36 SpD / 212 Spe  
+Adamant Nature  
 - Dragon Dance  
-- Head Smash  
-- Earthquake  
-- Heavy Slam 
-
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
-Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
-Adamant Nature  
-- Brave Bird  
-- Shadow Claw 
-- Close Combat  
-- U-turn
-
-Croagunk @ Eviolite 
-Ability: Dry Skin  
-Level: 5  
-EVs: 52 HP / 188 Atk / 116 Def / 116 SpD / 36 Spe  
-Adamant Nature  
-- Gunk Shot  
+- Knock Off  
 - Drain Punch  
-- Sucker Punch  
-- Bulk Up
+- High Jump Kick  
 
-Ponyta-Galar @ Life Orb  
-Ability: Pastel Veil  
+Vullaby @ Berry Juice  
+Ability: Weak Armor  
 Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Psychic  
-- Mystical Fire  
-- Morning Sun  
-- Calm Mind 
+EVs: 236 Atk / 76 Def / 196 Spe  
+Jolly Nature  
+- Knock Off  
+- Brave Bird  
+- U-turn  
+- Defog  
+
+Dwebble @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 236 Atk / 236 Spe  
+Adamant Nature  
+- Shell Smash  
+- Rock Blast  
+- Earthquake  
+- Knock Off  

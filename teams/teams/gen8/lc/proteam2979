@@ -1,61 +1,59 @@
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
+Mienfoo @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
-Jolly Nature
-- Brave Bird  
-- Rock Slide 
-- Close Combat  
-- U-turn
-
-Pawniard @ Eviolite  
-Ability: Defiant  
-Level: 5  
-EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+EVs: 236 Atk / 36 Def / 236 Spe  
 Jolly Nature  
-- Iron Head  
-- Sucker Punch  
-- Swords Dance 
-- Brick Break
-
-Vullaby @ Berry Juice  
-Ability: Weak Armor  
-Level: 5  
-EVs: 116 HP / 240 SpA / 116 Spe  
-Modest Nature  
-- Nasty Plot  
-- Air Slash  
-- Heat Wave  
-- Dark Pulse
-
-Wingull @ Life Orb  
-Ability: Hydration  
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-IVs: 0 HP  
-- Scald  
-- Hurricane  
+- Knock Off  
 - U-turn  
-- Knock Off 
+- High Jump Kick  
+- Fake Out  
 
-Vulpix @ Eviolite  
-Ability: Drought  
+Staryu @ Eviolite  
+Ability: Natural Cure  
 Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
+EVs: 116 HP / 156 Def / 236 Spe  
 Timid Nature  
-IVs: 0 Atk  
-- Fire Blast  
-- Energy Ball  
-- Will-O-Wisp  
-- Memento 
+- Rapid Spin  
+- Thunderbolt  
+- Recover  
+- Scald  
 
-Timburr @ Eviolite  
-Ability: Iron Fist 
+Tirtouga @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
+EVs: 212 Atk / 92 Def / 180 Spe  
+Jolly Nature  
+- Shell Smash  
+- Waterfall  
+- Stone Edge  
+- Zen Headbutt
+
+Carvanha @ Life Orb  
+Ability: Speed Boost  
+Level: 5  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
 Adamant Nature  
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation  
+
+Grookey @ Eviolite  
+Ability: Grassy Surge  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Grassy Glide  
+- Knock Off  
 - Drain Punch  
-- Thunder Punch  
-- Mach Punch  
-- Fire Punch 
+- U-turn  
+
+Ponyta @ Eviolite  
+Ability: Flame Body  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Jolly Nature  
+- Flare Blitz  
+- High Horsepower  
+- Morning Sun  
+- Wild Charge  

@@ -1,62 +1,59 @@
-Cutiefly @ Focus Sash 
-Ability: Shield Dust 
+Abra @ Focus Sash  
+Ability: Magic Guard  
 Level: 5  
-EVs: 236 SpA / 244 Spe  
+EVs: 236 SpA / 76 SpD / 196 Spe  
 Timid Nature  
-IVs: 0 Atk  
-- Moonblast  
-- Psychic
-- Sticky Web  
-- Quiver Dance 
+- Psychic  
+- Dazzling Gleam  
+- Energy Ball  
+- Shadow Ball  
 
-Vullaby @ Choice Scarf  
-Ability: Overcoat 
+Archen @ Berry Juice  
+Ability: Defeatist  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
+EVs: 76 HP / 180 Atk / 196 Spe  
+Jolly Nature  
+- Stone Edge  
+- Dual Wingbeat  
+- Earthquake  
+- U-turn
+
+Farfetch’d-Galar @ Eviolite  
+Ability: Scrappy  
+Level: 5  
+EVs: 20 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Swords Dance  
+- Close Combat  
 - Brave Bird  
 - Knock Off  
-- U-turn  
-- Defog
 
-Shellder @ Eviolite  
-Ability: Skill Link  
+Timburr @ Eviolite  
+Ability: Iron Fist  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
+EVs: 196 Atk / 156 Def / 156 SpD  
 Adamant Nature  
-- Shell Smash  
-- Icicle Spear  
-- Rock Blast  
-- Liquidation
+- Drain Punch  
+- Mach Punch  
+- Knock Off  
+- Defog  
 
-Cufant @ Eviolite 
-Ability: Sheer Force  
+Staryu @ Eviolite  
+Ability: Natural Cure  
 Level: 5  
-EVs: 20 HP / 196 Atk / 44 Def / 204 SpD / 36 Spe  
-Adamant Nature  
-- Iron Head  
-- Play Rough  
-- Superpower 
-- Stealth Rock
+EVs: 116 HP / 156 Def / 236 Spe  
+Timid Nature  
+- Rapid Spin  
+- Thunderbolt  
+- Recover  
+- Scald  
 
-Mareanie @ Eviolite  
+Foongus @ Eviolite  
 Ability: Regenerator  
 Level: 5  
-EVs: 196 HP / 100 Def / 92 SpA / 100 SpD  
-Calm Nature  
-IVs: 0 Atk  
-- Scald  
-- Sludge Bomb  
-- Recover  
-- Toxic Spikes 
-
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
-Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
+EVs: 124 HP / 156 Def / 156 SpD  
 Bold Nature  
-IVs: 0 Atk  
-- Wish  
-- Protect  
-- Moonblast  
-- Calm Mind 
+- Giga Drain  
+- Spore  
+- Sludge Bomb  
+- Synthesis  

@@ -1,61 +1,60 @@
-Corphish @ Eviolite  
-Ability: Adaptability  
+Natu @ Eviolite  
+Ability: Magic Bounce  
 Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
-Adamant Nature
-- Crabhammer  
-- Knock Off  
-- Aqua Jet  
-- Swords Dance 
-
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
-Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
-Bold Nature  
+EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
+Timid Nature  
 IVs: 0 Atk  
-- Wish  
-- Protect  
-- Moonblast  
-- Calm Mind 
+- Psychic  
+- Heat Wave  
+- U-turn  
+- Roost  
 
 Scraggy @ Eviolite  
 Ability: Moxie  
 Level: 5  
 EVs: 236 Atk / 36 SpD / 212 Spe  
-Adamant Nature
+Adamant Nature  
 - Dragon Dance  
+- Knock Off  
 - Drain Punch  
-- Crunch  
-- Poison Jab 
+- High Jump Kick  
 
-Diglett @ Focus Sash  
-Ability: Arena Trap  
-Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Earthquake  
-- Rock Slide  
-- Sucker Punch  
-- Stealth Rock 
-
-Vulpix @ Life Orb  
+Vulpix @ Choice Scarf  
 Ability: Drought  
 Level: 5  
-EVs: 36 Def / 196 SpA / 236 Spe  
+EVs: 52 HP / 196 SpA / 236 Spe  
 Timid Nature  
-IVs: 4 HP  
-- Fire Blast  
 - Energy Ball  
-- Extrasensory  
-- Overheat 
+- Weather Ball  
+- Overheat  
+- Fire Blast  
 
-Mudbray @ Choice Scarf  
-Ability: Stamina  
+Drilbur @ Eviolite  
+Ability: Mold Breaker  
 Level: 5  
-EVs: 36 HP / 196 Atk / 36 Def / 236 Spe  
-Jolly Nature
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
+Jolly Nature  
 - Earthquake  
-- Heavy Slam  
+- Rapid Spin  
 - Rock Slide  
-- Close Combat
+- Stealth Rock  
+
+Larvesta @ Eviolite  
+Ability: Flame Body  
+Level: 5  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- U-turn  
+- Flare Blitz  
+- Morning Sun  
+- Will-O-Wisp  
+
+Corphish @ Eviolite  
+Ability: Adaptability  
+Level: 5  
+EVs: 196 Atk / 76 Def / 236 Spe  
+Adamant Nature  
+- Aqua Jet  
+- Crabhammer  
+- Knock Off  
+- Dragon Dance  

@@ -1,61 +1,59 @@
-Dwebble @ Berry Juice  
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Knock Off  
+- U-turn  
+- High Jump Kick  
+- Fake Out  
+
+Vullaby @ Berry Juice  
+Ability: Weak Armor  
+Level: 5  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Jolly Nature  
+- Knock Off  
+- Brave Bird  
+- U-turn  
+- Defog  
+
+Magnemite @ Berry Juice  
 Ability: Sturdy  
 Level: 5  
-EVs: 236 Atk / 236 Spe  
-Adamant Nature  
-- Shell Smash  
-- Rock Blast  
-- Earthquake  
-- Knock Off
-
-Chinchou @ Choice Scarf  
-Ability: Volt Absorb  
-Level: 5  
-EVs: 52 Def / 228 SpA / 220 Spe  
+EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
-IVs: 0 Atk  
+- Flash Cannon  
 - Volt Switch  
-- Scald  
-- Ice Beam  
-- Hydro Pump 
+- Thunderbolt  
+- Recycle  
 
-Frillish @ Eviolite  
-Ability: Water Absorb  
+Foongus @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 236 HP / 116 Def / 76 SpA / 76 SpD  
+EVs: 124 HP / 156 Def / 156 SpD  
 Bold Nature  
-- Scald  
-- Shadow Ball 
-- Strength Sap  
-- Will-O-Wisp
-
-Ferroseed @ Eviolite  
-Ability: Iron Barbs  
-Level: 5  
-EVs: 84 HP / 36 Atk / 108 Def / 228 SpD / 36 Spe  
-Impish Nature  
-- Iron Head  
-- Knock Off  
-- Thunder Wave  
-- Stealth Rock 
-
-Oddish @ Eviolite  
-Ability: Chlorophyll  
-Level: 5  
-EVs: 156 HP / 236 Def / 76 SpD / 36 Spe  
-Bold Nature  
-IVs: 0 Atk  
 - Giga Drain  
+- Spore  
 - Sludge Bomb  
-- Strength Sap  
-- Sleep Powder 
+- Synthesis  
 
-Corphish @ Eviolite  
-Ability: Adaptability  
+Bunnelby @ Eviolite  
+Ability: Huge Power  
 Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
-Adamant Nature
-- Crabhammer  
+EVs: 228 Atk / 132 Def / 148 SpD  
+Adamant Nature  
+- Earthquake  
+- Quick Attack  
+- U-turn  
+- Facade
+
+Scraggy @ Eviolite  
+Ability: Moxie  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 212 Spe  
+Adamant Nature  
+- Dragon Dance  
 - Knock Off  
-- Aqua Jet  
-- Dragon Dance
+- Drain Punch  
+- High Jump Kick  

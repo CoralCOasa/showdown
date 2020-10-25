@@ -1,12 +1,32 @@
-Diglett @ Focus Sash  
-Ability: Arena Trap  
+Carvanha @ Life Orb  
+Ability: Speed Boost  
 Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+Adamant Nature  
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation  
+
+Scorbunny @ Berry Juice  
+Ability: Libero  
+Level: 5  
+EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
 Jolly Nature  
-- Earthquake  
-- Rock Slide  
-- Sucker Punch  
-- Stealth Rock 
+- High Jump Kick  
+- U-turn  
+- Blaze Kick  
+- Gunk Shot  
+
+Porygon @ Eviolite  
+Ability: Download  
+Level: 5  
+EVs: 36 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Tri Attack  
+- Recover  
+- Ice Beam  
+- Psychic  
 
 Munchlax @ Berry Juice  
 Ability: Thick Fat  
@@ -14,49 +34,26 @@ Level: 5
 EVs: 236 Atk / 36 Def / 236 SpD  
 Adamant Nature  
 - Body Slam  
-- Fire Punch  
+- Earthquake  
 - Curse  
 - Recycle
 
-Farfetch'd-Galar @ Eviolite  
-Ability: Scrappy  
+Mienfoo @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
+EVs: 236 Atk / 36 Def / 236 Spe  
 Jolly Nature  
-- Close Combat  
-- Brave Bird  
 - Knock Off  
-- Defog
-
-Wingull @ Life Orb  
-Ability: Hydration  
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-IVs: 0 HP  
-- Scald  
-- Hurricane  
 - U-turn  
-- Knock Off 
+- High Jump Kick  
+- Fake Out  
 
-Croagunk @ Eviolite 
-Ability: Dry Skin  
+Dewpider @ Berry Juice  
+Ability: Water Bubble  
 Level: 5  
-EVs: 52 HP / 116 Def / 188 SpA / 116 SpD / 36 Spe  
+EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
 Modest Nature  
-IVs: 0 Atk  
-- Sludge Wave  
-- Focus Blast  
-- Vacuum Wave  
-- Nasty Plot
-
-Oddish @ Eviolite  
-Ability: Chlorophyll  
-Level: 5  
-EVs: 156 HP / 236 Def / 76 SpD / 36 Spe  
-Bold Nature  
-IVs: 0 Atk  
-- Giga Drain  
-- Sludge Bomb  
-- Strength Sap  
-- Sleep Powder 
+- Sticky Web  
+- Surf  
+- Icy Wind  
+- Giga Drain

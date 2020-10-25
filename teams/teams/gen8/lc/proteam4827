@@ -1,22 +1,22 @@
-Pawniard @ Eviolite  
-Ability: Defiant  
+Foongus @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
-Jolly Nature  
-- Iron Head  
-- Sucker Punch  
-- Swords Dance 
-- Night Slash 
+EVs: 124 HP / 156 Def / 156 SpD  
+Bold Nature  
+- Giga Drain  
+- Spore  
+- Sludge Bomb  
+- Synthesis  
 
-Drifloon @ Berry Juice  
-Ability: Unburden  
+Mareanie @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 36 HP / 36 Atk / 84 Def / 116 SpA / 196 Spe  
-Naive Nature  
-- Shadow Ball  
-- Acrobatics  
-- Destiny Bond 
-- Substitute
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+Bold Nature  
+- Recover  
+- Scald  
+- Toxic Spikes  
+- Sludge Bomb  
 
 Dwebble @ Berry Juice  
 Ability: Sturdy  
@@ -26,35 +26,34 @@ Adamant Nature
 - Shell Smash  
 - Rock Blast  
 - Earthquake  
-- Knock Off
+- Knock Off  
 
-Ponyta-Galar @ Life Orb  
-Ability: Pastel Veil  
+Archen @ Berry Juice  
+Ability: Defeatist  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
+EVs: 76 HP / 180 Atk / 196 Spe  
 Jolly Nature  
-- Zen Headbutt  
-- Play Rough  
-- High Horsepower 
-- Morning Sun 
+- Stone Edge  
+- Dual Wingbeat  
+- Earthquake  
+- U-turn
 
-Wingull @ Life Orb  
-Ability: Keen Eye 
+Magnemite @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
 EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
-IVs: 0 HP  
-- Scald  
-- Hurricane  
-- U-turn  
-- Knock Off 
+- Flash Cannon  
+- Volt Switch  
+- Thunderbolt  
+- Recycle  
 
-Timburr @ Eviolite  
-Ability: Iron Fist 
+Ponyta-Galar @ Eviolite  
+Ability: Pastel Veil  
 Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
-Adamant Nature  
-- Drain Punch  
-- Ice Punch
-- Mach Punch  
-- Defog 
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Mystical Fire  
+- Psychic  
+- Dazzling Gleam  
+- Calm Mind  

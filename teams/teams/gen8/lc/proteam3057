@@ -1,61 +1,59 @@
-Drifloon @ Berry Juice  
-Ability: Unburden  
+Chinchou @ Eviolite  
+Ability: Volt Absorb  
 Level: 5  
-EVs: 116 HP / 196 SpA / 196 Spe  
+EVs: 52 Def / 228 SpA / 220 Spe  
 Timid Nature  
-IVs: 0 Atk  
-- Shadow Ball  
+- Volt Switch  
+- Scald  
+- Ice Beam  
 - Thunderbolt  
-- Will-O-Wisp 
-- Substitute
-
-Corphish @ Eviolite  
-Ability: Adaptability  
-Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
-Adamant Nature
-- Crabhammer  
-- Knock Off  
-- Aqua Jet  
-- Superpower 
-
-Timburr @ Eviolite  
-Ability: Iron Fist 
-Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
-Adamant Nature  
-- Drain Punch  
-- Thunder Punch 
-- Mach Punch  
-- Bulk Up
 
 Vulpix @ Choice Scarf  
 Ability: Drought  
 Level: 5  
 EVs: 52 HP / 196 SpA / 236 Spe  
-Modest Nature  
-IVs: 0 Atk  
-- Fire Blast  
+Timid Nature  
 - Energy Ball  
-- Extrasensory  
-- Overheat 
+- Weather Ball  
+- Overheat  
+- Fire Blast  
 
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
+Trapinch @ Eviolite  
+Ability: Arena Trap  
 Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
+EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
+Relaxed Nature  
+- Earthquake  
+- First Impression  
+- Superpower  
+- Giga Drain  
+
+Porygon @ Eviolite  
+Ability: Download  
+Level: 5  
+EVs: 36 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Tri Attack  
+- Recover  
+- Ice Beam  
+- Psychic  
+
+Dwebble @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 236 Atk / 236 Spe  
 Adamant Nature  
-- Brave Bird  
-- Rock Slide 
-- Close Combat  
-- U-turn
+- Shell Smash  
+- Rock Blast  
+- Earthquake  
+- Knock Off  
 
-Frillish @ Eviolite  
-Ability: Water Absorb  
+Drilbur @ Eviolite  
+Ability: Mold Breaker  
 Level: 5  
-EVs: 236 HP / 116 Def / 76 SpA / 76 SpD  
-Bold Nature  
-- Scald  
-- Shadow Ball 
-- Strength Sap  
-- Will-O-Wisp
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
+Jolly Nature  
+- Earthquake  
+- Rapid Spin  
+- Rock Slide  
+- Stealth Rock  

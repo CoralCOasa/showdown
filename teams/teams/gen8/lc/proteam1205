@@ -1,60 +1,59 @@
-Diglett @ Focus Sash  
-Ability: Arena Trap  
+Koffing @ Eviolite  
+Ability: Levitate  
 Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Earthquake  
-- Rock Slide  
-- Sucker Punch  
-- Stealth Rock 
-
-Frillish @ Eviolite  
-Ability: Water Absorb  
-Level: 5  
-EVs: 236 HP / 116 Def / 76 SpA / 76 SpD  
+EVs: 36 HP / 236 Def / 236 SpD  
 Bold Nature  
-- Scald  
-- Hex  
-- Recover 
-- Will-O-Wisp
-
-Mareanie @ Eviolite  
-Ability: Regenerator  
-Level: 5  
-EVs: 196 HP / 100 Def / 92 SpA / 100 SpD  
-Calm Nature  
-IVs: 0 Atk  
-- Scald  
+- Will-O-Wisp  
+- Toxic Spikes  
+- Pain Split  
 - Sludge Bomb  
-- Recover  
-- Iron Defense
 
-Timburr @ Eviolite  
-Ability: Guts  
+Ponyta @ Eviolite  
+Ability: Flame Body  
 Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Jolly Nature  
+- Flare Blitz  
+- High Horsepower  
+- Morning Sun  
+- Wild Charge  
+
+Ponyta-Galar @ Eviolite  
+Ability: Pastel Veil  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Mystical Fire  
+- Psychic  
+- Dazzling Gleam  
+- Calm Mind  
+
+Carvanha @ Life Orb  
+Ability: Speed Boost  
+Level: 5  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
 Adamant Nature  
-- Drain Punch  
-- Thunder Punch  
-- Mach Punch  
-- Defog 
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation  
 
-Corphish @ Eviolite  
-Ability: Adaptability  
+Scorbunny @ Berry Juice  
+Ability: Libero  
 Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
-Adamant Nature
-- Crabhammer  
-- Knock Off  
-- Aqua Jet  
-- Swords Dance 
+EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
+Jolly Nature  
+- High Jump Kick  
+- U-turn  
+- Blaze Kick  
+- Gunk Shot  
 
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
+Zigzagoon @ Berry Juice  
+Ability: Quick Feet  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
+EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
 Adamant Nature  
-- Facade 
-- Fire Punch  
-- Curse  
-- Recycle
+- Extreme Speed  
+- Belly Drum  
+- Thief  
+- Seed Bomb  

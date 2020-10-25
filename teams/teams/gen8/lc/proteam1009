@@ -1,12 +1,12 @@
-Vullaby @ Berry Juice 
-Ability: Weak Armor  
+Grookey @ Eviolite  
+Ability: Grassy Surge  
 Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Adamant Nature  
-- Brave Bird  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Grassy Glide  
 - Knock Off  
+- Drain Punch  
 - U-turn  
-- Defog
 
 Dwebble @ Berry Juice  
 Ability: Sturdy  
@@ -16,44 +16,45 @@ Adamant Nature
 - Shell Smash  
 - Rock Blast  
 - Earthquake  
-- Knock Off
+- Knock Off  
 
-Croagunk @ Eviolite 
-Ability: Dry Skin  
+Amaura @ Choice Scarf  
+Ability: Refrigerate  
 Level: 5  
-EVs: 52 HP / 188 Atk / 116 Def / 116 SpD / 36 Spe  
+EVs: 60 HP / 220 SpA / 228 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hyper Voice  
+- Earth Power  
+- Thunderbolt  
+- Ancient Power
+
+Carvanha @ Life Orb  
+Ability: Speed Boost  
+Level: 5  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
 Adamant Nature  
-- Gunk Shot  
-- Drain Punch  
-- Sucker Punch  
-- Bulk Up
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation  
 
-Onix @ Berry Juice  
-Ability: Sturdy  
+Bunnelby @ Eviolite  
+Ability: Huge Power  
 Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
-Jolly Nature  
-- Stealth Rock  
-- Rock Blast  
-- Earthquake  
-- Endure 
-
-Shellder @ Eviolite  
-Ability: Skill Link  
-Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Shell Smash  
-- Icicle Spear  
-- Rock Blast  
-- Liquidation
-
-Trapinch @ Eviolite  
-Ability: Arena Trap  
-Level: 5  
-EVs: 196 Atk / 76 Def / 236 SpD  
+EVs: 228 Atk / 132 Def / 148 SpD  
 Adamant Nature  
 - Earthquake  
-- First Impression  
-- Superpower  
-- Rock Slide
+- Quick Attack  
+- U-turn  
+- Facade
+
+Chinchou @ Eviolite  
+Ability: Volt Absorb  
+Level: 5  
+EVs: 52 Def / 228 SpA / 220 Spe  
+Timid Nature  
+- Volt Switch  
+- Scald  
+- Ice Beam  
+- Thunderbolt  

@@ -1,60 +1,60 @@
-Corphish @ Eviolite  
-Ability: Adaptability  
+Grookey @ Eviolite  
+Ability: Grassy Surge  
 Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
+EVs: 236 Atk / 36 Def / 236 Spe  
 Jolly Nature  
-- Crabhammer  
+- Grassy Glide  
 - Knock Off  
-- Aqua Jet  
-- Superpower 
-
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
-Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
-Jolly Nature
-- Brave Bird  
-- Rock Slide 
-- Close Combat  
-- U-turn
-
-Trapinch @ Eviolite  
-Ability: Arena Trap  
-Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Adamant Nature  
-- Earthquake  
-- First Impression  
-- Superpower  
-- Rock Slide
-
-Wingull @ Life Orb  
-Ability: Hydration  
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-IVs: 0 HP  
-- Scald  
-- Hurricane  
+- Drain Punch  
 - U-turn  
-- Knock Off 
 
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
+Natu @ Eviolite  
+Ability: Magic Bounce  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
+EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Heat Wave  
+- U-turn  
+- Roost  
+
+Foongus @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 124 HP / 156 Def / 156 SpD  
+Bold Nature  
+- Giga Drain  
+- Spore  
+- Sludge Bomb  
+- Synthesis  
+
+Staryu @ Eviolite  
+Ability: Natural Cure  
+Level: 5  
+EVs: 116 HP / 156 Def / 236 Spe  
+Timid Nature  
+- Rapid Spin  
+- Thunderbolt  
+- Recover  
+- Scald  
+
+Timburr @ Eviolite  
+Ability: Iron Fist  
+Level: 5  
+EVs: 196 Atk / 156 Def / 156 SpD  
 Adamant Nature  
-- Facade 
-- Fire Punch  
-- Curse  
-- Recycle
+- Drain Punch  
+- Mach Punch  
+- Knock Off  
+- Defog  
 
-Dwebble @ Eviolite  
-Ability: Weak Armor  
+Shellder @ Eviolite  
+Ability: Skill Link  
 Level: 5  
-EVs: 36 HP / 156 Atk / 76 Def / 236 Spe  
-Jolly Nature  
-- Stealth Rock  
-- Spikes  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Adamant Nature  
+- Icicle Spear  
+- Shell Smash  
 - Rock Blast  
-- Knock Off
+- Liquidation  

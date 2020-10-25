@@ -1,33 +1,33 @@
-Pawniard @ Eviolite  
-Ability: Defiant  
+Corphish @ Eviolite  
+Ability: Adaptability  
 Level: 5  
-EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
-Jolly Nature  
-- Iron Head  
-- Sucker Punch  
-- Swords Dance 
-- Night Slash 
-
-Dwebble @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 236 Atk / 236 Spe  
+EVs: 196 Atk / 76 Def / 236 Spe  
 Adamant Nature  
-- Shell Smash  
-- Rock Blast  
-- Earthquake  
-- Knock Off
+- Aqua Jet  
+- Crabhammer  
+- Knock Off  
+- Dragon Dance  
 
-Cutiefly @ Eviolite  
-Ability: Shield Dust 
+Amaura @ Choice Scarf  
+Ability: Refrigerate  
 Level: 5  
-EVs: 236 SpA / 244 Spe  
-Timid Nature  
+EVs: 60 HP / 220 SpA / 228 Spe  
+Modest Nature  
 IVs: 0 Atk  
-- Moonblast  
-- Bug Buzz 
-- Sticky Web  
-- U-turn
+- Hyper Voice  
+- Earth Power  
+- Thunderbolt  
+- Ancient Power
+
+Staryu @ Eviolite  
+Ability: Natural Cure  
+Level: 5  
+EVs: 116 HP / 156 Def / 236 Spe  
+Timid Nature  
+- Rapid Spin  
+- Thunderbolt  
+- Recover  
+- Scald  
 
 Diglett @ Life Orb  
 Ability: Arena Trap  
@@ -35,28 +35,26 @@ Level: 5
 EVs: 36 HP / 236 Atk / 236 Spe  
 Jolly Nature  
 - Earthquake  
-- Rock Slide  
 - Sucker Punch  
-- Substitute 
+- Rock Slide  
+- Stealth Rock  
 
-Drifloon @ Berry Juice  
-Ability: Unburden  
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
 Level: 5  
-EVs: 116 HP / 196 SpA / 196 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Shadow Ball  
-- Thunderbolt  
-- Will-O-Wisp 
-- Substitute
+EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
+Impish Nature  
+- Knock Off  
+- Thunder Wave  
+- Spikes  
+- Giga Drain
 
-Wingull @ Life Orb  
-Ability: Hydration  
+Mienfoo @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-IVs: 0 HP  
-- Scald  
-- Hurricane  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Knock Off  
 - U-turn  
-- Knock Off 
+- High Jump Kick  
+- Fake Out  

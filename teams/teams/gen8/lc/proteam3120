@@ -1,59 +1,60 @@
-Farfetch'd-Galar @ Eviolite  
-Ability: Scrappy  
+Porygon @ Eviolite  
+Ability: Download  
 Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Close Combat  
-- Brave Bird  
-- Knock Off  
-- Swords Dance 
+EVs: 36 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Tri Attack  
+- Recover  
+- Ice Beam  
+- Psychic  
 
-Dwebble @ Berry Juice  
-Ability: Sturdy  
+Munchlax @ Berry Juice  
+Ability: Thick Fat  
 Level: 5  
-EVs: 236 Atk / 236 Spe  
+EVs: 236 Atk / 36 Def / 236 SpD  
 Adamant Nature  
-- Shell Smash  
-- Rock Blast  
+- Body Slam  
 - Earthquake  
-- Knock Off
+- Curse  
+- Recycle
 
-Diglett @ Life Orb  
-Ability: Arena Trap  
+Foongus @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
-Jolly Nature  
+EVs: 124 HP / 156 Def / 156 SpD  
+Bold Nature  
+- Giga Drain  
+- Spore  
+- Sludge Bomb  
+- Synthesis  
+
+Bunnelby @ Eviolite  
+Ability: Huge Power  
+Level: 5  
+EVs: 228 Atk / 132 Def / 148 SpD  
+Adamant Nature  
 - Earthquake  
-- Rock Slide  
-- Sucker Punch  
-- Substitute 
+- Quick Attack  
+- U-turn  
+- Facade
 
-Timburr @ Eviolite  
-Ability: Guts  
+Mareanie @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
-Adamant Nature  
-- Drain Punch  
-- Ice Punch 
-- Mach Punch  
-- Bulk Up
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+Bold Nature  
+- Recover  
+- Scald  
+- Toxic Spikes  
+- Sludge Bomb  
 
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
+Amaura @ Choice Scarf  
+Ability: Refrigerate  
 Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
-Adamant Nature  
-- Brave Bird  
-- Retaliate 
-- Close Combat  
-- U-turn
-
-Shellder @ Eviolite  
-Ability: Skill Link  
-Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Shell Smash  
-- Icicle Spear  
-- Rock Blast  
-- Liquidation
+EVs: 60 HP / 220 SpA / 228 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hyper Voice  
+- Earth Power  
+- Thunderbolt  
+- Ancient Power

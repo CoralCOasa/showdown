@@ -1,61 +1,59 @@
-Wingull @ Eviolite  
+Staryu @ Eviolite  
+Ability: Natural Cure  
+Level: 5  
+EVs: 116 HP / 156 Def / 236 Spe  
+Timid Nature  
+- Rapid Spin  
+- Thunderbolt  
+- Recover  
+- Scald  
+
+Wingull @ Life Orb  
 Ability: Hydration  
 Level: 5  
 EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
 - Scald  
 - Hurricane  
-- Knock Off  
-- Roost
+- U-turn  
+- Air Slash  
 
-Mareanie @ Eviolite  
-Ability: Regenerator  
+Meowth @ Life Orb  
+Ability: Technician  
 Level: 5  
-EVs: 196 HP / 100 Def / 92 SpA / 100 SpD  
-Calm Nature  
-IVs: 0 Atk  
-- Scald  
-- Sludge Bomb  
-- Recover  
-- Toxic Spikes 
-
-Vulpix @ Eviolite  
-Ability: Drought  
-Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Fire Blast  
-- Energy Ball  
-- Will-O-Wisp  
-- Overheat 
-
-Pawniard @ Eviolite  
-Ability: Defiant  
-Level: 5  
-EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+EVs: 236 Atk / 36 SpD / 196 Spe  
 Jolly Nature  
-- Iron Head  
-- Sucker Punch  
-- Stealth Rock
-- Night Slash 
+- Fake Out  
+- Feint  
+- Aerial Ace  
+- Water Pulse  
 
-Frillish @ Eviolite  
-Ability: Water Absorb  
+Ponyta @ Eviolite  
+Ability: Flame Body  
 Level: 5  
-EVs: 236 HP / 116 Def / 76 SpA / 76 SpD  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Jolly Nature  
+- Flare Blitz  
+- High Horsepower  
+- Morning Sun  
+- Wild Charge  
+
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
+Level: 5  
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
 Bold Nature  
-- Scald  
-- Shadow Ball 
-- Strength Sap  
-- Will-O-Wisp
+- Moonblast  
+- Wish  
+- Protect  
+- Calm Mind  
 
-Diglett @ Life Orb  
-Ability: Arena Trap  
+Grookey @ Eviolite  
+Ability: Grassy Surge  
 Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
+EVs: 236 Atk / 36 Def / 236 Spe  
 Jolly Nature  
-- Earthquake  
-- Rock Slide  
-- Sucker Punch  
-- Substitute 
+- Grassy Glide  
+- Knock Off  
+- Drain Punch  
+- U-turn  

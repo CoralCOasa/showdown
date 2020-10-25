@@ -1,61 +1,59 @@
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
+Foongus @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
-Adamant Nature  
-- Facade 
-- Fire Punch  
-- Earthquake 
-- Recycle
-
-Oddish @ Eviolite  
-Ability: Chlorophyll  
-Level: 5  
-EVs: 156 HP / 236 Def / 76 SpD / 36 Spe  
+EVs: 124 HP / 156 Def / 156 SpD  
 Bold Nature  
-IVs: 0 Atk  
 - Giga Drain  
+- Spore  
 - Sludge Bomb  
-- Strength Sap  
-- Stun Spore
+- Synthesis  
 
-Dwebble @ Berry Juice  
-Ability: Sturdy  
+Corphish @ Eviolite  
+Ability: Adaptability  
 Level: 5  
-EVs: 236 Atk / 236 Spe  
+EVs: 196 Atk / 76 Def / 236 Spe  
 Adamant Nature  
+- Aqua Jet  
+- Crabhammer  
+- Knock Off  
+- Dragon Dance  
+
+Shellder @ Eviolite  
+Ability: Skill Link  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Adamant Nature  
+- Icicle Spear  
 - Shell Smash  
 - Rock Blast  
-- Earthquake  
-- Knock Off
+- Liquidation  
 
-Diglett @ Life Orb  
-Ability: Arena Trap  
+Archen @ Berry Juice  
+Ability: Defeatist  
 Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
+EVs: 76 HP / 180 Atk / 196 Spe  
 Jolly Nature  
+- Stone Edge  
+- Dual Wingbeat  
 - Earthquake  
-- Rock Slide  
-- Sucker Punch  
-- Substitute 
+- U-turn
 
-Ferroseed @ Eviolite  
-Ability: Iron Barbs  
+Vullaby @ Berry Juice  
+Ability: Weak Armor  
 Level: 5  
-EVs: 84 HP / 36 Atk / 108 Def / 228 SpD / 36 Spe  
-Impish Nature  
-- Bullet Seed  
-- Knock Off 
-- Thunder Wave  
-- Stealth Rock 
+EVs: 236 Atk / 76 Def / 196 Spe  
+Jolly Nature  
+- Knock Off  
+- Brave Bird  
+- U-turn  
+- Defog  
 
-Chinchou @ Choice Scarf  
-Ability: Volt Absorb  
+Magnemite @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 52 Def / 228 SpA / 220 Spe  
+EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
-IVs: 0 Atk  
+- Flash Cannon  
 - Volt Switch  
-- Scald  
-- Ice Beam  
-- Thunderbolt 
+- Thunderbolt  
+- Recycle  

@@ -1,60 +1,59 @@
-Pawniard @ Eviolite  
-Ability: Defiant  
+Onix @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+EVs: 76 HP / 236 Atk / 196 Spe  
 Jolly Nature  
-- Iron Head  
-- Sucker Punch  
-- Night Slash  
-- Brick Break
-
-Mudbray @ Eviolite 
-Ability: Stamina  
-Level: 5  
-EVs: 116 HP / 196 Atk / 36 Def / 156 SpD  
-Adamant Nature  
 - Earthquake  
-- Heavy Slam  
-- Rock Slide 
-- Stealth Rock
+- Stealth Rock  
+- Rock Blast  
+- Dragon Dance  
 
-Vulpix @ Choice Scarf  
-Ability: Drought  
+Mareanie @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
-Timid Nature
-IVs: 0 Atk  
-- Fire Blast  
-- Energy Ball  
-- Extrasensory  
-- Memento
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+Bold Nature  
+- Recover  
+- Scald  
+- Toxic Spikes  
+- Sludge Bomb  
+
+Scorbunny @ Berry Juice  
+Ability: Libero  
+Level: 5  
+EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
+Jolly Nature  
+- High Jump Kick  
+- U-turn  
+- Blaze Kick  
+- Gunk Shot  
+
+Foongus @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 124 HP / 156 Def / 156 SpD  
+Bold Nature  
+- Giga Drain  
+- Spore  
+- Sludge Bomb  
+- Synthesis  
 
 Chinchou @ Eviolite  
 Ability: Volt Absorb  
 Level: 5  
-EVs: 76 HP / 212 Def / 152 SpA / 60 Spe  
-Bold Nature  
-- Scald  
+EVs: 52 Def / 228 SpA / 220 Spe  
+Timid Nature  
 - Volt Switch  
+- Scald  
 - Ice Beam  
-- Thunder Wave
+- Thunderbolt  
 
-Dwebble @ Berry Juice  
-Ability: Sturdy  
+Wingull @ Life Orb  
+Ability: Hydration  
 Level: 5  
-EVs: 236 Atk / 236 Spe  
-Adamant Nature  
-- Shell Smash  
-- Rock Blast  
-- Earthquake  
-- Knock Off
-
-Timburr @ Eviolite  
-Ability: Iron Fist 
-Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
-Adamant Nature  
-- Drain Punch  
-- Thunder Punch  
-- Mach Punch  
-- Defog 
+EVs: 36 Def / 236 SpA / 236 Spe  
+Timid Nature  
+- Scald  
+- Hurricane  
+- U-turn  
+- Air Slash  

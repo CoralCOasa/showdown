@@ -1,33 +1,42 @@
-Scraggy @ Eviolite  
-Ability: Intimidate 
+Magnemite @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
-Adamant Nature
-- Dragon Dance  
-- Drain Punch  
-- Crunch  
-- Poison Jab
+EVs: 36 Def / 236 SpA / 236 Spe  
+Timid Nature  
+- Flash Cannon  
+- Volt Switch  
+- Thunderbolt  
+- Recycle  
 
-Pawniard @ Eviolite  
-Ability: Defiant  
+Porygon @ Eviolite  
+Ability: Download  
 Level: 5  
-EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+EVs: 36 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Tri Attack  
+- Recover  
+- Ice Beam  
+- Psychic  
+
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
 Jolly Nature  
-- Iron Head  
-- Sucker Punch  
-- Swords Dance 
-- Brick Break
+- Knock Off  
+- U-turn  
+- High Jump Kick  
+- Fake Out  
 
-Croagunk @ Berry Juice  
+Croagunk @ Eviolite  
 Ability: Dry Skin  
 Level: 5  
-EVs: 52 HP / 116 Def / 188 SpA / 116 SpD / 36 Spe  
-Modest Nature  
-IVs: 0 Atk  
+EVs: 116 Def / 188 SpA / 196 Spe  
+Timid Nature  
+- Vacuum Wave  
+- Nasty Plot  
 - Sludge Wave  
 - Focus Blast  
-- Vacuum Wave  
-- Nasty Plot
 
 Diglett @ Life Orb  
 Ability: Arena Trap  
@@ -35,27 +44,16 @@ Level: 5
 EVs: 36 HP / 236 Atk / 236 Spe  
 Jolly Nature  
 - Earthquake  
-- Rock Slide  
 - Sucker Punch  
-- Substitute 
+- Rock Slide  
+- Stealth Rock  
 
-Frillish @ Eviolite  
-Ability: Water Absorb  
+Scraggy @ Eviolite  
+Ability: Moxie  
 Level: 5  
-EVs: 236 HP / 116 Def / 76 SpA / 76 SpD  
-Bold Nature  
-- Scald  
-- Shadow Ball 
-- Strength Sap  
-- Will-O-Wisp
-
-Drifloon @ Berry Juice  
-Ability: Unburden  
-Level: 5  
-EVs: 116 HP / 196 SpA / 196 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Shadow Ball  
-- Thunderbolt  
-- Destiny Bond  
-- Substitute
+EVs: 236 Atk / 36 SpD / 212 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Knock Off  
+- Drain Punch  
+- High Jump Kick  

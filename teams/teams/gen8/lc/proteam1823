@@ -1,63 +1,59 @@
-Wingull @ Life Orb  
-Ability: Keen Eye 
+Drilbur @ Eviolite  
+Ability: Mold Breaker  
 Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-IVs: 0 HP  
-- Scald  
-- Hurricane  
-- U-turn  
-- Roost
-
-Drifloon @ Berry Juice  
-Ability: Unburden  
-Level: 5  
-EVs: 36 HP / 36 Atk / 84 Def / 116 SpA / 196 Spe  
-Naive Nature  
-- Shadow Ball  
-- Acrobatics  
-- Will-O-Wisp  
-- Substitute
-
-Onix @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
 Jolly Nature  
-- Stealth Rock  
-- Rock Blast  
 - Earthquake  
-- Taunt 
+- Rapid Spin  
+- Rock Slide  
+- Stealth Rock  
 
-Cutiefly @ Eviolite  
-Ability: Shield Dust 
+Ponyta @ Eviolite  
+Ability: Flame Body  
 Level: 5  
-EVs: 236 SpA / 244 Spe  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Jolly Nature  
+- Flare Blitz  
+- High Horsepower  
+- Morning Sun  
+- Wild Charge  
+
+Abra @ Focus Sash  
+Ability: Magic Guard  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
 Timid Nature  
-IVs: 0 Atk  
-- Moonblast  
-- Bug Buzz  
 - Psychic  
-- Quiver Dance  
+- Dazzling Gleam  
+- Energy Ball  
+- Shadow Ball  
 
-Mareanie @ Eviolite  
-Ability: Regenerator  
+Archen @ Berry Juice  
+Ability: Defeatist  
 Level: 5  
-EVs: 196 HP / 100 Def / 92 SpA / 100 SpD  
-Calm Nature  
-IVs: 0 Atk  
-- Scald  
-- Sludge Bomb  
-- Recover  
-- Iron Defense
+EVs: 76 HP / 180 Atk / 196 Spe  
+Jolly Nature  
+- Stone Edge  
+- Dual Wingbeat  
+- Earthquake  
+- U-turn
 
-Chinchou @ Choice Scarf  
-Ability: Volt Absorb  
+Carvanha @ Life Orb  
+Ability: Speed Boost  
 Level: 5  
-EVs: 52 Def / 228 SpA / 220 Spe  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+Adamant Nature  
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation  
+
+Woobat @ Berry Juice  
+Ability: Simple  
+Level: 5  
+EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
 Timid Nature  
-IVs: 0 Atk  
-- Volt Switch  
-- Scald  
-- Ice Beam  
-- Dazzling Gleam
+- Nasty Plot  
+- Psychic  
+- Heat Wave  
+- Air Slash  

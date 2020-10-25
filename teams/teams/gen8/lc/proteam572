@@ -1,60 +1,60 @@
-Ponyta-Galar @ Life Orb  
-Ability: Pastel Veil  
+Diglett @ Life Orb  
+Ability: Arena Trap  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
+EVs: 36 HP / 236 Atk / 236 Spe  
 Jolly Nature  
-- Zen Headbutt  
-- Play Rough  
-- High Horsepower 
-- Healing Wish  
+- Earthquake  
+- Sucker Punch  
+- Rock Slide  
+- Stealth Rock  
 
-Cufant @ Eviolite  
-Ability: Sheer Force  
+Bunnelby @ Eviolite  
+Ability: Huge Power  
 Level: 5  
-EVs: 100 HP / 36 Atk / 204 Def / 124 SpD / 36 Spe  
-Careful Nature  
-- Iron Head  
-- Play Rough  
-- Superpower  
-- Stealth Rock
-
-Vulpix @ Life Orb  
-Ability: Drought  
-Level: 5  
-EVs: 36 Def / 196 SpA / 236 Spe  
-Timid Nature  
-IVs: 4 HP  
-- Fire Blast  
-- Energy Ball  
-- Extrasensory  
-- Quick Attack  
-
-Farfetch'd-Galar @ Choice Scarf  
-Ability: Scrappy  
-Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Close Combat  
-- Brave Bird  
-- Knock Off
-- Poison Jab 
-
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
+EVs: 228 Atk / 132 Def / 148 SpD  
 Adamant Nature  
-- Facade 
-- Fire Punch  
-- Earthquake 
-- Recycle
+- Earthquake  
+- Quick Attack  
+- U-turn  
+- Facade
 
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
+Grookey @ Eviolite  
+Ability: Grassy Surge  
 Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
-Jolly Nature
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Grassy Glide  
+- Knock Off  
+- Drain Punch  
+- U-turn  
+
+Vullaby @ Berry Juice  
+Ability: Weak Armor  
+Level: 5  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Jolly Nature  
+- Knock Off  
 - Brave Bird  
-- Retaliate  
-- Close Combat  
-- U-turn
+- U-turn  
+- Defog  
+
+Natu @ Eviolite  
+Ability: Magic Bounce  
+Level: 5  
+EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Heat Wave  
+- U-turn  
+- Roost  
+
+Croagunk @ Eviolite  
+Ability: Dry Skin  
+Level: 5  
+EVs: 116 Def / 188 SpA / 196 Spe  
+Timid Nature  
+- Vacuum Wave  
+- Nasty Plot  
+- Sludge Wave  
+- Focus Blast  

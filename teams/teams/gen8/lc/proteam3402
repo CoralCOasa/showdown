@@ -1,61 +1,60 @@
-Chinchou @ Choice Scarf  
+Chinchou @ Eviolite  
 Ability: Volt Absorb  
 Level: 5  
 EVs: 52 Def / 228 SpA / 220 Spe  
 Timid Nature  
-IVs: 0 Atk  
 - Volt Switch  
 - Scald  
 - Ice Beam  
-- Hydro Pump 
+- Thunderbolt  
 
-Dwebble @ Eviolite  
-Ability: Weak Armor  
+Dewpider @ Berry Juice  
+Ability: Water Bubble  
 Level: 5  
-EVs: 36 HP / 156 Atk / 76 Def / 236 Spe  
-Jolly Nature  
-- Stealth Rock  
-- Spikes  
-- Rock Blast  
-- Knock Off
-
-Shellder @ Eviolite  
-Ability: Skill Link  
-Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Shell Smash  
-- Icicle Spear  
-- Rock Blast  
-- Liquidation
-
-Croagunk @ Eviolite 
-Ability: Dry Skin  
-Level: 5  
-EVs: 52 HP / 116 Def / 188 SpA / 116 SpD / 36 Spe  
+EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
 Modest Nature  
-IVs: 0 Atk  
-- Sludge Wave  
-- Focus Blast  
-- Vacuum Wave  
-- Nasty Plot
+- Sticky Web  
+- Surf  
+- Icy Wind  
+- Giga Drain
 
-Wingull @ Eviolite  
-Ability: Keen Eye 
+Bunnelby @ Eviolite  
+Ability: Huge Power  
 Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
+EVs: 228 Atk / 132 Def / 148 SpD  
+Adamant Nature  
+- Earthquake  
+- Quick Attack  
+- U-turn  
+- Facade
+
+Ponyta-Galar @ Eviolite  
+Ability: Pastel Veil  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
 Timid Nature  
-- Scald  
-- Hurricane  
-- U-turn 
-- Roost
+- Mystical Fire  
+- Psychic  
+- Dazzling Gleam  
+- Calm Mind  
 
-Diglett @ Life Orb  
-Ability: Arena Trap  
+Onix @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
+EVs: 76 HP / 236 Atk / 196 Spe  
 Jolly Nature  
 - Earthquake  
-- Rock Slide  
-- Sucker Punch  
-- Memento  
+- Stealth Rock  
+- Rock Blast  
+- Dragon Dance  
+
+Natu @ Eviolite  
+Ability: Magic Bounce  
+Level: 5  
+EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Heat Wave  
+- U-turn  
+- Roost  

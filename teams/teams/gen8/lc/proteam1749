@@ -1,61 +1,59 @@
-Wingull @ Life Orb  
-Ability: Keen Eye 
+Dwebble @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-IVs: 0 HP  
-- Scald  
-- Hurricane  
-- U-turn  
-- Roost
-
-Trapinch @ Eviolite  
-Ability: Arena Trap  
-Level: 5  
-EVs: 196 Atk / 76 Def / 236 SpD  
+EVs: 236 Atk / 236 Spe  
 Adamant Nature  
+- Shell Smash  
+- Rock Blast  
 - Earthquake  
-- First Impression  
-- Superpower  
-- Rock Slide
+- Knock Off  
 
-Cutiefly @ Eviolite 
-Ability: Shield Dust 
+Corphish @ Eviolite  
+Ability: Adaptability  
 Level: 5  
-EVs: 236 SpA / 244 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Moonblast  
-- Bug Buzz  
-- Psychic  
-- Quiver Dance  
+EVs: 196 Atk / 76 Def / 236 Spe  
+Adamant Nature  
+- Aqua Jet  
+- Crabhammer  
+- Knock Off  
+- Dragon Dance  
 
 Ferroseed @ Eviolite  
 Ability: Iron Barbs  
 Level: 5  
-EVs: 84 HP / 36 Atk / 108 Def / 228 SpD / 36 Spe  
+EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
 Impish Nature  
-- Iron Head  
 - Knock Off  
 - Thunder Wave  
-- Stealth Rock 
+- Spikes  
+- Giga Drain
 
-Vullaby @ Berry Juice 
-Ability: Weak Armor  
+Onix @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Adamant Nature  
-- Brave Bird  
-- Knock Off  
-- U-turn  
-- Defog
-
-Scraggy @ Berry Juice  
-Ability: Intimidate 
-Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
-Adamant Nature
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- Earthquake  
+- Stealth Rock  
+- Rock Blast  
 - Dragon Dance  
-- High Jump Kick  
-- Crunch  
-- Poison Jab
+
+Archen @ Berry Juice  
+Ability: Defeatist  
+Level: 5  
+EVs: 76 HP / 180 Atk / 196 Spe  
+Jolly Nature  
+- Stone Edge  
+- Dual Wingbeat  
+- Earthquake  
+- U-turn
+
+Mareanie @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+Bold Nature  
+- Recover  
+- Scald  
+- Toxic Spikes  
+- Sludge Bomb  

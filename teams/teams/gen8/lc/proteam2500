@@ -1,43 +1,52 @@
-Frillish @ Eviolite  
-Ability: Water Absorb  
+Pawniard @ Eviolite  
+Ability: Defiant  
 Level: 5  
-EVs: 236 HP / 116 Def / 76 SpA / 76 SpD  
-Bold Nature  
-- Scald  
-- Hex  
-- Strength Sap  
-- Will-O-Wisp
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Iron Head  
+- Knock Off  
+- Sucker Punch  
+- Stealth Rock  
 
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
+Shellder @ Eviolite  
+Ability: Skill Link  
 Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
+EVs: 236 Atk / 76 SpD / 196 Spe  
 Adamant Nature  
-- Brave Bird  
-- Shadow Claw 
+- Icicle Spear  
+- Shell Smash  
+- Rock Blast  
+- Liquidation  
+
+Dwebble @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 236 Atk / 236 Spe  
+Adamant Nature  
+- Shell Smash  
+- Rock Blast  
+- Earthquake  
+- Knock Off  
+
+Farfetch’d-Galar @ Eviolite  
+Ability: Scrappy  
+Level: 5  
+EVs: 20 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Swords Dance  
 - Close Combat  
-- U-turn
+- Brave Bird  
+- Knock Off  
 
-Timburr @ Eviolite  
-Ability: Iron Fist 
+Croagunk @ Eviolite  
+Ability: Dry Skin  
 Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
-Adamant Nature  
-- Drain Punch  
-- Thunder Punch  
-- Mach Punch  
-- Bulk Up 
-
-Cutiefly @ Eviolite  
-Ability: Shield Dust 
-Level: 5  
-EVs: 236 SpA / 244 Spe  
+EVs: 116 Def / 188 SpA / 196 Spe  
 Timid Nature  
-IVs: 0 Atk  
-- Moonblast  
-- Bug Buzz  
-- Psychic  
-- Quiver Dance  
+- Vacuum Wave  
+- Nasty Plot  
+- Sludge Wave  
+- Focus Blast  
 
 Munchlax @ Berry Juice  
 Ability: Thick Fat  
@@ -45,16 +54,6 @@ Level: 5
 EVs: 236 Atk / 36 Def / 236 SpD  
 Adamant Nature  
 - Body Slam  
-- Fire Punch  
+- Earthquake  
 - Curse  
 - Recycle
-
-Diglett @ Focus Sash  
-Ability: Arena Trap  
-Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Earthquake  
-- Rock Slide  
-- Sucker Punch  
-- Memento  

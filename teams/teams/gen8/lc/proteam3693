@@ -1,61 +1,60 @@
-Pawniard @ Eviolite  
-Ability: Defiant  
+Diglett @ Life Orb  
+Ability: Arena Trap  
 Level: 5  
-EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+EVs: 36 HP / 236 Atk / 236 Spe  
 Jolly Nature  
-- Iron Head  
+- Earthquake  
 - Sucker Punch  
-- Night Slash  
-- Brick Break
-
-Dwebble @ Eviolite  
-Ability: Weak Armor  
-Level: 5  
-EVs: 36 HP / 156 Atk / 76 Def / 236 Spe  
-Jolly Nature  
+- Rock Slide  
 - Stealth Rock  
-- Spikes  
-- Rock Blast  
-- Knock Off
 
-Vulpix @ Eviolite  
-Ability: Drought  
+Meowth @ Life Orb  
+Ability: Technician  
 Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
+EVs: 236 Atk / 36 SpD / 196 Spe  
+Jolly Nature  
+- Fake Out  
+- Feint  
+- Aerial Ace  
+- Water Pulse  
+
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
+Level: 5  
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
+Bold Nature  
+- Moonblast  
+- Wish  
+- Protect  
+- Calm Mind  
+
+Trapinch @ Eviolite  
+Ability: Arena Trap  
+Level: 5  
+EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
+Relaxed Nature  
+- Earthquake  
+- First Impression  
+- Superpower  
+- Giga Drain  
+
+Natu @ Eviolite  
+Ability: Magic Bounce  
+Level: 5  
+EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
 Timid Nature  
 IVs: 0 Atk  
-- Fire Blast  
-- Energy Ball  
-- Will-O-Wisp  
-- Memento 
+- Psychic  
+- Heat Wave  
+- U-turn  
+- Roost  
 
-Timburr @ Eviolite  
-Ability: Guts  
+Grookey @ Eviolite  
+Ability: Grassy Surge  
 Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
-Adamant Nature  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Grassy Glide  
+- Knock Off  
 - Drain Punch  
-- Ice Punch
-- Mach Punch  
-- Bulk Up
-
-Scraggy @ Eviolite  
-Ability: Moxie 
-Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
-Adamant Nature  
-- Dragon Dance  
-- High Jump Kick 
-- Crunch  
-- Zen Headbutt 
-
-Oddish @ Eviolite  
-Ability: Chlorophyll  
-Level: 5  
-EVs: 156 HP / 236 Def / 76 SpD / 36 Spe  
-Bold Nature  
-IVs: 0 Atk  
-- Giga Drain  
-- Sludge Bomb  
-- Strength Sap  
-- Stun Spore
+- U-turn  

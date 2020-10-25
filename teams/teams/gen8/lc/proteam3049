@@ -1,61 +1,60 @@
-Timburr @ Eviolite  
-Ability: Iron Fist 
+Abra @ Focus Sash  
+Ability: Magic Guard  
 Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
-Adamant Nature  
-- Drain Punch  
-- Fire Punch  
-- Mach Punch  
-- Defog 
-
-Vullaby @ Berry Juice  
-Ability: Weak Armor  
-Level: 5  
-EVs: 116 HP / 240 SpA / 116 Spe  
-Modest Nature  
-- Nasty Plot  
-- Air Slash  
-- Heat Wave  
-- Dark Pulse
-
-Vulpix @ Life Orb  
-Ability: Drought  
-Level: 5  
-EVs: 36 Def / 196 SpA / 236 Spe  
+EVs: 236 SpA / 76 SpD / 196 Spe  
 Timid Nature  
-IVs: 4 HP  
-- Fire Blast  
+- Psychic  
+- Dazzling Gleam  
 - Energy Ball  
-- Extrasensory  
-- Overheat 
+- Shadow Ball  
 
-Corphish @ Eviolite  
-Ability: Adaptability  
+Pawniard @ Eviolite  
+Ability: Defiant  
 Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
 Jolly Nature  
-- Crabhammer  
-- Knock Off  
-- Aqua Jet  
-- Swords Dance 
-
-Cufant @ Life Orb  
-Ability: Sheer Force  
-Level: 5  
-EVs: 20 HP / 196 Atk / 204 Def / 44 SpD / 36 Spe  
-Adamant Nature  
 - Iron Head  
-- Play Rough  
-- Power Whip  
-- High Horsepower 
+- Knock Off  
+- Sucker Punch  
+- Stealth Rock  
 
-Chinchou @ Choice Scarf  
+Chinchou @ Eviolite  
 Ability: Volt Absorb  
 Level: 5  
 EVs: 52 Def / 228 SpA / 220 Spe  
 Timid Nature  
-IVs: 0 Atk  
 - Volt Switch  
 - Scald  
 - Ice Beam  
-- Thunderbolt 
+- Thunderbolt  
+
+Trapinch @ Eviolite  
+Ability: Arena Trap  
+Level: 5  
+EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
+Relaxed Nature  
+- Earthquake  
+- First Impression  
+- Superpower  
+- Giga Drain  
+
+Amaura @ Choice Scarf  
+Ability: Refrigerate  
+Level: 5  
+EVs: 60 HP / 220 SpA / 228 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hyper Voice  
+- Earth Power  
+- Thunderbolt  
+- Ancient Power
+
+Ponyta @ Eviolite  
+Ability: Flame Body  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Jolly Nature  
+- Flare Blitz  
+- High Horsepower  
+- Morning Sun  
+- Wild Charge  

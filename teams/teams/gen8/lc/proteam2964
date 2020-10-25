@@ -1,61 +1,59 @@
-Corphish @ Eviolite  
-Ability: Adaptability  
+Mudbray @ Eviolite  
+Ability: Stamina  
 Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
-Adamant Nature
-- Crabhammer  
-- Knock Off  
-- Aqua Jet  
-- Swords Dance 
-
-Trapinch @ Eviolite  
-Ability: Arena Trap  
-Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
+EVs: 116 HP / 36 Atk / 196 Def / 156 Spe  
 Adamant Nature  
 - Earthquake  
-- First Impression  
-- Superpower  
-- Rock Slide
+- Stealth Rock  
+- Rock Slide  
+- Heavy Slam  
 
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
+Koffing @ Eviolite  
+Ability: Levitate  
 Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
-Jolly Nature
-- Brave Bird  
-- Shadow Claw 
-- Close Combat  
-- U-turn
+EVs: 36 HP / 236 Def / 236 SpD  
+Bold Nature  
+- Will-O-Wisp  
+- Toxic Spikes  
+- Pain Split  
+- Sludge Bomb  
 
 Spritzee @ Eviolite  
 Ability: Aroma Veil  
 Level: 5  
 EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
 Bold Nature  
-IVs: 0 Atk  
+- Moonblast  
 - Wish  
 - Protect  
-- Moonblast  
-- Calm Mind 
+- Calm Mind  
 
-Ponyta-Galar @ Eviolite 
+Dwebble @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 236 Atk / 236 Spe  
+Adamant Nature  
+- Shell Smash  
+- Rock Blast  
+- Earthquake  
+- Knock Off  
+
+Ponyta-Galar @ Eviolite  
 Ability: Pastel Veil  
 Level: 5  
-EVs: 76 Def / 236 SpA / 196 Spe  
+EVs: 236 SpA / 76 SpD / 196 Spe  
 Timid Nature  
-IVs: 0 Atk  
-- Psychic  
 - Mystical Fire  
-- Dazzling Gleam 
-- Calm Mind 
+- Psychic  
+- Dazzling Gleam  
+- Calm Mind  
 
-Diglett @ Focus Sash  
-Ability: Arena Trap  
+Timburr @ Eviolite  
+Ability: Iron Fist  
 Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Earthquake  
-- Rock Slide  
-- Sucker Punch  
-- Stealth Rock 
+EVs: 196 Atk / 156 Def / 156 SpD  
+Adamant Nature  
+- Drain Punch  
+- Mach Punch  
+- Knock Off  
+- Defog  

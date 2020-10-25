@@ -1,62 +1,59 @@
-Dwebble @ Berry Juice  
-Ability: Sturdy  
+Vulpix @ Choice Scarf  
+Ability: Drought  
 Level: 5  
-EVs: 236 Atk / 236 Spe  
+EVs: 52 HP / 196 SpA / 236 Spe  
+Timid Nature  
+- Energy Ball  
+- Weather Ball  
+- Overheat  
+- Fire Blast  
+
+Shellder @ Eviolite  
+Ability: Skill Link  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
 Adamant Nature  
+- Icicle Spear  
 - Shell Smash  
 - Rock Blast  
-- Earthquake  
-- Knock Off
+- Liquidation  
 
-Scraggy @ Eviolite  
-Ability: Moxie 
+Wingull @ Life Orb  
+Ability: Hydration  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
-Adamant Nature  
-- Dragon Dance  
-- High Jump Kick 
-- Crunch  
-- Zen Headbutt 
-
-Mareanie @ Eviolite  
-Ability: Regenerator  
-Level: 5  
-EVs: 196 HP / 100 Def / 92 SpA / 100 SpD  
-Calm Nature  
-IVs: 0 Atk  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Timid Nature  
 - Scald  
-- Sludge Bomb  
-- Recover  
-- Haze 
+- Hurricane  
+- U-turn  
+- Air Slash  
 
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
+Bunnelby @ Eviolite  
+Ability: Huge Power  
 Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
-Bold Nature  
-IVs: 0 Atk  
-- Wish  
+EVs: 228 Atk / 132 Def / 148 SpD  
+Adamant Nature  
+- Earthquake  
+- Quick Attack  
+- U-turn  
+- Facade
+
+Carvanha @ Life Orb  
+Ability: Speed Boost  
+Level: 5  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+Adamant Nature  
+- Crunch  
+- Psychic Fangs  
 - Protect  
-- Moonblast  
-- Calm Mind 
+- Liquidation  
 
-Oddish @ Eviolite  
-Ability: Chlorophyll  
+Diglett @ Life Orb  
+Ability: Arena Trap  
 Level: 5  
-EVs: 156 HP / 236 Def / 76 SpD / 36 Spe  
-Bold Nature  
-IVs: 0 Atk  
-- Giga Drain  
-- Sludge Bomb  
-- Strength Sap  
-- Sleep Powder 
-
-Pawniard @ Eviolite  
-Ability: Defiant  
-Level: 5  
-EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+EVs: 36 HP / 236 Atk / 236 Spe  
 Jolly Nature  
-- Iron Head  
+- Earthquake  
 - Sucker Punch  
-- Swords Dance 
-- Night Slash 
+- Rock Slide  
+- Stealth Rock  

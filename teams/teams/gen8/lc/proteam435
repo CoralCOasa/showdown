@@ -1,61 +1,60 @@
-Trapinch @ Eviolite  
-Ability: Arena Trap  
+Drilbur @ Eviolite  
+Ability: Mold Breaker  
 Level: 5  
-EVs: 196 Atk / 76 Def / 236 SpD  
-Adamant Nature  
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
+Jolly Nature  
 - Earthquake  
-- First Impression  
-- Superpower  
-- Rock Slide
+- Rapid Spin  
+- Rock Slide  
+- Stealth Rock  
 
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
+Foongus @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
-Jolly Nature
-- Brave Bird  
-- Retaliate  
-- Close Combat  
-- U-turn
+EVs: 124 HP / 156 Def / 156 SpD  
+Bold Nature  
+- Giga Drain  
+- Spore  
+- Sludge Bomb  
+- Synthesis  
 
-Drifloon @ Berry Juice  
-Ability: Unburden  
+Natu @ Eviolite  
+Ability: Magic Bounce  
 Level: 5  
-EVs: 116 HP / 196 SpA / 196 Spe  
+EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
 Timid Nature  
 IVs: 0 Atk  
-- Shadow Ball  
-- Thunderbolt  
-- Will-O-Wisp 
-- Substitute
+- Psychic  
+- Heat Wave  
+- U-turn  
+- Roost  
 
-Onix @ Berry Juice  
-Ability: Sturdy  
+Scraggy @ Eviolite  
+Ability: Moxie  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 212 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Knock Off  
+- Drain Punch  
+- High Jump Kick  
+
+Larvesta @ Eviolite  
+Ability: Flame Body  
 Level: 5  
 EVs: 76 HP / 236 Atk / 196 Spe  
 Jolly Nature  
-- Stealth Rock  
-- Rock Blast  
-- Earthquake  
-- Dragon Dance 
+- U-turn  
+- Flare Blitz  
+- Morning Sun  
+- Will-O-Wisp  
 
-Frillish @ Eviolite  
-Ability: Water Absorb  
+Wingull @ Life Orb  
+Ability: Hydration  
 Level: 5  
-EVs: 236 HP / 116 Def / 76 SpA / 76 SpD  
-Bold Nature  
-- Scald  
-- Shadow Ball 
-- Strength Sap  
-- Will-O-Wisp
-
-Cutiefly @ Eviolite 
-Ability: Shield Dust 
-Level: 5  
-EVs: 236 SpA / 244 Spe  
+EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
-IVs: 0 Atk  
-- Moonblast  
-- Bug Buzz  
-- Psychic  
-- Quiver Dance  
+- Scald  
+- Hurricane  
+- U-turn  
+- Air Slash  

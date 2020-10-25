@@ -1,32 +1,12 @@
-Shellder @ Eviolite  
-Ability: Skill Link  
+Ponyta-Galar @ Eviolite  
+Ability: Pastel Veil  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Shell Smash  
-- Icicle Spear  
-- Rock Blast  
-- Liquidation
-
-Mudbray @ Eviolite  
-Ability: Stamina  
-Level: 5  
-EVs: 116 HP / 116 Atk / 36 Def / 236 SpD  
-Careful Nature  
-- Earthquake  
-- Rest  
-- Sleep Talk  
-- Heavy Slam
-
-Dwebble @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 236 Atk / 236 Spe  
-Adamant Nature  
-- Shell Smash  
-- Rock Blast  
-- Earthquake  
-- Knock Off
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Mystical Fire  
+- Psychic  
+- Dazzling Gleam  
+- Calm Mind  
 
 Munchlax @ Berry Juice  
 Ability: Thick Fat  
@@ -34,26 +14,46 @@ Level: 5
 EVs: 236 Atk / 36 Def / 236 SpD  
 Adamant Nature  
 - Body Slam  
-- Fire Punch  
+- Earthquake  
 - Curse  
 - Recycle
 
-Drilbur @ Eviolite 
-Ability: Mold Breaker  
+Farfetch’d-Galar @ Eviolite  
+Ability: Scrappy  
 Level: 5  
-EVs: 36 HP / 236 Atk / 212 Spe  
+EVs: 20 HP / 236 Atk / 236 Spe  
 Jolly Nature  
-- Earthquake  
-- Rock Slide  
-- Rapid Spin  
-- Stealth Rock 
+- Swords Dance  
+- Close Combat  
+- Brave Bird  
+- Knock Off  
 
-Diglett @ Life Orb  
-Ability: Arena Trap  
+Wingull @ Life Orb  
+Ability: Hydration  
 Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Timid Nature  
+- Scald  
+- Hurricane  
+- U-turn  
+- Air Slash  
+
+Scraggy @ Eviolite  
+Ability: Moxie  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 212 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Knock Off  
+- Drain Punch  
+- High Jump Kick  
+
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
 Jolly Nature  
-- Earthquake  
-- Rock Slide  
-- Sucker Punch  
-- Substitute 
+- Knock Off  
+- U-turn  
+- High Jump Kick  
+- Fake Out  

@@ -1,60 +1,60 @@
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
-Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
-Bold Nature  
-IVs: 0 Atk  
-- Wish  
-- Protect  
-- Moonblast  
-- Psychic 
-
-Drifloon @ Berry Juice  
-Ability: Unburden  
-Level: 5  
-EVs: 36 HP / 36 Atk / 84 Def / 116 SpA / 196 Spe  
-Naive Nature  
-- Shadow Ball  
-- Acrobatics  
-- Destiny Bond 
-- Substitute
-
 Pawniard @ Eviolite  
 Ability: Defiant  
 Level: 5  
 EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
 Jolly Nature  
 - Iron Head  
+- Knock Off  
 - Sucker Punch  
-- Swords Dance 
-- Night Slash 
+- Stealth Rock  
 
-Vullaby @ Choice Scarf  
-Ability: Weak Armor
+Vullaby @ Berry Juice  
+Ability: Weak Armor  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Jolly Nature  
+- Knock Off  
 - Brave Bird  
+- U-turn  
+- Defog  
+
+Amaura @ Choice Scarf  
+Ability: Refrigerate  
+Level: 5  
+EVs: 60 HP / 220 SpA / 228 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hyper Voice  
+- Earth Power  
+- Thunderbolt  
+- Ancient Power
+
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
 - Knock Off  
 - U-turn  
-- Defog
+- High Jump Kick  
+- Fake Out  
 
-Corphish @ Eviolite  
-Ability: Adaptability  
+Meowth @ Life Orb  
+Ability: Technician  
 Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
+EVs: 236 Atk / 36 SpD / 196 Spe  
 Jolly Nature  
-- Crabhammer  
-- Knock Off  
-- Aqua Jet  
-- Swords Dance 
+- Fake Out  
+- Feint  
+- Aerial Ace  
+- Water Pulse  
 
-Wingull @ Eviolite  
-Ability: Keen Eye 
+Bunnelby @ Eviolite  
+Ability: Huge Power  
 Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-- Scald  
-- Hurricane  
-- Knock Off  
-- Roost
+EVs: 228 Atk / 132 Def / 148 SpD  
+Adamant Nature  
+- Earthquake  
+- Quick Attack  
+- U-turn  
+- Facade

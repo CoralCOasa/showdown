@@ -1,34 +1,32 @@
-Vulpix @ Eviolite  
-Ability: Drought  
+Porygon @ Eviolite  
+Ability: Download  
 Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Fire Blast  
-- Energy Ball  
-- Will-O-Wisp  
-- Extrasensory
+EVs: 36 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Tri Attack  
+- Recover  
+- Ice Beam  
+- Psychic  
 
-Oddish @ Eviolite  
-Ability: Chlorophyll  
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
 Level: 5  
-EVs: 156 HP / 236 Def / 76 SpD / 36 Spe  
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
 Bold Nature  
-IVs: 0 Atk  
-- Giga Drain  
-- Sludge Bomb  
-- Strength Sap  
-- Stun Spore
+- Moonblast  
+- Wish  
+- Protect  
+- Calm Mind  
 
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
+Bunnelby @ Eviolite  
+Ability: Huge Power  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
+EVs: 228 Atk / 132 Def / 148 SpD  
 Adamant Nature  
-- Facade 
-- Fire Punch  
-- Curse  
-- Recycle
+- Earthquake  
+- Quick Attack  
+- U-turn  
+- Facade
 
 Diglett @ Life Orb  
 Ability: Arena Trap  
@@ -36,26 +34,26 @@ Level: 5
 EVs: 36 HP / 236 Atk / 236 Spe  
 Jolly Nature  
 - Earthquake  
-- Rock Slide  
 - Sucker Punch  
-- Substitute 
-
-Vullaby @ Choice Scarf  
-Ability: Overcoat 
-Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Brave Bird  
-- Knock Off  
-- U-turn  
-- Defog
-
-Dwebble @ Eviolite  
-Ability: Weak Armor  
-Level: 5  
-EVs: 36 HP / 156 Atk / 76 Def / 236 Spe  
-Jolly Nature  
+- Rock Slide  
 - Stealth Rock  
-- Spikes  
-- Rock Blast  
-- Knock Off
+
+Trapinch @ Eviolite  
+Ability: Arena Trap  
+Level: 5  
+EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
+Relaxed Nature  
+- Earthquake  
+- First Impression  
+- Superpower  
+- Giga Drain  
+
+Mareanie @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+Bold Nature  
+- Recover  
+- Scald  
+- Toxic Spikes  
+- Sludge Bomb  

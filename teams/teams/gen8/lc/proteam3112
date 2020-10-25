@@ -1,60 +1,59 @@
-Drilbur @ Eviolite 
-Ability: Mold Breaker  
+Bunnelby @ Eviolite  
+Ability: Huge Power  
 Level: 5  
-EVs: 36 HP / 236 Atk / 212 Spe  
-Jolly Nature  
-- Earthquake  
-- Rock Slide  
-- Rapid Spin  
-- Stealth Rock 
-
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
-Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
+EVs: 228 Atk / 132 Def / 148 SpD  
 Adamant Nature  
-- Brave Bird  
-- Rock Slide 
-- Close Combat  
-- U-turn
+- Earthquake  
+- Quick Attack  
+- U-turn  
+- Facade
 
-Drifloon @ Berry Juice  
-Ability: Unburden  
+Ponyta @ Eviolite  
+Ability: Flame Body  
 Level: 5  
-EVs: 116 HP / 196 SpA / 196 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Shadow Ball  
-- Thunderbolt  
-- Will-O-Wisp 
-- Substitute
-
-Corphish @ Eviolite  
-Ability: Adaptability  
-Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
+EVs: 236 Atk / 76 SpD / 196 Spe  
 Jolly Nature  
-- Crabhammer  
-- Knock Off  
-- Aqua Jet  
-- Swords Dance 
+- Flare Blitz  
+- High Horsepower  
+- Morning Sun  
+- Wild Charge  
 
-Scraggy @ Eviolite  
-Ability: Moxie 
+Carvanha @ Life Orb  
+Ability: Speed Boost  
 Level: 5  
-EVs: 36 HP / 156 Atk / 36 Def / 36 SpD / 212 Spe  
-Jolly Nature
-- Dragon Dance  
-- High Jump Kick 
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+Adamant Nature  
 - Crunch  
-- Poison Jab 
+- Psychic Fangs  
+- Protect  
+- Liquidation  
 
-Chinchou @ Berry Juice 
-Ability: Volt Absorb  
+Foongus @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 76 HP / 212 Def / 152 SpA / 60 Spe  
+EVs: 124 HP / 156 Def / 156 SpD  
 Bold Nature  
-- Scald  
-- Volt Switch  
-- Ice Beam  
-- Thunder Wave
+- Giga Drain  
+- Spore  
+- Sludge Bomb  
+- Synthesis  
+
+Timburr @ Eviolite  
+Ability: Iron Fist  
+Level: 5  
+EVs: 196 Atk / 156 Def / 156 SpD  
+Adamant Nature  
+- Drain Punch  
+- Mach Punch  
+- Knock Off  
+- Defog  
+
+Munchlax @ Berry Juice  
+Ability: Thick Fat  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 SpD  
+Adamant Nature  
+- Body Slam  
+- Earthquake  
+- Curse  
+- Recycle

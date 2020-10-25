@@ -1,62 +1,59 @@
-Onix @ Berry Juice  
+Dwebble @ Berry Juice  
 Ability: Sturdy  
 Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
-Jolly Nature  
-- Stealth Rock  
+EVs: 236 Atk / 236 Spe  
+Adamant Nature  
+- Shell Smash  
 - Rock Blast  
 - Earthquake  
-- Endure 
+- Knock Off  
 
-Cutiefly @ Focus Sash 
-Ability: Shield Dust 
+Shellder @ Eviolite  
+Ability: Skill Link  
 Level: 5  
-EVs: 236 SpA / 244 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Moonblast  
-- Bug Buzz 
-- Sticky Web  
-- U-turn
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Adamant Nature  
+- Icicle Spear  
+- Shell Smash  
+- Rock Blast  
+- Liquidation  
 
-Croagunk @ Eviolite 
-Ability: Dry Skin  
+Scraggy @ Eviolite  
+Ability: Moxie  
 Level: 5  
-EVs: 52 HP / 116 Def / 188 SpA / 116 SpD / 36 Spe  
+EVs: 236 Atk / 36 SpD / 212 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Knock Off  
+- Drain Punch  
+- High Jump Kick  
+
+Porygon @ Eviolite  
+Ability: Download  
+Level: 5  
+EVs: 36 Def / 236 SpA / 196 Spe  
 Modest Nature  
-IVs: 0 Atk  
-- Sludge Wave  
-- Focus Blast  
-- Vacuum Wave  
-- Nasty Plot
+- Tri Attack  
+- Recover  
+- Ice Beam  
+- Psychic  
 
-Ponyta-Galar @ Life Orb  
-Ability: Pastel Veil  
+Abra @ Focus Sash  
+Ability: Magic Guard  
 Level: 5  
 EVs: 236 SpA / 76 SpD / 196 Spe  
 Timid Nature  
-IVs: 0 Atk  
 - Psychic  
-- Mystical Fire  
-- Dazzling Gleam 
-- Calm Mind 
+- Dazzling Gleam  
+- Energy Ball  
+- Shadow Ball  
 
-Farfetch'd-Galar @ Eviolite  
-Ability: Scrappy  
+Bunnelby @ Eviolite  
+Ability: Huge Power  
 Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Close Combat  
-- Brave Bird  
-- Knock Off  
-- Swords Dance 
-
-Corphish @ Eviolite  
-Ability: Adaptability  
-Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
-Adamant Nature
-- Crabhammer  
-- Knock Off  
-- Aqua Jet  
-- Swords Dance 
+EVs: 228 Atk / 132 Def / 148 SpD  
+Adamant Nature  
+- Earthquake  
+- Quick Attack  
+- U-turn  
+- Facade

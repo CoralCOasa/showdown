@@ -1,61 +1,60 @@
-Onix @ Berry Juice  
-Ability: Sturdy  
+Archen @ Berry Juice  
+Ability: Defeatist  
 Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
+EVs: 76 HP / 180 Atk / 196 Spe  
 Jolly Nature  
-- Stealth Rock  
-- Rock Blast  
+- Stone Edge  
+- Dual Wingbeat  
 - Earthquake  
-- Endure 
-
-Wingull @ Life Orb  
-Ability: Keen Eye 
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-IVs: 0 HP  
-- Scald  
-- Hurricane  
-- U-turn  
-- Knock Off 
-
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
-Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
-Jolly Nature
-- Brave Bird  
-- Shadow Claw 
-- Close Combat  
 - U-turn
 
-Vullaby @ Eviolite  
+Vullaby @ Berry Juice  
 Ability: Weak Armor  
 Level: 5  
 EVs: 236 Atk / 76 Def / 196 Spe  
-Adamant Nature  
-- Brave Bird  
+Jolly Nature  
 - Knock Off  
+- Brave Bird  
 - U-turn  
-- Defog
+- Defog  
 
-Oddish @ Eviolite  
-Ability: Chlorophyll  
+Abra @ Focus Sash  
+Ability: Magic Guard  
 Level: 5  
-EVs: 156 HP / 236 Def / 76 SpD / 36 Spe  
-Bold Nature  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Psychic  
+- Dazzling Gleam  
+- Energy Ball  
+- Shadow Ball  
+
+Natu @ Eviolite  
+Ability: Magic Bounce  
+Level: 5  
+EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
+Timid Nature  
 IVs: 0 Atk  
-- Giga Drain  
-- Sludge Bomb  
-- Strength Sap  
-- Stun Spore
+- Psychic  
+- Heat Wave  
+- U-turn  
+- Roost  
 
-Shellder @ Eviolite  
-Ability: Skill Link  
+Ponyta-Galar @ Eviolite  
+Ability: Pastel Veil  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Mystical Fire  
+- Psychic  
+- Dazzling Gleam  
+- Calm Mind  
+
+Scraggy @ Eviolite  
+Ability: Moxie  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 212 Spe  
 Adamant Nature  
-- Shell Smash  
-- Icicle Spear  
-- Rock Blast  
-- Liquidation
+- Dragon Dance  
+- Knock Off  
+- Drain Punch  
+- High Jump Kick  

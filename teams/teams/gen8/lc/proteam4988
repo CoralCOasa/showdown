@@ -1,61 +1,59 @@
-Onix @ Eviolite  
-Ability: Rock Head  
+Magnemite @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
-Jolly Nature  
-- Dragon Dance  
-- Head Smash  
-- Earthquake  
-- Heavy Slam 
-
-Chinchou @ Choice Scarf  
-Ability: Volt Absorb  
-Level: 5  
-EVs: 52 Def / 228 SpA / 220 Spe  
+EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
-IVs: 0 Atk  
+- Flash Cannon  
 - Volt Switch  
-- Scald  
-- Ice Beam  
-- Dazzling Gleam
+- Thunderbolt  
+- Recycle  
 
-Trapinch @ Eviolite  
-Ability: Arena Trap  
+Carvanha @ Life Orb  
+Ability: Speed Boost  
 Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
 Adamant Nature  
-- Earthquake  
-- First Impression  
-- Superpower  
-- Rock Slide
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation  
 
-Ponyta-Galar @ Eviolite 
-Ability: Pastel Veil  
+Porygon @ Eviolite  
+Ability: Download  
 Level: 5  
-EVs: 76 Def / 236 SpA / 196 Spe  
-Timid Nature  
-IVs: 0 Atk  
+EVs: 36 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Tri Attack  
+- Recover  
+- Ice Beam  
 - Psychic  
-- Mystical Fire  
-- Dazzling Gleam 
-- Calm Mind 
 
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
 Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
-Jolly Nature
-- Brave Bird  
-- Rock Slide 
-- Close Combat  
-- U-turn
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
+Bold Nature  
+- Moonblast  
+- Wish  
+- Protect  
+- Calm Mind  
 
-Frillish @ Choice Scarf  
-Ability: Water Absorb  
+Croagunk @ Eviolite  
+Ability: Dry Skin  
 Level: 5  
-EVs: 76 HP / 236 SpA / 196 Spe  
+EVs: 116 Def / 188 SpA / 196 Spe  
 Timid Nature  
-- Water Spout  
-- Shadow Ball  
-- Energy Ball  
-- Trick
+- Vacuum Wave  
+- Nasty Plot  
+- Sludge Wave  
+- Focus Blast  
+
+Foongus @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 124 HP / 156 Def / 156 SpD  
+Bold Nature  
+- Giga Drain  
+- Spore  
+- Sludge Bomb  
+- Synthesis  

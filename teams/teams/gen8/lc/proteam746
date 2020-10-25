@@ -1,61 +1,59 @@
-Scraggy @ Eviolite  
-Ability: Moxie  
+Dwebble @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
+EVs: 236 Atk / 236 Spe  
 Adamant Nature  
+- Shell Smash  
+- Rock Blast  
+- Earthquake  
+- Knock Off  
+
+Onix @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- Earthquake  
+- Stealth Rock  
+- Rock Blast  
 - Dragon Dance  
-- Drain Punch  
-- Crunch  
-- Zen Headbutt 
 
 Munchlax @ Berry Juice  
 Ability: Thick Fat  
 Level: 5  
 EVs: 236 Atk / 36 Def / 236 SpD  
 Adamant Nature  
-- Facade 
-- Fire Punch  
+- Body Slam  
+- Earthquake  
 - Curse  
 - Recycle
 
-Diglett @ Focus Sash  
-Ability: Arena Trap  
+Timburr @ Eviolite  
+Ability: Iron Fist  
 Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Earthquake  
-- Rock Slide  
-- Sucker Punch  
-- Memento  
+EVs: 196 Atk / 156 Def / 156 SpD  
+Adamant Nature  
+- Drain Punch  
+- Mach Punch  
+- Knock Off  
+- Defog  
 
-Drifloon @ Berry Juice  
-Ability: Unburden  
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
 Level: 5  
-EVs: 116 HP / 196 SpA / 196 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Shadow Ball  
-- Thunderbolt  
-- Destiny Bond  
-- Substitute
+EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
+Impish Nature  
+- Knock Off  
+- Thunder Wave  
+- Spikes  
+- Giga Drain
 
-Oddish @ Eviolite  
-Ability: Chlorophyll  
+Bunnelby @ Eviolite  
+Ability: Huge Power  
 Level: 5  
-EVs: 156 HP / 236 Def / 76 SpD / 36 Spe  
-Bold Nature  
-IVs: 0 Atk  
-- Giga Drain  
-- Sludge Bomb  
-- Strength Sap  
-- Stun Spore
-
-Trapinch @ Eviolite  
-Ability: Arena Trap  
-Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
+EVs: 228 Atk / 132 Def / 148 SpD  
 Adamant Nature  
 - Earthquake  
-- First Impression  
-- Superpower  
-- Rock Slide
+- Quick Attack  
+- U-turn  
+- Facade

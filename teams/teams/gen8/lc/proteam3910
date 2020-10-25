@@ -1,60 +1,59 @@
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
+Carvanha @ Life Orb  
+Ability: Speed Boost  
 Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
-Bold Nature  
-IVs: 0 Atk  
-- Wish  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+Adamant Nature  
+- Crunch  
+- Psychic Fangs  
 - Protect  
-- Moonblast  
-- Psychic 
+- Liquidation  
 
-Diglett @ Focus Sash  
-Ability: Arena Trap  
+Onix @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
+EVs: 76 HP / 236 Atk / 196 Spe  
 Jolly Nature  
 - Earthquake  
-- Rock Slide  
-- Sucker Punch  
-- Stealth Rock 
+- Stealth Rock  
+- Rock Blast  
+- Dragon Dance  
 
-Farfetch'd-Galar @ Choice Scarf  
-Ability: Scrappy  
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
 Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Close Combat  
-- Brave Bird  
-- Knock Off
-- Defog 
-
-Vullaby @ Eviolite  
-Ability: Weak Armor  
-Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Adamant Nature  
-- Brave Bird  
+EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
+Impish Nature  
 - Knock Off  
-- U-turn  
-- Defog
+- Thunder Wave  
+- Spikes  
+- Giga Drain
 
-Mudbray @ Choice Scarf  
-Ability: Stamina  
+Woobat @ Berry Juice  
+Ability: Simple  
 Level: 5  
-EVs: 36 HP / 196 Atk / 36 Def / 236 Spe  
-Adamant Nature  
-- Earthquake  
-- Heavy Slam  
-- Rock Slide  
-- Close Combat
+EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
+Timid Nature  
+- Nasty Plot  
+- Psychic  
+- Heat Wave  
+- Air Slash  
 
-Chinchou @ Berry Juice 
-Ability: Volt Absorb  
+Meowth @ Life Orb  
+Ability: Technician  
 Level: 5  
-EVs: 76 HP / 212 Def / 152 SpA / 60 Spe  
-Bold Nature  
-- Scald  
-- Volt Switch  
-- Ice Beam  
-- Thunder Wave
+EVs: 236 Atk / 36 SpD / 196 Spe  
+Jolly Nature  
+- Fake Out  
+- Feint  
+- Aerial Ace  
+- Water Pulse  
+
+Vulpix @ Choice Scarf  
+Ability: Drought  
+Level: 5  
+EVs: 52 HP / 196 SpA / 236 Spe  
+Timid Nature  
+- Energy Ball  
+- Weather Ball  
+- Overheat  
+- Fire Blast  

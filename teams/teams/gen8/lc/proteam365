@@ -1,60 +1,59 @@
-Ferroseed @ Eviolite  
-Ability: Iron Barbs  
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
 Level: 5  
-EVs: 84 HP / 36 Atk / 108 Def / 228 SpD / 36 Spe  
-Impish Nature  
-- Bullet Seed  
-- Knock Off  
-- Thunder Wave 
-- Stealth Rock 
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
+Bold Nature  
+- Moonblast  
+- Wish  
+- Protect  
+- Calm Mind  
 
-Trapinch @ Eviolite  
-Ability: Arena Trap  
+Meowth @ Life Orb  
+Ability: Technician  
 Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Brave Nature  
+EVs: 236 Atk / 36 SpD / 196 Spe  
+Jolly Nature  
+- Fake Out  
+- Feint  
+- Aerial Ace  
+- Water Pulse  
+
+Archen @ Berry Juice  
+Ability: Defeatist  
+Level: 5  
+EVs: 76 HP / 180 Atk / 196 Spe  
+Jolly Nature  
+- Stone Edge  
+- Dual Wingbeat  
 - Earthquake  
-- First Impression  
-- Superpower  
-- Giga Drain
+- U-turn
 
-Dwebble @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 236 Atk / 236 Spe  
-Adamant Nature  
-- Shell Smash  
-- Rock Blast  
-- Earthquake  
-- Knock Off
-
-Scraggy @ Eviolite  
-Ability: Moxie  
-Level: 5  
-EVs: 36 HP / 156 Atk / 36 Def / 36 SpD / 212 Spe  
-Adamant Nature  
-- Dragon Dance  
-- High Jump Kick 
-- Crunch  
-- Zen Headbutt 
-
-Vullaby @ Choice Scarf  
-Ability: Overcoat 
+Shellder @ Eviolite  
+Ability: Skill Link  
 Level: 5  
 EVs: 236 Atk / 76 SpD / 196 Spe  
 Adamant Nature  
+- Icicle Spear  
+- Shell Smash  
+- Rock Blast  
+- Liquidation  
+
+Farfetch’d-Galar @ Eviolite  
+Ability: Scrappy  
+Level: 5  
+EVs: 20 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Swords Dance  
+- Close Combat  
 - Brave Bird  
 - Knock Off  
-- U-turn  
-- Defog
 
-Wingull @ Life Orb  
-Ability: Hydration  
+Staryu @ Eviolite  
+Ability: Natural Cure  
 Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
+EVs: 116 HP / 156 Def / 236 Spe  
 Timid Nature  
-IVs: 0 HP  
+- Rapid Spin  
+- Thunderbolt  
+- Recover  
 - Scald  
-- Hurricane  
-- U-turn  
-- Knock Off 

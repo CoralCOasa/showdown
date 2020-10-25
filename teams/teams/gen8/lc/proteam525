@@ -1,60 +1,59 @@
-Frillish @ Eviolite  
-Ability: Water Absorb  
+Koffing @ Eviolite  
+Ability: Levitate  
 Level: 5  
-EVs: 236 HP / 116 Def / 76 SpA / 76 SpD  
+EVs: 36 HP / 236 Def / 236 SpD  
 Bold Nature  
-- Scald  
-- Shadow Ball 
-- Recover 
-- Will-O-Wisp
+- Will-O-Wisp  
+- Toxic Spikes  
+- Pain Split  
+- Sludge Bomb  
 
-Farfetch'd-Galar @ Choice Scarf  
-Ability: Scrappy  
+Trapinch @ Eviolite  
+Ability: Arena Trap  
 Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
+EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
+Relaxed Nature  
+- Earthquake  
+- First Impression  
+- Superpower  
+- Giga Drain  
+
+Scorbunny @ Berry Juice  
+Ability: Libero  
+Level: 5  
+EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
 Jolly Nature  
-- Close Combat  
-- Brave Bird  
-- Knock Off
-- Defog 
+- High Jump Kick  
+- U-turn  
+- Blaze Kick  
+- Gunk Shot  
 
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
+Vulpix @ Choice Scarf  
+Ability: Drought  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
-Adamant Nature  
-- Body Slam  
-- Fire Punch  
-- Earthquake 
-- Recycle
-
-Chinchou @ Choice Scarf  
-Ability: Volt Absorb  
-Level: 5  
-EVs: 52 Def / 228 SpA / 220 Spe  
+EVs: 52 HP / 196 SpA / 236 Spe  
 Timid Nature  
-IVs: 0 Atk  
-- Volt Switch  
-- Scald  
-- Ice Beam  
-- Hydro Pump 
+- Energy Ball  
+- Weather Ball  
+- Overheat  
+- Fire Blast  
 
-Ponyta-Galar @ Life Orb  
-Ability: Pastel Veil  
+Meowth @ Life Orb  
+Ability: Technician  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
+EVs: 236 Atk / 36 SpD / 196 Spe  
 Jolly Nature  
-- Zen Headbutt  
-- Play Rough  
-- High Horsepower 
-- Morning Sun 
+- Fake Out  
+- Feint  
+- Aerial Ace  
+- Water Pulse  
 
-Pawniard @ Eviolite  
-Ability: Defiant  
+Vullaby @ Berry Juice  
+Ability: Weak Armor  
 Level: 5  
-EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+EVs: 236 Atk / 76 Def / 196 Spe  
 Jolly Nature  
-- Iron Head  
-- Sucker Punch  
-- Swords Dance 
-- Night Slash 
+- Knock Off  
+- Brave Bird  
+- U-turn  
+- Defog  

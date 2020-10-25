@@ -1,59 +1,59 @@
-Diglett @ Life Orb  
-Ability: Arena Trap  
+Farfetch’d-Galar @ Eviolite  
+Ability: Scrappy  
 Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
+EVs: 20 HP / 236 Atk / 236 Spe  
 Jolly Nature  
-- Earthquake  
-- Rock Slide  
-- Sucker Punch  
-- Substitute 
+- Swords Dance  
+- Close Combat  
+- Brave Bird  
+- Knock Off  
 
-Frillish @ Eviolite  
-Ability: Water Absorb  
+Timburr @ Eviolite  
+Ability: Iron Fist  
 Level: 5  
-EVs: 236 HP / 116 Def / 76 SpA / 76 SpD  
-Bold Nature  
-- Scald  
-- Shadow Ball 
-- Strength Sap  
-- Will-O-Wisp
+EVs: 196 Atk / 156 Def / 156 SpD  
+Adamant Nature  
+- Drain Punch  
+- Mach Punch  
+- Knock Off  
+- Defog  
 
-Drilbur @ Eviolite 
+Drilbur @ Eviolite  
 Ability: Mold Breaker  
 Level: 5  
-EVs: 36 HP / 236 Atk / 212 Spe  
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
 Jolly Nature  
 - Earthquake  
-- Rock Slide  
 - Rapid Spin  
-- Swords Dance 
+- Rock Slide  
+- Stealth Rock  
 
 Trapinch @ Eviolite  
 Ability: Arena Trap  
 Level: 5  
 EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Adamant Nature  
+Relaxed Nature  
 - Earthquake  
 - First Impression  
 - Superpower  
-- Rock Slide
+- Giga Drain  
 
-Corphish @ Eviolite  
-Ability: Adaptability  
+Meowth @ Life Orb  
+Ability: Technician  
 Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
-Adamant Nature
-- Crabhammer  
+EVs: 236 Atk / 36 SpD / 196 Spe  
+Jolly Nature  
+- Fake Out  
+- Feint  
+- Aerial Ace  
+- Water Pulse  
+
+Vullaby @ Berry Juice  
+Ability: Weak Armor  
+Level: 5  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Jolly Nature  
 - Knock Off  
-- Aqua Jet  
-- Superpower 
-
-Dwebble @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 236 Atk / 236 Spe  
-Adamant Nature  
-- Shell Smash  
-- Rock Blast  
-- Earthquake  
-- Knock Off
+- Brave Bird  
+- U-turn  
+- Defog  

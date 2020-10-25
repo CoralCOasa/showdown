@@ -1,60 +1,59 @@
-Wingull @ Life Orb  
-Ability: Hydration  
+Archen @ Berry Juice  
+Ability: Defeatist  
 Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-IVs: 0 HP  
-- Scald  
-- Hurricane  
-- U-turn  
-- Knock Off 
-
-Trapinch @ Eviolite  
-Ability: Arena Trap  
-Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Brave Nature  
-- Earthquake  
-- First Impression  
-- Superpower  
-- Giga Drain
-
-Onix @ Eviolite  
-Ability: Rock Head  
-Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
+EVs: 76 HP / 180 Atk / 196 Spe  
 Jolly Nature  
-- Dragon Dance  
-- Head Smash  
+- Stone Edge  
+- Dual Wingbeat  
 - Earthquake  
-- Heavy Slam 
+- U-turn
 
-Chinchou @ Berry Juice 
-Ability: Volt Absorb  
+Drilbur @ Eviolite  
+Ability: Mold Breaker  
 Level: 5  
-EVs: 76 HP / 212 Def / 152 SpA / 60 Spe  
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
+Jolly Nature  
+- Earthquake  
+- Rapid Spin  
+- Rock Slide  
+- Stealth Rock  
+
+Shellder @ Eviolite  
+Ability: Skill Link  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Adamant Nature  
+- Icicle Spear  
+- Shell Smash  
+- Rock Blast  
+- Liquidation  
+
+Foongus @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 124 HP / 156 Def / 156 SpD  
 Bold Nature  
-- Scald  
-- Volt Switch  
-- Ice Beam  
-- Thunder Wave
+- Giga Drain  
+- Spore  
+- Sludge Bomb  
+- Synthesis  
 
-Vullaby @ Berry Juice  
-Ability: Weak Armor  
+Woobat @ Berry Juice  
+Ability: Simple  
 Level: 5  
-EVs: 116 HP / 240 SpA / 116 Spe  
-Modest Nature  
+EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
+Timid Nature  
 - Nasty Plot  
-- Air Slash  
+- Psychic  
 - Heat Wave  
-- Dark Pulse
+- Air Slash  
 
-Corphish @ Eviolite  
-Ability: Adaptability  
+Staryu @ Eviolite  
+Ability: Natural Cure  
 Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
-Adamant Nature
-- Crabhammer  
-- Knock Off  
-- Aqua Jet  
-- Swords Dance 
+EVs: 116 HP / 156 Def / 236 Spe  
+Timid Nature  
+- Rapid Spin  
+- Thunderbolt  
+- Recover  
+- Scald  

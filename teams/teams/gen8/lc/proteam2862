@@ -1,60 +1,59 @@
-Ferroseed @ Eviolite  
-Ability: Iron Barbs  
+Wingull @ Life Orb  
+Ability: Hydration  
 Level: 5  
-EVs: 84 HP / 36 Atk / 108 Def / 228 SpD / 36 Spe  
-Impish Nature  
-- Bullet Seed  
-- Knock Off 
-- Thunder Wave  
-- Stealth Rock 
-
-Vulpix @ Life Orb  
-Ability: Drought  
-Level: 5  
-EVs: 36 Def / 196 SpA / 236 Spe  
+EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
-IVs: 4 HP  
-- Fire Blast  
-- Energy Ball  
-- Extrasensory  
-- Quick Attack  
+- Scald  
+- Hurricane  
+- U-turn  
+- Air Slash  
 
-Frillish @ Choice Scarf  
-Ability: Water Absorb  
+Foongus @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 76 HP / 236 SpA / 196 Spe  
+EVs: 124 HP / 156 Def / 156 SpD  
+Bold Nature  
+- Giga Drain  
+- Spore  
+- Sludge Bomb  
+- Synthesis  
+
+Ponyta-Galar @ Eviolite  
+Ability: Pastel Veil  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
 Timid Nature  
-- Water Spout  
-- Shadow Ball  
-- Ice Beam 
-- Trick
+- Mystical Fire  
+- Psychic  
+- Dazzling Gleam  
+- Calm Mind  
 
-Farfetch'd-Galar @ Choice Scarf  
-Ability: Scrappy  
+Mudbray @ Eviolite  
+Ability: Stamina  
 Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Close Combat  
-- Brave Bird  
-- Knock Off
-- Poison Jab 
-
-Trapinch @ Eviolite  
-Ability: Arena Trap  
-Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
+EVs: 116 HP / 36 Atk / 196 Def / 156 Spe  
 Adamant Nature  
 - Earthquake  
-- First Impression  
-- Superpower  
-- Rock Slide
+- Stealth Rock  
+- Rock Slide  
+- Heavy Slam  
 
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
+Shellder @ Eviolite  
+Ability: Skill Link  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
+EVs: 236 Atk / 76 SpD / 196 Spe  
 Adamant Nature  
-- Body Slam  
-- Fire Punch  
-- Curse  
-- Recycle
+- Icicle Spear  
+- Shell Smash  
+- Rock Blast  
+- Liquidation  
+
+Carvanha @ Life Orb  
+Ability: Speed Boost  
+Level: 5  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+Adamant Nature  
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation  

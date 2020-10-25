@@ -1,60 +1,60 @@
-Ferroseed @ Eviolite  
-Ability: Iron Barbs  
+Porygon @ Eviolite  
+Ability: Download  
 Level: 5  
-EVs: 84 HP / 36 Atk / 108 Def / 228 SpD / 36 Spe  
-Impish Nature  
-- Bullet Seed 
-- Knock Off  
-- Thunder Wave  
-- Spikes
+EVs: 36 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Tri Attack  
+- Recover  
+- Ice Beam  
+- Psychic  
 
-Vullaby @ Eviolite  
+Vullaby @ Berry Juice  
 Ability: Weak Armor  
 Level: 5  
 EVs: 236 Atk / 76 Def / 196 Spe  
-Adamant Nature  
-- Brave Bird  
+Jolly Nature  
 - Knock Off  
+- Brave Bird  
 - U-turn  
-- Defog
+- Defog  
 
-Trapinch @ Eviolite  
-Ability: Arena Trap  
+Staryu @ Eviolite  
+Ability: Natural Cure  
 Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Brave Nature  
-- Earthquake  
-- First Impression  
-- Superpower  
-- Giga Drain
-
-Mareanie @ Eviolite  
-Ability: Regenerator  
-Level: 5  
-EVs: 196 HP / 100 Def / 92 SpA / 100 SpD  
-Calm Nature  
-IVs: 0 Atk  
-- Scald  
-- Sludge Bomb  
-- Recover  
-- Toxic Spikes 
-
-Frillish @ Choice Scarf  
-Ability: Water Absorb  
-Level: 5  
-EVs: 76 HP / 236 SpA / 196 Spe  
+EVs: 116 HP / 156 Def / 236 Spe  
 Timid Nature  
-- Water Spout  
-- Shadow Ball  
-- Ice Beam 
-- Trick
+- Rapid Spin  
+- Thunderbolt  
+- Recover  
+- Scald  
 
-Dwebble @ Berry Juice  
-Ability: Sturdy  
+Natu @ Eviolite  
+Ability: Magic Bounce  
 Level: 5  
-EVs: 236 Atk / 236 Spe  
+EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Heat Wave  
+- U-turn  
+- Roost  
+
+Shellder @ Eviolite  
+Ability: Skill Link  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
 Adamant Nature  
+- Icicle Spear  
 - Shell Smash  
 - Rock Blast  
+- Liquidation  
+
+Bunnelby @ Eviolite  
+Ability: Huge Power  
+Level: 5  
+EVs: 228 Atk / 132 Def / 148 SpD  
+Adamant Nature  
 - Earthquake  
-- Knock Off
+- Quick Attack  
+- U-turn  
+- Facade

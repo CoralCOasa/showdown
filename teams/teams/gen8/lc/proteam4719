@@ -1,61 +1,59 @@
-Ponyta-Galar @ Life Orb  
-Ability: Pastel Veil  
+Mudbray @ Eviolite  
+Ability: Stamina  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Jolly Nature  
-- Zen Headbutt  
-- Play Rough  
-- High Horsepower 
-- Healing Wish  
+EVs: 116 HP / 36 Atk / 196 Def / 156 Spe  
+Adamant Nature  
+- Earthquake  
+- Stealth Rock  
+- Rock Slide  
+- Heavy Slam  
 
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
+Croagunk @ Eviolite  
+Ability: Dry Skin  
 Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
-Jolly Nature
-- Brave Bird  
-- Rock Slide 
-- Close Combat  
-- U-turn
-
-Wingull @ Life Orb  
-Ability: Hydration  
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
+EVs: 116 Def / 188 SpA / 196 Spe  
 Timid Nature  
-IVs: 0 HP  
-- Scald  
-- Hurricane  
-- U-turn  
-- Knock Off 
+- Vacuum Wave  
+- Nasty Plot  
+- Sludge Wave  
+- Focus Blast  
 
 Mareanie @ Eviolite  
 Ability: Regenerator  
 Level: 5  
-EVs: 196 HP / 100 Def / 92 SpA / 100 SpD  
-Calm Nature  
-IVs: 0 Atk  
-- Scald  
-- Sludge Bomb  
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+Bold Nature  
 - Recover  
-- Haze 
+- Scald  
+- Toxic Spikes  
+- Sludge Bomb  
 
-Scraggy @ Eviolite  
-Ability: Moxie 
+Larvesta @ Eviolite  
+Ability: Flame Body  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
-Adamant Nature  
-- Dragon Dance  
-- High Jump Kick 
-- Crunch  
-- Poison Jab 
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- U-turn  
+- Flare Blitz  
+- Morning Sun  
+- Will-O-Wisp  
 
-Mudbray @ Eviolite 
-Ability: Stamina  
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
 Level: 5  
-EVs: 116 HP / 196 Atk / 36 Def / 156 Spe  
-Adamant Nature  
-- Earthquake  
-- Heavy Slam  
-- Close Combat  
-- Stealth Rock
+EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
+Impish Nature  
+- Knock Off  
+- Thunder Wave  
+- Spikes  
+- Giga Drain
+
+Vullaby @ Berry Juice  
+Ability: Weak Armor  
+Level: 5  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Jolly Nature  
+- Knock Off  
+- Brave Bird  
+- U-turn  
+- Defog  

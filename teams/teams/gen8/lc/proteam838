@@ -1,53 +1,53 @@
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
+Woobat @ Berry Juice  
+Ability: Simple  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
-Adamant Nature  
-- Body Slam  
-- Fire Punch  
-- Earthquake 
-- Recycle
+EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
+Timid Nature  
+- Nasty Plot  
+- Psychic  
+- Heat Wave  
+- Air Slash  
 
-Timburr @ Eviolite  
-Ability: Iron Fist 
+Larvesta @ Eviolite  
+Ability: Flame Body  
 Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
-Adamant Nature  
-- Drain Punch  
-- Thunder Punch  
-- Mach Punch  
-- Defog 
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- U-turn  
+- Flare Blitz  
+- Morning Sun  
+- Will-O-Wisp  
 
-Vulpix @ Choice Scarf  
-Ability: Drought  
+Amaura @ Choice Scarf  
+Ability: Refrigerate  
 Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
+EVs: 60 HP / 220 SpA / 228 Spe  
 Modest Nature  
 IVs: 0 Atk  
-- Fire Blast  
-- Energy Ball  
-- Extrasensory  
-- Overheat 
+- Hyper Voice  
+- Earth Power  
+- Thunderbolt  
+- Ancient Power
 
-Mudbray @ Eviolite 
-Ability: Stamina  
+Zigzagoon @ Berry Juice  
+Ability: Quick Feet  
 Level: 5  
-EVs: 116 HP / 196 Atk / 36 Def / 156 Spe  
+EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
 Adamant Nature  
-- Earthquake  
-- Heavy Slam  
-- Close Combat  
-- Stealth Rock
+- Extreme Speed  
+- Belly Drum  
+- Thief  
+- Seed Bomb  
 
-Croagunk @ Berry Juice  
-Ability: Dry Skin  
+Meowth @ Life Orb  
+Ability: Technician  
 Level: 5  
-EVs: 52 HP / 188 Atk / 116 Def / 116 SpD / 36 Spe  
-Adamant Nature  
-- Gunk Shot  
-- Drain Punch  
-- Sucker Punch  
-- Bulk Up
+EVs: 236 Atk / 36 SpD / 196 Spe  
+Jolly Nature  
+- Fake Out  
+- Feint  
+- Aerial Ace  
+- Water Pulse  
 
 Dwebble @ Berry Juice  
 Ability: Sturdy  
@@ -57,4 +57,4 @@ Adamant Nature
 - Shell Smash  
 - Rock Blast  
 - Earthquake  
-- Knock Off
+- Knock Off  

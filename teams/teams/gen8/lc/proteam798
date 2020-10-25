@@ -1,33 +1,22 @@
-Pawniard @ Eviolite  
-Ability: Defiant  
+Grookey @ Eviolite  
+Ability: Grassy Surge  
 Level: 5  
-EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+EVs: 236 Atk / 36 Def / 236 Spe  
 Jolly Nature  
-- Iron Head  
-- Sucker Punch  
-- Stealth Rock
-- Night Slash 
+- Grassy Glide  
+- Knock Off  
+- Drain Punch  
+- U-turn  
 
-Chinchou @ Berry Juice 
-Ability: Volt Absorb  
+Shellder @ Eviolite  
+Ability: Skill Link  
 Level: 5  
-EVs: 76 HP / 212 Def / 152 SpA / 60 Spe  
-Bold Nature  
-- Scald  
-- Volt Switch  
-- Ice Beam  
-- Thunder Wave
-
-Drifloon @ Berry Juice  
-Ability: Unburden  
-Level: 5  
-EVs: 116 HP / 196 SpA / 196 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Shadow Ball  
-- Thunderbolt  
-- Destiny Bond  
-- Substitute
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Adamant Nature  
+- Icicle Spear  
+- Shell Smash  
+- Rock Blast  
+- Liquidation  
 
 Dwebble @ Berry Juice  
 Ability: Sturdy  
@@ -37,25 +26,34 @@ Adamant Nature
 - Shell Smash  
 - Rock Blast  
 - Earthquake  
-- Knock Off
+- Knock Off  
 
-Trapinch @ Eviolite  
-Ability: Arena Trap  
+Corphish @ Eviolite  
+Ability: Adaptability  
 Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Brave Nature  
+EVs: 196 Atk / 76 Def / 236 Spe  
+Adamant Nature  
+- Aqua Jet  
+- Crabhammer  
+- Knock Off  
+- Dragon Dance  
+
+Mudbray @ Eviolite  
+Ability: Stamina  
+Level: 5  
+EVs: 116 HP / 36 Atk / 196 Def / 156 Spe  
+Adamant Nature  
 - Earthquake  
-- First Impression  
-- Superpower  
-- Giga Drain
+- Stealth Rock  
+- Rock Slide  
+- Heavy Slam  
 
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
 Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
-Bold Nature  
-IVs: 0 Atk  
-- Wish  
-- Protect  
-- Moonblast  
-- Calm Mind 
+EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
+Impish Nature  
+- Knock Off  
+- Thunder Wave  
+- Spikes  
+- Giga Drain

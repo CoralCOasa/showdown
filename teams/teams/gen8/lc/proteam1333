@@ -1,44 +1,42 @@
-Ponyta-Galar @ Eviolite 
-Ability: Pastel Veil  
+Pawniard @ Eviolite  
+Ability: Defiant  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
 Jolly Nature  
-- Zen Headbutt  
-- Play Rough  
-- High Horsepower 
-- Morning Sun 
+- Iron Head  
+- Knock Off  
+- Sucker Punch  
+- Stealth Rock  
 
-Chinchou @ Choice Scarf  
-Ability: Volt Absorb  
+Timburr @ Eviolite  
+Ability: Iron Fist  
 Level: 5  
-EVs: 52 Def / 228 SpA / 220 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Volt Switch  
-- Scald  
-- Ice Beam  
-- Hydro Pump 
-
-Scraggy @ Eviolite  
-Ability: Moxie  
-Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
+EVs: 196 Atk / 156 Def / 156 SpD  
 Adamant Nature  
-- Dragon Dance  
 - Drain Punch  
-- Crunch  
-- Zen Headbutt 
+- Mach Punch  
+- Knock Off  
+- Defog  
 
-Wingull @ Life Orb  
-Ability: Keen Eye 
+Mienfoo @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-IVs: 0 HP  
-- Scald  
-- Hurricane  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Knock Off  
 - U-turn  
-- Knock Off 
+- High Jump Kick  
+- Fake Out  
+
+Koffing @ Eviolite  
+Ability: Levitate  
+Level: 5  
+EVs: 36 HP / 236 Def / 236 SpD  
+Bold Nature  
+- Will-O-Wisp  
+- Toxic Spikes  
+- Pain Split  
+- Sludge Bomb  
 
 Dwebble @ Berry Juice  
 Ability: Sturdy  
@@ -48,14 +46,14 @@ Adamant Nature
 - Shell Smash  
 - Rock Blast  
 - Earthquake  
-- Knock Off
+- Knock Off  
 
-Frillish @ Eviolite  
-Ability: Water Absorb  
+Scraggy @ Eviolite  
+Ability: Moxie  
 Level: 5  
-EVs: 236 HP / 116 Def / 76 SpA / 76 SpD  
-Bold Nature  
-- Scald  
-- Shadow Ball 
-- Recover 
-- Will-O-Wisp
+EVs: 236 Atk / 36 SpD / 212 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Knock Off  
+- Drain Punch  
+- High Jump Kick  

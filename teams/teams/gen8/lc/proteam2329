@@ -1,60 +1,59 @@
-Corphish @ Eviolite  
-Ability: Adaptability  
+Archen @ Berry Juice  
+Ability: Defeatist  
 Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
-Adamant Nature
-- Crabhammer  
-- Knock Off  
-- Aqua Jet  
-- Dragon Dance
+EVs: 76 HP / 180 Atk / 196 Spe  
+Jolly Nature  
+- Stone Edge  
+- Dual Wingbeat  
+- Earthquake  
+- U-turn
 
-Timburr @ Eviolite  
-Ability: Iron Fist 
+Croagunk @ Eviolite  
+Ability: Dry Skin  
 Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
+EVs: 116 Def / 188 SpA / 196 Spe  
+Timid Nature  
+- Vacuum Wave  
+- Nasty Plot  
+- Sludge Wave  
+- Focus Blast  
+
+Bunnelby @ Eviolite  
+Ability: Huge Power  
+Level: 5  
+EVs: 228 Atk / 132 Def / 148 SpD  
 Adamant Nature  
-- Drain Punch  
-- Thunder Punch 
-- Mach Punch  
-- Defog 
+- Earthquake  
+- Quick Attack  
+- U-turn  
+- Facade
 
-Diglett @ Life Orb  
-Ability: Arena Trap  
+Drilbur @ Eviolite  
+Ability: Mold Breaker  
 Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
 Jolly Nature  
 - Earthquake  
+- Rapid Spin  
 - Rock Slide  
-- Sucker Punch  
-- Substitute 
+- Stealth Rock  
 
-Oddish @ Eviolite  
-Ability: Chlorophyll  
+Wingull @ Life Orb  
+Ability: Hydration  
 Level: 5  
-EVs: 156 HP / 236 Def / 76 SpD / 36 Spe  
-Bold Nature  
-IVs: 0 Atk  
-- Giga Drain  
-- Sludge Bomb  
-- Strength Sap  
-- Sleep Powder 
+EVs: 36 Def / 236 SpA / 236 Spe  
+Timid Nature  
+- Scald  
+- Hurricane  
+- U-turn  
+- Air Slash  
 
-Mudbray @ Eviolite 
-Ability: Stamina  
+Shellder @ Eviolite  
+Ability: Skill Link  
 Level: 5  
-EVs: 116 HP / 196 Atk / 36 Def / 156 Spe  
+EVs: 236 Atk / 76 SpD / 196 Spe  
 Adamant Nature  
-- Earthquake  
-- Heavy Slam  
-- Close Combat  
-- Stealth Rock
-
-Rufflet (M) @ Choice Scarf  
-Ability: Hustle  
-Level: 5  
-EVs: 252 Atk / 36 SpD / 196 Spe  
-Jolly Nature
-- Brave Bird  
-- Shadow Claw 
-- Close Combat  
-- U-turn
+- Icicle Spear  
+- Shell Smash  
+- Rock Blast  
+- Liquidation  

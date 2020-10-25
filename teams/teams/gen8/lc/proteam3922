@@ -1,60 +1,59 @@
-Oddish @ Eviolite  
-Ability: Chlorophyll  
+Bunnelby @ Eviolite  
+Ability: Huge Power  
 Level: 5  
-EVs: 156 HP / 236 Def / 76 SpD / 36 Spe  
-Bold Nature  
-IVs: 0 Atk  
-- Giga Drain  
-- Sludge Bomb  
-- Strength Sap  
-- Sleep Powder 
+EVs: 228 Atk / 132 Def / 148 SpD  
+Adamant Nature  
+- Earthquake  
+- Quick Attack  
+- U-turn  
+- Facade
 
-Corphish @ Eviolite  
-Ability: Adaptability  
+Porygon @ Eviolite  
+Ability: Download  
 Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
+EVs: 36 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Tri Attack  
+- Recover  
+- Ice Beam  
+- Psychic  
+
+Grookey @ Eviolite  
+Ability: Grassy Surge  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
 Jolly Nature  
-- Crabhammer  
+- Grassy Glide  
 - Knock Off  
-- Aqua Jet  
-- Dragon Dance
+- Drain Punch  
+- U-turn  
 
-Scraggy @ Eviolite  
-Ability: Moxie  
+Vullaby @ Berry Juice  
+Ability: Weak Armor  
 Level: 5  
-EVs: 36 HP / 156 Atk / 36 Def / 36 SpD / 212 Spe  
-Adamant Nature  
-- Dragon Dance  
-- High Jump Kick 
-- Crunch  
-- Zen Headbutt 
-
-Trapinch @ Eviolite  
-Ability: Arena Trap  
-Level: 5  
-EVs: 196 Atk / 76 Def / 236 SpD  
-Adamant Nature  
-- Earthquake  
-- First Impression  
-- Superpower  
-- Rock Slide
-
-Ponyta-Galar @ Life Orb  
-Ability: Pastel Veil  
-Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
+EVs: 236 Atk / 76 Def / 196 Spe  
 Jolly Nature  
-- Zen Headbutt  
-- Play Rough  
-- High Horsepower 
-- Morning Sun 
+- Knock Off  
+- Brave Bird  
+- U-turn  
+- Defog  
 
-Diglett @ Focus Sash  
-Ability: Arena Trap  
+Archen @ Berry Juice  
+Ability: Defeatist  
 Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
+EVs: 76 HP / 180 Atk / 196 Spe  
 Jolly Nature  
+- Stone Edge  
+- Dual Wingbeat  
 - Earthquake  
-- Rock Slide  
-- Sucker Punch  
-- Stealth Rock 
+- U-turn
+
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
+Level: 5  
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
+Bold Nature  
+- Moonblast  
+- Wish  
+- Protect  
+- Calm Mind  

@@ -1,60 +1,59 @@
-Farfetch'd-Galar @ Eviolite  
-Ability: Scrappy  
+Mareanie @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Close Combat  
-- Brave Bird  
-- Knock Off  
-- Defog
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+Bold Nature  
+- Recover  
+- Scald  
+- Toxic Spikes  
+- Sludge Bomb  
 
-Onix @ Eviolite  
-Ability: Rock Head  
+Bunnelby @ Eviolite  
+Ability: Huge Power  
 Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
-Jolly Nature  
-- Dragon Dance  
-- Head Smash  
+EVs: 228 Atk / 132 Def / 148 SpD  
+Adamant Nature  
 - Earthquake  
-- Stealth Rock 
+- Quick Attack  
+- U-turn  
+- Facade
 
 Scraggy @ Eviolite  
-Ability: Moxie 
+Ability: Moxie  
 Level: 5  
 EVs: 236 Atk / 36 SpD / 212 Spe  
 Adamant Nature  
 - Dragon Dance  
+- Knock Off  
 - Drain Punch  
-- Crunch  
-- Poison Jab 
+- High Jump Kick  
 
-Trapinch @ Eviolite  
-Ability: Arena Trap  
+Pawniard @ Eviolite  
+Ability: Defiant  
 Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Brave Nature  
-- Earthquake  
-- First Impression  
-- Superpower  
-- Giga Drain
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Iron Head  
+- Knock Off  
+- Sucker Punch  
+- Stealth Rock  
 
-Timburr @ Eviolite  
-Ability: Iron Fist 
+Ponyta @ Eviolite  
+Ability: Flame Body  
 Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
-Adamant Nature  
-- Drain Punch  
-- Thunder Punch  
-- Mach Punch  
-- Defog 
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Jolly Nature  
+- Flare Blitz  
+- High Horsepower  
+- Morning Sun  
+- Wild Charge  
 
-Wingull @ Life Orb  
-Ability: Hydration  
+Woobat @ Berry Juice  
+Ability: Simple  
 Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
+EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
 Timid Nature  
-IVs: 0 HP  
-- Scald  
-- Hurricane  
-- U-turn  
-- Knock Off 
+- Nasty Plot  
+- Psychic  
+- Heat Wave  
+- Air Slash  

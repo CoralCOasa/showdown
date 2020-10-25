@@ -1,43 +1,22 @@
-Frillish @ Eviolite  
-Ability: Water Absorb  
+Staryu @ Eviolite  
+Ability: Natural Cure  
 Level: 5  
-EVs: 236 HP / 116 Def / 76 SpA / 76 SpD  
-Bold Nature  
-- Scald  
-- Hex  
-- Strength Sap  
-- Will-O-Wisp
-
-Ponyta-Galar @ Eviolite 
-Ability: Pastel Veil  
-Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
+EVs: 116 HP / 156 Def / 236 Spe  
 Timid Nature  
-IVs: 0 Atk  
-- Psychic  
-- Mystical Fire  
-- Dazzling Gleam 
-- Calm Mind 
+- Rapid Spin  
+- Thunderbolt  
+- Recover  
+- Scald  
 
-Onix @ Eviolite  
-Ability: Weak Armor  
+Scorbunny @ Berry Juice  
+Ability: Libero  
 Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
+EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
 Jolly Nature  
-- Stealth Rock  
-- Rock Blast  
-- Earthquake  
-- Dragon Dance
-
-Farfetch'd-Galar @ Eviolite  
-Ability: Scrappy  
-Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Close Combat  
-- Brave Bird  
-- Knock Off  
-- Defog
+- High Jump Kick  
+- U-turn  
+- Blaze Kick  
+- Gunk Shot  
 
 Munchlax @ Berry Juice  
 Ability: Thick Fat  
@@ -45,16 +24,36 @@ Level: 5
 EVs: 236 Atk / 36 Def / 236 SpD  
 Adamant Nature  
 - Body Slam  
-- Fire Punch  
-- Earthquake 
+- Earthquake  
+- Curse  
 - Recycle
 
-Mudbray @ Eviolite  
-Ability: Stamina  
+Drilbur @ Eviolite  
+Ability: Mold Breaker  
 Level: 5  
-EVs: 116 HP / 116 Atk / 36 Def / 236 SpD  
-Careful Nature  
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
+Jolly Nature  
 - Earthquake  
-- Rest  
-- Sleep Talk  
-- Heavy Slam
+- Rapid Spin  
+- Rock Slide  
+- Stealth Rock  
+
+Mareanie @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+Bold Nature  
+- Recover  
+- Scald  
+- Toxic Spikes  
+- Sludge Bomb  
+
+Tirtouga @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 212 Atk / 92 Def / 180 Spe  
+Jolly Nature  
+- Shell Smash  
+- Waterfall  
+- Stone Edge  
+- Zen Headbutt

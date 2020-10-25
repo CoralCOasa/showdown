@@ -1,62 +1,59 @@
-Ponyta-Galar @ Life Orb  
-Ability: Pastel Veil  
+Vulpix @ Choice Scarf  
+Ability: Drought  
 Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
+EVs: 52 HP / 196 SpA / 236 Spe  
 Timid Nature  
-IVs: 0 Atk  
-- Psychic  
-- Mystical Fire  
-- Dazzling Gleam 
-- Calm Mind 
+- Energy Ball  
+- Weather Ball  
+- Overheat  
+- Fire Blast  
 
-Cufant @ Eviolite 
-Ability: Sheer Force  
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
 Level: 5  
-EVs: 20 HP / 196 Atk / 204 Def / 44 SpD / 36 Spe  
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
+Bold Nature  
+- Moonblast  
+- Wish  
+- Protect  
+- Calm Mind  
+
+Croagunk @ Eviolite  
+Ability: Dry Skin  
+Level: 5  
+EVs: 116 Def / 188 SpA / 196 Spe  
+Timid Nature  
+- Vacuum Wave  
+- Nasty Plot  
+- Sludge Wave  
+- Focus Blast  
+
+Mudbray @ Eviolite  
+Ability: Stamina  
+Level: 5  
+EVs: 116 HP / 36 Atk / 196 Def / 156 Spe  
 Adamant Nature  
-- Iron Head  
-- Play Rough  
-- Power Whip  
-- Superpower
+- Earthquake  
+- Stealth Rock  
+- Rock Slide  
+- Heavy Slam  
 
-Oddish @ Eviolite  
-Ability: Chlorophyll  
+Staryu @ Eviolite  
+Ability: Natural Cure  
 Level: 5  
-EVs: 156 HP / 236 Def / 76 SpD / 36 Spe  
-Bold Nature  
-IVs: 0 Atk  
-- Giga Drain  
-- Sludge Bomb  
-- Strength Sap  
-- Sleep Powder 
-
-Drifloon @ Berry Juice  
-Ability: Unburden  
-Level: 5  
-EVs: 116 HP / 196 SpA / 196 Spe  
+EVs: 116 HP / 156 Def / 236 Spe  
 Timid Nature  
-IVs: 0 Atk  
-- Shadow Ball  
+- Rapid Spin  
 - Thunderbolt  
-- Calm Mind 
-- Substitute
-
-Farfetch'd-Galar @ Eviolite  
-Ability: Scrappy  
-Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Close Combat  
-- Brave Bird  
-- Knock Off  
-- Swords Dance 
-
-Chinchou @ Berry Juice 
-Ability: Volt Absorb  
-Level: 5  
-EVs: 76 HP / 212 Def / 152 SpA / 60 Spe  
-Bold Nature  
+- Recover  
 - Scald  
-- Volt Switch  
-- Ice Beam  
-- Thunder Wave
+
+Dewpider @ Berry Juice  
+Ability: Water Bubble  
+Level: 5  
+EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
+Modest Nature  
+- Sticky Web  
+- Surf  
+- Icy Wind  
+- Giga Drain

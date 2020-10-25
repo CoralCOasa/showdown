@@ -1,62 +1,59 @@
-Vullaby @ Choice Scarf  
-Ability: Overcoat 
+Munchlax @ Berry Juice  
+Ability: Thick Fat  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
+EVs: 236 Atk / 36 Def / 236 SpD  
 Adamant Nature  
-- Brave Bird  
-- Knock Off  
-- U-turn  
-- Defog
+- Body Slam  
+- Earthquake  
+- Curse  
+- Recycle
 
 Scraggy @ Eviolite  
 Ability: Moxie  
 Level: 5  
-EVs: 36 HP / 156 Atk / 36 Def / 36 SpD / 212 Spe  
+EVs: 236 Atk / 36 SpD / 212 Spe  
 Adamant Nature  
 - Dragon Dance  
+- Knock Off  
 - Drain Punch  
-- Crunch  
-- Poison Jab
+- High Jump Kick  
 
-Mudbray @ Berry Juice  
-Ability: Stamina  
+Timburr @ Eviolite  
+Ability: Iron Fist  
 Level: 5  
-EVs: 116 HP / 196 Atk / 36 Def / 156 Spe  
+EVs: 196 Atk / 156 Def / 156 SpD  
 Adamant Nature  
-- Earthquake  
-- Heavy Slam  
-- Rock Slide  
-- Stealth Rock
+- Drain Punch  
+- Mach Punch  
+- Knock Off  
+- Defog  
 
-Wingull @ Life Orb  
-Ability: Hydration  
+Mareanie @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-IVs: 0 HP  
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+Bold Nature  
+- Recover  
 - Scald  
-- Hurricane  
-- U-turn  
-- Roost
+- Toxic Spikes  
+- Sludge Bomb  
 
-Drifloon @ Berry Juice  
-Ability: Unburden  
+Diglett @ Life Orb  
+Ability: Arena Trap  
 Level: 5  
-EVs: 116 HP / 196 SpA / 196 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Shadow Ball  
-- Thunderbolt  
-- Destiny Bond  
-- Substitute
+EVs: 36 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Sucker Punch  
+- Rock Slide  
+- Stealth Rock  
 
-Ponyta-Galar @ Life Orb  
-Ability: Pastel Veil  
+Corphish @ Eviolite  
+Ability: Adaptability  
 Level: 5  
-EVs: 76 Def / 236 SpA / 196 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Psychic  
-- Mystical Fire  
-- Dazzling Gleam 
-- Calm Mind 
+EVs: 196 Atk / 76 Def / 236 Spe  
+Adamant Nature  
+- Aqua Jet  
+- Crabhammer  
+- Knock Off  
+- Dragon Dance  

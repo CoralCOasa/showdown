@@ -1,61 +1,59 @@
-Trapinch @ Eviolite  
-Ability: Arena Trap  
+Dewpider @ Berry Juice  
+Ability: Water Bubble  
 Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Brave Nature  
-- Earthquake  
-- First Impression  
-- Superpower  
+EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
+Modest Nature  
+- Sticky Web  
+- Surf  
+- Icy Wind  
 - Giga Drain
 
-Ponyta-Galar @ Life Orb  
-Ability: Pastel Veil  
+Koffing @ Eviolite  
+Ability: Levitate  
 Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Psychic  
-- Mystical Fire  
-- Dazzling Gleam 
-- Healing Wish
+EVs: 36 HP / 236 Def / 236 SpD  
+Bold Nature  
+- Will-O-Wisp  
+- Toxic Spikes  
+- Pain Split  
+- Sludge Bomb  
 
-Chinchou @ Choice Scarf  
-Ability: Volt Absorb  
+Staryu @ Eviolite  
+Ability: Natural Cure  
 Level: 5  
-EVs: 52 Def / 228 SpA / 220 Spe  
+EVs: 116 HP / 156 Def / 236 Spe  
 Timid Nature  
-IVs: 0 Atk  
-- Volt Switch  
+- Rapid Spin  
+- Thunderbolt  
+- Recover  
 - Scald  
-- Ice Beam  
-- Dazzling Gleam
 
-Pawniard @ Eviolite  
-Ability: Defiant  
+Munchlax @ Berry Juice  
+Ability: Thick Fat  
 Level: 5  
-EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
-Jolly Nature  
-- Iron Head  
-- Sucker Punch  
-- Swords Dance 
-- Night Slash 
-
-Vullaby @ Choice Scarf  
-Ability: Weak Armor
-Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
+EVs: 236 Atk / 36 Def / 236 SpD  
 Adamant Nature  
-- Brave Bird  
-- Knock Off  
-- U-turn  
-- Defog
+- Body Slam  
+- Earthquake  
+- Curse  
+- Recycle
 
-Farfetch'd-Galar @ Choice Scarf  
-Ability: Scrappy  
+Bunnelby @ Eviolite  
+Ability: Huge Power  
 Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
+EVs: 228 Atk / 132 Def / 148 SpD  
+Adamant Nature  
+- Earthquake  
+- Quick Attack  
+- U-turn  
+- Facade
+
+Drilbur @ Eviolite  
+Ability: Mold Breaker  
+Level: 5  
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
 Jolly Nature  
-- Close Combat  
-- Brave Bird  
-- Knock Off
-- Defog 
+- Earthquake  
+- Rapid Spin  
+- Rock Slide  
+- Stealth Rock  
