@@ -1,59 +1,61 @@
-Meowth @ Life Orb  
-Ability: Technician  
+Omanyte @ Eviolite  
+Ability: Shell Armor  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 196 Spe  
-Jolly Nature  
-- Fake Out  
-- Feint  
-- Aerial Ace  
-- Water Pulse  
-
-Dewpider @ Berry Juice  
-Ability: Water Bubble  
-Level: 5  
-EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
+EVs: 76 HP / 196 SpA / 236 Spe  
 Modest Nature  
-- Sticky Web  
-- Surf  
-- Icy Wind  
-- Giga Drain
-
-Dwebble @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 236 Atk / 236 Spe  
-Adamant Nature  
 - Shell Smash  
-- Rock Blast  
-- Earthquake  
-- Knock Off  
-
-Archen @ Berry Juice  
-Ability: Defeatist  
-Level: 5  
-EVs: 76 HP / 180 Atk / 196 Spe  
-Jolly Nature  
-- Stone Edge  
-- Dual Wingbeat  
-- Earthquake  
-- U-turn
-
-Porygon @ Eviolite  
-Ability: Download  
-Level: 5  
-EVs: 36 Def / 236 SpA / 196 Spe  
-Modest Nature  
-- Tri Attack  
-- Recover  
+- Hydro Pump  
 - Ice Beam  
-- Psychic  
+- Earth Power
 
-Bunnelby @ Eviolite  
-Ability: Huge Power  
+Larvesta @ Heavy-Duty Boots  
+Ability: Flame Body  
 Level: 5  
-EVs: 228 Atk / 132 Def / 148 SpD  
-Adamant Nature  
-- Earthquake  
-- Quick Attack  
+EVs: 76 HP / 76 Atk / 76 Def / 76 SpD / 196 Spe  
+Jolly Nature  
 - U-turn  
-- Facade
+- Flare Blitz  
+- Morning Sun  
+- Will-O-Wisp
+
+Diglett @ Eviolite  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Earth Power  
+- Rock Slide  
+- Sucker Punch
+
+Slowpoke @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 116 HP / 76 Def / 116 SpA / 196 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Future Sight  
+- Slack Off  
+- Teleport
+
+Vulpix @ Eviolite  
+Ability: Drought  
+Level: 5  
+EVs: 52 HP / 196 SpA / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Energy Ball  
+- Weather Ball  
+- Overheat  
+- Will-O-Wisp
+
+Pawniard @ Eviolite  
+Ability: Defiant  
+Level: 5  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Iron Head  
+- Knock Off  
+- Sucker Punch  
+- Thunder Wave

@@ -1,12 +1,22 @@
-Farfetch’d-Galar @ Eviolite  
-Ability: Scrappy  
+Timburr @ Eviolite  
+Ability: Iron Fist 
 Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Swords Dance  
-- Close Combat  
-- Brave Bird  
+EVs: 196 Atk / 156 Def / 156 SpD  
+Adamant Nature  
+- Drain Punch  
 - Knock Off  
+- Mach Punch  
+- Bulk Up 
+
+Meowth @ Life Orb  
+Ability: Technician  
+Level: 5  
+EVs: 36 HP / 236 Atk / 36 SpD / 196 Spe  
+Jolly Nature  
+- Fake Out  
+- Feint  
+- Knock Off  
+- U-turn 
 
 Abra @ Focus Sash  
 Ability: Magic Guard  
@@ -15,45 +25,36 @@ EVs: 236 SpA / 76 SpD / 196 Spe
 Timid Nature  
 - Psychic  
 - Dazzling Gleam  
-- Energy Ball  
 - Shadow Ball  
+- Energy Ball 
 
-Ponyta @ Eviolite  
-Ability: Flame Body  
+Amaura @ Choice Scarf  
+Ability: Snow Warning  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
+EVs: 60 HP / 220 SpA / 228 Spe  
+Modest Nature
+IVs: 0 Atk  
+- Blizzard  
+- Earth Power  
+- Freeze-Dry  
+- Ancient Power
+
+Meowth @ Life Orb  
+Ability: Technician  
+Level: 5  
+EVs: 36 HP / 236 Atk / 36 SpD / 196 Spe  
 Jolly Nature  
-- Flare Blitz  
-- High Horsepower  
-- Morning Sun  
-- Wild Charge  
+- Fake Out  
+- Feint  
+- Knock Off  
+- Aerial Ace
 
-Carvanha @ Life Orb  
-Ability: Speed Boost  
-Level: 5  
-EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
-Adamant Nature  
-- Crunch  
-- Psychic Fangs  
-- Protect  
-- Liquidation  
-
-Trapinch @ Eviolite  
+Diglett @ Focus Sash  
 Ability: Arena Trap  
 Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Relaxed Nature  
-- Earthquake  
-- First Impression  
-- Superpower  
-- Giga Drain  
-
-Archen @ Berry Juice  
-Ability: Defeatist  
-Level: 5  
-EVs: 76 HP / 180 Atk / 196 Spe  
+EVs: 36 HP / 236 Atk / 236 Spe  
 Jolly Nature  
-- Stone Edge  
-- Dual Wingbeat  
 - Earthquake  
-- U-turn
+- Sucker Punch  
+- Rock Slide  
+- Stealth Rock 

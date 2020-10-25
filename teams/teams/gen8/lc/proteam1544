@@ -1,32 +1,12 @@
-Timburr @ Eviolite  
-Ability: Iron Fist  
+Archen @ Berry Juice  
+Ability: Defeatist  
 Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
-Adamant Nature  
-- Drain Punch  
-- Mach Punch  
-- Knock Off  
-- Defog  
-
-Magnemite @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-- Flash Cannon  
-- Volt Switch  
-- Thunderbolt  
-- Recycle  
-
-Staryu @ Eviolite  
-Ability: Natural Cure  
-Level: 5  
-EVs: 116 HP / 156 Def / 236 Spe  
-Timid Nature  
-- Rapid Spin  
-- Thunderbolt  
-- Recover  
-- Scald  
+EVs: 76 HP / 180 Atk / 196 Spe  
+Jolly Nature  
+- Stone Edge  
+- Dual Wingbeat  
+- Earthquake  
+- U-turn
 
 Larvesta @ Eviolite  
 Ability: Flame Body  
@@ -36,24 +16,44 @@ Jolly Nature
 - U-turn  
 - Flare Blitz  
 - Morning Sun  
-- Will-O-Wisp  
+- Will-O-Wisp
 
-Foongus @ Eviolite  
-Ability: Regenerator  
+Dwebble @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 124 HP / 156 Def / 156 SpD  
-Bold Nature  
-- Giga Drain  
-- Spore  
-- Sludge Bomb  
-- Synthesis  
+EVs: 236 Atk / 236 Spe  
+Adamant Nature  
+- Rock Blast  
+- Earthquake 
+- Knock Off  
+- Shell Smash
 
-Meowth @ Life Orb  
-Ability: Technician  
+Farfetch’d-Galar @ Eviolite  
+Ability: Scrappy  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 196 Spe  
+EVs: 20 HP / 236 Atk / 236 Spe  
 Jolly Nature  
-- Fake Out  
-- Feint  
-- Aerial Ace  
-- Water Pulse  
+- Swords Dance  
+- Close Combat  
+- Brave Bird  
+- Knock Off
+
+Onix @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- Earthquake  
+- Stealth Rock  
+- Rock Blast  
+- Taunt
+
+Farfetch’d-Galar @ Choice Scarf  
+Ability: Scrappy  
+Level: 5  
+EVs: 20 HP / 236 Atk / 236 Spe  
+Adamant Nature  
+- Close Combat  
+- Brave Bird  
+- Knock Off  
+- Poison Jab 

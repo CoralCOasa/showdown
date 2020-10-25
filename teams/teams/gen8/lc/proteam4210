@@ -1,59 +1,60 @@
-Corphish @ Eviolite  
-Ability: Adaptability  
+Timburr @ Eviolite  
+Ability: Iron Fist 
 Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
+EVs: 196 Atk / 156 Def / 156 SpD  
 Adamant Nature  
-- Aqua Jet  
-- Crabhammer  
+- Drain Punch  
 - Knock Off  
-- Dragon Dance  
+- Mach Punch  
+- Thunder Punch 
 
-Bunnelby @ Eviolite  
-Ability: Huge Power  
+Omanyte @ Eviolite  
+Ability: Shell Armor  
 Level: 5  
-EVs: 228 Atk / 132 Def / 148 SpD  
-Adamant Nature  
-- Earthquake  
-- Quick Attack  
-- U-turn  
-- Facade
-
-Dwebble @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 236 Atk / 236 Spe  
-Adamant Nature  
+EVs: 76 HP / 196 SpA / 236 Spe  
+Modest Nature  
 - Shell Smash  
-- Rock Blast  
-- Earthquake  
-- Knock Off  
+- Hydro Pump  
+- Ice Beam  
+- Earth Power
 
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
-Adamant Nature  
-- Body Slam  
-- Earthquake  
-- Curse  
-- Recycle
-
-Mareanie @ Eviolite  
+Slowpoke @ Eviolite  
 Ability: Regenerator  
 Level: 5  
-EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
-Bold Nature  
-- Recover  
+EVs: 116 HP / 76 Def / 116 SpA / 196 SpD  
+Calm Nature  
+IVs: 0 Atk  
 - Scald  
-- Toxic Spikes  
-- Sludge Bomb  
+- Psychic 
+- Slack Off  
+- Teleport
 
-Ponyta-Galar @ Eviolite  
-Ability: Pastel Veil  
+Tirtouga @ Eviolite  
+Ability: Solid Rock  
 Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-- Mystical Fire  
-- Psychic  
-- Dazzling Gleam  
-- Calm Mind  
+EVs: 164 HP / 52 Atk / 92 Def / 156 SpD / 20 Spe  
+Careful Nature  
+- Stealth Rock  
+- Stone Edge  
+- Knock Off  
+- Aqua Jet
+
+Pawniard @ Eviolite  
+Ability: Defiant  
+Level: 5  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Iron Head  
+- Knock Off  
+- Sucker Punch  
+- Swords Dance 
+
+Drilbur @ Eviolite 
+Ability: Mold Breaker  
+Level: 5  
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
+Jolly Nature  
+- Earthquake  
+- Rapid Spin  
+- Rock Slide  
+- Stealth Rock 

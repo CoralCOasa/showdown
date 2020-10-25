@@ -1,59 +1,59 @@
-Croagunk @ Eviolite  
-Ability: Dry Skin  
+Mudbray @ Eviolite  
+Ability: Stamina  
 Level: 5  
-EVs: 116 Def / 188 SpA / 196 Spe  
-Timid Nature  
-- Vacuum Wave  
-- Nasty Plot  
-- Sludge Wave  
-- Focus Blast  
-
-Vulpix @ Choice Scarf  
-Ability: Drought  
-Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
-Timid Nature  
-- Energy Ball  
-- Weather Ball  
-- Overheat  
-- Fire Blast  
-
-Ferroseed @ Eviolite  
-Ability: Iron Barbs  
-Level: 5  
-EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
-Impish Nature  
-- Knock Off  
-- Thunder Wave  
-- Spikes  
-- Giga Drain
-
-Archen @ Berry Juice  
-Ability: Defeatist  
-Level: 5  
-EVs: 76 HP / 180 Atk / 196 Spe  
-Jolly Nature  
-- Stone Edge  
-- Dual Wingbeat  
+EVs: 116 HP / 196 Atk / 36 Def / 156 Spe  
+Adamant Nature  
 - Earthquake  
-- U-turn
-
-Pawniard @ Eviolite  
-Ability: Defiant  
-Level: 5  
-EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
-Jolly Nature  
-- Iron Head  
-- Knock Off  
-- Sucker Punch  
 - Stealth Rock  
+- Rock Slide 
+- Heavy Slam
 
-Vullaby @ Berry Juice  
-Ability: Weak Armor  
+Dwebble @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
+EVs: 236 Atk / 236 Spe  
+Adamant Nature  
+- Rock Blast  
+- Earthquake  
+- Knock Off 
+- Shell Smash
+
+Munchlax @ Berry Juice  
+Ability: Thick Fat  
+Level: 5  
+EVs: 236 Atk / 196 Def / 76 SpD  
+Impish Nature  
+- Facade 
+- Fire Punch  
+- Zen Headbutt  
+- Curse
+
+Drilbur @ Eviolite 
+Ability: Mold Breaker  
+Level: 5  
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
 Jolly Nature  
-- Knock Off  
-- Brave Bird  
-- U-turn  
-- Defog  
+- Earthquake  
+- Rapid Spin  
+- Rock Slide  
+- Swords Dance
+
+Natu @ Choice Scarf  
+Ability: Magic Bounce  
+Level: 5  
+EVs: 36 HP / 76 Def / 196 SpA / 196 Spe  
+Modest Nature  
+- Psychic  
+- Heat Wave  
+- Giga Drain 
+- U-turn 
+
+Porygon @ Eviolite  
+Ability: Download  
+Level: 5  
+EVs: 36 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Agility  
+- Tri Attack  
+- Psychic  
+- Ice Beam

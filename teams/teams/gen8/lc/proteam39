@@ -1,60 +1,59 @@
-Dewpider @ Berry Juice  
-Ability: Water Bubble  
+Staryu @ Eviolite  
+Ability: Natural Cure  
 Level: 5  
-EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
-Modest Nature  
-- Sticky Web  
-- Surf  
-- Icy Wind  
-- Giga Drain
+EVs: 116 HP / 156 Def / 236 Spe  
+Timid Nature  
+- Rapid Spin  
+- Thunderbolt 
+- Recover  
+- Scald
 
-Archen @ Berry Juice  
-Ability: Defeatist  
-Level: 5  
-EVs: 76 HP / 180 Atk / 196 Spe  
-Jolly Nature  
-- Stone Edge  
-- Dual Wingbeat  
-- Earthquake  
-- U-turn
-
-Larvesta @ Eviolite  
-Ability: Flame Body  
-Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
-Jolly Nature  
-- U-turn  
-- Flare Blitz  
-- Morning Sun  
-- Will-O-Wisp  
-
-Ponyta @ Eviolite  
-Ability: Flame Body  
-Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Jolly Nature  
-- Flare Blitz  
-- High Horsepower  
-- Morning Sun  
-- Wild Charge  
-
-Ponyta-Galar @ Eviolite  
-Ability: Pastel Veil  
+Abra @ Focus Sash  
+Ability: Magic Guard  
 Level: 5  
 EVs: 236 SpA / 76 SpD / 196 Spe  
 Timid Nature  
-- Mystical Fire  
 - Psychic  
 - Dazzling Gleam  
-- Calm Mind  
+- Energy Ball  
+- Counter
 
-Natu @ Eviolite  
-Ability: Magic Bounce  
+Grookey @ Eviolite  
+Ability: Grassy Surge  
 Level: 5  
-EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Psychic  
-- Heat Wave  
-- U-turn  
-- Roost  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Grassy Glide  
+- Knock Off  
+- Drain Punch  
+- Wood Hammer
+
+Tyrunt @ Eviolite  
+Ability: Strong Jaw  
+Level: 5  
+EVs: 204 Atk / 76 SpD / 212 Spe  
+Adamant Nature
+- Rock Blast 
+- Close Combat  
+- Psychic Fangs  
+- Dragon Dance
+
+Zigzagoon @ Berry Juice  
+Ability: Quick Feet 
+Level: 5  
+EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
+Adamant Nature  
+- Belly Drum  
+- Extreme Speed  
+- Thief  
+- Seed Bomb
+
+Diglett @ Life Orb  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Sucker Punch  
+- Rock Slide  
+- Stealth Rock 

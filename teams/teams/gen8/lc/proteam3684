@@ -1,4 +1,56 @@
-Ponyta-Galar @ Eviolite  
+Elekid @ Life Orb  
+Ability: Vital Spirit  
+Level: 5  
+EVs: 12 Atk / 236 SpA / 236 Spe  
+Hasty Nature  
+- Thunderbolt  
+- Cross Chop  
+- Psychic  
+- Volt Switch
+
+Archen @ Berry Juice  
+Ability: Defeatist  
+Level: 5  
+EVs: 76 HP / 180 Atk / 196 Spe  
+Jolly Nature  
+- Stone Edge  
+- Dual Wingbeat  
+- Earthquake  
+- U-turn
+
+Abra @ Focus Sash  
+Ability: Magic Guard  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Psychic  
+- Dazzling Gleam  
+- Shadow Ball 
+- Protect
+
+Mareanie @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Recover  
+- Scald  
+- Toxic Spikes 
+- Sludge Bomb
+
+Spritzee @ Berry Juice  
+Ability: Aroma Veil  
+Level: 5  
+EVs: 52 HP / 116 Def / 252 SpA / 76 SpD / 12 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Psychic  
+- Energy Ball  
+- Thunderbolt 
+
+Ponyta-Galar @ Life Orb  
 Ability: Pastel Veil  
 Level: 5  
 EVs: 236 SpA / 76 SpD / 196 Spe  
@@ -6,54 +58,4 @@ Timid Nature
 - Mystical Fire  
 - Psychic  
 - Dazzling Gleam  
-- Calm Mind  
-
-Drilbur @ Eviolite  
-Ability: Mold Breaker  
-Level: 5  
-EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
-Jolly Nature  
-- Earthquake  
-- Rapid Spin  
-- Rock Slide  
-- Stealth Rock  
-
-Ferroseed @ Eviolite  
-Ability: Iron Barbs  
-Level: 5  
-EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
-Impish Nature  
-- Knock Off  
-- Thunder Wave  
-- Spikes  
-- Giga Drain
-
-Wingull @ Life Orb  
-Ability: Hydration  
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-- Scald  
-- Hurricane  
-- U-turn  
-- Air Slash  
-
-Porygon @ Eviolite  
-Ability: Download  
-Level: 5  
-EVs: 36 Def / 236 SpA / 196 Spe  
-Modest Nature  
-- Tri Attack  
-- Recover  
-- Ice Beam  
-- Psychic  
-
-Dwebble @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 236 Atk / 236 Spe  
-Adamant Nature  
-- Shell Smash  
-- Rock Blast  
-- Earthquake  
-- Knock Off  
+- Calm Mind

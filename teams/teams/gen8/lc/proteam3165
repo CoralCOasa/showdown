@@ -1,3 +1,24 @@
+Wingull @ Berry Juice  
+Ability: Hydration  
+Level: 5  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Timid Nature  
+- Scald  
+- Hurricane  
+- U-turn  
+- Knock Off
+
+Slowpoke @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 116 HP / 76 Def / 116 SpA / 196 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Future Sight  
+- Slack Off  
+- Teleport
+
 Corphish @ Eviolite  
 Ability: Adaptability  
 Level: 5  
@@ -6,56 +27,35 @@ Adamant Nature
 - Aqua Jet  
 - Crabhammer  
 - Knock Off  
-- Dragon Dance  
+- Dragon Dance 
 
 Amaura @ Choice Scarf  
-Ability: Refrigerate  
+Ability: Snow Warning  
 Level: 5  
 EVs: 60 HP / 220 SpA / 228 Spe  
-Modest Nature  
+Modest Nature
 IVs: 0 Atk  
-- Hyper Voice  
+- Blizzard  
 - Earth Power  
-- Thunderbolt  
+- Freeze-Dry  
 - Ancient Power
 
-Diglett @ Life Orb  
-Ability: Arena Trap  
+Archen @ Berry Juice  
+Ability: Defeatist  
 Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
+EVs: 76 HP / 180 Atk / 196 Spe  
 Jolly Nature  
+- Stone Edge  
+- Dual Wingbeat  
 - Earthquake  
-- Sucker Punch  
-- Rock Slide  
-- Stealth Rock  
+- U-turn
 
-Natu @ Eviolite  
-Ability: Magic Bounce  
+Vulpix @ Life Orb  
+Ability: Drought  
 Level: 5  
-EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Psychic  
-- Heat Wave  
-- U-turn  
-- Roost  
-
-Vullaby @ Berry Juice  
-Ability: Weak Armor  
-Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Jolly Nature  
-- Knock Off  
-- Brave Bird  
-- U-turn  
-- Defog  
-
-Bunnelby @ Eviolite  
-Ability: Huge Power  
-Level: 5  
-EVs: 228 Atk / 132 Def / 148 SpD  
-Adamant Nature  
-- Earthquake  
-- Quick Attack  
-- U-turn  
-- Facade
+EVs: 52 HP / 196 SpA / 236 Spe  
+Hasty Nature  
+- Energy Ball  
+- Weather Ball  
+- Overheat  
+- Quick Attack

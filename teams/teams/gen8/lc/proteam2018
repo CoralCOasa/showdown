@@ -1,32 +1,23 @@
-Dewpider @ Berry Juice  
-Ability: Water Bubble  
+Mudbray @ Choice Scarf  
+Ability: Stamina  
 Level: 5  
-EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
-Modest Nature  
-- Sticky Web  
-- Surf  
-- Icy Wind  
-- Giga Drain
+EVs: 36 HP / 196 Atk / 36 Def / 236 Spe  
+Adamant Nature
+- Earthquake  
+- Rock Slide  
+- Heavy Slam  
+- Close Combat
 
-Shellder @ Eviolite  
-Ability: Skill Link  
+Smoochum (F) @ Life Orb  
+Ability: Oblivious  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Icicle Spear  
-- Shell Smash  
-- Rock Blast  
-- Liquidation  
-
-Croagunk @ Eviolite  
-Ability: Dry Skin  
-Level: 5  
-EVs: 116 Def / 188 SpA / 196 Spe  
+EVs: 236 SpA / 236 Spe  
 Timid Nature  
-- Vacuum Wave  
-- Nasty Plot  
-- Sludge Wave  
-- Focus Blast  
+IVs: 0 Atk  
+- Ice Beam  
+- Psychic  
+- Shadow Ball  
+- Nasty Plot
 
 Pawniard @ Eviolite  
 Ability: Defiant  
@@ -36,24 +27,34 @@ Jolly Nature
 - Iron Head  
 - Knock Off  
 - Sucker Punch  
-- Stealth Rock  
+- Brick Break 
 
-Mienfoo @ Eviolite  
-Ability: Regenerator  
+Abra @ Focus Sash  
+Ability: Magic Guard  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
-Jolly Nature  
-- Knock Off  
-- U-turn  
-- High Jump Kick  
-- Fake Out  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Psychic  
+- Dazzling Gleam  
+- Shadow Ball  
+- Counter
 
-Mareanie @ Eviolite  
-Ability: Regenerator  
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
 Level: 5  
-EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
 Bold Nature  
-- Recover  
-- Scald  
-- Toxic Spikes  
+- Moonblast  
+- Wish  
+- Protect  
+- Covet 
+
+Koffing @ Eviolite  
+Ability: Levitate  
+Level: 5  
+EVs: 36 HP / 196 SpA / 236 Spe  
+Timid Nature  
 - Sludge Bomb  
+- Will-O-Wisp 
+- Fire Blast 
+- Thunderbolt

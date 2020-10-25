@@ -1,59 +1,61 @@
-Croagunk @ Eviolite  
-Ability: Dry Skin  
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
 Level: 5  
-EVs: 116 Def / 188 SpA / 196 Spe  
-Timid Nature  
-- Vacuum Wave  
-- Nasty Plot  
-- Sludge Wave  
-- Focus Blast  
-
-Ferroseed @ Eviolite  
-Ability: Iron Barbs  
-Level: 5  
-EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
-Impish Nature  
-- Knock Off  
-- Thunder Wave  
-- Spikes  
-- Giga Drain
-
-Staryu @ Eviolite  
-Ability: Natural Cure  
-Level: 5  
-EVs: 116 HP / 156 Def / 236 Spe  
-Timid Nature  
-- Rapid Spin  
-- Thunderbolt  
-- Recover  
-- Scald  
-
-Porygon @ Eviolite  
-Ability: Download  
-Level: 5  
-EVs: 36 Def / 236 SpA / 196 Spe  
-Modest Nature  
-- Tri Attack  
-- Recover  
-- Ice Beam  
+EVs: 52 HP / 116 Def / 252 SpA / 76 SpD / 12 Spe  
+Quiet Nature  
+IVs: 0 Atk / 0 Spe  
+- Moonblast  
 - Psychic  
+- Energy Ball 
+- Trick Room
 
-Vullaby @ Berry Juice  
-Ability: Weak Armor  
+Dewpider @ Eviolite  
+Ability: Water Bubble  
 Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Jolly Nature  
-- Knock Off  
-- Brave Bird  
-- U-turn  
-- Defog  
+EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
+Modest Nature
+IVs: 0 Atk  
+- Scald 
+- Giga Drain  
+- Magic Coat  
+- Sticky Web
 
-Pawniard @ Eviolite  
-Ability: Defiant  
+Shellder @ Eviolite  
+Ability: Skill Link  
 Level: 5  
-EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Adamant Nature  
+- Icicle Spear  
+- Shell Smash  
+- Rock Blast  
+- Liquidation 
+
+Mienfoo @ Berry Juice  
+Ability: Reckless  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
 Jolly Nature  
-- Iron Head  
+- Swords Dance  
+- High Jump Kick  
+- Acrobatics  
+- Knock Off
+
+Koffing @ Eviolite  
+Ability: Levitate  
+Level: 5  
+EVs: 36 HP / 196 SpA / 236 Spe  
+Timid Nature  
+- Sludge Bomb  
+- Toxic Spikes  
+- Fire Blast 
+- Thunderbolt
+
+Grookey @ Eviolite  
+Ability: Grassy Surge  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Grassy Glide  
 - Knock Off  
-- Sucker Punch  
-- Stealth Rock  
+- Drain Punch  
+- Wood Hammer

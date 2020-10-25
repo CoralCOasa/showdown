@@ -1,42 +1,42 @@
-Mareanie @ Eviolite  
+Chinchou @ Eviolite  
+Ability: Volt Absorb  
+Level: 5  
+EVs: 52 Def / 228 SpA / 220 Spe  
+Timid Nature  
+- Volt Switch  
+- Scald  
+- Ice Beam  
+- Hydro Pump
+
+Farfetch’d-Galar @ Eviolite  
+Ability: Scrappy  
+Level: 5  
+EVs: 20 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Swords Dance  
+- Close Combat  
+- Brave Bird  
+- Knock Off
+
+Scraggy @ Berry Juice 
+Ability: Moxie  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 212 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Knock Off  
+- High Jump Kick  
+- Drain Punch 
+
+Foongus @ Eviolite  
 Ability: Regenerator  
 Level: 5  
-EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+EVs: 124 HP / 156 Def / 156 SpD  
 Bold Nature  
-- Recover  
-- Scald  
-- Toxic Spikes  
+- Giga Drain  
+- Spore  
 - Sludge Bomb  
-
-Diglett @ Life Orb  
-Ability: Arena Trap  
-Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Earthquake  
-- Sucker Punch  
-- Rock Slide  
-- Stealth Rock  
-
-Bunnelby @ Eviolite  
-Ability: Huge Power  
-Level: 5  
-EVs: 228 Atk / 132 Def / 148 SpD  
-Adamant Nature  
-- Earthquake  
-- Quick Attack  
-- U-turn  
-- Facade
-
-Magnemite @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-- Flash Cannon  
-- Volt Switch  
-- Thunderbolt  
-- Recycle  
+- Synthesis
 
 Archen @ Berry Juice  
 Ability: Defeatist  
@@ -48,12 +48,12 @@ Jolly Nature
 - Earthquake  
 - U-turn
 
-Shellder @ Eviolite  
-Ability: Skill Link  
+Tirtouga @ Eviolite  
+Ability: Solid Rock  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Icicle Spear  
+EVs: 4 HP / 132 Atk / 92 Def / 76 SpD / 180 Spe  
+Jolly Nature  
 - Shell Smash  
-- Rock Blast  
-- Liquidation  
+- Waterfall 
+- Stone Edge  
+- Earthquake

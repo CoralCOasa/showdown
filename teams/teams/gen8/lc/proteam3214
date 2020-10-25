@@ -1,60 +1,62 @@
-Zigzagoon @ Berry Juice  
-Ability: Quick Feet  
+Scraggy @ Berry Juice 
+Ability: Moxie  
 Level: 5  
-EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
+EVs: 236 Atk / 36 SpD / 212 Spe  
 Adamant Nature  
-- Extreme Speed  
-- Belly Drum  
-- Thief  
-- Seed Bomb  
+- Dragon Dance  
+- Knock Off  
+- High Jump Kick  
+- Iron Head 
 
-Foongus @ Eviolite  
+Tyrunt @ Eviolite  
+Ability: Strong Jaw  
+Level: 5  
+EVs: 204 Atk / 76 SpD / 212 Spe  
+Adamant Nature
+- Stone Edge  
+- Close Combat  
+- Psychic Fangs  
+- Dragon Dance
+
+Vulpix @ Choice Scarf 
+Ability: Drought  
+Level: 5  
+EVs: 52 HP / 196 SpA / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Energy Ball  
+- Weather Ball  
+- Overheat  
+- Fire Blast 
+
+Natu @ Eviolite  
+Ability: Magic Bounce  
+Level: 5  
+EVs: 196 HP / 236 Def / 76 SpD  
+Bold Nature  
+- Psychic  
+- Heat Wave  
+- Thunder Wave  
+- Roost
+
+Mareanie @ Eviolite  
 Ability: Regenerator  
 Level: 5  
-EVs: 124 HP / 156 Def / 156 SpD  
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
 Bold Nature  
-- Giga Drain  
-- Spore  
-- Sludge Bomb  
-- Synthesis  
-
-Chinchou @ Eviolite  
-Ability: Volt Absorb  
-Level: 5  
-EVs: 52 Def / 228 SpA / 220 Spe  
-Timid Nature  
-- Volt Switch  
+IVs: 0 Atk  
+- Recover  
 - Scald  
-- Ice Beam  
-- Thunderbolt  
-
-Pawniard @ Eviolite  
-Ability: Defiant  
-Level: 5  
-EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
-Jolly Nature  
-- Iron Head  
-- Knock Off  
-- Sucker Punch  
-- Stealth Rock  
+- Toxic Spikes 
+- Sludge Bomb
 
 Amaura @ Choice Scarf  
 Ability: Refrigerate  
 Level: 5  
 EVs: 60 HP / 220 SpA / 228 Spe  
-Modest Nature  
+Modest Nature
 IVs: 0 Atk  
 - Hyper Voice  
 - Earth Power  
-- Thunderbolt  
-- Ancient Power
-
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
-Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
-Bold Nature  
-- Moonblast  
-- Wish  
-- Protect  
-- Calm Mind  
+- Freeze-Dry  
+- Ancient Power 

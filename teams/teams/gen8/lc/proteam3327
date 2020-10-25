@@ -1,59 +1,59 @@
-Dewpider @ Berry Juice  
-Ability: Water Bubble  
+Magnemite @ Choice Scarf  
+Ability: Analytic  
 Level: 5  
-EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
-Modest Nature  
-- Sticky Web  
-- Surf  
-- Icy Wind  
-- Giga Drain
+EVs: 36 Def / 236 SpA / 236 Spe  
+Modest Nature
+- Volt Switch  
+- Thunderbolt  
+- Flash Cannon  
+- Steel Beam
 
-Mareanie @ Eviolite  
-Ability: Regenerator  
+Koffing @ Eviolite  
+Ability: Levitate  
 Level: 5  
-EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
-Bold Nature  
-- Recover  
-- Scald  
-- Toxic Spikes  
+EVs: 36 HP / 196 SpA / 236 Spe  
+Timid Nature  
 - Sludge Bomb  
+- Will-O-Wisp 
+- Fire Blast 
+- Thunderbolt
 
-Meowth @ Life Orb  
-Ability: Technician  
+Omanyte @ Eviolite  
+Ability: Shell Armor  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 196 Spe  
+EVs: 76 HP / 196 SpA / 236 Spe  
+Modest Nature  
+- Shell Smash  
+- Hydro Pump  
+- Ice Beam  
+- Earth Power
+
+Scorbunny @ Berry Juice 
+Ability: Libero  
+Level: 5  
+EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
 Jolly Nature  
-- Fake Out  
-- Feint  
-- Aerial Ace  
-- Water Pulse  
-
-Bunnelby @ Eviolite  
-Ability: Huge Power  
-Level: 5  
-EVs: 228 Atk / 132 Def / 148 SpD  
-Adamant Nature  
-- Earthquake  
-- Quick Attack  
+- High Jump Kick  
 - U-turn  
-- Facade
+- Sucker Punch  
+- Gunk Shot
 
-Ponyta @ Eviolite  
-Ability: Flame Body  
+Grookey @ Life Orb  
+Ability: Grassy Surge  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Jolly Nature  
-- Flare Blitz  
-- High Horsepower  
-- Morning Sun  
-- Wild Charge  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature
+- Wood Hammer 
+- Grassy Glide  
+- Knock Off  
+- Drain Punch
 
-Abra @ Focus Sash  
-Ability: Magic Guard  
+Ponyta-Galar @ Eviolite  
+Ability: Pastel Veil  
 Level: 5  
 EVs: 236 SpA / 76 SpD / 196 Spe  
 Timid Nature  
+- Mystical Fire  
 - Psychic  
 - Dazzling Gleam  
-- Energy Ball  
-- Shadow Ball  
+- Calm Mind

@@ -1,59 +1,59 @@
-Ponyta-Galar @ Eviolite  
-Ability: Pastel Veil  
+Diglett @ Life Orb  
+Ability: Arena Trap  
 Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-- Mystical Fire  
-- Psychic  
-- Dazzling Gleam  
-- Calm Mind  
-
-Grookey @ Eviolite  
-Ability: Grassy Surge  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
+EVs: 36 HP / 236 Atk / 236 Spe  
 Jolly Nature  
-- Grassy Glide  
-- Knock Off  
+- Earthquake  
+- Sucker Punch  
+- Rock Slide  
+- Stealth Rock 
+
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 156 Atk / 36 Def / 36 SpD / 236 Spe  
+Jolly Nature  
 - Drain Punch  
-- U-turn  
-
-Corphish @ Eviolite  
-Ability: Adaptability  
-Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
-Adamant Nature  
-- Aqua Jet  
-- Crabhammer  
 - Knock Off  
-- Dragon Dance  
+- Poison Jab 
+- Swords Dance
 
-Carvanha @ Life Orb  
-Ability: Speed Boost  
+Drilbur @ Eviolite 
+Ability: Mold Breaker  
 Level: 5  
-EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
-Adamant Nature  
-- Crunch  
-- Psychic Fangs  
-- Protect  
-- Liquidation  
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
+Jolly Nature  
+- Earthquake  
+- Rapid Spin  
+- Rock Slide  
+- Swords Dance
 
-Croagunk @ Eviolite  
-Ability: Dry Skin  
+Pawniard @ Eviolite  
+Ability: Defiant  
 Level: 5  
-EVs: 116 Def / 188 SpA / 196 Spe  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Iron Head  
+- Knock Off  
+- Sucker Punch  
+- Stealth Rock 
+
+Staryu @ Eviolite  
+Ability: Analytic  
+Level: 5  
+EVs: 156 Def / 116 SpA / 236 Spe  
 Timid Nature  
-- Vacuum Wave  
-- Nasty Plot  
-- Sludge Wave  
-- Focus Blast  
+- Hydro Pump 
+- Thunderbolt  
+- Ice Beam  
+- Rapid Spin 
 
-Ferroseed @ Eviolite  
-Ability: Iron Barbs  
+Farfetch’d-Galar @ Choice Scarf  
+Ability: Scrappy  
 Level: 5  
-EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
-Impish Nature  
+EVs: 20 HP / 236 Atk / 236 Spe  
+Jolly Nature
+- Close Combat  
+- Brave Bird  
 - Knock Off  
-- Thunder Wave  
-- Spikes  
-- Giga Drain
+- Poison Jab 

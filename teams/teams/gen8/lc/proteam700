@@ -1,59 +1,60 @@
-Carvanha @ Life Orb  
-Ability: Speed Boost  
+Staryu @ Eviolite  
+Ability: Natural Cure  
 Level: 5  
-EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
-Adamant Nature  
-- Crunch  
-- Psychic Fangs  
-- Protect  
-- Liquidation  
+EVs: 116 HP / 156 Def / 236 Spe  
+Timid Nature  
+- Rapid Spin  
+- Ice Beam 
+- Recover  
+- Scald
 
-Scraggy @ Eviolite  
-Ability: Moxie  
+Trapinch @ Eviolite  
+Ability: Arena Trap  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
-Adamant Nature  
-- Dragon Dance  
-- Knock Off  
-- Drain Punch  
-- High Jump Kick  
+EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
+Relaxed Nature  
+- Earthquake  
+- First Impression  
+- Quick Attack 
+- Giga Drain
 
 Mareanie @ Eviolite  
 Ability: Regenerator  
 Level: 5  
 EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
 Bold Nature  
+IVs: 0 Atk  
 - Recover  
 - Scald  
-- Toxic Spikes  
-- Sludge Bomb  
+- Toxic Spikes 
+- Sludge Bomb
 
-Vullaby @ Berry Juice  
-Ability: Weak Armor  
+Timburr @ Eviolite  
+Ability: Guts  
 Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Jolly Nature  
+EVs: 196 Atk / 156 Def / 156 SpD  
+Adamant Nature  
+- Drain Punch  
 - Knock Off  
-- Brave Bird  
-- U-turn  
-- Defog  
+- Mach Punch  
+- Bulk Up 
 
-Woobat @ Berry Juice  
-Ability: Simple  
+Tirtouga @ Eviolite  
+Ability: Solid Rock  
 Level: 5  
-EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
-Timid Nature  
-- Nasty Plot  
+EVs: 164 HP / 52 Atk / 92 Def / 156 SpD / 20 Spe  
+Careful Nature  
+- Stealth Rock  
+- Stone Edge  
+- Knock Off  
+- Aqua Jet
+
+Natu @ Choice Scarf  
+Ability: Magic Bounce  
+Level: 5  
+EVs: 36 HP / 76 Def / 196 SpA / 196 Spe  
+Timid Nature
 - Psychic  
 - Heat Wave  
-- Air Slash  
-
-Onix @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
-Jolly Nature  
-- Earthquake  
-- Stealth Rock  
-- Rock Blast  
-- Dragon Dance  
+- Dazzling Gleam  
+- Trick

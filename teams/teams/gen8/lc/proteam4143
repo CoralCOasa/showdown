@@ -1,59 +1,60 @@
-Grookey @ Eviolite  
-Ability: Grassy Surge  
+Pawniard @ Eviolite  
+Ability: Defiant  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
 Jolly Nature  
-- Grassy Glide  
+- Iron Head  
 - Knock Off  
-- Drain Punch  
-- U-turn  
-
-Staryu @ Eviolite  
-Ability: Natural Cure  
-Level: 5  
-EVs: 116 HP / 156 Def / 236 Spe  
-Timid Nature  
-- Rapid Spin  
-- Thunderbolt  
-- Recover  
-- Scald  
-
-Magnemite @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-- Flash Cannon  
-- Volt Switch  
-- Thunderbolt  
-- Recycle  
-
-Diglett @ Life Orb  
-Ability: Arena Trap  
-Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Earthquake  
 - Sucker Punch  
-- Rock Slide  
-- Stealth Rock  
+- Thunder Wave
 
-Porygon @ Eviolite  
-Ability: Download  
+Ponyta-Galar @ Eviolite  
+Ability: Pastel Veil  
 Level: 5  
-EVs: 36 Def / 236 SpA / 196 Spe  
-Modest Nature  
-- Tri Attack  
-- Recover  
-- Ice Beam  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Mystical Fire  
 - Psychic  
+- Dazzling Gleam  
+- Calm Mind
 
 Mareanie @ Eviolite  
 Ability: Regenerator  
 Level: 5  
-EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+EVs: 196 HP / 20 Def / 92 SpA / 180 SpD  
 Bold Nature  
+IVs: 0 Atk  
 - Recover  
 - Scald  
-- Toxic Spikes  
-- Sludge Bomb  
+- Toxic Spikes 
+- Sludge Bomb
+
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
+Level: 5  
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
+Bold Nature  
+- Moonblast  
+- Wish  
+- Protect  
+- Psychic
+
+Drilbur @ Eviolite 
+Ability: Mold Breaker  
+Level: 5  
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
+Jolly Nature  
+- Earthquake  
+- Rapid Spin  
+- Rock Slide  
+- Swords Dance
+
+Ponyta-Galar @ Life Orb  
+Ability: Pastel Veil  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Mystical Fire  
+- Psychic  
+- Dazzling Gleam  
+- Calm Mind

@@ -1,60 +1,61 @@
+Diglett @ Eviolite  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Earth Power  
+- Rock Slide  
+- Final Gambit 
+
 Amaura @ Choice Scarf  
 Ability: Refrigerate  
 Level: 5  
 EVs: 60 HP / 220 SpA / 228 Spe  
-Modest Nature  
+Modest Nature
 IVs: 0 Atk  
 - Hyper Voice  
 - Earth Power  
-- Thunderbolt  
-- Ancient Power
+- Freeze-Dry  
+- Ancient Power 
 
-Bunnelby @ Eviolite  
-Ability: Huge Power  
+Trapinch @ Eviolite  
+Ability: Arena Trap  
 Level: 5  
-EVs: 228 Atk / 132 Def / 148 SpD  
+EVs: 156 HP / 196 Atk / 76 Def / 76 SpD  
 Adamant Nature  
 - Earthquake  
-- Quick Attack  
-- U-turn  
-- Facade
+- First Impression  
+- Superpower  
+- Quick Attack 
 
-Abra @ Focus Sash  
-Ability: Magic Guard  
-Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-- Psychic  
-- Dazzling Gleam  
-- Energy Ball  
-- Shadow Ball  
-
-Zigzagoon @ Berry Juice  
-Ability: Quick Feet  
-Level: 5  
-EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
-Adamant Nature  
-- Extreme Speed  
-- Belly Drum  
-- Thief  
-- Seed Bomb  
-
-Mareanie @ Eviolite  
+Slowpoke @ Eviolite  
 Ability: Regenerator  
 Level: 5  
-EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
-Bold Nature  
-- Recover  
+EVs: 116 HP / 76 Def / 116 SpA / 196 SpD  
+Calm Nature  
+IVs: 0 Atk  
 - Scald  
-- Toxic Spikes  
-- Sludge Bomb  
+- Future Sight  
+- Slack Off  
+- Teleport
 
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
+Scraggy @ Berry Juice 
+Ability: Moxie  
 Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
-Bold Nature  
-- Moonblast  
-- Wish  
-- Protect  
-- Calm Mind  
+EVs: 236 Atk / 36 SpD / 212 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Knock Off  
+- High Jump Kick  
+- Stone Edge
+
+Tyrunt @ Eviolite  
+Ability: Strong Jaw  
+Level: 5  
+EVs: 204 Atk / 76 SpD / 212 Spe  
+Adamant Nature
+- Rock Blast 
+- Close Combat  
+- Psychic Fangs  
+- Dragon Dance

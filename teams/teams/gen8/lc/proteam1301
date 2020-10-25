@@ -1,59 +1,62 @@
-Bunnelby @ Eviolite  
-Ability: Huge Power  
+Tyrunt @ Eviolite  
+Ability: Strong Jaw  
 Level: 5  
-EVs: 228 Atk / 132 Def / 148 SpD  
-Adamant Nature  
-- Earthquake  
-- Quick Attack  
-- U-turn  
-- Facade
+EVs: 204 Atk / 76 SpD / 212 Spe  
+Jolly Nature  
+- Stone Edge  
+- Close Combat  
+- Psychic Fangs  
+- Dragon Dance
 
-Staryu @ Eviolite  
-Ability: Natural Cure  
+Mareanie @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 116 HP / 156 Def / 236 Spe  
-Timid Nature  
-- Rapid Spin  
-- Thunderbolt  
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+Bold Nature  
+IVs: 0 Atk  
 - Recover  
 - Scald  
+- Toxic Spikes 
+- Sludge Bomb
 
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
+Foongus @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
+EVs: 124 HP / 156 Def / 156 SpD  
 Bold Nature  
-- Moonblast  
-- Wish  
-- Protect  
-- Calm Mind  
+- Giga Drain  
+- Spore  
+- Sludge Bomb  
+- Synthesis
 
-Zigzagoon @ Berry Juice  
-Ability: Quick Feet  
-Level: 5  
-EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
-Adamant Nature  
-- Extreme Speed  
-- Belly Drum  
-- Thief  
-- Seed Bomb  
-
-Woobat @ Berry Juice  
-Ability: Simple  
-Level: 5  
-EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
-Timid Nature  
-- Nasty Plot  
-- Psychic  
-- Heat Wave  
-- Air Slash  
-
-Trapinch @ Eviolite  
+Diglett @ Life Orb  
 Ability: Arena Trap  
 Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Relaxed Nature  
+EVs: 36 HP / 236 Atk / 236 Spe  
+Jolly Nature  
 - Earthquake  
-- First Impression  
-- Superpower  
-- Giga Drain  
+- Sucker Punch  
+- Rock Slide  
+- Stealth Rock 
+
+Smoochum (F) @ Choice Scarf  
+Ability: Oblivious  
+Level: 5  
+EVs: 236 SpA / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Psychic  
+- Shadow Ball  
+- Trick
+
+Amaura @ Choice Scarf  
+Ability: Refrigerate  
+Level: 5  
+EVs: 60 HP / 220 SpA / 228 Spe  
+Modest Nature
+IVs: 0 Atk  
+- Hyper Voice  
+- Earth Power  
+- Freeze-Dry  
+- Hyper Beam

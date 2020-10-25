@@ -1,59 +1,59 @@
-Vulpix @ Choice Scarf  
-Ability: Drought  
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
 Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
-Timid Nature  
-- Energy Ball  
-- Weather Ball  
-- Overheat  
-- Fire Blast  
-
-Ponyta @ Eviolite  
-Ability: Flame Body  
-Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Jolly Nature  
-- Flare Blitz  
-- High Horsepower  
-- Morning Sun  
-- Wild Charge  
-
-Foongus @ Eviolite  
-Ability: Regenerator  
-Level: 5  
-EVs: 124 HP / 156 Def / 156 SpD  
-Bold Nature  
-- Giga Drain  
-- Spore  
-- Sludge Bomb  
-- Synthesis  
-
-Vullaby @ Berry Juice  
-Ability: Weak Armor  
-Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Jolly Nature  
+EVs: 4 HP / 196 Atk / 28 Def / 164 SpA / 68 SpD / 36 Spe  
+Adamant Nature  
+- Bullet Seed  
+- Iron Head  
 - Knock Off  
-- Brave Bird  
-- U-turn  
-- Defog  
+- Explosion 
 
-Woobat @ Berry Juice  
-Ability: Simple  
+Wingull @ Berry Juice  
+Ability: Hydration  
 Level: 5  
-EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
+EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
-- Nasty Plot  
-- Psychic  
-- Heat Wave  
-- Air Slash  
+- Scald  
+- Hurricane  
+- U-turn  
+- Knock Off
 
-Koffing @ Eviolite  
-Ability: Levitate  
+Tyrunt @ Eviolite  
+Ability: Strong Jaw  
 Level: 5  
-EVs: 36 HP / 236 Def / 236 SpD  
-Bold Nature  
-- Will-O-Wisp  
-- Toxic Spikes  
-- Pain Split  
-- Sludge Bomb  
+EVs: 204 Atk / 76 SpD / 212 Spe  
+Jolly Nature  
+- Stone Edge  
+- Close Combat  
+- Psychic Fangs  
+- Dragon Dance
+
+Pawniard @ Eviolite  
+Ability: Defiant  
+Level: 5  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Iron Head  
+- Knock Off  
+- Sucker Punch  
+- Stealth Rock 
+
+Tirtouga @ Eviolite  
+Ability: Solid Rock  
+Level: 5  
+EVs: 164 HP / 52 Atk / 92 Def / 156 SpD / 20 Spe  
+Careful Nature  
+- Stealth Rock  
+- Stone Edge  
+- Knock Off  
+- Aqua Jet
+
+Dwebble @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 236 Atk / 236 Spe  
+Adamant Nature  
+- Rock Blast  
+- Knock Off  
+- Stealth Rock  
+- Spikes

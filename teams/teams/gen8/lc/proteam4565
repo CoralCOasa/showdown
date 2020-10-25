@@ -1,60 +1,60 @@
-Dwebble @ Berry Juice  
-Ability: Sturdy  
+Meowth @ Life Orb  
+Ability: Technician  
 Level: 5  
-EVs: 236 Atk / 236 Spe  
-Adamant Nature  
-- Shell Smash  
-- Rock Blast  
-- Earthquake  
-- Knock Off  
+EVs: 36 HP / 236 Atk / 36 SpA / 196 Spe  
+Naughty Nature  
+- Fake Out  
+- Feint  
+- Water Pulse  
+- Double-Edge 
 
-Natu @ Eviolite  
-Ability: Magic Bounce  
+Munchlax @ Berry Juice  
+Ability: Thick Fat  
 Level: 5  
-EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
-Timid Nature  
+EVs: 236 Atk / 196 Def / 76 SpD  
+Impish Nature  
+- Body Slam 
+- Fire Punch  
+- Zen Headbutt  
+- Curse
+
+Slowpoke @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 116 HP / 76 Def / 116 SpA / 196 SpD  
+Calm Nature  
 IVs: 0 Atk  
-- Psychic  
-- Heat Wave  
-- U-turn  
-- Roost  
+- Scald  
+- Psychic 
+- Slack Off  
+- Teleport
 
-Drilbur @ Eviolite  
-Ability: Mold Breaker  
+Magnemite @ Choice Scarf  
+Ability: Analytic  
 Level: 5  
-EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
-Jolly Nature  
-- Earthquake  
-- Rapid Spin  
-- Rock Slide  
-- Stealth Rock  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Modest Nature
+- Volt Switch  
+- Thunderbolt  
+- Flash Cannon  
+- Steel Beam
 
 Timburr @ Eviolite  
-Ability: Iron Fist  
+Ability: Iron Fist 
 Level: 5  
 EVs: 196 Atk / 156 Def / 156 SpD  
 Adamant Nature  
 - Drain Punch  
-- Mach Punch  
 - Knock Off  
-- Defog  
+- Mach Punch  
+- Bulk Up 
 
-Ponyta @ Eviolite  
-Ability: Flame Body  
+Vullaby @ Eviolite  
+Ability: Weak Armor  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Jolly Nature  
-- Flare Blitz  
-- High Horsepower  
-- Morning Sun  
-- Wild Charge  
-
-Magnemite @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-- Flash Cannon  
-- Volt Switch  
-- Thunderbolt  
-- Recycle  
+EVs: 76 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Nasty Plot  
+- Air Slash  
+- Heat Wave  
+- Dark Pulse

@@ -1,12 +1,12 @@
-Vullaby @ Berry Juice  
-Ability: Weak Armor  
+Trapinch @ Eviolite  
+Ability: Arena Trap  
 Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Jolly Nature  
-- Knock Off  
-- Brave Bird  
-- U-turn  
-- Defog  
+EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
+Relaxed Nature  
+- Earthquake  
+- First Impression  
+- Rock Slide  
+- Giga Drain
 
 Scraggy @ Eviolite  
 Ability: Moxie  
@@ -15,45 +15,47 @@ EVs: 236 Atk / 36 SpD / 212 Spe
 Adamant Nature  
 - Dragon Dance  
 - Knock Off  
-- Drain Punch  
 - High Jump Kick  
+- Drain Punch 
 
-Ponyta @ Eviolite  
-Ability: Flame Body  
+Vulpix @ Eject Pack 
+Ability: Drought  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Jolly Nature  
-- Flare Blitz  
-- High Horsepower  
-- Morning Sun  
-- Wild Charge  
-
-Abra @ Focus Sash  
-Ability: Magic Guard  
-Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
+EVs: 52 HP / 196 SpA / 236 Spe  
 Timid Nature  
-- Psychic  
-- Dazzling Gleam  
+IVs: 0 Atk  
 - Energy Ball  
-- Shadow Ball  
+- Weather Ball  
+- Overheat  
+- Will-O-Wisp
 
-Dewpider @ Berry Juice  
-Ability: Water Bubble  
+Grookey @ Life Orb  
+Ability: Grassy Surge  
 Level: 5  
-EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
-Modest Nature  
-- Sticky Web  
-- Surf  
-- Icy Wind  
-- Giga Drain
+EVs: 236 Atk / 36 Def / 236 Spe  
+Adamant Nature  
+- Wood Hammer 
+- Grassy Glide  
+- Knock Off  
+- Drain Punch
+
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
+Level: 5  
+EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
+Impish Nature  
+- Knock Off  
+- Thunder Wave  
+- Spikes 
+- Bullet Seed
 
 Chinchou @ Eviolite  
 Ability: Volt Absorb  
 Level: 5  
-EVs: 52 Def / 228 SpA / 220 Spe  
-Timid Nature  
+EVs: 236 HP / 212 Def / 60 Spe  
+Bold Nature  
+IVs: 0 Atk  
 - Volt Switch  
 - Scald  
 - Ice Beam  
-- Thunderbolt  
+- Thunder Wave 

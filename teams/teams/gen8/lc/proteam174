@@ -1,60 +1,59 @@
-Amaura @ Choice Scarf  
-Ability: Refrigerate  
+Vullaby @ Berry Juice  
+Ability: Weak Armor  
 Level: 5  
-EVs: 60 HP / 220 SpA / 228 Spe  
-Modest Nature  
-IVs: 0 Atk  
-- Hyper Voice  
-- Earth Power  
-- Thunderbolt  
-- Ancient Power
-
-Staryu @ Eviolite  
-Ability: Natural Cure  
-Level: 5  
-EVs: 116 HP / 156 Def / 236 Spe  
-Timid Nature  
-- Rapid Spin  
-- Thunderbolt  
-- Recover  
-- Scald  
-
-Abra @ Focus Sash  
-Ability: Magic Guard  
-Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-- Psychic  
-- Dazzling Gleam  
-- Energy Ball  
-- Shadow Ball  
-
-Farfetch’d-Galar @ Eviolite  
-Ability: Scrappy  
-Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Swords Dance  
-- Close Combat  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Adamant Nature  
+- Knock Off  
 - Brave Bird  
-- Knock Off  
+- U-turn  
+- Heat Wave
 
-Carvanha @ Life Orb  
-Ability: Speed Boost  
+Ferroseed @ Berry Juice  
+Ability: Iron Barbs  
 Level: 5  
-EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
-Adamant Nature  
-- Crunch  
-- Psychic Fangs  
-- Protect  
-- Liquidation  
-
-Scraggy @ Eviolite  
-Ability: Moxie  
-Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
-Adamant Nature  
-- Dragon Dance  
+EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
+Impish Nature  
 - Knock Off  
-- Drain Punch  
-- High Jump Kick  
+- Thunder Wave  
+- Spikes 
+- Bullet Seed
+
+Elekid @ Life Orb  
+Ability: Vital Spirit  
+Level: 5  
+EVs: 12 Atk / 236 SpA / 236 Spe  
+Hasty Nature  
+- Thunderbolt  
+- Cross Chop  
+- Psychic  
+- Volt Switch
+
+Trapinch @ Eviolite  
+Ability: Arena Trap  
+Level: 5  
+EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
+Relaxed Nature  
+- Earthquake  
+- First Impression  
+- Quick Attack 
+- Giga Drain
+
+Porygon @ Eviolite  
+Ability: Download  
+Level: 5  
+EVs: 156 HP / 36 Def / 236 SpA / 36 Spe  
+Modest Nature  
+- Tri Attack  
+- Psychic 
+- Ice Beam  
+- Recover
+
+Foongus @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 124 HP / 156 Def / 156 SpD  
+Bold Nature  
+- Giga Drain  
+- Spore  
+- Sludge Bomb  
+- Synthesis

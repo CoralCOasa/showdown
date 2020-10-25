@@ -1,59 +1,61 @@
-Grookey @ Eviolite  
+Farfetch’d-Galar @ Choice Scarf  
+Ability: Scrappy  
+Level: 5  
+EVs: 20 HP / 236 Atk / 236 Spe  
+Jolly Nature
+- Close Combat  
+- Brave Bird  
+- Knock Off  
+- Leaf Blade
+
+Grookey @ Berry Juice  
 Ability: Grassy Surge  
 Level: 5  
 EVs: 236 Atk / 36 Def / 236 Spe  
 Jolly Nature  
+- Wood Hammer  
 - Grassy Glide  
-- Knock Off  
-- Drain Punch  
-- U-turn  
+- Swords Dance  
+- Acrobatics
 
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
+Dewpider @ Eviolite  
+Ability: Water Bubble  
 Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
-Bold Nature  
-- Moonblast  
-- Wish  
-- Protect  
-- Calm Mind  
-
-Woobat @ Berry Juice  
-Ability: Simple  
-Level: 5  
-EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
+EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
 Timid Nature  
-- Nasty Plot  
+IVs: 0 Atk  
+- Scald 
+- Giga Drain  
+- Icy Wind 
+- Sticky Web
+
+Smoochum (F) @ Choice Scarf  
+Ability: Oblivious  
+Level: 5  
+EVs: 236 SpA / 236 Spe  
+Modest Nature
+IVs: 0 Atk  
+- Ice Beam  
 - Psychic  
-- Heat Wave  
-- Air Slash  
+- Shadow Ball  
+- Trick
 
-Tirtouga @ Berry Juice  
-Ability: Sturdy  
+Tyrunt @ Eviolite  
+Ability: Strong Jaw  
 Level: 5  
-EVs: 212 Atk / 92 Def / 180 Spe  
-Jolly Nature  
-- Shell Smash  
-- Waterfall  
-- Stone Edge  
-- Zen Headbutt
-
-Carvanha @ Life Orb  
-Ability: Speed Boost  
-Level: 5  
-EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
-Adamant Nature  
-- Crunch  
+EVs: 204 Atk / 76 SpD / 212 Spe  
+Adamant Nature
+- Rock Blast 
+- Close Combat  
 - Psychic Fangs  
-- Protect  
-- Liquidation  
+- Dragon Dance
 
-Meowth @ Life Orb  
-Ability: Technician  
+Tirtouga @ Eviolite  
+Ability: Solid Rock  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 196 Spe  
-Jolly Nature  
-- Fake Out  
-- Feint  
-- Aerial Ace  
-- Water Pulse  
+EVs: 164 HP / 52 Atk / 92 Def / 156 SpD / 20 Spe  
+Careful Nature  
+- Stealth Rock  
+- Stone Edge  
+- Knock Off  
+- Aqua Jet

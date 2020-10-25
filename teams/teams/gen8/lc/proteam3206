@@ -1,59 +1,60 @@
-Scorbunny @ Berry Juice  
-Ability: Libero  
+Munchlax @ Eviolite  
+Ability: Thick Fat  
 Level: 5  
-EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
-Jolly Nature  
-- High Jump Kick  
-- U-turn  
-- Blaze Kick  
-- Gunk Shot  
-
-Meowth @ Life Orb  
-Ability: Technician  
-Level: 5  
-EVs: 236 Atk / 36 SpD / 196 Spe  
-Jolly Nature  
-- Fake Out  
-- Feint  
-- Aerial Ace  
-- Water Pulse  
-
-Larvesta @ Eviolite  
-Ability: Flame Body  
-Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
-Jolly Nature  
-- U-turn  
-- Flare Blitz  
-- Morning Sun  
-- Will-O-Wisp  
-
-Diglett @ Life Orb  
-Ability: Arena Trap  
-Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
-Jolly Nature  
+EVs: 236 Atk / 196 Def / 76 SpD  
+Impish Nature  
+- Body Slam 
 - Earthquake  
+- Rest  
+- Sleep Talk
+
+Tyrunt @ Eviolite  
+Ability: Strong Jaw  
+Level: 5  
+EVs: 204 Atk / 76 SpD / 212 Spe  
+Adamant Nature
+- Stone Edge  
+- Close Combat  
+- Psychic Fangs  
+- Dragon Dance
+
+Pawniard @ Eviolite  
+Ability: Defiant  
+Level: 5  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Iron Head  
+- Knock Off  
 - Sucker Punch  
-- Rock Slide  
-- Stealth Rock  
+- Brick Break 
 
-Chinchou @ Eviolite  
-Ability: Volt Absorb  
+Magnemite @ Choice Scarf  
+Ability: Analytic  
 Level: 5  
-EVs: 52 Def / 228 SpA / 220 Spe  
-Timid Nature  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Modest Nature
 - Volt Switch  
-- Scald  
-- Ice Beam  
 - Thunderbolt  
+- Flash Cannon  
+- Steel Beam
 
-Tirtouga @ Berry Juice  
-Ability: Sturdy  
+Amaura @ Choice Scarf  
+Ability: Refrigerate  
 Level: 5  
-EVs: 212 Atk / 92 Def / 180 Spe  
+EVs: 60 HP / 220 SpA / 228 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hyper Voice  
+- Earth Power  
+- Freeze-Dry  
+- Ancient Power 
+
+Tirtouga @ Eviolite  
+Ability: Solid Rock  
+Level: 5  
+EVs: 4 HP / 132 Atk / 92 Def / 76 SpD / 180 Spe  
 Jolly Nature  
 - Shell Smash  
-- Waterfall  
+- Liquidation  
 - Stone Edge  
-- Zen Headbutt
+- Zen Headbutt 

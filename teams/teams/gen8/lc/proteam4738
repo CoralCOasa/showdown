@@ -1,60 +1,60 @@
-Onix @ Berry Juice  
-Ability: Sturdy  
+Abra @ Focus Sash  
+Ability: Magic Guard  
 Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
-Jolly Nature  
-- Earthquake  
-- Stealth Rock  
-- Rock Blast  
-- Dragon Dance  
-
-Amaura @ Choice Scarf  
-Ability: Refrigerate  
-Level: 5  
-EVs: 60 HP / 220 SpA / 228 Spe  
-Modest Nature  
-IVs: 0 Atk  
-- Hyper Voice  
-- Earth Power  
-- Thunderbolt  
-- Ancient Power
-
-Vullaby @ Berry Juice  
-Ability: Weak Armor  
-Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Jolly Nature  
-- Knock Off  
-- Brave Bird  
-- U-turn  
-- Defog  
-
-Dewpider @ Berry Juice  
-Ability: Water Bubble  
-Level: 5  
-EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
-Modest Nature  
-- Sticky Web  
-- Surf  
-- Icy Wind  
-- Giga Drain
-
-Woobat @ Berry Juice  
-Ability: Simple  
-Level: 5  
-EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
+EVs: 236 SpA / 76 SpD / 196 Spe  
 Timid Nature  
-- Nasty Plot  
 - Psychic  
-- Heat Wave  
-- Air Slash  
+- Dazzling Gleam  
+- Shadow Ball  
+- Counter
 
-Vulpix @ Choice Scarf  
-Ability: Drought  
+Onix @ Eviolite  
+Ability: Rock Head  
 Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
+EVs: 236 Atk / 36 Def / 196 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Head Smash  
+- Earthquake  
+- Body Press
+
+Grookey @ Eviolite  
+Ability: Grassy Surge  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Grassy Glide  
+- Knock Off  
+- Drain Punch  
+- U-turn
+
+Porygon @ Eviolite  
+Ability: Download  
+Level: 5  
+EVs: 36 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Agility  
+- Tri Attack  
+- Psychic  
+- Ice Beam
+
+Smoochum (F) @ Life Orb  
+Ability: Oblivious  
+Level: 5  
+EVs: 236 SpA / 236 Spe  
 Timid Nature  
-- Energy Ball  
-- Weather Ball  
-- Overheat  
-- Fire Blast  
+IVs: 0 Atk  
+- Ice Beam  
+- Psychic  
+- Shadow Ball  
+- Nasty Plot
+
+Ponyta @ Eviolite  
+Ability: Flame Body  
+Level: 5  
+EVs: 76 Atk / 156 Def / 76 SpD / 196 Spe  
+Jolly Nature  
+- Flare Blitz  
+- High Horsepower  
+- Will-O-Wisp  
+- Morning Sun

@@ -1,60 +1,59 @@
-Tirtouga @ Berry Juice  
-Ability: Sturdy  
+Elekid @ Life Orb  
+Ability: Vital Spirit  
 Level: 5  
-EVs: 212 Atk / 92 Def / 180 Spe  
+EVs: 12 Atk / 236 SpA / 236 Spe  
+Hasty Nature  
+- Thunderbolt  
+- Cross Chop  
+- Psychic  
+- Volt Switch
+
+Zigzagoon @ Berry Juice  
+Ability: Pickup  
+Level: 5  
+EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
+Adamant Nature  
+- Belly Drum  
+- Extreme Speed  
+- Thief  
+- Seed Bomb
+
+Drilbur @ Berry Juice  
+Ability: Mold Breaker  
+Level: 5  
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
 Jolly Nature  
+- Earthquake  
+- Rapid Spin  
+- Rock Slide  
+- Swords Dance
+
+Wingull @ Life Orb 
+Ability: Hydration  
+Level: 5  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Timid Nature  
+- Scald  
+- Hurricane  
+- U-turn  
+- Knock Off
+
+Munchlax @ Eviolite  
+Ability: Thick Fat  
+Level: 5  
+EVs: 236 Atk / 196 Def / 76 SpD  
+Impish Nature  
+- Body Slam 
+- Earthquake  
+- Rest  
+- Sleep Talk
+
+Omanyte @ Eviolite  
+Ability: Shell Armor  
+Level: 5  
+EVs: 76 HP / 196 SpA / 236 Spe  
+Modest Nature  
 - Shell Smash  
-- Waterfall  
-- Stone Edge  
-- Zen Headbutt
-
-Vullaby @ Berry Juice  
-Ability: Weak Armor  
-Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Jolly Nature  
-- Knock Off  
-- Brave Bird  
-- U-turn  
-- Defog  
-
-Vulpix @ Choice Scarf  
-Ability: Drought  
-Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
-Timid Nature  
-- Energy Ball  
-- Weather Ball  
-- Overheat  
-- Fire Blast  
-
-Meowth @ Life Orb  
-Ability: Technician  
-Level: 5  
-EVs: 236 Atk / 36 SpD / 196 Spe  
-Jolly Nature  
-- Fake Out  
-- Feint  
-- Aerial Ace  
-- Water Pulse  
-
-Natu @ Eviolite  
-Ability: Magic Bounce  
-Level: 5  
-EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Psychic  
-- Heat Wave  
-- U-turn  
-- Roost  
-
-Ponyta-Galar @ Eviolite  
-Ability: Pastel Veil  
-Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-- Mystical Fire  
-- Psychic  
-- Dazzling Gleam  
-- Calm Mind  
+- Hydro Pump  
+- Ice Beam  
+- Earth Power

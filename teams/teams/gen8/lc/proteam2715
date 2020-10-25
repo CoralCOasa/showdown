@@ -1,59 +1,59 @@
-Meowth @ Life Orb  
-Ability: Technician  
+Dewpider @ Eviolite 
+Ability: Water Bubble  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 196 Spe  
-Jolly Nature  
-- Fake Out  
-- Feint  
-- Aerial Ace  
-- Water Pulse  
-
-Wingull @ Life Orb  
-Ability: Hydration  
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-- Scald  
-- Hurricane  
-- U-turn  
-- Air Slash  
-
-Mareanie @ Eviolite  
-Ability: Regenerator  
-Level: 5  
-EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
-Bold Nature  
-- Recover  
-- Scald  
-- Toxic Spikes  
-- Sludge Bomb  
-
-Carvanha @ Life Orb  
-Ability: Speed Boost  
-Level: 5  
-EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+EVs: 132 HP / 116 Atk / 20 Def / 116 SpA / 20 SpD / 60 Spe  
 Adamant Nature  
-- Crunch  
-- Psychic Fangs  
-- Protect  
 - Liquidation  
+- Leech Life  
+- Magic Coat  
+- Sticky Web
 
-Corphish @ Eviolite  
-Ability: Adaptability  
+Trapinch @ Eviolite  
+Ability: Arena Trap  
 Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
+EVs: 156 HP / 196 Atk / 76 Def / 76 SpD  
 Adamant Nature  
-- Aqua Jet  
-- Crabhammer  
-- Knock Off  
-- Dragon Dance  
+- Earthquake  
+- First Impression  
+- Superpower  
+- Quick Attack
 
-Koffing @ Eviolite  
-Ability: Levitate  
+Natu @ Choice Scarf  
+Ability: Magic Bounce  
 Level: 5  
-EVs: 36 HP / 236 Def / 236 SpD  
+EVs: 36 HP / 76 Def / 196 SpA / 196 Spe  
+Timid Nature
+- Psychic  
+- Heat Wave  
+- Dazzling Gleam  
+- Trick
+
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
+Level: 5  
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
 Bold Nature  
-- Will-O-Wisp  
-- Toxic Spikes  
-- Pain Split  
-- Sludge Bomb  
+- Moonblast  
+- Wish  
+- Protect  
+- Covet 
+
+Ponyta-Galar @ Choice Scarf  
+Ability: Pastel Veil  
+Level: 5  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Naughty Nature  
+- Zen Headbutt  
+- Play Rough  
+- Mystical Fire  
+- Healing Wish
+
+Onix @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- Earthquake  
+- Stealth Rock  
+- Rock Blast  
+- Dragon Dance

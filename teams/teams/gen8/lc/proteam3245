@@ -1,32 +1,52 @@
-Staryu @ Eviolite  
-Ability: Natural Cure  
+Porygon @ Eviolite  
+Ability: Download  
 Level: 5  
-EVs: 116 HP / 156 Def / 236 Spe  
+EVs: 36 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Agility  
+- Tri Attack  
+- Psychic  
+- Ice Beam
+
+Magnemite @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
-- Rapid Spin  
-- Thunderbolt  
-- Recover  
-- Scald  
+- Flash Cannon  
+- Volt Switch  
+- Thunderbolt 
+- Recycle  
 
-Scraggy @ Eviolite  
-Ability: Moxie  
+Vullaby @ Choice Scarf  
+Ability: Overcoat  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
-Adamant Nature  
-- Dragon Dance  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Adamant Nature
+- Brave Bird  
 - Knock Off  
-- Drain Punch  
-- High Jump Kick  
+- U-turn  
+- Heat Wave
 
-Shellder @ Eviolite  
-Ability: Skill Link  
+Mienfoo @ Choice Scarf  
+Ability: Reckless  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
+EVs: 236 Atk / 36 Def / 236 Spe  
 Adamant Nature  
-- Icicle Spear  
-- Shell Smash  
-- Rock Blast  
-- Liquidation  
+- High Jump Kick  
+- Knock Off  
+- U-turn  
+- Close Combat 
+
+Natu @ Eviolite  
+Ability: Magic Bounce  
+Level: 5  
+EVs: 36 HP / 76 Def / 116 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Psychic  
+- Heat Wave  
+- U-turn 
+- Roost
 
 Ponyta @ Eviolite  
 Ability: Flame Body  
@@ -36,24 +56,4 @@ Jolly Nature
 - Flare Blitz  
 - High Horsepower  
 - Morning Sun  
-- Wild Charge  
-
-Bunnelby @ Eviolite  
-Ability: Huge Power  
-Level: 5  
-EVs: 228 Atk / 132 Def / 148 SpD  
-Adamant Nature  
-- Earthquake  
-- Quick Attack  
-- U-turn  
-- Facade
-
-Trapinch @ Eviolite  
-Ability: Arena Trap  
-Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Relaxed Nature  
-- Earthquake  
-- First Impression  
-- Superpower  
-- Giga Drain  
+- Wild Charge 

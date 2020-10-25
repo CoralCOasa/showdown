@@ -1,4 +1,4 @@
-Wingull @ Life Orb  
+Wingull @ Life Orb 
 Ability: Hydration  
 Level: 5  
 EVs: 36 Def / 236 SpA / 236 Spe  
@@ -6,54 +6,54 @@ Timid Nature
 - Scald  
 - Hurricane  
 - U-turn  
-- Air Slash  
+- Air Slash 
 
-Abra @ Focus Sash  
-Ability: Magic Guard  
+Vullaby @ Berry Juice  
+Ability: Weak Armor  
 Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-- Psychic  
-- Dazzling Gleam  
-- Energy Ball  
-- Shadow Ball  
-
-Mareanie @ Eviolite  
-Ability: Regenerator  
-Level: 5  
-EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
-Bold Nature  
-- Recover  
-- Scald  
-- Toxic Spikes  
-- Sludge Bomb  
-
-Larvesta @ Eviolite  
-Ability: Flame Body  
-Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
-Jolly Nature  
-- U-turn  
-- Flare Blitz  
-- Morning Sun  
-- Will-O-Wisp  
-
-Diglett @ Life Orb  
-Ability: Arena Trap  
-Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Earthquake  
-- Sucker Punch  
-- Rock Slide  
-- Stealth Rock  
-
-Dwebble @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 236 Atk / 236 Spe  
+EVs: 236 Atk / 76 Def / 196 Spe  
 Adamant Nature  
-- Shell Smash  
-- Rock Blast  
-- Earthquake  
 - Knock Off  
+- Brave Bird  
+- U-turn  
+- Defog 
+
+Corphish @ Eviolite  
+Ability: Adaptability  
+Level: 5  
+EVs: 196 Atk / 76 Def / 236 Spe  
+Adamant Nature  
+- Aqua Jet  
+- Crabhammer  
+- Knock Off  
+- Swords Dance 
+
+Scorbunny @ Berry Juice 
+Ability: Libero  
+Level: 5  
+EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
+Jolly Nature  
+- High Jump Kick  
+- U-turn  
+- Blaze Kick 
+- Gunk Shot
+
+Carvanha @ Life Orb  
+Ability: Speed Boost  
+Level: 5  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+Adamant Nature  
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation
+
+Zigzagoon @ Berry Juice  
+Ability: Pickup 
+Level: 5  
+EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
+Adamant Nature  
+- Belly Drum  
+- Extreme Speed  
+- Thief  
+- Seed Bomb

@@ -1,59 +1,61 @@
-Wingull @ Life Orb  
-Ability: Hydration  
+Scorbunny @ Choice Scarf  
+Ability: Libero  
+Level: 5  
+EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
+Jolly Nature
+- High Jump Kick  
+- Gunk Shot  
+- Blaze Kick 
+- U-turn
+
+Shellder @ Eviolite  
+Ability: Skill Link  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Adamant Nature  
+- Icicle Spear  
+- Shell Smash  
+- Rock Blast  
+- Liquidation 
+
+Magnemite @ Choice Scarf  
+Ability: Analytic  
 Level: 5  
 EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-- Scald  
-- Hurricane  
+Modest Nature
+- Volt Switch  
+- Thunderbolt  
+- Flash Cannon  
+- Steel Beam
+
+Larvesta @ Eviolite  
+Ability: Flame Body  
+Level: 5  
+EVs: 76 HP / 236 Def / 156 SpD / 36 Spe  
+Impish Nature  
 - U-turn  
-- Air Slash  
+- Flare Blitz  
+- Morning Sun  
+- Will-O-Wisp
 
-Dewpider @ Berry Juice  
-Ability: Water Bubble  
+Amaura @ Choice Scarf  
+Ability: Snow Warning  
 Level: 5  
-EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
-Modest Nature  
-- Sticky Web  
-- Surf  
-- Icy Wind  
-- Giga Drain
-
-Ponyta-Galar @ Eviolite  
-Ability: Pastel Veil  
-Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
+EVs: 60 HP / 220 SpA / 228 Spe  
 Timid Nature  
-- Mystical Fire  
-- Psychic  
-- Dazzling Gleam  
-- Calm Mind  
-
-Meowth @ Life Orb  
-Ability: Technician  
-Level: 5  
-EVs: 236 Atk / 36 SpD / 196 Spe  
-Jolly Nature  
-- Fake Out  
-- Feint  
-- Aerial Ace  
-- Water Pulse  
+IVs: 0 Atk  
+- Blizzard  
+- Earth Power  
+- Freeze-Dry  
+- Ancient Power
 
 Chinchou @ Eviolite  
 Ability: Volt Absorb  
 Level: 5  
-EVs: 52 Def / 228 SpA / 220 Spe  
-Timid Nature  
+EVs: 236 HP / 212 Def / 60 Spe  
+Bold Nature  
+IVs: 0 Atk  
 - Volt Switch  
 - Scald  
 - Ice Beam  
-- Thunderbolt  
-
-Porygon @ Eviolite  
-Ability: Download  
-Level: 5  
-EVs: 36 Def / 236 SpA / 196 Spe  
-Modest Nature  
-- Tri Attack  
-- Recover  
-- Ice Beam  
-- Psychic  
+- Thunder Wave 

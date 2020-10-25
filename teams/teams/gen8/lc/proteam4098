@@ -1,22 +1,23 @@
-Vulpix @ Choice Scarf  
-Ability: Drought  
+Staryu @ Eviolite  
+Ability: Analytic  
 Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
+EVs: 156 Def / 116 SpA / 236 Spe  
 Timid Nature  
-- Energy Ball  
-- Weather Ball  
-- Overheat  
-- Fire Blast  
+- Hydro Pump 
+- Thunderbolt  
+- Psychic  
+- Recover
 
-Mienfoo @ Eviolite  
+Mareanie @ Eviolite  
 Ability: Regenerator  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
-Jolly Nature  
-- Knock Off  
-- U-turn  
-- High Jump Kick  
-- Fake Out  
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Recover  
+- Scald  
+- Toxic Spikes 
+- Sludge Bomb
 
 Ponyta @ Eviolite  
 Ability: Flame Body  
@@ -26,19 +27,29 @@ Jolly Nature
 - Flare Blitz  
 - High Horsepower  
 - Morning Sun  
-- Wild Charge  
+- Wild Charge 
 
-Abra @ Focus Sash  
-Ability: Magic Guard  
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
 Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-- Psychic  
-- Dazzling Gleam  
-- Energy Ball  
-- Shadow Ball  
+EVs: 84 HP / 188 Def / 84 SpA / 148 SpD  
+Sassy Nature  
+- Knock Off  
+- Thunder Wave  
+- Spikes 
+- Giga Drain
 
-Drilbur @ Eviolite  
+Corphish @ Eviolite  
+Ability: Adaptability  
+Level: 5  
+EVs: 196 Atk / 76 Def / 236 Spe  
+Adamant Nature  
+- Aqua Jet  
+- Crabhammer  
+- Knock Off  
+- Swords Dance 
+
+Drilbur @ Eviolite 
 Ability: Mold Breaker  
 Level: 5  
 EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
@@ -46,14 +57,4 @@ Jolly Nature
 - Earthquake  
 - Rapid Spin  
 - Rock Slide  
-- Stealth Rock  
-
-Dewpider @ Berry Juice  
-Ability: Water Bubble  
-Level: 5  
-EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
-Modest Nature  
-- Sticky Web  
-- Surf  
-- Icy Wind  
-- Giga Drain
+- Swords Dance

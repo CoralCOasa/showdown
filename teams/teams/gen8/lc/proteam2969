@@ -1,3 +1,13 @@
+Diglett @ Eviolite  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 236 Atk / 236 Spe  
+Hasty Nature
+- Earthquake  
+- Earth Power  
+- Rock Slide  
+- Final Gambit 
+
 Foongus @ Eviolite  
 Ability: Regenerator  
 Level: 5  
@@ -6,54 +16,44 @@ Bold Nature
 - Giga Drain  
 - Spore  
 - Sludge Bomb  
-- Synthesis  
+- Synthesis
 
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
+Magnemite @ Choice Scarf  
+Ability: Analytic  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
-Adamant Nature  
-- Body Slam  
-- Earthquake  
-- Curse  
-- Recycle
+EVs: 36 Def / 236 SpA / 236 Spe  
+Modest Nature
+- Volt Switch  
+- Thunderbolt  
+- Flash Cannon  
+- Steel Beam
 
-Ponyta @ Eviolite  
+Larvesta @ Eviolite  
 Ability: Flame Body  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
+EVs: 76 HP / 76 Atk / 156 Def / 196 Spe  
 Jolly Nature  
+- U-turn  
 - Flare Blitz  
-- High Horsepower  
 - Morning Sun  
-- Wild Charge  
+- Will-O-Wisp
 
-Carvanha @ Life Orb  
-Ability: Speed Boost  
+Wingull @ Life Orb 
+Ability: Hydration  
 Level: 5  
-EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
-Adamant Nature  
-- Crunch  
-- Psychic Fangs  
-- Protect  
-- Liquidation  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Timid Nature  
+- Scald  
+- Hurricane  
+- U-turn  
+- Knock Off
 
-Onix @ Berry Juice  
-Ability: Sturdy  
+Archen @ Berry Juice  
+Ability: Defeatist  
 Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
+EVs: 76 HP / 180 Atk / 196 Spe  
 Jolly Nature  
+- Stone Edge  
+- Dual Wingbeat  
 - Earthquake  
-- Stealth Rock  
-- Rock Blast  
-- Dragon Dance  
-
-Scraggy @ Eviolite  
-Ability: Moxie  
-Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
-Adamant Nature  
-- Dragon Dance  
-- Knock Off  
-- Drain Punch  
-- High Jump Kick  
+- U-turn

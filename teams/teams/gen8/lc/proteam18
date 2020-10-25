@@ -1,59 +1,60 @@
-Dewpider @ Berry Juice  
-Ability: Water Bubble  
-Level: 5  
-EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
-Modest Nature  
-- Sticky Web  
-- Surf  
-- Icy Wind  
-- Giga Drain
-
-Diglett @ Life Orb  
+Diglett @ Eviolite  
 Ability: Arena Trap  
 Level: 5  
 EVs: 36 HP / 236 Atk / 236 Spe  
-Jolly Nature  
+Hasty Nature
 - Earthquake  
-- Sucker Punch  
+- Earth Power  
 - Rock Slide  
-- Stealth Rock  
+- Sucker Punch
 
-Corphish @ Eviolite  
-Ability: Adaptability  
+Mienfoo @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
-Adamant Nature  
-- Aqua Jet  
-- Crabhammer  
+EVs: 156 Atk / 36 Def / 36 SpD / 236 Spe  
+Jolly Nature  
+- Drain Punch  
 - Knock Off  
-- Dragon Dance  
+- Stone Edge 
+- Swords Dance
 
-Scorbunny @ Berry Juice  
-Ability: Libero  
+Amaura @ Choice Scarf  
+Ability: Snow Warning  
 Level: 5  
-EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
-Jolly Nature  
-- High Jump Kick  
-- U-turn  
-- Blaze Kick  
-- Gunk Shot  
+EVs: 60 HP / 220 SpA / 228 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Blizzard  
+- Earth Power  
+- Freeze-Dry  
+- Ancient Power
 
-Ponyta @ Eviolite  
-Ability: Flame Body  
+Timburr @ Eviolite  
+Ability: Iron Fist 
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Jolly Nature  
-- Flare Blitz  
-- High Horsepower  
-- Morning Sun  
-- Wild Charge  
+EVs: 196 Atk / 156 Def / 156 SpD  
+Adamant Nature  
+- Drain Punch  
+- Knock Off  
+- Mach Punch  
+- Bulk Up 
 
-Archen @ Berry Juice  
-Ability: Defeatist  
+Porygon @ Eviolite  
+Ability: Download  
 Level: 5  
-EVs: 76 HP / 180 Atk / 196 Spe  
-Jolly Nature  
-- Stone Edge  
-- Dual Wingbeat  
-- Earthquake  
-- U-turn
+EVs: 36 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Agility  
+- Tri Attack  
+- Psychic  
+- Ice Beam
+
+Meowth @ Life Orb  
+Ability: Technician  
+Level: 5  
+EVs: 36 HP / 236 Atk / 36 SpA / 196 Spe  
+Naughty Nature  
+- Fake Out  
+- Feint  
+- Water Pulse  
+- Double-Edge 

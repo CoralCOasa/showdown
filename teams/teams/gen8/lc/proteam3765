@@ -1,59 +1,62 @@
-Carvanha @ Life Orb  
-Ability: Speed Boost  
+Omanyte @ Eviolite  
+Ability: Shell Armor  
 Level: 5  
-EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
-Adamant Nature  
-- Crunch  
-- Psychic Fangs  
-- Protect  
-- Liquidation  
+EVs: 76 HP / 196 SpA / 236 Spe  
+Modest Nature  
+- Shell Smash  
+- Hydro Pump  
+- Ice Beam  
+- Earth Power
 
-Wingull @ Life Orb  
-Ability: Hydration  
+Chinchou @ Choice Scarf  
+Ability: Volt Absorb  
+Level: 5  
+EVs: 52 Def / 228 SpA / 220 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt 
+- Hydro Pump  
+- Ice Beam  
+- Volt Switch
+
+Slowpoke @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 116 HP / 76 Def / 116 SpA / 196 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Future Sight  
+- Slack Off  
+- Teleport
+
+Tirtouga @ Eviolite  
+Ability: Solid Rock  
+Level: 5  
+EVs: 4 HP / 132 Atk / 92 Def / 76 SpD / 180 Spe  
+Jolly Nature  
+- Shell Smash  
+- Waterfall 
+- Stone Edge  
+- Zen Headbutt 
+
+Mareanie @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 196 HP / 20 Def / 92 SpA / 180 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Recover  
+- Scald  
+- Knock Off  
+- Sludge Bomb
+
+Magnemite @ Choice Scarf  
+Ability: Analytic  
 Level: 5  
 EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-- Scald  
-- Hurricane  
-- U-turn  
-- Air Slash  
-
-Vulpix @ Choice Scarf  
-Ability: Drought  
-Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
-Timid Nature  
-- Energy Ball  
-- Weather Ball  
-- Overheat  
-- Fire Blast  
-
-Croagunk @ Eviolite  
-Ability: Dry Skin  
-Level: 5  
-EVs: 116 Def / 188 SpA / 196 Spe  
-Timid Nature  
-- Vacuum Wave  
-- Nasty Plot  
-- Sludge Wave  
-- Focus Blast  
-
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
-Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
-Bold Nature  
-- Moonblast  
-- Wish  
-- Protect  
-- Calm Mind  
-
-Shellder @ Eviolite  
-Ability: Skill Link  
-Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Icicle Spear  
-- Shell Smash  
-- Rock Blast  
-- Liquidation  
+Modest Nature
+- Volt Switch  
+- Thunderbolt  
+- Flash Cannon  
+- Steel Beam

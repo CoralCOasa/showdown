@@ -1,60 +1,60 @@
-Bunnelby @ Eviolite  
-Ability: Huge Power  
+Drilbur @ Eviolite 
+Ability: Mold Breaker  
 Level: 5  
-EVs: 228 Atk / 132 Def / 148 SpD  
-Adamant Nature  
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
+Jolly Nature  
 - Earthquake  
-- Quick Attack  
-- U-turn  
-- Facade
+- Rapid Spin  
+- Rock Slide  
+- Swords Dance
 
-Scraggy @ Eviolite  
-Ability: Moxie  
+Koffing @ Eviolite  
+Ability: Levitate  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
+EVs: 36 HP / 236 Def / 236 SpD  
+Bold Nature  
+- Fire Blast  
+- Toxic Spikes  
+- Pain Split  
+- Clear Smog
+
+Farfetch’d-Galar @ Eviolite  
+Ability: Scrappy  
+Level: 5  
+EVs: 20 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Swords Dance  
+- Close Combat  
+- Brave Bird  
+- Knock Off
+
+Timburr @ Eviolite  
+Ability: Guts  
+Level: 5  
+EVs: 196 Atk / 156 Def / 156 SpD  
 Adamant Nature  
-- Dragon Dance  
-- Knock Off  
 - Drain Punch  
-- High Jump Kick  
+- Knock Off  
+- Mach Punch  
+- Defog 
 
-Natu @ Eviolite  
-Ability: Magic Bounce  
+Vulpix @ Choice Scarf 
+Ability: Drought  
 Level: 5  
-EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
+EVs: 52 HP / 196 SpA / 236 Spe  
 Timid Nature  
 IVs: 0 Atk  
-- Psychic  
-- Heat Wave  
-- U-turn  
-- Roost  
+- Energy Ball  
+- Weather Ball  
+- Overheat  
+- Extrasensory
 
-Shellder @ Eviolite  
-Ability: Skill Link  
+Mudbray @ Choice Scarf  
+Ability: Stamina  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Icicle Spear  
-- Shell Smash  
-- Rock Blast  
-- Liquidation  
-
-Meowth @ Life Orb  
-Ability: Technician  
-Level: 5  
-EVs: 236 Atk / 36 SpD / 196 Spe  
-Jolly Nature  
-- Fake Out  
-- Feint  
-- Aerial Ace  
-- Water Pulse  
-
-Croagunk @ Eviolite  
-Ability: Dry Skin  
-Level: 5  
-EVs: 116 Def / 188 SpA / 196 Spe  
-Timid Nature  
-- Vacuum Wave  
-- Nasty Plot  
-- Sludge Wave  
-- Focus Blast  
+EVs: 36 HP / 196 Atk / 36 Def / 236 Spe  
+Adamant Nature
+- Earthquake  
+- Rock Slide  
+- Heavy Slam  
+- Close Combat

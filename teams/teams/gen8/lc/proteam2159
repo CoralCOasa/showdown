@@ -1,59 +1,60 @@
-Dewpider @ Berry Juice  
-Ability: Water Bubble  
+Scraggy @ Eviolite  
+Ability: Moxie 
 Level: 5  
-EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
-Modest Nature  
-- Sticky Web  
-- Surf  
-- Icy Wind  
-- Giga Drain
-
-Timburr @ Eviolite  
-Ability: Iron Fist  
-Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
-Adamant Nature  
-- Drain Punch  
-- Mach Punch  
+EVs: 36 HP / 156 Atk / 36 Def / 36 SpD / 212 Spe  
+Jolly Nature  
+- Dragon Dance  
 - Knock Off  
-- Defog  
+- Drain Punch  
+- Stone Edge
 
-Magnemite @ Berry Juice  
-Ability: Sturdy  
+Foongus @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 124 HP / 156 Def / 156 SpD  
+Bold Nature  
+- Giga Drain  
+- Spore  
+- Sludge Bomb  
+- Synthesis
+
+Magnemite @ Choice Scarf  
+Ability: Analytic  
 Level: 5  
 EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
-- Flash Cannon  
 - Volt Switch  
 - Thunderbolt  
-- Recycle  
+- Flash Cannon  
+- Steel Beam
 
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
+Natu @ Eviolite  
+Ability: Magic Bounce  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
+EVs: 196 HP / 236 Def / 76 SpD  
+Bold Nature  
+- Psychic  
+- Heat Wave  
+- Thunder Wave  
+- Roost
+
+Scraggy @ Eviolite  
+Ability: Moxie  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 212 Spe  
 Adamant Nature  
-- Body Slam  
-- Earthquake  
-- Curse  
-- Recycle
-
-Farfetch’d-Galar @ Eviolite  
-Ability: Scrappy  
-Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Swords Dance  
-- Close Combat  
-- Brave Bird  
+- Dragon Dance  
 - Knock Off  
+- High Jump Kick  
+- Poison Jab
 
-Trapinch @ Eviolite  
-Ability: Arena Trap  
+Smoochum (F) @ Choice Scarf  
+Ability: Oblivious  
 Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Relaxed Nature  
-- Earthquake  
-- First Impression  
-- Superpower  
-- Giga Drain  
+EVs: 236 SpA / 236 Spe  
+Modest Nature
+IVs: 0 Atk  
+- Ice Beam  
+- Psychic  
+- Shadow Ball  
+- Trick

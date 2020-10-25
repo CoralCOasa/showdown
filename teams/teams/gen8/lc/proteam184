@@ -1,60 +1,60 @@
-Staryu @ Eviolite  
-Ability: Natural Cure  
+Carvanha @ Life Orb  
+Ability: Speed Boost  
 Level: 5  
-EVs: 116 HP / 156 Def / 236 Spe  
-Timid Nature  
-- Rapid Spin  
-- Thunderbolt  
-- Recover  
-- Scald  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+Adamant Nature  
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation
 
-Pawniard @ Eviolite  
-Ability: Defiant  
+Diglett @ Life Orb  
+Ability: Arena Trap  
 Level: 5  
-EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+EVs: 36 HP / 236 Atk / 236 Spe  
 Jolly Nature  
-- Iron Head  
-- Knock Off  
+- Earthquake  
 - Sucker Punch  
-- Stealth Rock  
+- Rock Slide  
+- Memento
 
-Dewpider @ Berry Juice  
-Ability: Water Bubble  
+Slowpoke @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
-Modest Nature  
-- Sticky Web  
-- Surf  
-- Icy Wind  
+EVs: 116 HP / 76 Def / 116 SpA / 196 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Psychic 
+- Slack Off  
+- Teleport
+
+Trapinch @ Eviolite  
+Ability: Arena Trap  
+Level: 5  
+EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
+Relaxed Nature  
+- Earthquake  
+- First Impression  
+- Quick Attack 
 - Giga Drain
 
-Amaura @ Choice Scarf  
-Ability: Refrigerate  
+Archen @ Berry Juice  
+Ability: Defeatist  
 Level: 5  
-EVs: 60 HP / 220 SpA / 228 Spe  
-Modest Nature  
-IVs: 0 Atk  
-- Hyper Voice  
-- Earth Power  
-- Thunderbolt  
-- Ancient Power
-
-Croagunk @ Eviolite  
-Ability: Dry Skin  
-Level: 5  
-EVs: 116 Def / 188 SpA / 196 Spe  
-Timid Nature  
-- Vacuum Wave  
-- Nasty Plot  
-- Sludge Wave  
-- Focus Blast  
-
-Bunnelby @ Eviolite  
-Ability: Huge Power  
-Level: 5  
-EVs: 228 Atk / 132 Def / 148 SpD  
-Adamant Nature  
+EVs: 76 HP / 180 Atk / 196 Spe  
+Jolly Nature  
+- Stone Edge  
+- Dual Wingbeat  
 - Earthquake  
-- Quick Attack  
-- U-turn  
-- Facade
+- U-turn
+
+Dwebble @ Eviolite  
+Ability: Weak Armor  
+Level: 5  
+EVs: 116 HP / 76 Atk / 156 Def / 156 Spe  
+Impish Nature  
+- Rock Blast  
+- Knock Off  
+- Stealth Rock  
+- Spikes

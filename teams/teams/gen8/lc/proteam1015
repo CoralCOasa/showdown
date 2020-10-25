@@ -1,60 +1,59 @@
-Mareanie @ Eviolite  
-Ability: Regenerator  
+Trapinch @ Eviolite  
+Ability: Arena Trap  
 Level: 5  
-EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
-Bold Nature  
-- Recover  
-- Scald  
-- Toxic Spikes  
-- Sludge Bomb  
+EVs: 156 HP / 196 Atk / 76 Def / 76 SpD  
+Adamant Nature  
+- Earthquake  
+- First Impression  
+- Superpower  
+- Quick Attack 
 
-Amaura @ Choice Scarf  
-Ability: Refrigerate  
+Dwebble @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 60 HP / 220 SpA / 228 Spe  
-Modest Nature  
-IVs: 0 Atk  
-- Hyper Voice  
-- Earth Power  
-- Thunderbolt  
-- Ancient Power
+EVs: 236 Atk / 236 Spe  
+Adamant Nature  
+- Rock Blast  
+- Earthquake 
+- Knock Off  
+- Shell Smash
 
-Meowth @ Life Orb  
-Ability: Technician  
+Magnemite @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 196 Spe  
-Jolly Nature  
-- Fake Out  
-- Feint  
-- Aerial Ace  
-- Water Pulse  
-
-Croagunk @ Eviolite  
-Ability: Dry Skin  
-Level: 5  
-EVs: 116 Def / 188 SpA / 196 Spe  
+EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
-- Vacuum Wave  
-- Nasty Plot  
-- Sludge Wave  
-- Focus Blast  
+- Flash Cannon  
+- Volt Switch  
+- Thunderbolt 
+- Recycle  
 
-Scorbunny @ Berry Juice  
-Ability: Libero  
+Vullaby @ Berry Juice  
+Ability: Weak Armor  
 Level: 5  
-EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
-Jolly Nature  
-- High Jump Kick  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Adamant Nature  
+- Knock Off  
+- Brave Bird  
 - U-turn  
-- Blaze Kick  
-- Gunk Shot  
+- Defog 
 
 Timburr @ Eviolite  
-Ability: Iron Fist  
+Ability: Iron Fist 
 Level: 5  
 EVs: 196 Atk / 156 Def / 156 SpD  
 Adamant Nature  
 - Drain Punch  
-- Mach Punch  
 - Knock Off  
-- Defog  
+- Mach Punch  
+- Defog 
+
+Trapinch @ Eviolite  
+Ability: Arena Trap  
+Level: 5  
+EVs: 156 HP / 196 Atk / 76 Def / 76 SpD  
+Adamant Nature  
+- Earthquake  
+- First Impression  
+- Superpower  
+- Quick Attack 

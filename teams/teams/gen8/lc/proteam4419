@@ -1,4 +1,24 @@
-Diglett @ Life Orb  
+Archen @ Berry Juice  
+Ability: Defeatist  
+Level: 5  
+EVs: 76 HP / 180 Atk / 196 Spe  
+Jolly Nature  
+- Stone Edge  
+- Dual Wingbeat  
+- Earthquake  
+- U-turn
+
+Munchlax @ Berry Juice  
+Ability: Thick Fat  
+Level: 5  
+EVs: 236 Atk / 196 Def / 76 SpD  
+Impish Nature  
+- Facade 
+- Fire Punch  
+- Zen Headbutt  
+- Curse
+
+Diglett @ Focus Sash  
 Ability: Arena Trap  
 Level: 5  
 EVs: 36 HP / 236 Atk / 236 Spe  
@@ -6,54 +26,34 @@ Jolly Nature
 - Earthquake  
 - Sucker Punch  
 - Rock Slide  
-- Stealth Rock  
+- Reversal 
 
-Scorbunny @ Berry Juice  
-Ability: Libero  
+Munchlax @ Eviolite  
+Ability: Thick Fat  
 Level: 5  
-EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
-Jolly Nature  
-- High Jump Kick  
-- U-turn  
-- Blaze Kick  
-- Gunk Shot  
+EVs: 236 Atk / 196 Def / 76 SpD  
+Impish Nature  
+- Facade  
+- Earthquake  
+- Rest  
+- Sleep Talk
 
-Dewpider @ Berry Juice  
-Ability: Water Bubble  
+Natu @ Eviolite  
+Ability: Magic Bounce  
 Level: 5  
-EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
-Modest Nature  
-- Sticky Web  
-- Surf  
-- Icy Wind  
-- Giga Drain
+EVs: 196 HP / 236 Def / 76 SpD  
+Bold Nature  
+- Psychic  
+- Heat Wave  
+- Thunder Wave  
+- Roost
 
-Grookey @ Eviolite  
-Ability: Grassy Surge  
+Carvanha @ Life Orb  
+Ability: Speed Boost  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
-Jolly Nature  
-- Grassy Glide  
-- Knock Off  
-- Drain Punch  
-- U-turn  
-
-Zigzagoon @ Berry Juice  
-Ability: Quick Feet  
-Level: 5  
-EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
 Adamant Nature  
-- Extreme Speed  
-- Belly Drum  
-- Thief  
-- Seed Bomb  
-
-Vullaby @ Berry Juice  
-Ability: Weak Armor  
-Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Jolly Nature  
-- Knock Off  
-- Brave Bird  
-- U-turn  
-- Defog  
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation

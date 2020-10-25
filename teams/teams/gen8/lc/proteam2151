@@ -1,59 +1,60 @@
-Farfetch’d-Galar @ Eviolite  
-Ability: Scrappy  
+Larvesta @ Heavy-Duty Boots  
+Ability: Flame Body  
 Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
+EVs: 76 HP / 76 Atk / 76 Def / 76 SpD / 196 Spe  
 Jolly Nature  
-- Swords Dance  
-- Close Combat  
-- Brave Bird  
-- Knock Off  
-
-Archen @ Berry Juice  
-Ability: Defeatist  
-Level: 5  
-EVs: 76 HP / 180 Atk / 196 Spe  
-Jolly Nature  
-- Stone Edge  
-- Dual Wingbeat  
-- Earthquake  
-- U-turn
-
-Vulpix @ Choice Scarf  
-Ability: Drought  
-Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
-Timid Nature  
-- Energy Ball  
-- Weather Ball  
-- Overheat  
-- Fire Blast  
-
-Diglett @ Life Orb  
-Ability: Arena Trap  
-Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Earthquake  
-- Sucker Punch  
-- Rock Slide  
-- Stealth Rock  
+- U-turn  
+- Flare Blitz  
+- Morning Sun  
+- Will-O-Wisp
 
 Mareanie @ Eviolite  
 Ability: Regenerator  
 Level: 5  
 EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
 Bold Nature  
+IVs: 0 Atk  
 - Recover  
 - Scald  
-- Toxic Spikes  
-- Sludge Bomb  
+- Toxic Spikes 
+- Sludge Bomb
 
-Dwebble @ Berry Juice  
-Ability: Sturdy  
+Magnemite @ Choice Scarf  
+Ability: Analytic  
 Level: 5  
-EVs: 236 Atk / 236 Spe  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Modest Nature
+- Volt Switch  
+- Thunderbolt  
+- Flash Cannon  
+- Steel Beam
+
+Timburr @ Eviolite  
+Ability: Iron Fist 
+Level: 5  
+EVs: 196 Atk / 156 Def / 156 SpD  
 Adamant Nature  
-- Shell Smash  
-- Rock Blast  
-- Earthquake  
+- Drain Punch  
 - Knock Off  
+- Mach Punch  
+- Bulk Up 
+
+Vulpix @ Life Orb  
+Ability: Drought  
+Level: 5  
+EVs: 52 HP / 196 SpA / 236 Spe  
+Hasty Nature  
+- Energy Ball  
+- Weather Ball  
+- Overheat  
+- Quick Attack
+
+Tirtouga @ Eviolite  
+Ability: Solid Rock  
+Level: 5  
+EVs: 4 HP / 132 Atk / 92 Def / 76 SpD / 180 Spe  
+Jolly Nature  
+- Shell Smash  
+- Waterfall 
+- Stone Edge  
+- Earthquake

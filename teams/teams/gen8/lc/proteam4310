@@ -1,59 +1,60 @@
-Vulpix @ Choice Scarf  
-Ability: Drought  
+Meowth @ Life Orb  
+Ability: Technician  
 Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
-Timid Nature  
-- Energy Ball  
-- Weather Ball  
-- Overheat  
-- Fire Blast  
-
-Timburr @ Eviolite  
-Ability: Iron Fist  
-Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
-Adamant Nature  
-- Drain Punch  
-- Mach Punch  
+EVs: 36 HP / 236 Atk / 36 SpD / 196 Spe  
+Jolly Nature  
+- Fake Out  
+- Feint  
 - Knock Off  
-- Defog  
+- U-turn 
 
-Wingull @ Life Orb  
-Ability: Hydration  
+Trapinch @ Eviolite  
+Ability: Arena Trap  
+Level: 5  
+EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
+Relaxed Nature  
+- Earthquake  
+- First Impression  
+- Quick Attack 
+- Giga Drain
+
+Drilbur @ Berry Juice  
+Ability: Mold Breaker  
+Level: 5  
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
+Jolly Nature  
+- Earthquake  
+- Rapid Spin  
+- Rock Slide  
+- Swords Dance
+
+Spritzee @ Berry Juice  
+Ability: Aroma Veil  
+Level: 5  
+EVs: 52 HP / 116 Def / 252 SpA / 76 SpD / 12 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Psychic  
+- Energy Ball  
+- Thunderbolt 
+
+Magnemite @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
 EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
-- Scald  
-- Hurricane  
-- U-turn  
-- Air Slash  
+- Flash Cannon  
+- Volt Switch  
+- Thunderbolt 
+- Recycle  
 
-Ponyta-Galar @ Eviolite  
-Ability: Pastel Veil  
+Dewpider @ Eviolite 
+Ability: Water Bubble  
 Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-- Mystical Fire  
-- Psychic  
-- Dazzling Gleam  
-- Calm Mind  
-
-Koffing @ Eviolite  
-Ability: Levitate  
-Level: 5  
-EVs: 36 HP / 236 Def / 236 SpD  
-Bold Nature  
-- Will-O-Wisp  
-- Toxic Spikes  
-- Pain Split  
-- Sludge Bomb  
-
-Larvesta @ Eviolite  
-Ability: Flame Body  
-Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
-Jolly Nature  
-- U-turn  
-- Flare Blitz  
-- Morning Sun  
-- Will-O-Wisp  
+EVs: 132 HP / 116 Atk / 20 Def / 116 SpA / 20 SpD / 60 Spe  
+Adamant Nature  
+- Liquidation  
+- Leech Life  
+- Magic Coat  
+- Sticky Web

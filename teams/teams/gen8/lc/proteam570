@@ -1,59 +1,59 @@
-Larvesta @ Eviolite  
-Ability: Flame Body  
+Shellder @ Eviolite  
+Ability: Skill Link  
 Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
-Jolly Nature  
-- U-turn  
-- Flare Blitz  
-- Morning Sun  
-- Will-O-Wisp  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Adamant Nature  
+- Icicle Spear  
+- Shell Smash  
+- Rock Blast  
+- Ice Shard
 
-Abra @ Focus Sash  
-Ability: Magic Guard  
+Dewpider @ Eviolite 
+Ability: Water Bubble  
 Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-- Psychic  
-- Dazzling Gleam  
-- Energy Ball  
-- Shadow Ball  
+EVs: 132 HP / 116 Atk / 20 Def / 116 SpA / 20 SpD / 60 Spe  
+Adamant Nature  
+- Liquidation  
+- Leech Life  
+- Magic Coat  
+- Sticky Web
 
-Croagunk @ Eviolite  
-Ability: Dry Skin  
+Porygon @ Eviolite  
+Ability: Trace  
 Level: 5  
-EVs: 116 Def / 188 SpA / 196 Spe  
-Timid Nature  
-- Vacuum Wave  
-- Nasty Plot  
-- Sludge Wave  
-- Focus Blast  
+EVs: 236 HP / 196 Def / 76 SpD  
+Calm Nature  
+- Tri Attack  
+- Ice Beam  
+- Thunder Wave  
+- Recover
 
-Woobat @ Berry Juice  
-Ability: Simple  
+Tyrunt @ Eviolite  
+Ability: Strong Jaw  
 Level: 5  
-EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
-Timid Nature  
-- Nasty Plot  
-- Psychic  
-- Heat Wave  
-- Air Slash  
+EVs: 204 Atk / 76 SpD / 212 Spe  
+Adamant Nature
+- Stone Edge  
+- Close Combat  
+- Psychic Fangs  
+- Dragon Dance
 
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
+Elekid @ Life Orb  
+Ability: Vital Spirit  
 Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
-Bold Nature  
-- Moonblast  
-- Wish  
-- Protect  
-- Calm Mind  
-
-Magnemite @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-- Flash Cannon  
-- Volt Switch  
+EVs: 12 Atk / 236 SpA / 236 Spe  
+Hasty Nature  
 - Thunderbolt  
-- Recycle  
+- Cross Chop  
+- Psychic  
+- Volt Switch
+
+Trapinch @ Eviolite  
+Ability: Arena Trap  
+Level: 5  
+EVs: 156 HP / 196 Atk / 76 Def / 76 SpD  
+Adamant Nature  
+- Earthquake  
+- First Impression  
+- Superpower  
+- Quick Attack 

@@ -1,3 +1,13 @@
+Scorbunny @ Berry Juice  
+Ability: Libero  
+Level: 5  
+EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
+Jolly Nature  
+- High Jump Kick  
+- Gunk Shot  
+- Acrobatics  
+- Flame Charge
+
 Shellder @ Eviolite  
 Ability: Skill Link  
 Level: 5  
@@ -6,37 +16,37 @@ Adamant Nature
 - Icicle Spear  
 - Shell Smash  
 - Rock Blast  
-- Liquidation  
+- Ice Shard
 
-Zigzagoon @ Berry Juice  
-Ability: Quick Feet  
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
 Level: 5  
-EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
-Adamant Nature  
-- Extreme Speed  
-- Belly Drum  
-- Thief  
-- Seed Bomb  
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
+Bold Nature  
+- Moonblast  
+- Wish  
+- Protect  
+- Psychic
 
-Larvesta @ Eviolite  
-Ability: Flame Body  
+Vulpix @ Life Orb  
+Ability: Drought  
 Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
-Jolly Nature  
-- U-turn  
-- Flare Blitz  
-- Morning Sun  
-- Will-O-Wisp  
+EVs: 52 HP / 196 SpA / 236 Spe  
+Hasty Nature  
+- Energy Ball  
+- Weather Ball  
+- Extrasensory 
+- Quick Attack
 
-Diglett @ Life Orb  
-Ability: Arena Trap  
+Staryu @ Life Orb  
+Ability: Analytic  
 Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Earthquake  
-- Sucker Punch  
-- Rock Slide  
-- Stealth Rock  
+EVs: 76 Def / 196 SpA / 236 Spe  
+Timid Nature  
+- Hydro Pump 
+- Psychic  
+- Thunderbolt  
+- Ice Beam 
 
 Scraggy @ Eviolite  
 Ability: Moxie  
@@ -45,15 +55,5 @@ EVs: 236 Atk / 36 SpD / 212 Spe
 Adamant Nature  
 - Dragon Dance  
 - Knock Off  
-- Drain Punch  
 - High Jump Kick  
-
-Meowth @ Life Orb  
-Ability: Technician  
-Level: 5  
-EVs: 236 Atk / 36 SpD / 196 Spe  
-Jolly Nature  
-- Fake Out  
-- Feint  
-- Aerial Ace  
-- Water Pulse  
+- Poison Jab 

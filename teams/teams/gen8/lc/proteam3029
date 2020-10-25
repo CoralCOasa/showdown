@@ -1,60 +1,60 @@
+Omanyte @ Eviolite  
+Ability: Shell Armor  
+Level: 5  
+EVs: 76 HP / 196 SpA / 236 Spe  
+Modest Nature  
+- Shell Smash  
+- Hydro Pump  
+- Ice Beam  
+- Earth Power
+
+Diglett @ Eviolite  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 236 Atk / 236 Spe  
+Hasty Nature
+- Earthquake  
+- Earth Power  
+- Rock Slide  
+- Sucker Punch
+
 Trapinch @ Eviolite  
 Ability: Arena Trap  
 Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Relaxed Nature  
+EVs: 156 HP / 196 Atk / 76 Def / 76 SpD  
+Adamant Nature  
 - Earthquake  
 - First Impression  
 - Superpower  
-- Giga Drain  
+- Quick Attack 
 
-Woobat @ Berry Juice  
-Ability: Simple  
-Level: 5  
-EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
-Timid Nature  
-- Nasty Plot  
-- Psychic  
-- Heat Wave  
-- Air Slash  
-
-Natu @ Eviolite  
-Ability: Magic Bounce  
-Level: 5  
-EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Psychic  
-- Heat Wave  
-- U-turn  
-- Roost  
-
-Abra @ Focus Sash  
-Ability: Magic Guard  
-Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-- Psychic  
-- Dazzling Gleam  
-- Energy Ball  
-- Shadow Ball  
-
-Foongus @ Eviolite  
+Slowpoke @ Eviolite  
 Ability: Regenerator  
 Level: 5  
-EVs: 124 HP / 156 Def / 156 SpD  
-Bold Nature  
-- Giga Drain  
-- Spore  
-- Sludge Bomb  
-- Synthesis  
+EVs: 116 HP / 76 Def / 116 SpA / 196 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Psychic 
+- Slack Off  
+- Teleport
 
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
+Staryu @ Eviolite  
+Ability: Analytic  
 Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
-Bold Nature  
-- Moonblast  
-- Wish  
-- Protect  
-- Calm Mind  
+EVs: 156 Def / 116 SpA / 236 Spe  
+Timid Nature  
+- Hydro Pump 
+- Thunderbolt  
+- Psychic  
+- Rapid Spin 
+
+Drilbur @ Berry Juice  
+Ability: Mold Breaker  
+Level: 5  
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
+Jolly Nature  
+- Earthquake  
+- Rapid Spin  
+- Rock Slide  
+- Stealth Rock 

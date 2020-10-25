@@ -1,59 +1,60 @@
-Drilbur @ Eviolite  
-Ability: Mold Breaker  
+Dewpider @ Eviolite 
+Ability: Water Bubble  
 Level: 5  
-EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
+EVs: 132 HP / 116 Atk / 20 Def / 116 SpA / 20 SpD / 60 Spe  
+Adamant Nature  
+- Liquidation  
+- Leech Life  
+- Magic Coat  
+- Sticky Web
+
+Elekid @ Life Orb  
+Ability: Vital Spirit  
+Level: 5  
+EVs: 12 Atk / 236 SpA / 236 Spe  
+Hasty Nature  
+- Thunderbolt  
+- Cross Chop  
+- Psychic  
+- Volt Switch
+
+Chinchou @ Eviolite  
+Ability: Volt Absorb  
+Level: 5  
+EVs: 236 HP / 212 Def / 60 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Scald  
+- Ice Beam  
+- Thunder Wave 
+
+Diglett @ Life Orb  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 236 Atk / 236 Spe  
 Jolly Nature  
 - Earthquake  
-- Rapid Spin  
+- Sucker Punch  
 - Rock Slide  
-- Stealth Rock  
+- Memento
 
-Ferroseed @ Eviolite  
-Ability: Iron Barbs  
+Meowth @ Life Orb  
+Ability: Technician  
 Level: 5  
-EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
-Impish Nature  
-- Knock Off  
-- Thunder Wave  
-- Spikes  
-- Giga Drain
+EVs: 36 HP / 236 Atk / 36 SpA / 196 Spe  
+Naughty Nature  
+- Fake Out  
+- Feint  
+- Water Pulse  
+- Knock Off 
 
-Farfetch’d-Galar @ Eviolite  
-Ability: Scrappy  
+Mudbray @ Choice Scarf  
+Ability: Stamina  
 Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Swords Dance  
-- Close Combat  
-- Brave Bird  
-- Knock Off  
-
-Wingull @ Life Orb  
-Ability: Hydration  
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-- Scald  
-- Hurricane  
-- U-turn  
-- Air Slash  
-
-Grookey @ Eviolite  
-Ability: Grassy Surge  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
-Jolly Nature  
-- Grassy Glide  
-- Knock Off  
-- Drain Punch  
-- U-turn  
-
-Zigzagoon @ Berry Juice  
-Ability: Quick Feet  
-Level: 5  
-EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
-Adamant Nature  
-- Extreme Speed  
-- Belly Drum  
-- Thief  
-- Seed Bomb  
+EVs: 36 HP / 196 Atk / 36 Def / 236 Spe  
+Adamant Nature
+- Earthquake  
+- Rock Slide  
+- Heavy Slam  
+- Close Combat

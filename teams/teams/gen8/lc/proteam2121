@@ -1,60 +1,60 @@
-Natu @ Eviolite  
-Ability: Magic Bounce  
+Chinchou @ Eviolite  
+Ability: Volt Absorb  
 Level: 5  
-EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
-Timid Nature  
+EVs: 236 HP / 212 Def / 60 Spe  
+Bold Nature  
 IVs: 0 Atk  
-- Psychic  
-- Heat Wave  
-- U-turn  
-- Roost  
-
-Staryu @ Eviolite  
-Ability: Natural Cure  
-Level: 5  
-EVs: 116 HP / 156 Def / 236 Spe  
-Timid Nature  
-- Rapid Spin  
-- Thunderbolt  
-- Recover  
+- Volt Switch  
 - Scald  
+- Ice Beam  
+- Thunder Wave 
 
-Farfetch’d-Galar @ Eviolite  
-Ability: Scrappy  
+Archen @ Berry Juice  
+Ability: Defeatist  
 Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
+EVs: 76 HP / 180 Atk / 196 Spe  
 Jolly Nature  
-- Swords Dance  
+- Stone Edge  
+- Dual Wingbeat  
+- Earthquake  
+- U-turn
+
+Tyrunt @ Eviolite  
+Ability: Strong Jaw  
+Level: 5  
+EVs: 204 Atk / 76 SpD / 212 Spe  
+Jolly Nature  
+- Stone Edge  
 - Close Combat  
-- Brave Bird  
-- Knock Off  
+- Psychic Fangs  
+- Dragon Dance
 
-Dwebble @ Berry Juice  
-Ability: Sturdy  
+Wingull @ Life Orb 
+Ability: Hydration  
 Level: 5  
-EVs: 236 Atk / 236 Spe  
-Adamant Nature  
-- Shell Smash  
-- Rock Blast  
-- Earthquake  
-- Knock Off  
-
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
-Adamant Nature  
-- Body Slam  
-- Earthquake  
-- Curse  
-- Recycle
-
-Croagunk @ Eviolite  
-Ability: Dry Skin  
-Level: 5  
-EVs: 116 Def / 188 SpA / 196 Spe  
+EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
-- Vacuum Wave  
-- Nasty Plot  
-- Sludge Wave  
-- Focus Blast  
+- Scald  
+- Hurricane  
+- U-turn  
+- Knock Off
+
+Corphish @ Eviolite  
+Ability: Adaptability  
+Level: 5  
+EVs: 196 Atk / 76 Def / 236 Spe  
+Adamant Nature  
+- Aqua Jet  
+- Crabhammer  
+- Knock Off  
+- Swords Dance 
+
+Abra @ Focus Sash  
+Ability: Magic Guard  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Psychic  
+- Dazzling Gleam  
+- Energy Ball 
+- Protect

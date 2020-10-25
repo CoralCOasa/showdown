@@ -1,60 +1,60 @@
-Natu @ Eviolite  
-Ability: Magic Bounce  
-Level: 5  
-EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Psychic  
-- Heat Wave  
-- U-turn  
-- Roost  
-
-Ponyta-Galar @ Eviolite  
-Ability: Pastel Veil  
-Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-- Mystical Fire  
-- Psychic  
-- Dazzling Gleam  
-- Calm Mind  
-
-Shellder @ Eviolite  
-Ability: Skill Link  
-Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Icicle Spear  
-- Shell Smash  
-- Rock Blast  
-- Liquidation  
-
-Onix @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
-Jolly Nature  
-- Earthquake  
-- Stealth Rock  
-- Rock Blast  
-- Dragon Dance  
-
-Woobat @ Berry Juice  
-Ability: Simple  
-Level: 5  
-EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
-Timid Nature  
-- Nasty Plot  
-- Psychic  
-- Heat Wave  
-- Air Slash  
-
-Mienfoo @ Eviolite  
+Slowpoke @ Eviolite  
 Ability: Regenerator  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
+EVs: 116 HP / 76 Def / 116 SpA / 196 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Future Sight  
+- Slack Off  
+- Teleport
+
+Drilbur @ Berry Juice  
+Ability: Mold Breaker  
+Level: 5  
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
 Jolly Nature  
-- Knock Off  
-- U-turn  
-- High Jump Kick  
-- Fake Out  
+- Earthquake  
+- Rapid Spin  
+- Rock Slide  
+- Swords Dance
+
+Chinchou @ Eviolite  
+Ability: Volt Absorb  
+Level: 5  
+EVs: 52 Def / 228 SpA / 220 Spe  
+Timid Nature  
+- Volt Switch  
+- Scald  
+- Ice Beam  
+- Hydro Pump
+
+Porygon @ Eviolite  
+Ability: Download  
+Level: 5  
+EVs: 36 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Agility  
+- Tri Attack  
+- Psychic  
+- Ice Beam
+
+Zigzagoon @ Berry Juice  
+Ability: Pickup  
+Level: 5  
+EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
+Adamant Nature  
+- Belly Drum  
+- Extreme Speed  
+- Thief  
+- Seed Bomb
+
+Magnemite @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Timid Nature  
+- Flash Cannon  
+- Volt Switch  
+- Endure  
+- Recycle  

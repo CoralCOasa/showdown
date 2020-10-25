@@ -1,22 +1,42 @@
-Wingull @ Life Orb  
-Ability: Hydration  
+Corphish @ Eviolite  
+Ability: Adaptability  
 Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-- Scald  
-- Hurricane  
-- U-turn  
-- Air Slash  
+EVs: 196 Atk / 76 Def / 236 Spe  
+Adamant Nature  
+- Aqua Jet  
+- Crabhammer  
+- Knock Off  
+- Swords Dance 
 
-Vulpix @ Choice Scarf  
-Ability: Drought  
+Pawniard @ Eviolite  
+Ability: Defiant  
 Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
-Timid Nature  
-- Energy Ball  
-- Weather Ball  
-- Overheat  
-- Fire Blast  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Iron Head  
+- Knock Off  
+- Sucker Punch  
+- Swords Dance 
+
+Vullaby @ Eviolite 
+Ability: Weak Armor  
+Level: 5  
+EVs: 76 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Nasty Plot  
+- Air Slash  
+- Heat Wave  
+- Dark Pulse
+
+Archen @ Berry Juice  
+Ability: Defeatist  
+Level: 5  
+EVs: 76 HP / 180 Atk / 196 Spe  
+Jolly Nature  
+- Stone Edge  
+- Dual Wingbeat  
+- Earthquake  
+- U-turn
 
 Larvesta @ Eviolite  
 Ability: Flame Body  
@@ -26,34 +46,14 @@ Jolly Nature
 - U-turn  
 - Flare Blitz  
 - Morning Sun  
-- Will-O-Wisp  
+- Will-O-Wisp
 
-Tirtouga @ Berry Juice  
-Ability: Sturdy  
+Timburr @ Eviolite  
+Ability: Iron Fist 
 Level: 5  
-EVs: 212 Atk / 92 Def / 180 Spe  
-Jolly Nature  
-- Shell Smash  
-- Waterfall  
-- Stone Edge  
-- Zen Headbutt
-
-Diglett @ Life Orb  
-Ability: Arena Trap  
-Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Earthquake  
-- Sucker Punch  
-- Rock Slide  
-- Stealth Rock  
-
-Vullaby @ Berry Juice  
-Ability: Weak Armor  
-Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Jolly Nature  
+EVs: 196 Atk / 156 Def / 156 SpD  
+Adamant Nature  
+- Drain Punch  
 - Knock Off  
-- Brave Bird  
-- U-turn  
-- Defog  
+- Mach Punch  
+- Defog 

@@ -1,59 +1,60 @@
-Scraggy @ Eviolite  
-Ability: Moxie  
+Meowth @ Life Orb  
+Ability: Technician  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
-Adamant Nature  
-- Dragon Dance  
-- Knock Off  
-- Drain Punch  
-- High Jump Kick  
+EVs: 36 HP / 236 Atk / 36 SpA / 196 Spe  
+Naughty Nature  
+- Fake Out  
+- Feint  
+- Water Pulse  
+- Double-Edge 
 
-Chinchou @ Eviolite  
-Ability: Volt Absorb  
+Ponyta @ Eviolite  
+Ability: Flame Body  
 Level: 5  
-EVs: 52 Def / 228 SpA / 220 Spe  
-Timid Nature  
-- Volt Switch  
-- Scald  
-- Ice Beam  
-- Thunderbolt  
-
-Scorbunny @ Berry Juice  
-Ability: Libero  
-Level: 5  
-EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
+EVs: 236 Atk / 76 SpD / 196 Spe  
 Jolly Nature  
-- High Jump Kick  
-- U-turn  
-- Blaze Kick  
-- Gunk Shot  
+- Flare Blitz  
+- High Horsepower  
+- Morning Sun  
+- Wild Charge 
 
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
+Croagunk @ Eviolite  
+Ability: Dry Skin  
 Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
+EVs: 116 Def / 188 SpA / 196 Spe  
+Modest Nature  
+- Nasty Plot  
+- Vacuum Wave  
+- Sludge Wave  
+- Focus Blast 
+
+Mudbray @ Choice Scarf  
+Ability: Stamina  
+Level: 5  
+EVs: 36 HP / 196 Atk / 36 Def / 236 Spe  
+Adamant Nature
+- Earthquake  
+- Rock Slide  
+- Heavy Slam  
+- Close Combat
+
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
+Level: 5  
+EVs: 84 HP / 188 Def / 84 SpA / 148 SpD  
+Sassy Nature  
+- Knock Off  
+- Thunder Wave  
+- Stealth Rock  
+- Giga Drain
+
+Mareanie @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 196 HP / 20 Def / 92 SpA / 180 SpD  
 Bold Nature  
-- Moonblast  
-- Wish  
-- Protect  
-- Calm Mind  
-
-Koffing @ Eviolite  
-Ability: Levitate  
-Level: 5  
-EVs: 36 HP / 236 Def / 236 SpD  
-Bold Nature  
-- Will-O-Wisp  
-- Toxic Spikes  
-- Pain Split  
-- Sludge Bomb  
-
-Magnemite @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-- Flash Cannon  
-- Volt Switch  
-- Thunderbolt  
-- Recycle  
+IVs: 0 Atk  
+- Recover  
+- Scald  
+- Toxic Spikes 
+- Sludge Bomb

@@ -1,32 +1,22 @@
-Mudbray @ Eviolite  
-Ability: Stamina  
+Carvanha @ Life Orb  
+Ability: Speed Boost  
 Level: 5  
-EVs: 116 HP / 36 Atk / 196 Def / 156 Spe  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
 Adamant Nature  
-- Earthquake  
-- Stealth Rock  
-- Rock Slide  
-- Heavy Slam  
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation
 
-Croagunk @ Eviolite  
-Ability: Dry Skin  
+Ponyta @ Eviolite  
+Ability: Flame Body  
 Level: 5  
-EVs: 116 Def / 188 SpA / 196 Spe  
-Timid Nature  
-- Vacuum Wave  
-- Nasty Plot  
-- Sludge Wave  
-- Focus Blast  
-
-Trapinch @ Eviolite  
-Ability: Arena Trap  
-Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Relaxed Nature  
-- Earthquake  
-- First Impression  
-- Superpower  
-- Giga Drain  
+EVs: 76 Atk / 156 Def / 76 SpD / 196 Spe  
+Jolly Nature  
+- Flare Blitz  
+- High Horsepower  
+- Will-O-Wisp  
+- Morning Sun
 
 Ponyta-Galar @ Eviolite  
 Ability: Pastel Veil  
@@ -36,24 +26,35 @@ Timid Nature
 - Mystical Fire  
 - Psychic  
 - Dazzling Gleam  
-- Calm Mind  
+- Calm Mind
 
-Vulpix @ Choice Scarf  
-Ability: Drought  
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
 Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
-Timid Nature  
-- Energy Ball  
-- Weather Ball  
-- Overheat  
-- Fire Blast  
+EVs: 52 HP / 116 Def / 252 SpA / 76 SpD / 12 Spe  
+Quiet Nature  
+IVs: 0 Atk / 0 Spe  
+- Moonblast  
+- Psychic  
+- Nasty Plot  
+- Trick Room
 
-Staryu @ Eviolite  
-Ability: Natural Cure  
+Dwebble @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 116 HP / 156 Def / 236 Spe  
-Timid Nature  
-- Rapid Spin  
-- Thunderbolt  
-- Recover  
-- Scald  
+EVs: 236 Atk / 236 Spe  
+Adamant Nature  
+- Rock Blast  
+- Earthquake 
+- Knock Off  
+- Shell Smash
+
+Omanyte @ Eviolite  
+Ability: Shell Armor  
+Level: 5  
+EVs: 76 HP / 196 SpA / 236 Spe  
+Modest Nature  
+- Shell Smash  
+- Hydro Pump  
+- Ice Beam  
+- Earth Power

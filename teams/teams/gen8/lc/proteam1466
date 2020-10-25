@@ -1,22 +1,12 @@
-Vullaby @ Berry Juice  
-Ability: Weak Armor  
+Meowth @ Life Orb  
+Ability: Technician  
 Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Jolly Nature  
-- Knock Off  
-- Brave Bird  
-- U-turn  
-- Defog  
-
-Mienfoo @ Eviolite  
-Ability: Regenerator  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
-Jolly Nature  
-- Knock Off  
-- U-turn  
-- High Jump Kick  
+EVs: 36 HP / 236 Atk / 36 SpA / 196 Spe  
+Naughty Nature  
 - Fake Out  
+- Feint  
+- Water Pulse  
+- Aerial Ace 
 
 Ferroseed @ Eviolite  
 Ability: Iron Barbs  
@@ -24,36 +14,47 @@ Level: 5
 EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
 Impish Nature  
 - Knock Off  
-- Thunder Wave  
-- Spikes  
-- Giga Drain
+- Spikes 
+- Iron Head  
+- Bullet Seed
 
-Woobat @ Berry Juice  
-Ability: Simple  
+Shellder @ Eviolite  
+Ability: Skill Link  
 Level: 5  
-EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Adamant Nature  
+- Icicle Spear  
+- Shell Smash  
+- Rock Blast  
+- Ice Shard
+
+Natu @ Eviolite  
+Ability: Magic Bounce  
+Level: 5  
+EVs: 36 HP / 76 Def / 116 SpA / 76 SpD / 196 Spe  
 Timid Nature  
-- Nasty Plot  
 - Psychic  
 - Heat Wave  
-- Air Slash  
+- Dazzling Gleam 
+- Roost
 
-Koffing @ Eviolite  
-Ability: Levitate  
-Level: 5  
-EVs: 36 HP / 236 Def / 236 SpD  
-Bold Nature  
-- Will-O-Wisp  
-- Toxic Spikes  
-- Pain Split  
-- Sludge Bomb  
-
-Larvesta @ Eviolite  
+Larvesta @ Heavy-Duty Boots  
 Ability: Flame Body  
 Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
+EVs: 76 HP / 76 Atk / 76 Def / 76 SpD / 196 Spe  
 Jolly Nature  
 - U-turn  
 - Flare Blitz  
 - Morning Sun  
-- Will-O-Wisp  
+- Will-O-Wisp
+
+Mareanie @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 196 HP / 20 Def / 92 SpA / 180 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Recover  
+- Scald  
+- Toxic Spikes 
+- Sludge Bomb

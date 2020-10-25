@@ -1,32 +1,12 @@
-Onix @ Berry Juice  
-Ability: Sturdy  
+Omanyte @ Eviolite  
+Ability: Shell Armor  
 Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
-Jolly Nature  
-- Earthquake  
-- Stealth Rock  
-- Rock Blast  
-- Dragon Dance  
-
-Staryu @ Eviolite  
-Ability: Natural Cure  
-Level: 5  
-EVs: 116 HP / 156 Def / 236 Spe  
-Timid Nature  
-- Rapid Spin  
-- Thunderbolt  
-- Recover  
-- Scald  
-
-Abra @ Focus Sash  
-Ability: Magic Guard  
-Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-- Psychic  
-- Dazzling Gleam  
-- Energy Ball  
-- Shadow Ball  
+EVs: 76 HP / 196 SpA / 236 Spe  
+Modest Nature  
+- Shell Smash  
+- Hydro Pump  
+- Ice Beam  
+- Earth Power
 
 Grookey @ Eviolite  
 Ability: Grassy Surge  
@@ -36,24 +16,44 @@ Jolly Nature
 - Grassy Glide  
 - Knock Off  
 - Drain Punch  
-- U-turn  
+- U-turn 
 
-Porygon @ Eviolite  
-Ability: Download  
+Meowth @ Life Orb  
+Ability: Technician  
 Level: 5  
-EVs: 36 Def / 236 SpA / 196 Spe  
-Modest Nature  
-- Tri Attack  
-- Recover  
-- Ice Beam  
-- Psychic  
+EVs: 36 HP / 236 Atk / 36 SpD / 196 Spe  
+Jolly Nature  
+- Fake Out  
+- Feint  
+- Knock Off  
+- Double-Edge 
 
-Zigzagoon @ Berry Juice  
-Ability: Quick Feet  
+Munchlax @ Eviolite  
+Ability: Thick Fat  
 Level: 5  
-EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
+EVs: 236 Atk / 196 Def / 76 SpD  
+Impish Nature  
+- Facade  
+- Earthquake  
+- Rest  
+- Sleep Talk
+
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
+Level: 5  
+EVs: 84 HP / 188 Def / 84 SpA / 148 SpD  
+Sassy Nature  
+- Knock Off  
+- Thunder Wave  
+- Spikes 
+- Giga Drain
+
+Corphish @ Eviolite  
+Ability: Adaptability  
+Level: 5  
+EVs: 196 Atk / 76 Def / 236 Spe  
 Adamant Nature  
-- Extreme Speed  
-- Belly Drum  
-- Thief  
-- Seed Bomb  
+- Aqua Jet  
+- Crabhammer  
+- Knock Off  
+- Swords Dance 

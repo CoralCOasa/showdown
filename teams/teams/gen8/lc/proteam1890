@@ -1,60 +1,62 @@
-Tirtouga @ Berry Juice  
-Ability: Sturdy  
+Amaura @ Choice Scarf  
+Ability: Refrigerate  
 Level: 5  
-EVs: 212 Atk / 92 Def / 180 Spe  
-Jolly Nature  
-- Shell Smash  
-- Waterfall  
-- Stone Edge  
-- Zen Headbutt
+EVs: 60 HP / 220 SpA / 228 Spe  
+Modest Nature
+IVs: 0 Atk  
+- Hyper Voice  
+- Earth Power  
+- Freeze-Dry  
+- Hyper Beam
 
-Diglett @ Life Orb  
-Ability: Arena Trap  
+Dwebble @ Eviolite  
+Ability: Weak Armor  
 Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Earthquake  
-- Sucker Punch  
-- Rock Slide  
+EVs: 116 HP / 76 Atk / 156 Def / 156 Spe  
+Impish Nature  
+- Rock Blast  
+- Knock Off  
 - Stealth Rock  
+- Spikes
 
-Vulpix @ Choice Scarf  
-Ability: Drought  
+Farfetch’d-Galar @ Eviolite  
+Ability: Scrappy  
 Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
-Timid Nature  
-- Energy Ball  
-- Weather Ball  
-- Overheat  
-- Fire Blast  
+EVs: 20 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Swords Dance  
+- Close Combat  
+- Brave Bird  
+- Knock Off
 
-Zigzagoon @ Berry Juice  
-Ability: Quick Feet  
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
 Level: 5  
-EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
-Adamant Nature  
-- Extreme Speed  
-- Belly Drum  
-- Thief  
-- Seed Bomb  
+EVs: 52 HP / 116 Def / 252 SpA / 76 SpD / 12 Spe  
+Quiet Nature  
+IVs: 0 Atk / 0 Spe  
+- Moonblast  
+- Psychic  
+- Nasty Plot  
+- Trick Room
 
-Bunnelby @ Eviolite  
-Ability: Huge Power  
+Foongus @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 228 Atk / 132 Def / 148 SpD  
-Adamant Nature  
-- Earthquake  
-- Quick Attack  
-- U-turn  
-- Facade
+EVs: 124 HP / 156 Def / 156 SpD  
+Bold Nature  
+- Giga Drain  
+- Spore  
+- Sludge Bomb  
+- Synthesis
 
-Natu @ Eviolite  
-Ability: Magic Bounce  
+Dewpider @ Eviolite  
+Ability: Water Bubble  
 Level: 5  
-EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
+EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
 Timid Nature  
 IVs: 0 Atk  
-- Psychic  
-- Heat Wave  
-- U-turn  
-- Roost  
+- Scald 
+- Giga Drain  
+- Icy Wind 
+- Sticky Web

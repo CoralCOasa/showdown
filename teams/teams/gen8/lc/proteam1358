@@ -1,59 +1,61 @@
-Staryu @ Eviolite  
-Ability: Natural Cure  
-Level: 5  
-EVs: 116 HP / 156 Def / 236 Spe  
-Timid Nature  
-- Rapid Spin  
-- Thunderbolt  
-- Recover  
-- Scald  
-
-Dwebble @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 236 Atk / 236 Spe  
-Adamant Nature  
-- Shell Smash  
-- Rock Blast  
-- Earthquake  
-- Knock Off  
-
-Mareanie @ Eviolite  
+Slowpoke @ Eviolite  
 Ability: Regenerator  
 Level: 5  
-EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
-Bold Nature  
-- Recover  
+EVs: 116 HP / 76 Def / 116 SpA / 196 SpD  
+Calm Nature  
+IVs: 0 Atk  
 - Scald  
-- Toxic Spikes  
-- Sludge Bomb  
+- Psychic 
+- Slack Off  
+- Teleport
 
-Larvesta @ Eviolite  
-Ability: Flame Body  
+Croagunk @ Eviolite  
+Ability: Dry Skin  
+Level: 5  
+EVs: 116 Def / 188 SpA / 196 Spe  
+Timid Nature
+- Nasty Plot  
+- Vacuum Wave  
+- Sludge Wave  
+- Focus Blast 
+
+Munchlax @ Eviolite  
+Ability: Thick Fat  
+Level: 5  
+EVs: 236 Atk / 196 Def / 76 SpD  
+Impish Nature  
+- Body Slam 
+- Earthquake  
+- Rest  
+- Sleep Talk
+
+Onix @ Eviolite  
+Ability: Weak Armor  
 Level: 5  
 EVs: 76 HP / 236 Atk / 196 Spe  
 Jolly Nature  
-- U-turn  
-- Flare Blitz  
-- Morning Sun  
-- Will-O-Wisp  
-
-Archen @ Berry Juice  
-Ability: Defeatist  
-Level: 5  
-EVs: 76 HP / 180 Atk / 196 Spe  
-Jolly Nature  
-- Stone Edge  
-- Dual Wingbeat  
+- Rock Blast  
 - Earthquake  
-- U-turn
+- Stealth Rock  
+- Body Press 
 
-Bunnelby @ Eviolite  
-Ability: Huge Power  
+Timburr @ Eviolite  
+Ability: Iron Fist 
 Level: 5  
-EVs: 228 Atk / 132 Def / 148 SpD  
+EVs: 196 Atk / 156 Def / 156 SpD  
 Adamant Nature  
-- Earthquake  
-- Quick Attack  
-- U-turn  
-- Facade
+- Drain Punch  
+- Knock Off  
+- Mach Punch  
+- Thunder Punch 
+
+Porygon @ Eviolite  
+Ability: Download  
+Level: 5  
+EVs: 76 HP / 196 Def / 236 SpA  
+Quiet Nature  
+IVs: 0 Atk / 0 Spe  
+- Tri Attack  
+- Ice Beam  
+- Thunderbolt 
+- Trick Room

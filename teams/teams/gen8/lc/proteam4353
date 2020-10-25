@@ -1,59 +1,60 @@
-Ponyta-Galar @ Eviolite  
-Ability: Pastel Veil  
+Smoochum (F) @ Choice Scarf  
+Ability: Oblivious  
 Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-- Mystical Fire  
+EVs: 236 SpA / 236 Spe  
+Modest Nature
+IVs: 0 Atk  
+- Ice Beam  
 - Psychic  
-- Dazzling Gleam  
-- Calm Mind  
+- Shadow Ball  
+- Trick
 
-Diglett @ Life Orb  
-Ability: Arena Trap  
+Mienfoo @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Earthquake  
-- Sucker Punch  
-- Rock Slide  
-- Stealth Rock  
-
-Vullaby @ Berry Juice  
-Ability: Weak Armor  
-Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
+EVs: 236 Atk / 36 Def / 236 Spe  
 Jolly Nature  
 - Knock Off  
-- Brave Bird  
 - U-turn  
-- Defog  
+- High Jump Kick 
+- Fake Out 
 
-Shellder @ Eviolite  
-Ability: Skill Link  
+Timburr @ Eviolite  
+Ability: Guts  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
+EVs: 196 Atk / 156 Def / 156 SpD  
 Adamant Nature  
-- Icicle Spear  
-- Shell Smash  
-- Rock Blast  
-- Liquidation  
-
-Scraggy @ Eviolite  
-Ability: Moxie  
-Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
-Adamant Nature  
-- Dragon Dance  
-- Knock Off  
 - Drain Punch  
-- High Jump Kick  
+- Knock Off  
+- Mach Punch  
+- Defog 
 
-Magnemite @ Berry Juice  
-Ability: Sturdy  
+Tyrunt @ Eviolite  
+Ability: Strong Jaw  
 Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-- Flash Cannon  
-- Volt Switch  
-- Thunderbolt  
-- Recycle  
+EVs: 204 Atk / 76 SpD / 212 Spe  
+Jolly Nature  
+- Stone Edge  
+- Close Combat  
+- Psychic Fangs  
+- Dragon Dance
+
+Meowth @ Life Orb  
+Ability: Technician  
+Level: 5  
+EVs: 36 HP / 236 Atk / 36 SpA / 196 Spe  
+Naughty Nature  
+- Fake Out  
+- Feint  
+- Water Pulse  
+- Knock Off 
+
+Ferroseed @ Eviolite 
+Ability: Iron Barbs  
+Level: 5  
+EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
+Impish Nature  
+- Knock Off  
+- Thunder Wave  
+- Stealth Rock  
+- Bullet Seed

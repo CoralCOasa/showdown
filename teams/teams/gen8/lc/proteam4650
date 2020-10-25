@@ -1,59 +1,61 @@
-Scraggy @ Eviolite  
-Ability: Moxie  
+Trapinch @ Eviolite  
+Ability: Arena Trap  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
+EVs: 156 HP / 196 Atk / 76 Def / 76 SpD  
 Adamant Nature  
+- Earthquake  
+- First Impression  
+- Superpower  
+- Quick Attack 
+
+Mareanie @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Recover  
+- Scald  
+- Toxic Spikes 
+- Sludge Bomb
+
+Elekid @ Life Orb  
+Ability: Vital Spirit  
+Level: 5  
+EVs: 12 Atk / 236 SpA / 236 Spe  
+Hasty Nature  
+- Thunderbolt  
+- Cross Chop  
+- Psychic  
+- Volt Switch
+
+Scraggy @ Eviolite  
+Ability: Moxie 
+Level: 5  
+EVs: 36 HP / 156 Atk / 36 Def / 36 SpD / 212 Spe  
+Jolly Nature  
 - Dragon Dance  
 - Knock Off  
 - Drain Punch  
-- High Jump Kick  
+- High Jump Kick 
 
-Archen @ Berry Juice  
-Ability: Defeatist  
+Smoochum (F) @ Choice Scarf  
+Ability: Oblivious  
 Level: 5  
-EVs: 76 HP / 180 Atk / 196 Spe  
+EVs: 236 SpA / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Psychic  
+- Shadow Ball  
+- Trick
+
+Tyrunt @ Eviolite  
+Ability: Strong Jaw  
+Level: 5  
+EVs: 204 Atk / 76 SpD / 212 Spe  
 Jolly Nature  
 - Stone Edge  
-- Dual Wingbeat  
-- Earthquake  
-- U-turn
-
-Chinchou @ Eviolite  
-Ability: Volt Absorb  
-Level: 5  
-EVs: 52 Def / 228 SpA / 220 Spe  
-Timid Nature  
-- Volt Switch  
-- Scald  
-- Ice Beam  
-- Thunderbolt  
-
-Croagunk @ Eviolite  
-Ability: Dry Skin  
-Level: 5  
-EVs: 116 Def / 188 SpA / 196 Spe  
-Timid Nature  
-- Vacuum Wave  
-- Nasty Plot  
-- Sludge Wave  
-- Focus Blast  
-
-Ponyta-Galar @ Eviolite  
-Ability: Pastel Veil  
-Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-- Mystical Fire  
-- Psychic  
-- Dazzling Gleam  
-- Calm Mind  
-
-Diglett @ Life Orb  
-Ability: Arena Trap  
-Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Earthquake  
-- Sucker Punch  
-- Rock Slide  
-- Stealth Rock  
+- Close Combat  
+- Psychic Fangs  
+- Dragon Dance

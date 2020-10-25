@@ -1,42 +1,12 @@
-Meowth @ Life Orb  
-Ability: Technician  
+Timburr @ Eviolite  
+Ability: Iron Fist 
 Level: 5  
-EVs: 236 Atk / 36 SpD / 196 Spe  
-Jolly Nature  
-- Fake Out  
-- Feint  
-- Aerial Ace  
-- Water Pulse  
-
-Wingull @ Life Orb  
-Ability: Hydration  
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-- Scald  
-- Hurricane  
-- U-turn  
-- Air Slash  
-
-Mienfoo @ Eviolite  
-Ability: Regenerator  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
-Jolly Nature  
+EVs: 196 Atk / 156 Def / 156 SpD  
+Adamant Nature  
+- Drain Punch  
 - Knock Off  
-- U-turn  
-- High Jump Kick  
-- Fake Out  
-
-Diglett @ Life Orb  
-Ability: Arena Trap  
-Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Earthquake  
-- Sucker Punch  
-- Rock Slide  
-- Stealth Rock  
+- Mach Punch  
+- Bulk Up 
 
 Ponyta-Galar @ Eviolite  
 Ability: Pastel Veil  
@@ -46,14 +16,44 @@ Timid Nature
 - Mystical Fire  
 - Psychic  
 - Dazzling Gleam  
-- Calm Mind  
+- Calm Mind
 
-Ferroseed @ Eviolite  
-Ability: Iron Barbs  
+Staryu @ Eviolite  
+Ability: Analytic  
 Level: 5  
-EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
-Impish Nature  
-- Knock Off  
-- Thunder Wave  
-- Spikes  
-- Giga Drain
+EVs: 156 Def / 116 SpA / 236 Spe  
+Timid Nature  
+- Scald  
+- Thunderbolt  
+- Psychic  
+- Recover
+
+Elekid @ Life Orb  
+Ability: Vital Spirit  
+Level: 5  
+EVs: 12 Atk / 236 SpA / 236 Spe  
+Hasty Nature  
+- Thunderbolt  
+- Cross Chop  
+- Psychic  
+- Volt Switch
+
+Farfetch’d-Galar @ Eviolite  
+Ability: Scrappy  
+Level: 5  
+EVs: 20 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Swords Dance  
+- Close Combat  
+- Brave Bird  
+- Knock Off
+
+Onix @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- Earthquake  
+- Stealth Rock  
+- Rock Blast  
+- Taunt

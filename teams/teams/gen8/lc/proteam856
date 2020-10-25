@@ -1,60 +1,61 @@
-Vulpix @ Choice Scarf  
-Ability: Drought  
+Elekid @ Life Orb  
+Ability: Vital Spirit  
 Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
-Timid Nature  
-- Energy Ball  
-- Weather Ball  
-- Overheat  
-- Fire Blast  
+EVs: 12 Atk / 236 SpA / 236 Spe  
+Hasty Nature  
+- Thunderbolt  
+- Cross Chop  
+- Psychic  
+- Volt Switch
 
-Trapinch @ Eviolite  
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
+Level: 5  
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
+Bold Nature  
+- Moonblast  
+- Wish  
+- Protect  
+- Calm Mind 
+
+Chinchou @ Eviolite  
+Ability: Volt Absorb  
+Level: 5  
+EVs: 236 HP / 212 Def / 60 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Scald  
+- Ice Beam  
+- Thunder Wave 
+
+Diglett @ Life Orb  
 Ability: Arena Trap  
 Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Relaxed Nature  
+EVs: 36 HP / 236 Atk / 236 Spe  
+Jolly Nature  
 - Earthquake  
-- First Impression  
-- Superpower  
-- Giga Drain  
+- Sucker Punch  
+- Rock Slide  
+- Stealth Rock 
 
-Bunnelby @ Eviolite  
-Ability: Huge Power  
+Timburr @ Eviolite  
+Ability: Guts  
 Level: 5  
-EVs: 228 Atk / 132 Def / 148 SpD  
+EVs: 196 Atk / 156 Def / 156 SpD  
 Adamant Nature  
-- Earthquake  
-- Quick Attack  
-- U-turn  
-- Facade
+- Drain Punch  
+- Knock Off  
+- Mach Punch  
+- Bulk Up 
 
-Carvanha @ Life Orb  
-Ability: Speed Boost  
+Mareanie @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
-Adamant Nature  
-- Crunch  
-- Psychic Fangs  
-- Protect  
-- Liquidation  
-
-Porygon @ Eviolite  
-Ability: Download  
-Level: 5  
-EVs: 36 Def / 236 SpA / 196 Spe  
-Modest Nature  
-- Tri Attack  
-- Recover  
-- Ice Beam  
-- Psychic  
-
-Amaura @ Choice Scarf  
-Ability: Refrigerate  
-Level: 5  
-EVs: 60 HP / 220 SpA / 228 Spe  
-Modest Nature  
+EVs: 196 HP / 20 Def / 92 SpA / 180 SpD  
+Bold Nature  
 IVs: 0 Atk  
-- Hyper Voice  
-- Earth Power  
-- Thunderbolt  
-- Ancient Power
+- Recover  
+- Scald  
+- Toxic Spikes 
+- Sludge Bomb

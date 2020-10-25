@@ -1,59 +1,59 @@
-Farfetch’d-Galar @ Eviolite  
-Ability: Scrappy  
+Pawniard @ Choice Scarf  
+Ability: Defiant  
 Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
+EVs: 236 Atk / 36 Def / 36 SpD / 196 Spe  
 Jolly Nature  
-- Swords Dance  
-- Close Combat  
-- Brave Bird  
+- Iron Head  
 - Knock Off  
+- Brick Break  
+- Sucker Punch
 
-Abra @ Focus Sash  
-Ability: Magic Guard  
-Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-- Psychic  
-- Dazzling Gleam  
-- Energy Ball  
-- Shadow Ball  
-
-Corphish @ Eviolite  
-Ability: Adaptability  
-Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
-Adamant Nature  
-- Aqua Jet  
-- Crabhammer  
-- Knock Off  
-- Dragon Dance  
-
-Croagunk @ Eviolite  
-Ability: Dry Skin  
-Level: 5  
-EVs: 116 Def / 188 SpA / 196 Spe  
-Timid Nature  
-- Vacuum Wave  
-- Nasty Plot  
-- Sludge Wave  
-- Focus Blast  
-
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
-Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
-Bold Nature  
-- Moonblast  
-- Wish  
-- Protect  
-- Calm Mind  
-
-Mareanie @ Eviolite  
+Foongus @ Eviolite  
 Ability: Regenerator  
 Level: 5  
-EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+EVs: 124 HP / 156 Def / 156 SpD  
 Bold Nature  
-- Recover  
-- Scald  
-- Toxic Spikes  
+- Giga Drain  
+- Spore  
 - Sludge Bomb  
+- Synthesis
+
+Munchlax @ Eviolite  
+Ability: Thick Fat  
+Level: 5  
+EVs: 236 Atk / 196 Def / 76 SpD  
+Impish Nature  
+- Body Slam 
+- Earthquake  
+- Rest  
+- Sleep Talk
+
+Dwebble @ Eviolite  
+Ability: Weak Armor  
+Level: 5  
+EVs: 116 HP / 76 Atk / 156 Def / 156 Spe  
+Impish Nature  
+- Rock Blast  
+- Knock Off  
+- Stealth Rock  
+- Spikes
+
+Timburr @ Eviolite  
+Ability: Guts  
+Level: 5  
+EVs: 196 Atk / 156 Def / 156 SpD  
+Adamant Nature  
+- Drain Punch  
+- Knock Off  
+- Mach Punch  
+- Defog 
+
+Porygon @ Eviolite  
+Ability: Download  
+Level: 5  
+EVs: 36 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Agility  
+- Tri Attack  
+- Psychic  
+- Ice Beam

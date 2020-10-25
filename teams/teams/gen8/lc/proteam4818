@@ -1,59 +1,61 @@
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
-Adamant Nature  
-- Body Slam  
-- Earthquake  
-- Curse  
-- Recycle
-
-Vullaby @ Berry Juice  
-Ability: Weak Armor  
-Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Jolly Nature  
-- Knock Off  
-- Brave Bird  
-- U-turn  
-- Defog  
-
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
-Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
-Bold Nature  
-- Moonblast  
-- Wish  
-- Protect  
-- Calm Mind  
-
-Mareanie @ Eviolite  
+Mienfoo @ Eviolite  
 Ability: Regenerator  
 Level: 5  
-EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
-Bold Nature  
-- Recover  
-- Scald  
-- Toxic Spikes  
-- Sludge Bomb  
+EVs: 196 Def / 36 SpD / 236 Spe  
+Jolly Nature  
+- Close Combat 
+- Knock Off  
+- U-turn  
+- Fake Out
 
-Shellder @ Eviolite  
-Ability: Skill Link  
+Farfetch’d-Galar @ Choice Scarf  
+Ability: Scrappy  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
+EVs: 20 HP / 236 Atk / 236 Spe  
+Jolly Nature
+- Close Combat  
+- Brave Bird  
+- Knock Off  
+- Leaf Blade
+
+Dewpider @ Eviolite  
+Ability: Water Bubble  
+Level: 5  
+EVs: 52 HP / 196 Atk / 20 Def / 20 SpD / 220 Spe  
 Adamant Nature  
-- Icicle Spear  
-- Shell Smash  
-- Rock Blast  
 - Liquidation  
+- Leech Life  
+- Magic Coat  
+- Sticky Web
 
-Chinchou @ Eviolite  
-Ability: Volt Absorb  
+Smoochum (F) @ Eviolite 
+Ability: Oblivious  
 Level: 5  
-EVs: 52 Def / 228 SpA / 220 Spe  
+EVs: 236 SpA / 236 Spe  
 Timid Nature  
-- Volt Switch  
-- Scald  
+IVs: 0 Atk  
 - Ice Beam  
-- Thunderbolt  
+- Psychic  
+- Shadow Ball  
+- Nasty Plot
+
+Slowpoke @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 116 HP / 76 Def / 116 SpA / 196 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Psychic 
+- Slack Off  
+- Teleport
+
+Archen @ Berry Juice  
+Ability: Defeatist  
+Level: 5  
+EVs: 76 HP / 180 Atk / 196 Spe  
+Jolly Nature  
+- Stone Edge  
+- Dual Wingbeat  
+- Earthquake  
+- U-turn

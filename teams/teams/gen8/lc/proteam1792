@@ -1,59 +1,60 @@
-Croagunk @ Eviolite  
-Ability: Dry Skin  
-Level: 5  
-EVs: 116 Def / 188 SpA / 196 Spe  
-Timid Nature  
-- Vacuum Wave  
-- Nasty Plot  
-- Sludge Wave  
-- Focus Blast  
-
-Archen @ Berry Juice  
-Ability: Defeatist  
-Level: 5  
-EVs: 76 HP / 180 Atk / 196 Spe  
-Jolly Nature  
-- Stone Edge  
-- Dual Wingbeat  
-- Earthquake  
-- U-turn
-
-Larvesta @ Eviolite  
+Ponyta @ Berry Juice  
 Ability: Flame Body  
 Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
+EVs: 236 Atk / 76 SpD / 196 Spe  
 Jolly Nature  
-- U-turn  
 - Flare Blitz  
-- Morning Sun  
-- Will-O-Wisp  
+- High Horsepower  
+- Wild Charge  
+- Will-O-Wisp 
 
-Corphish @ Eviolite  
-Ability: Adaptability  
+Mudbray @ Choice Scarf  
+Ability: Stamina  
 Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
-Adamant Nature  
-- Aqua Jet  
-- Crabhammer  
-- Knock Off  
-- Dragon Dance  
-
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
-Adamant Nature  
-- Body Slam  
+EVs: 36 HP / 196 Atk / 36 Def / 236 Spe  
+Jolly Nature  
 - Earthquake  
-- Curse  
-- Recycle
+- Rock Slide  
+- Heavy Slam  
+- Close Combat
 
-Ferroseed @ Eviolite  
-Ability: Iron Barbs  
+Omanyte @ Eviolite  
+Ability: Shell Armor  
 Level: 5  
-EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
-Impish Nature  
+EVs: 76 HP / 196 SpA / 236 Spe  
+Modest Nature  
+- Shell Smash  
+- Hydro Pump  
+- Ice Beam  
+- Earth Power
+
+Zigzagoon @ Berry Juice  
+Ability: Pickup 
+Level: 5  
+EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
+Adamant Nature  
+- Belly Drum  
+- Extreme Speed  
+- Thief  
+- Seed Bomb
+
+Scraggy @ Eviolite  
+Ability: Moxie  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 212 Spe  
+Adamant Nature  
+- Dragon Dance  
 - Knock Off  
-- Thunder Wave  
-- Spikes  
-- Giga Drain
+- High Jump Kick  
+- Poison Jab
+
+Chinchou @ Eviolite  
+Ability: Volt Absorb  
+Level: 5  
+EVs: 236 HP / 212 Def / 60 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Scald  
+- Ice Beam  
+- Thunder Wave 

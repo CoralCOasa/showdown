@@ -1,60 +1,61 @@
-Tirtouga @ Berry Juice  
-Ability: Sturdy  
+Carvanha @ Life Orb  
+Ability: Speed Boost  
 Level: 5  
-EVs: 212 Atk / 92 Def / 180 Spe  
-Jolly Nature  
-- Shell Smash  
-- Waterfall  
-- Stone Edge  
-- Zen Headbutt
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+Adamant Nature  
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation
 
-Magnemite @ Berry Juice  
-Ability: Sturdy  
+Wingull @ Life Orb 
+Ability: Hydration  
 Level: 5  
 EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
-- Flash Cannon  
-- Volt Switch  
-- Thunderbolt  
-- Recycle  
+- Scald  
+- Hurricane  
+- U-turn  
+- Air Slash 
 
-Ponyta @ Eviolite  
-Ability: Flame Body  
-Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Jolly Nature  
-- Flare Blitz  
-- High Horsepower  
-- Morning Sun  
-- Wild Charge  
-
-Abra @ Focus Sash  
-Ability: Magic Guard  
+Ponyta-Galar @ Eviolite  
+Ability: Pastel Veil  
 Level: 5  
 EVs: 236 SpA / 76 SpD / 196 Spe  
 Timid Nature  
+- Mystical Fire  
 - Psychic  
 - Dazzling Gleam  
-- Energy Ball  
-- Shadow Ball  
+- Calm Mind
 
-Amaura @ Choice Scarf  
-Ability: Refrigerate  
+Vulpix @ Eviolite  
+Ability: Drought  
 Level: 5  
-EVs: 60 HP / 220 SpA / 228 Spe  
-Modest Nature  
+EVs: 52 HP / 196 SpA / 236 Spe  
+Timid Nature  
 IVs: 0 Atk  
-- Hyper Voice  
-- Earth Power  
-- Thunderbolt  
-- Ancient Power
+- Energy Ball  
+- Weather Ball  
+- Overheat  
+- Will-O-Wisp
 
-Porygon @ Eviolite  
-Ability: Download  
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
 Level: 5  
-EVs: 36 Def / 236 SpA / 196 Spe  
-Modest Nature  
-- Tri Attack  
-- Recover  
-- Ice Beam  
+EVs: 52 HP / 116 Def / 252 SpA / 76 SpD / 12 Spe  
+Quiet Nature  
+IVs: 0 Atk / 0 Spe  
+- Moonblast  
 - Psychic  
+- Nasty Plot  
+- Trick Room
+
+Natu @ Eviolite  
+Ability: Magic Bounce  
+Level: 5  
+EVs: 196 HP / 236 Def / 76 SpD  
+Bold Nature  
+- Psychic  
+- Heat Wave  
+- Thunder Wave  
+- Roost

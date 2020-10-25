@@ -1,59 +1,61 @@
-Drilbur @ Eviolite  
-Ability: Mold Breaker  
+Magnemite @ Choice Scarf  
+Ability: Analytic  
 Level: 5  
-EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
-Jolly Nature  
-- Earthquake  
-- Rapid Spin  
-- Rock Slide  
-- Stealth Rock  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Timid Nature  
+- Volt Switch  
+- Thunderbolt  
+- Flash Cannon  
+- Steel Beam
 
-Grookey @ Eviolite  
-Ability: Grassy Surge  
+Zigzagoon @ Berry Juice  
+Ability: Quick Feet 
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
-Jolly Nature  
-- Grassy Glide  
-- Knock Off  
-- Drain Punch  
-- U-turn  
-
-Dwebble @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 236 Atk / 236 Spe  
+EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
 Adamant Nature  
+- Belly Drum  
+- Extreme Speed  
+- Thief  
+- Seed Bomb
+
+Slowpoke @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 116 HP / 76 Def / 116 SpA / 196 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Future Sight  
+- Slack Off  
+- Teleport
+
+Vulpix @ Choice Scarf 
+Ability: Drought  
+Level: 5  
+EVs: 52 HP / 196 SpA / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Energy Ball  
+- Weather Ball  
+- Overheat  
+- Extrasensory
+
+Wingull @ Berry Juice  
+Ability: Hydration  
+Level: 5  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Timid Nature  
+- Scald  
+- Hurricane  
+- U-turn  
+- Air Slash 
+
+Shellder @ Eviolite  
+Ability: Skill Link  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Adamant Nature  
+- Icicle Spear  
 - Shell Smash  
 - Rock Blast  
-- Earthquake  
-- Knock Off  
-
-Bunnelby @ Eviolite  
-Ability: Huge Power  
-Level: 5  
-EVs: 228 Atk / 132 Def / 148 SpD  
-Adamant Nature  
-- Earthquake  
-- Quick Attack  
-- U-turn  
-- Facade
-
-Archen @ Berry Juice  
-Ability: Defeatist  
-Level: 5  
-EVs: 76 HP / 180 Atk / 196 Spe  
-Jolly Nature  
-- Stone Edge  
-- Dual Wingbeat  
-- Earthquake  
-- U-turn
-
-Dewpider @ Berry Juice  
-Ability: Water Bubble  
-Level: 5  
-EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
-Modest Nature  
-- Sticky Web  
-- Surf  
-- Icy Wind  
-- Giga Drain
+- Liquidation 

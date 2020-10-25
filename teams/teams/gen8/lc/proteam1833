@@ -1,52 +1,23 @@
-Scorbunny @ Berry Juice  
-Ability: Libero  
+Munchlax @ Berry Juice  
+Ability: Thick Fat  
 Level: 5  
-EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
-Jolly Nature  
-- High Jump Kick  
-- U-turn  
-- Blaze Kick  
-- Gunk Shot  
+EVs: 236 Atk / 196 Def / 76 SpD  
+Impish Nature  
+- Body Slam 
+- Earthquake 
+- Zen Headbutt  
+- Curse
 
-Woobat @ Berry Juice  
-Ability: Simple  
+Slowpoke @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
-Timid Nature  
-- Nasty Plot  
-- Psychic  
-- Heat Wave  
-- Air Slash  
-
-Tirtouga @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 212 Atk / 92 Def / 180 Spe  
-Jolly Nature  
-- Shell Smash  
-- Waterfall  
-- Stone Edge  
-- Zen Headbutt
-
-Porygon @ Eviolite  
-Ability: Download  
-Level: 5  
-EVs: 36 Def / 236 SpA / 196 Spe  
-Modest Nature  
-- Tri Attack  
-- Recover  
-- Ice Beam  
-- Psychic  
-
-Chinchou @ Eviolite  
-Ability: Volt Absorb  
-Level: 5  
-EVs: 52 Def / 228 SpA / 220 Spe  
-Timid Nature  
-- Volt Switch  
+EVs: 116 HP / 76 Def / 116 SpA / 196 SpD  
+Calm Nature  
+IVs: 0 Atk  
 - Scald  
-- Ice Beam  
-- Thunderbolt  
+- Psychic 
+- Slack Off  
+- Teleport
 
 Larvesta @ Eviolite  
 Ability: Flame Body  
@@ -56,4 +27,35 @@ Jolly Nature
 - U-turn  
 - Flare Blitz  
 - Morning Sun  
-- Will-O-Wisp  
+- Will-O-Wisp
+
+Magnemite @ Choice Scarf  
+Ability: Analytic  
+Level: 5  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Modest Nature
+- Volt Switch  
+- Thunderbolt  
+- Flash Cannon  
+- Steel Beam
+
+Dwebble @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 236 Atk / 236 Spe  
+Adamant Nature  
+- Rock Blast  
+- Earthquake 
+- Knock Off  
+- Shell Smash
+
+Mareanie @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Recover  
+- Scald  
+- Toxic Spikes 
+- Sludge Bomb

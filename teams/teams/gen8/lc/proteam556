@@ -1,14 +1,4 @@
-Corphish @ Eviolite  
-Ability: Adaptability  
-Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
-Adamant Nature  
-- Aqua Jet  
-- Crabhammer  
-- Knock Off  
-- Dragon Dance  
-
-Drilbur @ Eviolite  
+Drilbur @ Eviolite 
 Ability: Mold Breaker  
 Level: 5  
 EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
@@ -16,44 +6,56 @@ Jolly Nature
 - Earthquake  
 - Rapid Spin  
 - Rock Slide  
-- Stealth Rock  
+- Stealth Rock 
 
-Abra @ Focus Sash  
-Ability: Magic Guard  
+Smoochum (F) @ Choice Scarf  
+Ability: Oblivious  
 Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
+EVs: 236 SpA / 236 Spe  
+Modest Nature
+IVs: 0 Atk  
+- Ice Beam  
 - Psychic  
-- Dazzling Gleam  
-- Energy Ball  
 - Shadow Ball  
+- Trick
 
-Bunnelby @ Eviolite  
-Ability: Huge Power  
+Mudbray @ Berry Juice  
+Ability: Stamina  
 Level: 5  
-EVs: 228 Atk / 132 Def / 148 SpD  
+EVs: 116 HP / 36 Atk / 196 Def / 156 Spe  
 Adamant Nature  
 - Earthquake  
-- Quick Attack  
+- Stealth Rock  
+- Rock Slide 
+- Heavy Slam
+
+Vullaby @ Eviolite  
+Ability: Overcoat  
+Level: 5  
+EVs: 116 HP / 76 Def / 236 SpD / 36 Spe  
+Impish Nature  
+- Brave Bird  
+- Knock Off  
 - U-turn  
-- Facade
+- Roost
 
-Vulpix @ Choice Scarf  
-Ability: Drought  
+Zigzagoon @ Berry Juice  
+Ability: Pickup 
 Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
-Timid Nature  
-- Energy Ball  
-- Weather Ball  
-- Overheat  
-- Fire Blast  
+EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
+Adamant Nature  
+- Belly Drum  
+- Extreme Speed  
+- Thief  
+- Seed Bomb
 
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
+Amaura @ Choice Scarf  
+Ability: Refrigerate  
 Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
-Bold Nature  
-- Moonblast  
-- Wish  
-- Protect  
-- Calm Mind  
+EVs: 60 HP / 220 SpA / 228 Spe  
+Modest Nature
+IVs: 0 Atk  
+- Hyper Voice  
+- Earth Power  
+- Freeze-Dry  
+- Hyper Beam

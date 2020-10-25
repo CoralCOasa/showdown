@@ -1,59 +1,59 @@
-Ponyta-Galar @ Eviolite  
-Ability: Pastel Veil  
+Abra @ Focus Sash  
+Ability: Magic Guard  
 Level: 5  
 EVs: 236 SpA / 76 SpD / 196 Spe  
 Timid Nature  
-- Mystical Fire  
 - Psychic  
 - Dazzling Gleam  
-- Calm Mind  
+- Counter  
+- Protect
 
-Meowth @ Life Orb  
-Ability: Technician  
+Chinchou @ Eviolite  
+Ability: Volt Absorb  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 196 Spe  
-Jolly Nature  
-- Fake Out  
-- Feint  
-- Aerial Ace  
-- Water Pulse  
-
-Koffing @ Eviolite  
-Ability: Levitate  
-Level: 5  
-EVs: 36 HP / 236 Def / 236 SpD  
-Bold Nature  
-- Will-O-Wisp  
-- Toxic Spikes  
-- Pain Split  
-- Sludge Bomb  
-
-Vulpix @ Choice Scarf  
-Ability: Drought  
-Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
+EVs: 52 Def / 228 SpA / 220 Spe  
 Timid Nature  
-- Energy Ball  
-- Weather Ball  
-- Overheat  
-- Fire Blast  
+- Volt Switch  
+- Hydro Pump  
+- Ice Beam  
+- Thunderbolt
 
-Drilbur @ Eviolite  
-Ability: Mold Breaker  
+Omanyte @ Eviolite  
+Ability: Shell Armor  
 Level: 5  
-EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
-Jolly Nature  
+EVs: 76 HP / 196 SpA / 236 Spe  
+Modest Nature  
+- Shell Smash  
+- Hydro Pump  
+- Ice Beam  
+- Earth Power
+
+Dwebble @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 236 Atk / 236 Spe  
+Adamant Nature  
+- Rock Blast  
 - Earthquake  
-- Rapid Spin  
-- Rock Slide  
-- Stealth Rock  
+- Knock Off 
+- Shell Smash
 
-Mienfoo @ Eviolite  
-Ability: Regenerator  
+Trapinch @ Eviolite  
+Ability: Arena Trap  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
+EVs: 156 HP / 196 Atk / 76 Def / 76 SpD  
+Adamant Nature  
+- Earthquake  
+- First Impression  
+- Superpower  
+- Quick Attack 
+
+Tyrunt @ Eviolite  
+Ability: Strong Jaw  
+Level: 5  
+EVs: 204 Atk / 76 SpD / 212 Spe  
 Jolly Nature  
-- Knock Off  
-- U-turn  
-- High Jump Kick  
-- Fake Out  
+- Stone Edge  
+- Close Combat  
+- Psychic Fangs  
+- Dragon Dance

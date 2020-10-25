@@ -1,59 +1,61 @@
-Scorbunny @ Berry Juice  
-Ability: Libero  
+Amaura @ Choice Scarf  
+Ability: Refrigerate  
 Level: 5  
-EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
-Jolly Nature  
-- High Jump Kick  
-- U-turn  
-- Blaze Kick  
-- Gunk Shot  
+EVs: 60 HP / 220 SpA / 228 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hyper Voice  
+- Earth Power  
+- Freeze-Dry  
+- Hyper Beam
 
-Shellder @ Eviolite  
-Ability: Skill Link  
+Dewpider @ Eviolite  
+Ability: Water Bubble  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Icicle Spear  
-- Shell Smash  
-- Rock Blast  
-- Liquidation  
+EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
+Modest Nature
+IVs: 0 Atk  
+- Scald 
+- Giga Drain  
+- Icy Wind 
+- Sticky Web
+
+Porygon @ Eviolite  
+Ability: Trace  
+Level: 5  
+EVs: 236 HP / 196 Def / 76 SpD  
+Calm Nature  
+- Tri Attack  
+- Ice Beam  
+- Thunder Wave  
+- Recover
+
+Grookey @ Eviolite  
+Ability: Grassy Surge  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Grassy Glide  
+- Knock Off  
+- Drain Punch  
+- Wood Hammer
+
+Ponyta-Galar @ Eviolite  
+Ability: Pastel Veil  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Mystical Fire  
+- Psychic  
+- Dazzling Gleam  
+- Calm Mind
 
 Ponyta @ Eviolite  
 Ability: Flame Body  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
+EVs: 76 Atk / 156 Def / 76 SpD / 196 Spe  
 Jolly Nature  
 - Flare Blitz  
 - High Horsepower  
-- Morning Sun  
-- Wild Charge  
-
-Dwebble @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 236 Atk / 236 Spe  
-Adamant Nature  
-- Shell Smash  
-- Rock Blast  
-- Earthquake  
-- Knock Off  
-
-Croagunk @ Eviolite  
-Ability: Dry Skin  
-Level: 5  
-EVs: 116 Def / 188 SpA / 196 Spe  
-Timid Nature  
-- Vacuum Wave  
-- Nasty Plot  
-- Sludge Wave  
-- Focus Blast  
-
-Diglett @ Life Orb  
-Ability: Arena Trap  
-Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Earthquake  
-- Sucker Punch  
-- Rock Slide  
-- Stealth Rock  
+- Will-O-Wisp  
+- Morning Sun

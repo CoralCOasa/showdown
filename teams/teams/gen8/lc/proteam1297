@@ -1,59 +1,59 @@
-Onix @ Berry Juice  
-Ability: Sturdy  
+Vullaby @ Berry Juice  
+Ability: Weak Armor  
 Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
-Jolly Nature  
-- Earthquake  
-- Stealth Rock  
-- Rock Blast  
-- Dragon Dance  
-
-Larvesta @ Eviolite  
-Ability: Flame Body  
-Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
-Jolly Nature  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Jolly Nature
+- Knock Off  
+- Brave Bird  
 - U-turn  
-- Flare Blitz  
-- Morning Sun  
-- Will-O-Wisp  
+- Defog 
 
-Woobat @ Berry Juice  
-Ability: Simple  
+Carvanha @ Life Orb  
+Ability: Speed Boost  
 Level: 5  
-EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+Adamant Nature  
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation
+
+Munchlax @ Eviolite  
+Ability: Thick Fat  
+Level: 5  
+EVs: 236 Atk / 196 Def / 76 SpD  
+Impish Nature  
+- Body Slam 
+- Earthquake  
+- Rest  
+- Sleep Talk
+
+Abra @ Life Orb  
+Ability: Magic Guard  
+Level: 5  
+EVs: 36 Atk / 236 SpA / 196 Spe  
+Hasty Nature  
+- Psychic  
+- Dazzling Gleam  
+- Fire Punch  
+- Shadow Ball 
+
+Natu @ Eviolite  
+Ability: Magic Bounce  
+Level: 5  
+EVs: 36 HP / 76 Def / 116 SpA / 76 SpD / 196 Spe  
 Timid Nature  
-- Nasty Plot  
 - Psychic  
 - Heat Wave  
-- Air Slash  
+- Dazzling Gleam 
+- Roost
 
-Staryu @ Eviolite  
-Ability: Natural Cure  
+Scorbunny @ Life Orb 
+Ability: Libero  
 Level: 5  
-EVs: 116 HP / 156 Def / 236 Spe  
-Timid Nature  
-- Rapid Spin  
-- Thunderbolt  
-- Recover  
-- Scald  
-
-Mareanie @ Eviolite  
-Ability: Regenerator  
-Level: 5  
-EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
-Bold Nature  
-- Recover  
-- Scald  
-- Toxic Spikes  
-- Sludge Bomb  
-
-Wingull @ Life Orb  
-Ability: Hydration  
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-- Scald  
-- Hurricane  
+EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
+Jolly Nature  
+- High Jump Kick  
 - U-turn  
-- Air Slash  
+- Blaze Kick  
+- Gunk Shot 

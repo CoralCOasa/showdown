@@ -1,59 +1,61 @@
-Grookey @ Eviolite  
-Ability: Grassy Surge  
+Amaura @ Choice Scarf  
+Ability: Snow Warning  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
-Jolly Nature  
-- Grassy Glide  
+EVs: 60 HP / 220 SpA / 228 Spe  
+Modest Nature
+IVs: 0 Atk  
+- Blizzard  
+- Earth Power  
+- Freeze-Dry  
+- Ancient Power
+
+Tirtouga @ Eviolite  
+Ability: Solid Rock  
+Level: 5  
+EVs: 164 HP / 52 Atk / 92 Def / 156 SpD / 20 Spe  
+Careful Nature  
+- Stealth Rock  
+- Stone Edge  
 - Knock Off  
-- Drain Punch  
-- U-turn  
+- Aqua Jet
 
-Dewpider @ Berry Juice  
-Ability: Water Bubble  
+Magnemite @ Choice Scarf  
+Ability: Analytic  
 Level: 5  
-EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
-Modest Nature  
-- Sticky Web  
-- Surf  
-- Icy Wind  
-- Giga Drain
-
-Porygon @ Eviolite  
-Ability: Download  
-Level: 5  
-EVs: 36 Def / 236 SpA / 196 Spe  
-Modest Nature  
-- Tri Attack  
-- Recover  
-- Ice Beam  
-- Psychic  
-
-Chinchou @ Eviolite  
-Ability: Volt Absorb  
-Level: 5  
-EVs: 52 Def / 228 SpA / 220 Spe  
-Timid Nature  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Modest Nature
 - Volt Switch  
-- Scald  
-- Ice Beam  
 - Thunderbolt  
+- Flash Cannon  
+- Steel Beam
 
-Ferroseed @ Eviolite  
-Ability: Iron Barbs  
+Archen @ Berry Juice  
+Ability: Defeatist  
 Level: 5  
-EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
-Impish Nature  
-- Knock Off  
-- Thunder Wave  
-- Spikes  
-- Giga Drain
+EVs: 76 HP / 180 Atk / 196 Spe  
+Jolly Nature  
+- Stone Edge  
+- Dual Wingbeat  
+- Earthquake  
+- U-turn
 
-Staryu @ Eviolite  
-Ability: Natural Cure  
+Mareanie @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 116 HP / 156 Def / 236 Spe  
-Timid Nature  
-- Rapid Spin  
-- Thunderbolt  
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+Bold Nature  
+IVs: 0 Atk  
 - Recover  
 - Scald  
+- Toxic Spikes 
+- Sludge Bomb
+
+Natu @ Life Orb  
+Ability: Magic Bounce  
+Level: 5  
+EVs: 36 HP / 76 Def / 196 SpA / 196 Spe  
+Timid Nature  
+- Psychic  
+- Heat Wave  
+- Dazzling Gleam  
+- Giga Drain

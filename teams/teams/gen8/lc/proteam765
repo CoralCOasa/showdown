@@ -1,34 +1,24 @@
-Foongus @ Eviolite  
-Ability: Regenerator  
+Vullaby @ Eviolite  
+Ability: Weak Armor  
 Level: 5  
-EVs: 124 HP / 156 Def / 156 SpD  
-Bold Nature  
-- Giga Drain  
-- Spore  
-- Sludge Bomb  
-- Synthesis  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Adamant Nature  
+- Knock Off  
+- Brave Bird  
+- U-turn  
+- Defog 
 
-Meowth @ Life Orb  
-Ability: Technician  
+Trapinch @ Eviolite  
+Ability: Arena Trap  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 196 Spe  
-Jolly Nature  
-- Fake Out  
-- Feint  
-- Aerial Ace  
-- Water Pulse  
+EVs: 156 HP / 196 Atk / 76 Def / 76 SpD  
+Adamant Nature  
+- Earthquake  
+- First Impression  
+- Superpower  
+- Rock Slide 
 
-Abra @ Focus Sash  
-Ability: Magic Guard  
-Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-- Psychic  
-- Dazzling Gleam  
-- Energy Ball  
-- Shadow Ball  
-
-Drilbur @ Eviolite  
+Drilbur @ Berry Juice  
 Ability: Mold Breaker  
 Level: 5  
 EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
@@ -36,25 +26,35 @@ Jolly Nature
 - Earthquake  
 - Rapid Spin  
 - Rock Slide  
-- Stealth Rock  
+- Stealth Rock 
 
-Amaura @ Choice Scarf  
-Ability: Refrigerate  
+Diglett @ Life Orb  
+Ability: Arena Trap  
 Level: 5  
-EVs: 60 HP / 220 SpA / 228 Spe  
-Modest Nature  
+EVs: 36 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Sucker Punch  
+- Rock Slide  
+- Memento
+
+Mienfoo @ Choice Scarf  
+Ability: Reckless  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Adamant Nature  
+- High Jump Kick  
+- Knock Off  
+- U-turn  
+- Close Combat 
+
+Smoochum (F) @ Eviolite 
+Ability: Oblivious  
+Level: 5  
+EVs: 236 SpA / 236 Spe  
+Timid Nature  
 IVs: 0 Atk  
-- Hyper Voice  
-- Earth Power  
-- Thunderbolt  
-- Ancient Power
-
-Mareanie @ Eviolite  
-Ability: Regenerator  
-Level: 5  
-EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
-Bold Nature  
-- Recover  
-- Scald  
-- Toxic Spikes  
-- Sludge Bomb  
+- Ice Beam  
+- Psychic  
+- Shadow Ball  
+- Nasty Plot

@@ -1,60 +1,60 @@
-Trapinch @ Eviolite  
-Ability: Arena Trap  
-Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Relaxed Nature  
-- Earthquake  
-- First Impression  
-- Superpower  
-- Giga Drain  
-
-Natu @ Eviolite  
-Ability: Magic Bounce  
-Level: 5  
-EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Psychic  
-- Heat Wave  
-- U-turn  
-- Roost  
-
 Croagunk @ Eviolite  
 Ability: Dry Skin  
 Level: 5  
 EVs: 116 Def / 188 SpA / 196 Spe  
-Timid Nature  
-- Vacuum Wave  
+Modest Nature  
 - Nasty Plot  
+- Vacuum Wave  
 - Sludge Wave  
-- Focus Blast  
+- Dark Pulse
 
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
+Natu @ Eviolite  
+Ability: Magic Bounce  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
-Adamant Nature  
-- Body Slam  
-- Earthquake  
-- Curse  
-- Recycle
+EVs: 196 HP / 236 Def / 76 SpD  
+Bold Nature  
+- Psychic  
+- Heat Wave  
+- U-turn 
+- Roost
 
-Bunnelby @ Eviolite  
-Ability: Huge Power  
+Porygon @ Eviolite  
+Ability: Download  
 Level: 5  
-EVs: 228 Atk / 132 Def / 148 SpD  
-Adamant Nature  
-- Earthquake  
-- Quick Attack  
+EVs: 156 HP / 36 Def / 236 SpA / 36 Spe  
+Modest Nature  
+- Tri Attack  
+- Psychic  
+- Ice Beam 
+- Recover
+
+Dewpider @ Eviolite  
+Ability: Water Bubble  
+Level: 5  
+EVs: 132 HP / 180 Def / 116 SpA / 20 SpD / 60 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Surf  
+- Giga Drain  
+- Icy Wind 
+- Sticky Web
+
+Scorbunny @ Berry Juice 
+Ability: Libero  
+Level: 5  
+EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
+Jolly Nature  
+- High Jump Kick  
 - U-turn  
-- Facade
+- Blaze Kick  
+- Gunk Shot 
 
-Shellder @ Eviolite  
-Ability: Skill Link  
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Icicle Spear  
-- Shell Smash  
-- Rock Blast  
-- Liquidation  
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
+Bold Nature  
+- Moonblast  
+- Wish  
+- Protect  
+- Calm Mind 

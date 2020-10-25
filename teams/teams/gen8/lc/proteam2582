@@ -1,59 +1,60 @@
-Vullaby @ Berry Juice  
-Ability: Weak Armor  
+Ponyta-Galar @ Eviolite  
+Ability: Pastel Veil  
 Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Jolly Nature  
-- Knock Off  
-- Brave Bird  
-- U-turn  
-- Defog  
-
-Timburr @ Eviolite  
-Ability: Iron Fist  
-Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
-Adamant Nature  
-- Drain Punch  
-- Mach Punch  
-- Knock Off  
-- Defog  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Mystical Fire  
+- Psychic  
+- Dazzling Gleam  
+- Calm Mind
 
 Spritzee @ Eviolite  
 Ability: Aroma Veil  
 Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
-Bold Nature  
+EVs: 52 HP / 116 Def / 252 SpA / 76 SpD / 12 Spe  
+Quiet Nature  
+IVs: 0 Atk / 0 Spe  
 - Moonblast  
-- Wish  
-- Protect  
-- Calm Mind  
-
-Abra @ Focus Sash  
-Ability: Magic Guard  
-Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
 - Psychic  
-- Dazzling Gleam  
-- Energy Ball  
-- Shadow Ball  
+- Energy Ball 
+- Trick Room
 
-Vulpix @ Choice Scarf  
-Ability: Drought  
-Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
-Timid Nature  
-- Energy Ball  
-- Weather Ball  
-- Overheat  
-- Fire Blast  
-
-Dwebble @ Berry Juice  
+Onix @ Berry Juice  
 Ability: Sturdy  
 Level: 5  
-EVs: 236 Atk / 236 Spe  
-Adamant Nature  
-- Shell Smash  
-- Rock Blast  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
 - Earthquake  
+- Stealth Rock  
+- Rock Blast  
+- Dragon Dance
+
+Munchlax @ Berry Juice  
+Ability: Thick Fat  
+Level: 5  
+EVs: 236 Atk / 196 Def / 76 SpD  
+Impish Nature  
+- Body Slam 
+- Fire Punch  
+- Zen Headbutt  
+- Curse
+
+Croagunk @ Eviolite  
+Ability: Dry Skin  
+Level: 5  
+EVs: 132 HP / 28 Atk / 116 Def / 108 SpA / 116 SpD  
+Quiet Nature  
 - Knock Off  
+- Sludge Bomb  
+- Vacuum Wave  
+- Sucker Punch 
+
+Corphish @ Eviolite  
+Ability: Adaptability  
+Level: 5  
+EVs: 196 Atk / 76 Def / 236 Spe  
+Adamant Nature  
+- Aqua Jet  
+- Crabhammer  
+- Knock Off  
+- Swords Dance 

@@ -1,13 +1,22 @@
+Larvesta @ Eviolite  
+Ability: Flame Body  
+Level: 5  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- U-turn  
+- Flare Blitz  
+- Morning Sun  
+- Will-O-Wisp
+
 Natu @ Eviolite  
 Ability: Magic Bounce  
 Level: 5  
-EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-IVs: 0 Atk  
+EVs: 196 HP / 236 Def / 76 SpD  
+Bold Nature  
 - Psychic  
 - Heat Wave  
-- U-turn  
-- Roost  
+- U-turn 
+- Roost
 
 Foongus @ Eviolite  
 Ability: Regenerator  
@@ -17,27 +26,7 @@ Bold Nature
 - Giga Drain  
 - Spore  
 - Sludge Bomb  
-- Synthesis  
-
-Onix @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
-Jolly Nature  
-- Earthquake  
-- Stealth Rock  
-- Rock Blast  
-- Dragon Dance  
-
-Carvanha @ Life Orb  
-Ability: Speed Boost  
-Level: 5  
-EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
-Adamant Nature  
-- Crunch  
-- Psychic Fangs  
-- Protect  
-- Liquidation  
+- Synthesis
 
 Shellder @ Eviolite  
 Ability: Skill Link  
@@ -47,14 +36,24 @@ Adamant Nature
 - Icicle Spear  
 - Shell Smash  
 - Rock Blast  
-- Liquidation  
+- Liquidation 
 
-Staryu @ Eviolite  
-Ability: Natural Cure  
+Farfetch’d-Galar @ Choice Scarf  
+Ability: Scrappy  
 Level: 5  
-EVs: 116 HP / 156 Def / 236 Spe  
-Timid Nature  
-- Rapid Spin  
-- Thunderbolt  
-- Recover  
-- Scald  
+EVs: 20 HP / 236 Atk / 236 Spe  
+Adamant Nature  
+- Close Combat  
+- Brave Bird  
+- Knock Off  
+- Poison Jab 
+
+Dwebble @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 236 Atk / 236 Spe  
+Adamant Nature  
+- Rock Blast  
+- X-Scissor  
+- Knock Off  
+- Shell Smash

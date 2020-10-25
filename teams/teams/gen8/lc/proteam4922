@@ -1,53 +1,12 @@
-Amaura @ Choice Scarf  
-Ability: Refrigerate  
+Natu @ Choice Scarf  
+Ability: Magic Bounce  
 Level: 5  
-EVs: 60 HP / 220 SpA / 228 Spe  
-Modest Nature  
-IVs: 0 Atk  
-- Hyper Voice  
-- Earth Power  
-- Thunderbolt  
-- Ancient Power
-
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
-Adamant Nature  
-- Body Slam  
-- Earthquake  
-- Curse  
-- Recycle
-
-Drilbur @ Eviolite  
-Ability: Mold Breaker  
-Level: 5  
-EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
-Jolly Nature  
-- Earthquake  
-- Rapid Spin  
-- Rock Slide  
-- Stealth Rock  
-
-Bunnelby @ Eviolite  
-Ability: Huge Power  
-Level: 5  
-EVs: 228 Atk / 132 Def / 148 SpD  
-Adamant Nature  
-- Earthquake  
-- Quick Attack  
-- U-turn  
-- Facade
-
-Abra @ Focus Sash  
-Ability: Magic Guard  
-Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
+EVs: 36 HP / 76 Def / 196 SpA / 196 Spe  
+Timid Nature
 - Psychic  
-- Dazzling Gleam  
-- Energy Ball  
-- Shadow Ball  
+- Heat Wave  
+- Giga Drain 
+- U-turn 
 
 Archen @ Berry Juice  
 Ability: Defeatist  
@@ -58,3 +17,45 @@ Jolly Nature
 - Dual Wingbeat  
 - Earthquake  
 - U-turn
+
+Vulpix @ Choice Scarf 
+Ability: Drought  
+Level: 5  
+EVs: 52 HP / 196 SpA / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Energy Ball  
+- Weather Ball  
+- Overheat  
+- Extrasensory
+
+Vulpix @ Choice Scarf 
+Ability: Drought  
+Level: 5  
+EVs: 52 HP / 196 SpA / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Energy Ball  
+- Weather Ball  
+- Overheat  
+- Fire Blast 
+
+Archen @ Berry Juice  
+Ability: Defeatist  
+Level: 5  
+EVs: 76 HP / 180 Atk / 196 Spe  
+Jolly Nature  
+- Stone Edge  
+- Dual Wingbeat  
+- Earthquake  
+- U-turn
+
+Larvesta @ Eviolite  
+Ability: Flame Body  
+Level: 5  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- U-turn  
+- Flare Blitz  
+- Morning Sun  
+- Will-O-Wisp

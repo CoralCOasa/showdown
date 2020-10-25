@@ -1,59 +1,61 @@
-Zigzagoon @ Berry Juice  
-Ability: Quick Feet  
+Timburr @ Eviolite  
+Ability: Guts  
 Level: 5  
-EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
+EVs: 196 Atk / 156 Def / 156 SpD  
 Adamant Nature  
-- Extreme Speed  
-- Belly Drum  
-- Thief  
-- Seed Bomb  
+- Drain Punch  
+- Knock Off  
+- Mach Punch  
+- Thunder Punch 
 
-Ponyta @ Eviolite  
-Ability: Flame Body  
+Chinchou @ Eviolite  
+Ability: Volt Absorb  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Jolly Nature  
-- Flare Blitz  
-- High Horsepower  
-- Morning Sun  
-- Wild Charge  
-
-Carvanha @ Life Orb  
-Ability: Speed Boost  
-Level: 5  
-EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
-Adamant Nature  
-- Crunch  
-- Psychic Fangs  
-- Protect  
-- Liquidation  
-
-Magnemite @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-- Flash Cannon  
+EVs: 236 HP / 212 Def / 60 Spe  
+Bold Nature  
+IVs: 0 Atk  
 - Volt Switch  
-- Thunderbolt  
-- Recycle  
+- Scald  
+- Ice Beam  
+- Thunderbolt
 
-Woobat @ Berry Juice  
-Ability: Simple  
+Natu @ Eviolite  
+Ability: Magic Bounce  
 Level: 5  
-EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
-Timid Nature  
-- Nasty Plot  
+EVs: 196 HP / 236 Def / 76 SpD  
+Bold Nature  
 - Psychic  
 - Heat Wave  
-- Air Slash  
+- Thunder Wave  
+- Roost
 
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
+Corphish @ Eviolite  
+Ability: Adaptability  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
+EVs: 196 Atk / 76 Def / 236 Spe  
 Adamant Nature  
-- Body Slam  
-- Earthquake  
-- Curse  
-- Recycle
+- Aqua Jet  
+- Crabhammer  
+- Knock Off  
+- Swords Dance 
+
+Smoochum (F) @ Eviolite 
+Ability: Oblivious  
+Level: 5  
+EVs: 236 SpA / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Psychic  
+- Shadow Ball  
+- Nasty Plot
+
+Foongus @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 124 HP / 156 Def / 156 SpD  
+Bold Nature  
+- Giga Drain  
+- Spore  
+- Sludge Bomb  
+- Synthesis

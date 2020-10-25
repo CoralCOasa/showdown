@@ -1,59 +1,59 @@
-Onix @ Berry Juice  
-Ability: Sturdy  
+Elekid @ Life Orb  
+Ability: Vital Spirit  
 Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
+EVs: 12 Atk / 236 SpA / 236 Spe  
+Hasty Nature  
+- Thunderbolt  
+- Cross Chop  
+- Psychic  
+- Volt Switch
+
+Diglett @ Focus Sash  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 236 Atk / 236 Spe  
 Jolly Nature  
 - Earthquake  
-- Stealth Rock  
-- Rock Blast  
-- Dragon Dance  
+- Sucker Punch  
+- Rock Slide  
+- Memento
 
-Ponyta-Galar @ Eviolite  
-Ability: Pastel Veil  
+Trapinch @ Eviolite  
+Ability: Arena Trap  
 Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-- Mystical Fire  
-- Psychic  
-- Dazzling Gleam  
-- Calm Mind  
+EVs: 156 HP / 196 Atk / 76 Def / 76 SpD  
+Adamant Nature  
+- Earthquake  
+- First Impression  
+- Superpower  
+- Quick Attack
 
-Dewpider @ Berry Juice  
-Ability: Water Bubble  
+Carvanha @ Life Orb  
+Ability: Speed Boost  
 Level: 5  
-EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
-Modest Nature  
-- Sticky Web  
-- Surf  
-- Icy Wind  
-- Giga Drain
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+Adamant Nature  
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation
 
-Abra @ Focus Sash  
-Ability: Magic Guard  
+Drilbur @ Berry Juice  
+Ability: Mold Breaker  
 Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-- Psychic  
-- Dazzling Gleam  
-- Energy Ball  
-- Shadow Ball  
-
-Mareanie @ Eviolite  
-Ability: Regenerator  
-Level: 5  
-EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
-Bold Nature  
-- Recover  
-- Scald  
-- Toxic Spikes  
-- Sludge Bomb  
-
-Tirtouga @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 212 Atk / 92 Def / 180 Spe  
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
 Jolly Nature  
-- Shell Smash  
-- Waterfall  
-- Stone Edge  
-- Zen Headbutt
+- Earthquake  
+- Rapid Spin  
+- Rock Slide  
+- Stealth Rock 
+
+Scorbunny @ Choice Scarf  
+Ability: Libero  
+Level: 5  
+EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
+Jolly Nature
+- High Jump Kick  
+- Gunk Shot  
+- Double-Edge 
+- U-turn

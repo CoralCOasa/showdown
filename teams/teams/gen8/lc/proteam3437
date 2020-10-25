@@ -1,59 +1,60 @@
-Mienfoo @ Eviolite  
-Ability: Regenerator  
+Mienfoo @ Berry Juice  
+Ability: Reckless  
 Level: 5  
 EVs: 236 Atk / 36 Def / 236 Spe  
 Jolly Nature  
-- Knock Off  
-- U-turn  
+- Swords Dance  
 - High Jump Kick  
-- Fake Out  
+- Acrobatics  
+- Knock Off
 
 Dwebble @ Berry Juice  
 Ability: Sturdy  
 Level: 5  
 EVs: 236 Atk / 236 Spe  
 Adamant Nature  
-- Shell Smash  
 - Rock Blast  
 - Earthquake  
-- Knock Off  
+- X-Scissor  
+- Shell Smash
 
-Timburr @ Eviolite  
-Ability: Iron Fist  
+Magnemite @ Choice Scarf  
+Ability: Analytic  
 Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
-Adamant Nature  
-- Drain Punch  
-- Mach Punch  
-- Knock Off  
-- Defog  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Timid Nature  
+- Volt Switch  
+- Thunderbolt  
+- Flash Cannon  
+- Steel Beam
 
-Scorbunny @ Berry Juice  
+Scorbunny @ Berry Juice 
 Ability: Libero  
 Level: 5  
 EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
 Jolly Nature  
 - High Jump Kick  
 - U-turn  
-- Blaze Kick  
-- Gunk Shot  
+- Blaze Kick 
+- Gunk Shot
 
-Ponyta @ Eviolite  
-Ability: Flame Body  
+Slowpoke @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Jolly Nature  
-- Flare Blitz  
-- High Horsepower  
-- Morning Sun  
-- Wild Charge  
+EVs: 116 HP / 76 Def / 116 SpA / 196 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Future Sight  
+- Slack Off  
+- Teleport
 
-Mudbray @ Eviolite  
-Ability: Stamina  
+Dwebble @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 116 HP / 36 Atk / 196 Def / 156 Spe  
+EVs: 236 Atk / 236 Spe  
 Adamant Nature  
-- Earthquake  
-- Stealth Rock  
-- Rock Slide  
-- Heavy Slam  
+- Rock Blast  
+- Earthquake 
+- Knock Off  
+- Shell Smash

@@ -1,12 +1,32 @@
-Shellder @ Eviolite  
-Ability: Skill Link  
+Trapinch @ Eviolite  
+Ability: Arena Trap  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Icicle Spear  
-- Shell Smash  
-- Rock Blast  
-- Liquidation  
+EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
+Relaxed Nature  
+- Earthquake  
+- First Impression  
+- Rock Slide  
+- Giga Drain
+
+Staryu @ Eviolite  
+Ability: Analytic  
+Level: 5  
+EVs: 156 Def / 116 SpA / 236 Spe  
+Timid Nature  
+- Hydro Pump 
+- Thunderbolt  
+- Psychic  
+- Ice Beam 
+
+Drilbur @ Eviolite 
+Ability: Mold Breaker  
+Level: 5  
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
+Jolly Nature  
+- Earthquake  
+- Rapid Spin  
+- Rock Slide  
+- Stealth Rock 
 
 Pawniard @ Eviolite  
 Ability: Defiant  
@@ -16,44 +36,24 @@ Jolly Nature
 - Iron Head  
 - Knock Off  
 - Sucker Punch  
-- Stealth Rock  
+- Swords Dance 
 
-Vulpix @ Choice Scarf  
-Ability: Drought  
+Mienfoo @ Choice Scarf  
+Ability: Reckless  
 Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
-Timid Nature  
-- Energy Ball  
-- Weather Ball  
-- Overheat  
-- Fire Blast  
-
-Zigzagoon @ Berry Juice  
-Ability: Quick Feet  
-Level: 5  
-EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
+EVs: 236 Atk / 36 Def / 236 Spe  
 Adamant Nature  
-- Extreme Speed  
-- Belly Drum  
-- Thief  
-- Seed Bomb  
+- High Jump Kick  
+- Knock Off  
+- U-turn  
+- Stone Edge 
 
-Ponyta-Galar @ Eviolite  
-Ability: Pastel Veil  
+Drilbur @ Berry Juice  
+Ability: Mold Breaker  
 Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-- Mystical Fire  
-- Psychic  
-- Dazzling Gleam  
-- Calm Mind  
-
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
-Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
-Bold Nature  
-- Moonblast  
-- Wish  
-- Protect  
-- Calm Mind  
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
+Jolly Nature  
+- Earthquake  
+- Rapid Spin  
+- Rock Slide  
+- Swords Dance

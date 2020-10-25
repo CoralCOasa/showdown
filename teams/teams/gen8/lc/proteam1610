@@ -1,22 +1,22 @@
-Meowth @ Life Orb  
-Ability: Technician  
+Diglett @ Focus Sash  
+Ability: Arena Trap  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 196 Spe  
-Jolly Nature  
-- Fake Out  
-- Feint  
-- Aerial Ace  
-- Water Pulse  
-
-Onix @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
+EVs: 36 HP / 236 Atk / 236 Spe  
 Jolly Nature  
 - Earthquake  
-- Stealth Rock  
-- Rock Blast  
-- Dragon Dance  
+- Sucker Punch  
+- Rock Slide  
+- Reversal 
+
+Grookey @ Berry Juice  
+Ability: Grassy Surge  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Wood Hammer  
+- Grassy Glide  
+- Swords Dance  
+- Acrobatics
 
 Magnemite @ Berry Juice  
 Ability: Sturdy  
@@ -25,35 +25,36 @@ EVs: 36 Def / 236 SpA / 236 Spe
 Timid Nature  
 - Flash Cannon  
 - Volt Switch  
-- Thunderbolt  
+- Thunderbolt 
 - Recycle  
 
-Koffing @ Eviolite  
-Ability: Levitate  
+Pawniard @ Eviolite  
+Ability: Defiant  
 Level: 5  
-EVs: 36 HP / 236 Def / 236 SpD  
-Bold Nature  
-- Will-O-Wisp  
-- Toxic Spikes  
-- Pain Split  
-- Sludge Bomb  
-
-Archen @ Berry Juice  
-Ability: Defeatist  
-Level: 5  
-EVs: 76 HP / 180 Atk / 196 Spe  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
 Jolly Nature  
-- Stone Edge  
-- Dual Wingbeat  
-- Earthquake  
-- U-turn
+- Iron Head  
+- Knock Off  
+- Sucker Punch  
+- Stealth Rock 
 
-Wingull @ Life Orb  
-Ability: Hydration  
+Farfetch’d-Galar @ Choice Scarf  
+Ability: Scrappy  
 Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
+EVs: 20 HP / 236 Atk / 236 Spe  
+Jolly Nature
+- Close Combat  
+- Brave Bird  
+- Knock Off  
+- Leaf Blade
+
+Vulpix @ Choice Scarf 
+Ability: Drought  
+Level: 5  
+EVs: 52 HP / 196 SpA / 236 Spe  
 Timid Nature  
-- Scald  
-- Hurricane  
-- U-turn  
-- Air Slash  
+IVs: 0 Atk  
+- Energy Ball  
+- Weather Ball  
+- Overheat  
+- Fire Blast

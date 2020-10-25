@@ -1,54 +1,54 @@
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
+Meowth @ Life Orb  
+Ability: Technician  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
-Adamant Nature  
-- Body Slam  
-- Earthquake  
-- Curse  
-- Recycle
-
-Woobat @ Berry Juice  
-Ability: Simple  
-Level: 5  
-EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
-Timid Nature  
-- Nasty Plot  
-- Psychic  
-- Heat Wave  
-- Air Slash  
-
-Wingull @ Life Orb  
-Ability: Hydration  
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-- Scald  
-- Hurricane  
-- U-turn  
-- Air Slash  
-
-Abra @ Focus Sash  
-Ability: Magic Guard  
-Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-- Psychic  
-- Dazzling Gleam  
-- Energy Ball  
-- Shadow Ball  
-
-Ferroseed @ Eviolite  
-Ability: Iron Barbs  
-Level: 5  
-EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
-Impish Nature  
+EVs: 36 HP / 236 Atk / 36 SpD / 196 Spe  
+Jolly Nature  
+- Fake Out  
+- Feint  
 - Knock Off  
-- Thunder Wave  
-- Spikes  
-- Giga Drain
+- Aerial Ace
 
-Drilbur @ Eviolite  
+Tirtouga @ Eviolite  
+Ability: Solid Rock  
+Level: 5  
+EVs: 164 HP / 52 Atk / 92 Def / 156 SpD / 20 Spe  
+Careful Nature  
+- Stealth Rock  
+- Stone Edge  
+- Knock Off  
+- Aqua Jet
+
+Croagunk @ Eviolite  
+Ability: Dry Skin  
+Level: 5  
+EVs: 116 Def / 188 SpA / 196 Spe  
+Timid Nature
+- Nasty Plot  
+- Vacuum Wave  
+- Sludge Wave  
+- Dark Pulse
+
+Elekid @ Life Orb  
+Ability: Vital Spirit  
+Level: 5  
+EVs: 12 Atk / 236 SpA / 236 Spe  
+Hasty Nature  
+- Thunderbolt  
+- Cross Chop  
+- Psychic  
+- Volt Switch
+
+Staryu @ Life Orb  
+Ability: Analytic  
+Level: 5  
+EVs: 76 Def / 196 SpA / 236 Spe  
+Timid Nature  
+- Hydro Pump 
+- Psychic  
+- Thunderbolt  
+- Recover 
+
+Drilbur @ Eviolite 
 Ability: Mold Breaker  
 Level: 5  
 EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
@@ -56,4 +56,4 @@ Jolly Nature
 - Earthquake  
 - Rapid Spin  
 - Rock Slide  
-- Stealth Rock  
+- Stealth Rock 

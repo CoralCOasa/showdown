@@ -1,60 +1,60 @@
-Chinchou @ Eviolite  
-Ability: Volt Absorb  
+Ponyta @ Berry Juice  
+Ability: Flame Body  
 Level: 5  
-EVs: 52 Def / 228 SpA / 220 Spe  
-Timid Nature  
-- Volt Switch  
-- Scald  
-- Ice Beam  
-- Thunderbolt  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Jolly Nature  
+- Flare Blitz  
+- High Horsepower  
+- Wild Charge  
+- Will-O-Wisp 
 
-Natu @ Eviolite  
-Ability: Magic Bounce  
+Abra @ Life Orb  
+Ability: Magic Guard  
 Level: 5  
-EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-IVs: 0 Atk  
+EVs: 36 Atk / 236 SpA / 196 Spe  
+Hasty Nature  
 - Psychic  
-- Heat Wave  
-- U-turn  
-- Roost  
+- Dazzling Gleam  
+- Fire Punch  
+- Energy Ball
 
-Magnemite @ Berry Juice  
-Ability: Sturdy  
+Corphish @ Eviolite  
+Ability: Adaptability  
+Level: 5  
+EVs: 196 Atk / 76 Def / 236 Spe  
+Adamant Nature  
+- Aqua Jet  
+- Crabhammer  
+- Knock Off  
+- Dragon Dance 
+
+Wingull @ Berry Juice  
+Ability: Hydration  
 Level: 5  
 EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
-- Flash Cannon  
-- Volt Switch  
-- Thunderbolt  
-- Recycle  
+- Scald  
+- Hurricane  
+- U-turn  
+- Air Slash 
 
-Croagunk @ Eviolite  
-Ability: Dry Skin  
+Vulpix @ Choice Scarf 
+Ability: Drought  
 Level: 5  
-EVs: 116 Def / 188 SpA / 196 Spe  
+EVs: 52 HP / 196 SpA / 236 Spe  
 Timid Nature  
-- Vacuum Wave  
-- Nasty Plot  
-- Sludge Wave  
-- Focus Blast  
+IVs: 0 Atk  
+- Energy Ball  
+- Weather Ball  
+- Overheat  
+- Fire Blast 
 
-Farfetch’d-Galar @ Eviolite  
+Farfetch’d-Galar @ Choice Scarf  
 Ability: Scrappy  
 Level: 5  
 EVs: 20 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Swords Dance  
+Jolly Nature
 - Close Combat  
 - Brave Bird  
 - Knock Off  
-
-Dewpider @ Berry Juice  
-Ability: Water Bubble  
-Level: 5  
-EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
-Modest Nature  
-- Sticky Web  
-- Surf  
-- Icy Wind  
-- Giga Drain
+- Leaf Blade

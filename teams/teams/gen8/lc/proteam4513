@@ -1,59 +1,62 @@
-Dwebble @ Berry Juice  
-Ability: Sturdy  
+Timburr @ Eviolite  
+Ability: Guts  
 Level: 5  
-EVs: 236 Atk / 236 Spe  
+EVs: 196 Atk / 156 Def / 156 SpD  
 Adamant Nature  
-- Shell Smash  
-- Rock Blast  
-- Earthquake  
-- Knock Off  
-
-Magnemite @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-- Flash Cannon  
-- Volt Switch  
-- Thunderbolt  
-- Recycle  
-
-Scraggy @ Eviolite  
-Ability: Moxie  
-Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
-Adamant Nature  
-- Dragon Dance  
-- Knock Off  
 - Drain Punch  
-- High Jump Kick  
-
-Corphish @ Eviolite  
-Ability: Adaptability  
-Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
-Adamant Nature  
-- Aqua Jet  
-- Crabhammer  
 - Knock Off  
-- Dragon Dance  
+- Mach Punch  
+- Bulk Up
 
-Foongus @ Eviolite  
+Mareanie @ Eviolite  
 Ability: Regenerator  
 Level: 5  
-EVs: 124 HP / 156 Def / 156 SpD  
+EVs: 196 HP / 20 Def / 92 SpA / 180 SpD  
 Bold Nature  
-- Giga Drain  
-- Spore  
-- Sludge Bomb  
-- Synthesis  
+IVs: 0 Atk  
+- Recover  
+- Scald  
+- Toxic Spikes 
+- Sludge Bomb
 
-Larvesta @ Eviolite  
-Ability: Flame Body  
+Smoochum (F) @ Life Orb  
+Ability: Oblivious  
 Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
-Jolly Nature  
-- U-turn  
-- Flare Blitz  
-- Morning Sun  
-- Will-O-Wisp  
+EVs: 236 SpA / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Psychic  
+- Shadow Ball  
+- Nasty Plot
+
+Tyrunt @ Eviolite  
+Ability: Strong Jaw  
+Level: 5  
+EVs: 204 Atk / 76 SpD / 212 Spe  
+Adamant Nature
+- Rock Blast 
+- Close Combat  
+- Psychic Fangs  
+- Dragon Dance
+
+Shellder @ Eviolite  
+Ability: Skill Link  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Adamant Nature  
+- Icicle Spear  
+- Shell Smash  
+- Rock Blast  
+- Ice Shard
+
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
+Level: 5  
+EVs: 52 HP / 116 Def / 252 SpA / 76 SpD / 12 Spe  
+Quiet Nature  
+IVs: 0 Atk / 0 Spe  
+- Moonblast  
+- Psychic  
+- Nasty Plot  
+- Trick Room

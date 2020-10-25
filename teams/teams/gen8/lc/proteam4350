@@ -1,32 +1,43 @@
-Mudbray @ Eviolite  
-Ability: Stamina  
+Dwebble @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 116 HP / 36 Atk / 196 Def / 156 Spe  
+EVs: 236 Atk / 236 Spe  
 Adamant Nature  
+- Rock Blast  
+- Earthquake 
+- Knock Off  
+- Shell Smash
+
+Onix @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
 - Earthquake  
 - Stealth Rock  
-- Rock Slide  
-- Heavy Slam  
+- Rock Blast  
+- Dragon Dance 
 
-Vullaby @ Berry Juice  
-Ability: Weak Armor  
+Dewpider @ Focus Sash  
+Ability: Water Bubble  
 Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Jolly Nature  
-- Knock Off  
-- Brave Bird  
-- U-turn  
-- Defog  
+EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Scald 
+- Giga Drain  
+- Icy Wind 
+- Sticky Web
 
-Ponyta @ Eviolite  
-Ability: Flame Body  
+Porygon @ Eviolite  
+Ability: Download  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Jolly Nature  
-- Flare Blitz  
-- High Horsepower  
-- Morning Sun  
-- Wild Charge  
+EVs: 36 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Tri Attack  
+- Recover  
+- Ice Beam  
+- Thunderbolt
 
 Ferroseed @ Eviolite  
 Ability: Iron Barbs  
@@ -35,25 +46,15 @@ EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe
 Impish Nature  
 - Knock Off  
 - Thunder Wave  
-- Spikes  
-- Giga Drain
+- Stealth Rock  
+- Bullet Seed
 
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
+Magnemite @ Choice Scarf  
+Ability: Analytic  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
-Adamant Nature  
-- Body Slam  
-- Earthquake  
-- Curse  
-- Recycle
-
-Scraggy @ Eviolite  
-Ability: Moxie  
-Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
-Adamant Nature  
-- Dragon Dance  
-- Knock Off  
-- Drain Punch  
-- High Jump Kick  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Modest Nature
+- Volt Switch  
+- Thunderbolt  
+- Flash Cannon  
+- Steel Beam

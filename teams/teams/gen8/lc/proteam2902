@@ -1,34 +1,54 @@
-Meowth @ Life Orb  
-Ability: Technician  
+Vullaby @ Berry Juice 
+Ability: Weak Armor  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 196 Spe  
-Jolly Nature  
-- Fake Out  
-- Feint  
-- Aerial Ace  
-- Water Pulse  
-
-Pawniard @ Eviolite  
-Ability: Defiant  
-Level: 5  
-EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
-Jolly Nature  
-- Iron Head  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Jolly Nature
 - Knock Off  
-- Sucker Punch  
-- Stealth Rock  
+- Brave Bird  
+- U-turn  
+- Heat Wave
+
+Foongus @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 124 HP / 156 Def / 156 SpD  
+Bold Nature  
+- Giga Drain  
+- Spore  
+- Sludge Bomb  
+- Synthesis
 
 Trapinch @ Eviolite  
 Ability: Arena Trap  
 Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Relaxed Nature  
+EVs: 156 HP / 196 Atk / 76 Def / 76 SpD  
+Adamant Nature  
 - Earthquake  
 - First Impression  
 - Superpower  
-- Giga Drain  
+- Quick Attack 
 
-Wingull @ Life Orb  
+Farfetch’d-Galar @ Eviolite  
+Ability: Scrappy  
+Level: 5  
+EVs: 20 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Swords Dance  
+- Close Combat  
+- Brave Bird  
+- Knock Off
+
+Magnemite @ Choice Scarf  
+Ability: Analytic  
+Level: 5  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Modest Nature
+- Volt Switch  
+- Thunderbolt  
+- Flash Cannon  
+- Steel Beam
+
+Wingull @ Life Orb 
 Ability: Hydration  
 Level: 5  
 EVs: 36 Def / 236 SpA / 236 Spe  
@@ -36,24 +56,4 @@ Timid Nature
 - Scald  
 - Hurricane  
 - U-turn  
-- Air Slash  
-
-Magnemite @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-- Flash Cannon  
-- Volt Switch  
-- Thunderbolt  
-- Recycle  
-
-Dewpider @ Berry Juice  
-Ability: Water Bubble  
-Level: 5  
-EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
-Modest Nature  
-- Sticky Web  
-- Surf  
-- Icy Wind  
-- Giga Drain
+- Air Slash 

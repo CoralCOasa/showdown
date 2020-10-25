@@ -1,59 +1,59 @@
-Mareanie @ Eviolite  
-Ability: Regenerator  
+Natu @ Eviolite  
+Ability: Magic Bounce  
 Level: 5  
-EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+EVs: 196 HP / 236 Def / 76 SpD  
 Bold Nature  
-- Recover  
-- Scald  
-- Toxic Spikes  
-- Sludge Bomb  
+- Psychic  
+- Heat Wave  
+- U-turn 
+- Roost
 
-Ponyta @ Eviolite  
-Ability: Flame Body  
+Vullaby @ Eviolite  
+Ability: Overcoat  
+Level: 5  
+EVs: 116 HP / 76 Def / 236 SpD / 36 Spe  
+Impish Nature  
+- Brave Bird  
+- Knock Off  
+- U-turn  
+- Roost
+
+Farfetch’d-Galar @ Eviolite  
+Ability: Scrappy  
+Level: 5  
+EVs: 20 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Swords Dance  
+- Close Combat  
+- Brave Bird  
+- Knock Off
+
+Shellder @ Eviolite  
+Ability: Skill Link  
 Level: 5  
 EVs: 236 Atk / 76 SpD / 196 Spe  
-Jolly Nature  
-- Flare Blitz  
-- High Horsepower  
-- Morning Sun  
-- Wild Charge  
-
-Larvesta @ Eviolite  
-Ability: Flame Body  
-Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
-Jolly Nature  
-- U-turn  
-- Flare Blitz  
-- Morning Sun  
-- Will-O-Wisp  
-
-Corphish @ Eviolite  
-Ability: Adaptability  
-Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
 Adamant Nature  
-- Aqua Jet  
-- Crabhammer  
+- Icicle Spear  
+- Shell Smash  
+- Rock Blast  
+- Liquidation 
+
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
 - Knock Off  
-- Dragon Dance  
+- U-turn  
+- Close Combat  
+- Fake Out 
 
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
+Trapinch @ Eviolite  
+Ability: Arena Trap  
 Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
-Bold Nature  
-- Moonblast  
-- Wish  
-- Protect  
-- Calm Mind  
-
-Mudbray @ Eviolite  
-Ability: Stamina  
-Level: 5  
-EVs: 116 HP / 36 Atk / 196 Def / 156 Spe  
+EVs: 156 HP / 196 Atk / 76 Def / 76 SpD  
 Adamant Nature  
 - Earthquake  
-- Stealth Rock  
-- Rock Slide  
-- Heavy Slam  
+- First Impression  
+- Superpower  
+- Quick Attack 

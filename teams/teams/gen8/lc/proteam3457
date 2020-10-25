@@ -1,3 +1,34 @@
+Pawniard @ Eviolite  
+Ability: Defiant  
+Level: 5  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Iron Head  
+- Knock Off  
+- Sucker Punch  
+- Swords Dance 
+
+Vulpix @ Choice Specs  
+Ability: Drought  
+Level: 5  
+EVs: 52 HP / 196 SpA / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Energy Ball  
+- Weather Ball  
+- Overheat  
+- Extrasensory
+
+Koffing @ Eviolite  
+Ability: Levitate 
+Level: 5  
+EVs: 36 HP / 236 Def / 236 SpD  
+Bold Nature  
+- Will-O-Wisp 
+- Toxic Spikes  
+- Pain Split  
+- Sludge Bomb 
+
 Trapinch @ Eviolite  
 Ability: Arena Trap  
 Level: 5  
@@ -5,56 +36,25 @@ EVs: 156 HP / 36 Atk / 236 Def / 76 SpD
 Relaxed Nature  
 - Earthquake  
 - First Impression  
-- Superpower  
-- Giga Drain  
-
-Meowth @ Life Orb  
-Ability: Technician  
-Level: 5  
-EVs: 236 Atk / 36 SpD / 196 Spe  
-Jolly Nature  
-- Fake Out  
-- Feint  
-- Aerial Ace  
-- Water Pulse  
-
-Amaura @ Choice Scarf  
-Ability: Refrigerate  
-Level: 5  
-EVs: 60 HP / 220 SpA / 228 Spe  
-Modest Nature  
-IVs: 0 Atk  
-- Hyper Voice  
-- Earth Power  
-- Thunderbolt  
-- Ancient Power
-
-Ferroseed @ Eviolite  
-Ability: Iron Barbs  
-Level: 5  
-EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
-Impish Nature  
-- Knock Off  
-- Thunder Wave  
-- Spikes  
+- Rock Slide  
 - Giga Drain
 
-Woobat @ Berry Juice  
-Ability: Simple  
+Onix @ Eviolite  
+Ability: Rock Head  
 Level: 5  
-EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
-Timid Nature  
-- Nasty Plot  
-- Psychic  
-- Heat Wave  
-- Air Slash  
+EVs: 236 Atk / 36 Def / 196 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Head Smash  
+- Earthquake  
+- Body Press
 
-Koffing @ Eviolite  
-Ability: Levitate  
+Tirtouga @ Eviolite  
+Ability: Solid Rock  
 Level: 5  
-EVs: 36 HP / 236 Def / 236 SpD  
-Bold Nature  
-- Will-O-Wisp  
-- Toxic Spikes  
-- Pain Split  
-- Sludge Bomb  
+EVs: 164 HP / 52 Atk / 92 Def / 156 SpD / 20 Spe  
+Careful Nature  
+- Stealth Rock  
+- Stone Edge  
+- Knock Off  
+- Aqua Jet

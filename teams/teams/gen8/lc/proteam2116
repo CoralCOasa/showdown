@@ -1,59 +1,60 @@
-Carvanha @ Life Orb  
-Ability: Speed Boost  
+Drilbur @ Berry Juice  
+Ability: Mold Breaker  
 Level: 5  
-EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
-Adamant Nature  
-- Crunch  
-- Psychic Fangs  
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
+Jolly Nature  
+- Earthquake  
+- Rapid Spin  
+- Rock Slide  
+- Stealth Rock 
+
+Foongus @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 124 HP / 156 Def / 156 SpD  
+Bold Nature  
+- Giga Drain  
+- Spore  
+- Sludge Bomb  
+- Synthesis
+
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
+Level: 5  
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
+Bold Nature  
+- Moonblast  
+- Wish  
 - Protect  
-- Liquidation  
+- Psychic
 
-Ferroseed @ Eviolite  
-Ability: Iron Barbs  
+Diglett @ Life Orb  
+Ability: Arena Trap  
 Level: 5  
-EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
-Impish Nature  
-- Knock Off  
-- Thunder Wave  
-- Spikes  
-- Giga Drain
+EVs: 36 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Sucker Punch  
+- Rock Slide  
+- Memento
 
-Chinchou @ Eviolite  
-Ability: Volt Absorb  
+Dewpider @ Eviolite  
+Ability: Water Bubble  
 Level: 5  
-EVs: 52 Def / 228 SpA / 220 Spe  
+EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
 Timid Nature  
-- Volt Switch  
-- Scald  
-- Ice Beam  
-- Thunderbolt  
+IVs: 0 Atk  
+- Scald 
+- Giga Drain  
+- Magic Coat  
+- Sticky Web
 
-Grookey @ Eviolite  
-Ability: Grassy Surge  
+Zigzagoon @ Berry Juice  
+Ability: Quick Feet 
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
-Jolly Nature  
-- Grassy Glide  
-- Knock Off  
-- Drain Punch  
-- U-turn  
-
-Larvesta @ Eviolite  
-Ability: Flame Body  
-Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
-Jolly Nature  
-- U-turn  
-- Flare Blitz  
-- Morning Sun  
-- Will-O-Wisp  
-
-Corphish @ Eviolite  
-Ability: Adaptability  
-Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
+EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
 Adamant Nature  
-- Aqua Jet  
-- Crabhammer  
-- Knock Off  
-- Dragon Dance  
+- Belly Drum  
+- Extreme Speed  
+- Thief  
+- Seed Bomb

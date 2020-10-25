@@ -1,32 +1,23 @@
-Woobat @ Berry Juice  
-Ability: Simple  
+Staryu @ Eviolite  
+Ability: Analytic  
 Level: 5  
-EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
+EVs: 156 Def / 116 SpA / 236 Spe  
 Timid Nature  
-- Nasty Plot  
+- Scald  
+- Thunderbolt  
 - Psychic  
-- Heat Wave  
-- Air Slash  
+- Rapid Spin 
 
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
+Smoochum (F) @ Life Orb  
+Ability: Oblivious  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
-Adamant Nature  
-- Body Slam  
-- Earthquake  
-- Curse  
-- Recycle
-
-Croagunk @ Eviolite  
-Ability: Dry Skin  
-Level: 5  
-EVs: 116 Def / 188 SpA / 196 Spe  
+EVs: 236 SpA / 236 Spe  
 Timid Nature  
-- Vacuum Wave  
-- Nasty Plot  
-- Sludge Wave  
-- Focus Blast  
+IVs: 0 Atk  
+- Ice Beam  
+- Psychic  
+- Shadow Ball  
+- Nasty Plot
 
 Archen @ Berry Juice  
 Ability: Defeatist  
@@ -38,23 +29,32 @@ Jolly Nature
 - Earthquake  
 - U-turn
 
-Wingull @ Life Orb  
-Ability: Hydration  
+Scorbunny @ Eviolite  
+Ability: Libero  
 Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-- Scald  
-- Hurricane  
+EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
+Jolly Nature  
+- High Jump Kick  
 - U-turn  
-- Air Slash  
+- Flame Charge  
+- Sucker Punch
 
-Natu @ Eviolite  
-Ability: Magic Bounce  
+Pawniard @ Life Orb  
+Ability: Defiant  
 Level: 5  
-EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Psychic  
-- Heat Wave  
-- U-turn  
-- Roost  
+EVs: 236 Atk / 36 Def / 36 SpD / 196 Spe  
+Jolly Nature  
+- Iron Head  
+- Knock Off  
+- Sucker Punch  
+- Brick Break 
+
+Trapinch @ Eviolite  
+Ability: Arena Trap  
+Level: 5  
+EVs: 156 HP / 196 Atk / 76 Def / 76 SpD  
+Adamant Nature  
+- Earthquake  
+- First Impression  
+- Superpower  
+- Rock Slide 

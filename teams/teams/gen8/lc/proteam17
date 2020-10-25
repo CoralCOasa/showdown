@@ -1,59 +1,60 @@
-Corphish @ Eviolite  
-Ability: Adaptability  
+Mudbray @ Berry Juice  
+Ability: Stamina  
 Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
+EVs: 116 HP / 36 Atk / 196 Def / 156 Spe  
 Adamant Nature  
-- Aqua Jet  
-- Crabhammer  
-- Knock Off  
-- Dragon Dance  
+- Earthquake  
+- Stealth Rock  
+- Close Combat  
+- Heavy Slam
 
-Foongus @ Eviolite  
-Ability: Regenerator  
+Onix @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 124 HP / 156 Def / 156 SpD  
-Bold Nature  
-- Giga Drain  
-- Spore  
-- Sludge Bomb  
-- Synthesis  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- Earthquake  
+- Stealth Rock  
+- Rock Blast  
+- Taunt
+
+Shellder @ Eviolite  
+Ability: Skill Link  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Adamant Nature  
+- Icicle Spear  
+- Shell Smash  
+- Rock Blast  
+- Liquidation 
+
+Abra @ Focus Sash  
+Ability: Magic Guard  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Psychic  
+- Dazzling Gleam  
+- Energy Ball 
+- Counter
 
 Mareanie @ Eviolite  
 Ability: Regenerator  
 Level: 5  
 EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
 Bold Nature  
+IVs: 0 Atk  
 - Recover  
 - Scald  
-- Toxic Spikes  
-- Sludge Bomb  
+- Knock Off  
+- Sludge Bomb
 
-Bunnelby @ Eviolite  
-Ability: Huge Power  
+Pawniard @ Eviolite  
+Ability: Defiant  
 Level: 5  
-EVs: 228 Atk / 132 Def / 148 SpD  
-Adamant Nature  
-- Earthquake  
-- Quick Attack  
-- U-turn  
-- Facade
-
-Porygon @ Eviolite  
-Ability: Download  
-Level: 5  
-EVs: 36 Def / 236 SpA / 196 Spe  
-Modest Nature  
-- Tri Attack  
-- Recover  
-- Ice Beam  
-- Psychic  
-
-Drilbur @ Eviolite  
-Ability: Mold Breaker  
-Level: 5  
-EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
 Jolly Nature  
-- Earthquake  
-- Rapid Spin  
-- Rock Slide  
-- Stealth Rock  
+- Iron Head  
+- Knock Off  
+- Sucker Punch  
+- Stealth Rock 

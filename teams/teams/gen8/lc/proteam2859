@@ -1,54 +1,44 @@
+Vullaby @ Choice Scarf  
+Ability: Overcoat  
+Level: 5  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Adamant Nature
+- Brave Bird  
+- Knock Off  
+- U-turn  
+- Defog 
+
+Ponyta @ Berry Juice  
+Ability: Flame Body  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Jolly Nature  
+- Flare Blitz  
+- High Horsepower  
+- Wild Charge  
+- Hypnosis
+
 Mienfoo @ Eviolite  
 Ability: Regenerator  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
-Jolly Nature  
+EVs: 76 HP / 196 Def / 196 SpD  
+Impish Nature  
+- High Jump Kick 
 - Knock Off  
 - U-turn  
-- High Jump Kick  
-- Fake Out  
+- Fake Out
 
-Chinchou @ Eviolite  
-Ability: Volt Absorb  
+Foongus @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 52 Def / 228 SpA / 220 Spe  
-Timid Nature  
-- Volt Switch  
-- Scald  
-- Ice Beam  
-- Thunderbolt  
-
-Archen @ Berry Juice  
-Ability: Defeatist  
-Level: 5  
-EVs: 76 HP / 180 Atk / 196 Spe  
-Jolly Nature  
-- Stone Edge  
-- Dual Wingbeat  
-- Earthquake  
-- U-turn
-
-Vullaby @ Berry Juice  
-Ability: Weak Armor  
-Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Jolly Nature  
-- Knock Off  
-- Brave Bird  
-- U-turn  
-- Defog  
-
-Koffing @ Eviolite  
-Ability: Levitate  
-Level: 5  
-EVs: 36 HP / 236 Def / 236 SpD  
+EVs: 124 HP / 156 Def / 156 SpD  
 Bold Nature  
-- Will-O-Wisp  
-- Toxic Spikes  
-- Pain Split  
+- Giga Drain  
+- Spore  
 - Sludge Bomb  
+- Synthesis
 
-Drilbur @ Eviolite  
+Drilbur @ Eviolite 
 Ability: Mold Breaker  
 Level: 5  
 EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
@@ -56,4 +46,14 @@ Jolly Nature
 - Earthquake  
 - Rapid Spin  
 - Rock Slide  
-- Stealth Rock  
+- Stealth Rock 
+
+Corphish @ Eviolite  
+Ability: Adaptability  
+Level: 5  
+EVs: 196 Atk / 76 Def / 236 Spe  
+Adamant Nature  
+- Aqua Jet  
+- Crabhammer  
+- Knock Off  
+- Dragon Dance 

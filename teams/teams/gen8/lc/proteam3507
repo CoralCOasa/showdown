@@ -1,13 +1,42 @@
-Amaura @ Choice Scarf  
-Ability: Refrigerate  
+Carvanha @ Life Orb  
+Ability: Speed Boost  
 Level: 5  
-EVs: 60 HP / 220 SpA / 228 Spe  
-Modest Nature  
-IVs: 0 Atk  
-- Hyper Voice  
-- Earth Power  
-- Thunderbolt  
-- Ancient Power
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+Adamant Nature  
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation
+
+Trapinch @ Eviolite  
+Ability: Arena Trap  
+Level: 5  
+EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
+Relaxed Nature  
+- Earthquake  
+- First Impression  
+- Superpower 
+- Giga Drain
+
+Tirtouga @ Eviolite  
+Ability: Solid Rock  
+Level: 5  
+EVs: 4 HP / 132 Atk / 92 Def / 76 SpD / 180 Spe  
+Jolly Nature  
+- Shell Smash  
+- Liquidation  
+- Stone Edge  
+- Zen Headbutt 
+
+Pawniard @ Eviolite  
+Ability: Defiant  
+Level: 5  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Iron Head  
+- Knock Off  
+- Sucker Punch  
+- Swords Dance 
 
 Corphish @ Eviolite  
 Ability: Adaptability  
@@ -17,44 +46,14 @@ Adamant Nature
 - Aqua Jet  
 - Crabhammer  
 - Knock Off  
-- Dragon Dance  
+- Dragon Dance 
 
-Wingull @ Life Orb  
-Ability: Hydration  
+Timburr @ Eviolite  
+Ability: Guts  
 Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-- Scald  
-- Hurricane  
-- U-turn  
-- Air Slash  
-
-Mienfoo @ Eviolite  
-Ability: Regenerator  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
-Jolly Nature  
-- Knock Off  
-- U-turn  
-- High Jump Kick  
-- Fake Out  
-
-Meowth @ Life Orb  
-Ability: Technician  
-Level: 5  
-EVs: 236 Atk / 36 SpD / 196 Spe  
-Jolly Nature  
-- Fake Out  
-- Feint  
-- Aerial Ace  
-- Water Pulse  
-
-Carvanha @ Life Orb  
-Ability: Speed Boost  
-Level: 5  
-EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+EVs: 196 Atk / 156 Def / 156 SpD  
 Adamant Nature  
-- Crunch  
-- Psychic Fangs  
-- Protect  
-- Liquidation  
+- Drain Punch  
+- Knock Off  
+- Mach Punch  
+- Thunder Punch 

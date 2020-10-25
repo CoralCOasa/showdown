@@ -1,60 +1,59 @@
-Grookey @ Eviolite  
-Ability: Grassy Surge  
+Dwebble @ Eviolite  
+Ability: Weak Armor  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
-Jolly Nature  
-- Grassy Glide  
+EVs: 116 HP / 76 Atk / 156 Def / 156 Spe  
+Impish Nature  
+- Rock Blast  
 - Knock Off  
-- Drain Punch  
-- U-turn  
-
-Amaura @ Choice Scarf  
-Ability: Refrigerate  
-Level: 5  
-EVs: 60 HP / 220 SpA / 228 Spe  
-Modest Nature  
-IVs: 0 Atk  
-- Hyper Voice  
-- Earth Power  
-- Thunderbolt  
-- Ancient Power
-
-Wingull @ Life Orb  
-Ability: Hydration  
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-- Scald  
-- Hurricane  
-- U-turn  
-- Air Slash  
-
-Pawniard @ Eviolite  
-Ability: Defiant  
-Level: 5  
-EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
-Jolly Nature  
-- Iron Head  
-- Knock Off  
-- Sucker Punch  
 - Stealth Rock  
+- Spikes
 
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
+Drilbur @ Berry Juice  
+Ability: Mold Breaker  
 Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
+Jolly Nature  
+- Earthquake  
+- Rapid Spin  
+- Rock Slide  
+- Stealth Rock 
+
+Natu @ Eviolite  
+Ability: Magic Bounce  
+Level: 5  
+EVs: 196 HP / 236 Def / 76 SpD  
 Bold Nature  
-- Moonblast  
-- Wish  
-- Protect  
-- Calm Mind  
+- Psychic  
+- Heat Wave  
+- U-turn 
+- Roost
 
-Corphish @ Eviolite  
-Ability: Adaptability  
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
 Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
-Adamant Nature  
-- Aqua Jet  
-- Crabhammer  
+EVs: 84 HP / 188 Def / 84 SpA / 148 SpD  
+Sassy Nature  
 - Knock Off  
-- Dragon Dance  
+- Thunder Wave  
+- Spikes 
+- Giga Drain
+
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 76 HP / 196 Def / 196 SpD  
+Impish Nature  
+- High Jump Kick 
+- Knock Off  
+- U-turn  
+- Fake Out
+
+Natu @ Eviolite  
+Ability: Magic Bounce  
+Level: 5  
+EVs: 196 HP / 236 Def / 76 SpD  
+Bold Nature  
+- Psychic  
+- Heat Wave  
+- U-turn 
+- Roost

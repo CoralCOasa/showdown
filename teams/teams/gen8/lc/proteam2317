@@ -1,22 +1,13 @@
-Croagunk @ Eviolite  
-Ability: Dry Skin  
+Smoochum (F) @ Eviolite 
+Ability: Oblivious  
 Level: 5  
-EVs: 116 Def / 188 SpA / 196 Spe  
+EVs: 236 SpA / 236 Spe  
 Timid Nature  
-- Vacuum Wave  
-- Nasty Plot  
-- Sludge Wave  
-- Focus Blast  
-
-Wingull @ Life Orb  
-Ability: Hydration  
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-- Scald  
-- Hurricane  
-- U-turn  
-- Air Slash  
+IVs: 0 Atk  
+- Ice Beam  
+- Psychic  
+- Shadow Ball  
+- Nasty Plot
 
 Scraggy @ Eviolite  
 Ability: Moxie  
@@ -25,36 +16,46 @@ EVs: 236 Atk / 36 SpD / 212 Spe
 Adamant Nature  
 - Dragon Dance  
 - Knock Off  
-- Drain Punch  
 - High Jump Kick  
+- Poison Jab 
 
-Carvanha @ Life Orb  
-Ability: Speed Boost  
+Magnemite @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
-Adamant Nature  
-- Crunch  
-- Psychic Fangs  
-- Protect  
-- Liquidation  
-
-Vulpix @ Choice Scarf  
-Ability: Drought  
-Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
+EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
-- Energy Ball  
-- Weather Ball  
-- Overheat  
-- Fire Blast  
+- Flash Cannon  
+- Volt Switch  
+- Endure  
+- Recycle  
 
-Natu @ Eviolite  
-Ability: Magic Bounce  
+Ponyta-Galar @ Eviolite  
+Ability: Pastel Veil  
 Level: 5  
-EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
+EVs: 236 SpA / 76 SpD / 196 Spe  
 Timid Nature  
-IVs: 0 Atk  
+- Mystical Fire  
 - Psychic  
-- Heat Wave  
-- U-turn  
-- Roost  
+- Dazzling Gleam  
+- Calm Mind
+
+Elekid @ Life Orb  
+Ability: Vital Spirit  
+Level: 5  
+EVs: 12 Atk / 236 SpA / 236 Spe  
+Hasty Nature  
+- Thunderbolt  
+- Cross Chop  
+- Psychic  
+- Volt Switch
+
+Smoochum (F) @ Choice Scarf  
+Ability: Oblivious  
+Level: 5  
+EVs: 236 SpA / 236 Spe  
+Modest Nature
+IVs: 0 Atk  
+- Ice Beam  
+- Psychic  
+- Shadow Ball  
+- Trick

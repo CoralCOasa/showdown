@@ -1,60 +1,59 @@
-Staryu @ Eviolite  
-Ability: Natural Cure  
+Ponyta @ Eviolite  
+Ability: Flame Body  
 Level: 5  
-EVs: 116 HP / 156 Def / 236 Spe  
+EVs: 76 Atk / 156 Def / 76 SpD / 196 Spe  
+Jolly Nature  
+- Flare Blitz  
+- High Horsepower  
+- Will-O-Wisp  
+- Morning Sun
+
+Koffing @ Eviolite  
+Ability: Levitate  
+Level: 5  
+EVs: 36 HP / 196 SpA / 236 Spe  
 Timid Nature  
-- Rapid Spin  
-- Thunderbolt  
-- Recover  
-- Scald  
+- Sludge Bomb  
+- Toxic Spikes  
+- Fire Blast 
+- Thunderbolt
 
-Diglett @ Life Orb  
-Ability: Arena Trap  
+Vullaby @ Berry Juice  
+Ability: Weak Armor  
 Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Earthquake  
-- Sucker Punch  
-- Rock Slide  
-- Stealth Rock  
-
-Ferroseed @ Eviolite  
-Ability: Iron Barbs  
-Level: 5  
-EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
-Impish Nature  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Jolly Nature
 - Knock Off  
-- Thunder Wave  
-- Spikes  
-- Giga Drain
-
-Mienfoo @ Eviolite  
-Ability: Regenerator  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
-Jolly Nature  
-- Knock Off  
+- Brave Bird  
 - U-turn  
-- High Jump Kick  
+- Defog 
+
+Farfetch’d-Galar @ Eviolite  
+Ability: Scrappy  
+Level: 5  
+EVs: 20 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Swords Dance  
+- Close Combat  
+- Brave Bird  
+- Knock Off
+
+Meowth @ Life Orb  
+Ability: Technician  
+Level: 5  
+EVs: 36 HP / 236 Atk / 36 SpD / 196 Spe  
+Jolly Nature  
 - Fake Out  
+- Feint  
+- Knock Off  
+- Aerial Ace
 
-Natu @ Eviolite  
-Ability: Magic Bounce  
+Staryu @ Eviolite  
+Ability: Analytic  
 Level: 5  
-EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
+EVs: 156 Def / 116 SpA / 236 Spe  
 Timid Nature  
-IVs: 0 Atk  
+- Hydro Pump 
+- Thunderbolt  
 - Psychic  
-- Heat Wave  
-- U-turn  
-- Roost  
-
-Scorbunny @ Berry Juice  
-Ability: Libero  
-Level: 5  
-EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
-Jolly Nature  
-- High Jump Kick  
-- U-turn  
-- Blaze Kick  
-- Gunk Shot  
+- Recover

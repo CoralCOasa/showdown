@@ -1,59 +1,60 @@
-Ponyta-Galar @ Eviolite  
-Ability: Pastel Veil  
+Trapinch @ Eviolite  
+Ability: Arena Trap  
 Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-- Mystical Fire  
-- Psychic  
-- Dazzling Gleam  
-- Calm Mind  
-
-Bunnelby @ Eviolite  
-Ability: Huge Power  
-Level: 5  
-EVs: 228 Atk / 132 Def / 148 SpD  
-Adamant Nature  
+EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
+Relaxed Nature  
 - Earthquake  
-- Quick Attack  
-- U-turn  
-- Facade
+- First Impression  
+- Superpower 
+- Giga Drain
 
-Woobat @ Berry Juice  
-Ability: Simple  
+Staryu @ Eviolite  
+Ability: Natural Cure  
 Level: 5  
-EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
+EVs: 116 HP / 156 Def / 236 Spe  
 Timid Nature  
-- Nasty Plot  
-- Psychic  
-- Heat Wave  
-- Air Slash  
+- Rapid Spin  
+- Thunderbolt 
+- Recover  
+- Scald
 
-Pawniard @ Eviolite  
-Ability: Defiant  
+Omanyte @ Eviolite  
+Ability: Shell Armor  
 Level: 5  
-EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
-Jolly Nature  
-- Iron Head  
-- Knock Off  
-- Sucker Punch  
-- Stealth Rock  
+EVs: 76 HP / 196 SpA / 236 Spe  
+Modest Nature  
+- Shell Smash  
+- Hydro Pump  
+- Ice Beam  
+- Earth Power
 
-Grookey @ Eviolite  
-Ability: Grassy Surge  
+Wingull @ Life Orb 
+Ability: Hydration  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
-Jolly Nature  
-- Grassy Glide  
-- Knock Off  
-- Drain Punch  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Timid Nature  
+- Scald  
+- Hurricane  
 - U-turn  
+- Air Slash 
 
-Vullaby @ Berry Juice  
-Ability: Weak Armor  
+Porygon @ Eviolite  
+Ability: Download  
 Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Jolly Nature  
-- Knock Off  
-- Brave Bird  
-- U-turn  
-- Defog  
+EVs: 76 HP / 196 Def / 236 SpA  
+Quiet Nature  
+IVs: 0 Atk / 0 Spe  
+- Tri Attack  
+- Ice Beam  
+- Thunderbolt 
+- Trick Room
+
+Omanyte @ Eviolite  
+Ability: Shell Armor  
+Level: 5  
+EVs: 76 HP / 196 SpA / 236 Spe  
+Modest Nature  
+- Shell Smash  
+- Hydro Pump  
+- Ice Beam  
+- Earth Power

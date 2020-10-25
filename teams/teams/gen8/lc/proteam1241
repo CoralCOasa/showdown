@@ -1,61 +1,62 @@
-Onix @ Berry Juice  
-Ability: Sturdy  
+Chinchou @ Choice Scarf  
+Ability: Volt Absorb  
 Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
-Jolly Nature  
-- Earthquake  
-- Stealth Rock  
-- Rock Blast  
-- Dragon Dance  
+EVs: 52 Def / 228 SpA / 220 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Scald
+- Hydro Pump  
+- Ice Beam  
+- Volt Switch
 
-Scorbunny @ Berry Juice  
-Ability: Libero  
+Foongus @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
-Jolly Nature  
-- High Jump Kick  
-- U-turn  
-- Blaze Kick  
-- Gunk Shot  
+EVs: 124 HP / 156 Def / 156 SpD  
+Bold Nature  
+- Giga Drain  
+- Spore  
+- Sludge Bomb  
+- Synthesis
 
-Larvesta @ Eviolite  
-Ability: Flame Body  
+Mareanie @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
-Jolly Nature  
-- U-turn  
-- Flare Blitz  
-- Morning Sun  
-- Will-O-Wisp  
+EVs: 196 HP / 20 Def / 92 SpA / 180 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Recover  
+- Scald  
+- Toxic Spikes 
+- Sludge Bomb
+
+Carvanha @ Life Orb  
+Ability: Speed Boost  
+Level: 5  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+Adamant Nature  
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation
+
+Spritzee @ Berry Juice  
+Ability: Aroma Veil  
+Level: 5  
+EVs: 52 HP / 116 Def / 252 SpA / 76 SpD / 12 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Psychic  
+- Energy Ball  
+- Nasty Plot
 
 Timburr @ Eviolite  
-Ability: Iron Fist  
+Ability: Guts  
 Level: 5  
 EVs: 196 Atk / 156 Def / 156 SpD  
 Adamant Nature  
 - Drain Punch  
-- Mach Punch  
 - Knock Off  
-- Defog  
-
-Natu @ Eviolite  
-Ability: Magic Bounce  
-Level: 5  
-EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Psychic  
-- Heat Wave  
-- U-turn  
-- Roost  
-
-Amaura @ Choice Scarf  
-Ability: Refrigerate  
-Level: 5  
-EVs: 60 HP / 220 SpA / 228 Spe  
-Modest Nature  
-IVs: 0 Atk  
-- Hyper Voice  
-- Earth Power  
-- Thunderbolt  
-- Ancient Power
+- Mach Punch  
+- Thunder Punch 

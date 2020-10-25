@@ -1,22 +1,32 @@
-Timburr @ Eviolite  
-Ability: Iron Fist  
+Ponyta-Galar @ Choice Scarf  
+Ability: Pastel Veil  
 Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
-Adamant Nature  
-- Drain Punch  
-- Mach Punch  
-- Knock Off  
-- Defog  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Naughty Nature  
+- Zen Headbutt  
+- Play Rough  
+- Mystical Fire  
+- Healing Wish
 
-Meowth @ Life Orb  
-Ability: Technician  
+Chinchou @ Eviolite  
+Ability: Volt Absorb  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 196 Spe  
-Jolly Nature  
-- Fake Out  
-- Feint  
-- Aerial Ace  
-- Water Pulse  
+EVs: 52 Def / 228 SpA / 220 Spe  
+Timid Nature  
+- Volt Switch  
+- Scald  
+- Ice Beam  
+- Hydro Pump
+
+Tyrunt @ Eviolite  
+Ability: Strong Jaw  
+Level: 5  
+EVs: 204 Atk / 76 SpD / 212 Spe  
+Adamant Nature
+- Rock Blast 
+- Close Combat  
+- Psychic Fangs  
+- Dragon Dance
 
 Spritzee @ Eviolite  
 Ability: Aroma Veil  
@@ -26,35 +36,25 @@ Bold Nature
 - Moonblast  
 - Wish  
 - Protect  
-- Calm Mind  
+- Calm Mind 
 
-Grookey @ Eviolite  
-Ability: Grassy Surge  
+Mareanie @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
-Jolly Nature  
-- Grassy Glide  
-- Knock Off  
-- Drain Punch  
-- U-turn  
-
-Carvanha @ Life Orb  
-Ability: Speed Boost  
-Level: 5  
-EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
-Adamant Nature  
-- Crunch  
-- Psychic Fangs  
-- Protect  
-- Liquidation  
-
-Natu @ Eviolite  
-Ability: Magic Bounce  
-Level: 5  
-EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
-Timid Nature  
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+Bold Nature  
 IVs: 0 Atk  
-- Psychic  
-- Heat Wave  
-- U-turn  
-- Roost  
+- Recover  
+- Scald  
+- Knock Off  
+- Sludge Bomb
+
+Dwebble @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 236 Atk / 236 Spe  
+Adamant Nature  
+- Rock Blast  
+- Earthquake 
+- Knock Off  
+- Shell Smash

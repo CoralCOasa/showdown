@@ -1,59 +1,61 @@
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
+Drilbur @ Berry Juice  
+Ability: Mold Breaker  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
-Adamant Nature  
-- Body Slam  
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
+Jolly Nature  
 - Earthquake  
-- Curse  
-- Recycle
+- Rapid Spin  
+- Rock Slide  
+- Stealth Rock 
 
-Scorbunny @ Berry Juice  
-Ability: Libero  
+Onix @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
+EVs: 76 HP / 236 Atk / 196 Spe  
 Jolly Nature  
-- High Jump Kick  
-- U-turn  
-- Blaze Kick  
-- Gunk Shot  
+- Earthquake  
+- Stealth Rock  
+- Rock Blast  
+- Dragon Dance 
 
-Timburr @ Eviolite  
-Ability: Iron Fist  
+Chinchou @ Eviolite  
+Ability: Volt Absorb  
 Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
-Adamant Nature  
-- Drain Punch  
-- Mach Punch  
-- Knock Off  
-- Defog  
+EVs: 236 HP / 212 Def / 60 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Scald  
+- Ice Beam  
+- Thunderbolt
 
-Vulpix @ Choice Scarf  
-Ability: Drought  
+Smoochum (F) @ Eviolite 
+Ability: Oblivious  
 Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
+EVs: 236 SpA / 236 Spe  
 Timid Nature  
-- Energy Ball  
-- Weather Ball  
-- Overheat  
-- Fire Blast  
+IVs: 0 Atk  
+- Ice Beam  
+- Psychic  
+- Shadow Ball  
+- Nasty Plot
 
-Vullaby @ Berry Juice  
-Ability: Weak Armor  
+Natu @ Eviolite  
+Ability: Magic Bounce  
 Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Jolly Nature  
-- Knock Off  
-- Brave Bird  
-- U-turn  
-- Defog  
+EVs: 196 HP / 236 Def / 76 SpD  
+Bold Nature  
+- Psychic  
+- Heat Wave  
+- Thunder Wave  
+- Roost
 
-Scraggy @ Eviolite  
-Ability: Moxie  
+Porygon @ Eviolite  
+Ability: Download  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
-Adamant Nature  
-- Dragon Dance  
-- Knock Off  
-- Drain Punch  
-- High Jump Kick  
+EVs: 156 HP / 36 Def / 236 SpA / 36 Spe  
+Modest Nature  
+- Tri Attack  
+- Psychic 
+- Ice Beam  
+- Recover

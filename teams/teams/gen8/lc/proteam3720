@@ -1,22 +1,22 @@
-Diglett @ Life Orb  
-Ability: Arena Trap  
+Staryu @ Life Orb  
+Ability: Analytic  
 Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Earthquake  
-- Sucker Punch  
-- Rock Slide  
-- Stealth Rock  
-
-Vulpix @ Choice Scarf  
-Ability: Drought  
-Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
+EVs: 76 Def / 196 SpA / 236 Spe  
 Timid Nature  
-- Energy Ball  
-- Weather Ball  
-- Overheat  
-- Fire Blast  
+- Hydro Pump 
+- Psychic  
+- Thunderbolt  
+- Rapid Spin
+
+Vullaby @ Berry Juice 
+Ability: Weak Armor  
+Level: 5  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Adamant Nature  
+- Knock Off  
+- Brave Bird  
+- U-turn  
+- Defog 
 
 Archen @ Berry Juice  
 Ability: Defeatist  
@@ -28,32 +28,33 @@ Jolly Nature
 - Earthquake  
 - U-turn
 
-Ponyta @ Eviolite  
-Ability: Flame Body  
+Grookey @ Eviolite  
+Ability: Grassy Surge  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
+EVs: 236 Atk / 36 Def / 236 Spe  
 Jolly Nature  
-- Flare Blitz  
-- High Horsepower  
-- Morning Sun  
-- Wild Charge  
+- Grassy Glide  
+- Knock Off  
+- Drain Punch  
+- U-turn 
 
-Wingull @ Life Orb  
-Ability: Hydration  
+Pawniard @ Choice Scarf  
+Ability: Defiant  
 Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
+EVs: 236 Atk / 36 Def / 36 SpD / 196 Spe  
+Jolly Nature  
+- Iron Head  
+- Knock Off  
+- Brick Break  
+- Sucker Punch
+
+Slowpoke @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 116 HP / 76 Def / 116 SpA / 196 SpD  
+Calm Nature  
+IVs: 0 Atk  
 - Scald  
-- Hurricane  
-- U-turn  
-- Air Slash  
-
-Woobat @ Berry Juice  
-Ability: Simple  
-Level: 5  
-EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
-Timid Nature  
-- Nasty Plot  
-- Psychic  
-- Heat Wave  
-- Air Slash  
+- Future Sight  
+- Slack Off  
+- Teleport

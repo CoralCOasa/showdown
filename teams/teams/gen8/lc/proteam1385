@@ -1,42 +1,13 @@
-Woobat @ Berry Juice  
-Ability: Simple  
+Slowpoke @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
-Timid Nature  
-- Nasty Plot  
-- Psychic  
-- Heat Wave  
-- Air Slash  
-
-Pawniard @ Eviolite  
-Ability: Defiant  
-Level: 5  
-EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
-Jolly Nature  
-- Iron Head  
-- Knock Off  
-- Sucker Punch  
-- Stealth Rock  
-
-Trapinch @ Eviolite  
-Ability: Arena Trap  
-Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Relaxed Nature  
-- Earthquake  
-- First Impression  
-- Superpower  
-- Giga Drain  
-
-Porygon @ Eviolite  
-Ability: Download  
-Level: 5  
-EVs: 36 Def / 236 SpA / 196 Spe  
-Modest Nature  
-- Tri Attack  
-- Recover  
-- Ice Beam  
-- Psychic  
+EVs: 116 HP / 76 Def / 116 SpA / 196 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Psychic 
+- Slack Off  
+- Teleport
 
 Abra @ Focus Sash  
 Ability: Magic Guard  
@@ -45,15 +16,45 @@ EVs: 236 SpA / 76 SpD / 196 Spe
 Timid Nature  
 - Psychic  
 - Dazzling Gleam  
-- Energy Ball  
 - Shadow Ball  
+- Energy Ball 
 
-Ponyta-Galar @ Eviolite  
-Ability: Pastel Veil  
+Vullaby @ Eviolite  
+Ability: Weak Armor  
 Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-- Mystical Fire  
-- Psychic  
-- Dazzling Gleam  
-- Calm Mind  
+EVs: 76 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Nasty Plot  
+- Air Slash  
+- Heat Wave  
+- Dark Pulse
+
+Farfetch’d-Galar @ Choice Scarf  
+Ability: Scrappy  
+Level: 5  
+EVs: 20 HP / 236 Atk / 236 Spe  
+Adamant Nature  
+- Close Combat  
+- Brave Bird  
+- Knock Off  
+- Leaf Blade
+
+Mudbray @ Choice Scarf  
+Ability: Stamina  
+Level: 5  
+EVs: 36 HP / 196 Atk / 36 Def / 236 Spe  
+Adamant Nature
+- Earthquake  
+- Rock Slide  
+- Heavy Slam  
+- Close Combat
+
+Meowth @ Life Orb  
+Ability: Technician  
+Level: 5  
+EVs: 36 HP / 236 Atk / 36 SpD / 196 Spe  
+Jolly Nature  
+- Fake Out  
+- Feint  
+- Knock Off  
+- Double-Edge 

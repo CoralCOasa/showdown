@@ -1,59 +1,60 @@
-Trapinch @ Eviolite  
-Ability: Arena Trap  
+Farfetch’d-Galar @ Choice Scarf  
+Ability: Scrappy  
 Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Relaxed Nature  
-- Earthquake  
-- First Impression  
-- Superpower  
-- Giga Drain  
-
-Vullaby @ Berry Juice  
-Ability: Weak Armor  
-Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Jolly Nature  
-- Knock Off  
-- Brave Bird  
-- U-turn  
-- Defog  
-
-Mienfoo @ Eviolite  
-Ability: Regenerator  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
-Jolly Nature  
-- Knock Off  
-- U-turn  
-- High Jump Kick  
-- Fake Out  
-
-Staryu @ Eviolite  
-Ability: Natural Cure  
-Level: 5  
-EVs: 116 HP / 156 Def / 236 Spe  
-Timid Nature  
-- Rapid Spin  
-- Thunderbolt  
-- Recover  
-- Scald  
-
-Timburr @ Eviolite  
-Ability: Iron Fist  
-Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
+EVs: 20 HP / 236 Atk / 236 Spe  
 Adamant Nature  
-- Drain Punch  
-- Mach Punch  
+- Close Combat  
+- Brave Bird  
 - Knock Off  
-- Defog  
+- Leaf Blade
 
-Magnemite @ Berry Juice  
-Ability: Sturdy  
+Elekid @ Life Orb  
+Ability: Vital Spirit  
 Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-- Flash Cannon  
-- Volt Switch  
+EVs: 12 Atk / 236 SpA / 236 Spe  
+Hasty Nature  
 - Thunderbolt  
-- Recycle  
+- Cross Chop  
+- Psychic  
+- Volt Switch
+
+Scraggy @ Berry Juice 
+Ability: Moxie  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 212 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Knock Off  
+- High Jump Kick  
+- Drain Punch 
+
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
+Level: 5  
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
+Bold Nature  
+- Moonblast  
+- Wish  
+- Protect  
+- Psychic
+
+Natu @ Eviolite  
+Ability: Magic Bounce  
+Level: 5  
+EVs: 196 HP / 236 Def / 76 SpD  
+Bold Nature  
+- Psychic  
+- Heat Wave  
+- U-turn 
+- Roost
+
+Vulpix @ Choice Scarf 
+Ability: Drought  
+Level: 5  
+EVs: 52 HP / 196 SpA / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Energy Ball  
+- Weather Ball  
+- Overheat  
+- Fire Blast

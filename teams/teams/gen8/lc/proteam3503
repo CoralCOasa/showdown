@@ -1,60 +1,61 @@
-Wingull @ Life Orb  
-Ability: Hydration  
+Larvesta @ Choice Scarf  
+Ability: Flame Body  
 Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- U-turn  
+- Flare Blitz  
+- Wild Charge  
+- Leech Life 
+
+Drilbur @ Berry Juice  
+Ability: Mold Breaker  
+Level: 5  
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
+Jolly Nature  
+- Earthquake  
+- Rapid Spin  
+- Rock Slide  
+- Swords Dance
+
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 76 HP / 196 Def / 196 SpD  
+Impish Nature  
+- Drain Punch  
+- Knock Off  
+- U-turn  
+- Fake Out
+
+Chinchou @ Choice Scarf  
+Ability: Volt Absorb  
+Level: 5  
+EVs: 52 Def / 228 SpA / 220 Spe  
 Timid Nature  
-- Scald  
-- Hurricane  
-- U-turn  
-- Air Slash  
+IVs: 0 Atk  
+- Scald
+- Hydro Pump  
+- Ice Beam  
+- Volt Switch
 
-Koffing @ Eviolite  
-Ability: Levitate  
+Grookey @ Life Orb  
+Ability: Grassy Surge  
 Level: 5  
-EVs: 36 HP / 236 Def / 236 SpD  
-Bold Nature  
-- Will-O-Wisp  
-- Toxic Spikes  
-- Pain Split  
-- Sludge Bomb  
-
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
+EVs: 236 Atk / 36 Def / 236 Spe  
 Adamant Nature  
-- Body Slam  
-- Earthquake  
-- Curse  
-- Recycle
-
-Bunnelby @ Eviolite  
-Ability: Huge Power  
-Level: 5  
-EVs: 228 Atk / 132 Def / 148 SpD  
-Adamant Nature  
-- Earthquake  
-- Quick Attack  
-- U-turn  
-- Facade
+- Wood Hammer 
+- Grassy Glide  
+- Knock Off  
+- Drain Punch
 
 Amaura @ Choice Scarf  
 Ability: Refrigerate  
 Level: 5  
 EVs: 60 HP / 220 SpA / 228 Spe  
-Modest Nature  
+Modest Nature
 IVs: 0 Atk  
 - Hyper Voice  
 - Earth Power  
-- Thunderbolt  
-- Ancient Power
-
-Timburr @ Eviolite  
-Ability: Iron Fist  
-Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
-Adamant Nature  
-- Drain Punch  
-- Mach Punch  
-- Knock Off  
-- Defog  
+- Freeze-Dry  
+- Hyper Beam

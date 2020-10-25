@@ -1,34 +1,44 @@
-Carvanha @ Life Orb  
-Ability: Speed Boost  
+Porygon @ Eviolite  
+Ability: Download  
 Level: 5  
-EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+EVs: 36 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Agility  
+- Tri Attack  
+- Psychic  
+- Ice Beam
+
+Onix @ Eviolite  
+Ability: Weak Armor  
+Level: 5  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- Rock Blast  
+- Earthquake  
+- Stealth Rock  
+- Explosion 
+
+Dewpider @ Eviolite  
+Ability: Water Bubble  
+Level: 5  
+EVs: 132 HP / 116 Atk / 20 Def / 116 SpA / 20 SpD / 60 Spe  
 Adamant Nature  
-- Crunch  
-- Psychic Fangs  
-- Protect  
 - Liquidation  
+- Leech Life  
+- Magic Coat  
+- Sticky Web
 
-Staryu @ Eviolite  
-Ability: Natural Cure  
-Level: 5  
-EVs: 116 HP / 156 Def / 236 Spe  
-Timid Nature  
-- Rapid Spin  
-- Thunderbolt  
-- Recover  
-- Scald  
-
-Mareanie @ Eviolite  
+Mienfoo @ Eviolite  
 Ability: Regenerator  
 Level: 5  
-EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
-Bold Nature  
-- Recover  
-- Scald  
-- Toxic Spikes  
-- Sludge Bomb  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Knock Off  
+- U-turn  
+- Close Combat  
+- Poison Jab
 
-Wingull @ Life Orb  
+Wingull @ Life Orb 
 Ability: Hydration  
 Level: 5  
 EVs: 36 Def / 236 SpA / 236 Spe  
@@ -36,24 +46,14 @@ Timid Nature
 - Scald  
 - Hurricane  
 - U-turn  
-- Air Slash  
+- Knock Off
 
-Meowth @ Life Orb  
-Ability: Technician  
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 196 Spe  
-Jolly Nature  
-- Fake Out  
-- Feint  
-- Aerial Ace  
-- Water Pulse  
-
-Ponyta-Galar @ Eviolite  
-Ability: Pastel Veil  
-Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-- Mystical Fire  
-- Psychic  
-- Dazzling Gleam  
-- Calm Mind  
+EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
+Impish Nature  
+- Knock Off  
+- Thunder Wave  
+- Spikes 
+- Bullet Seed

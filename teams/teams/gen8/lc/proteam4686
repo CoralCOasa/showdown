@@ -1,59 +1,60 @@
-Chinchou @ Eviolite  
-Ability: Volt Absorb  
+Mareanie @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 52 Def / 228 SpA / 220 Spe  
-Timid Nature  
-- Volt Switch  
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Recover  
 - Scald  
-- Ice Beam  
-- Thunderbolt  
+- Toxic Spikes 
+- Sludge Bomb
 
-Archen @ Berry Juice  
-Ability: Defeatist  
+Foongus @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 76 HP / 180 Atk / 196 Spe  
-Jolly Nature  
-- Stone Edge  
-- Dual Wingbeat  
-- Earthquake  
-- U-turn
+EVs: 124 HP / 156 Def / 156 SpD  
+Bold Nature  
+- Giga Drain  
+- Spore  
+- Sludge Bomb  
+- Synthesis
 
 Timburr @ Eviolite  
-Ability: Iron Fist  
+Ability: Iron Fist 
 Level: 5  
 EVs: 196 Atk / 156 Def / 156 SpD  
 Adamant Nature  
 - Drain Punch  
-- Mach Punch  
 - Knock Off  
-- Defog  
+- Mach Punch  
+- Defog 
 
-Trapinch @ Eviolite  
-Ability: Arena Trap  
+Farfetch’d-Galar @ Choice Scarf  
+Ability: Scrappy  
 Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Relaxed Nature  
-- Earthquake  
-- First Impression  
-- Superpower  
-- Giga Drain  
+EVs: 20 HP / 236 Atk / 236 Spe  
+Adamant Nature  
+- Close Combat  
+- Brave Bird  
+- Knock Off  
+- Leaf Blade
 
-Staryu @ Eviolite  
-Ability: Natural Cure  
+Larvesta @ Eviolite  
+Ability: Flame Body  
 Level: 5  
-EVs: 116 HP / 156 Def / 236 Spe  
-Timid Nature  
-- Rapid Spin  
-- Thunderbolt  
-- Recover  
-- Scald  
+EVs: 76 HP / 76 Atk / 156 Def / 196 Spe  
+Jolly Nature  
+- U-turn  
+- Flare Blitz  
+- Morning Sun  
+- Will-O-Wisp
 
-Vulpix @ Choice Scarf  
-Ability: Drought  
+Munchlax @ Berry Juice  
+Ability: Thick Fat  
 Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
-Timid Nature  
-- Energy Ball  
-- Weather Ball  
-- Overheat  
-- Fire Blast  
+EVs: 236 Atk / 196 Def / 76 SpD  
+Impish Nature  
+- Facade 
+- Earthquake 
+- Zen Headbutt  
+- Curse

@@ -1,59 +1,59 @@
-Onix @ Berry Juice  
-Ability: Sturdy  
+Onix @ Eviolite  
+Ability: Rock Head  
 Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
+EVs: 236 Atk / 36 Def / 196 Spe  
 Jolly Nature  
-- Earthquake  
-- Stealth Rock  
-- Rock Blast  
 - Dragon Dance  
+- Head Smash  
+- Earthquake  
+- Body Press
 
-Wingull @ Life Orb  
-Ability: Hydration  
+Ponyta-Galar @ Eviolite  
+Ability: Pastel Veil  
 Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
+EVs: 236 SpA / 76 SpD / 196 Spe  
 Timid Nature  
-- Scald  
-- Hurricane  
-- U-turn  
-- Air Slash  
+- Mystical Fire  
+- Psychic  
+- Dazzling Gleam  
+- Calm Mind
+
+Mienfoo @ Berry Juice  
+Ability: Reckless  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Swords Dance  
+- High Jump Kick  
+- Acrobatics  
+- Knock Off
+
+Zigzagoon @ Berry Juice  
+Ability: Pickup 
+Level: 5  
+EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
+Adamant Nature  
+- Belly Drum  
+- Extreme Speed  
+- Thief  
+- Seed Bomb
+
+Ponyta @ Eviolite  
+Ability: Flame Body  
+Level: 5  
+EVs: 76 Atk / 156 Def / 76 SpD / 196 Spe  
+Jolly Nature  
+- Flare Blitz  
+- High Horsepower  
+- Will-O-Wisp  
+- Morning Sun
 
 Ferroseed @ Eviolite  
 Ability: Iron Barbs  
 Level: 5  
-EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
-Impish Nature  
+EVs: 84 HP / 188 Def / 84 SpA / 148 SpD  
+Sassy Nature  
 - Knock Off  
 - Thunder Wave  
-- Spikes  
+- Stealth Rock  
 - Giga Drain
-
-Grookey @ Eviolite  
-Ability: Grassy Surge  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
-Jolly Nature  
-- Grassy Glide  
-- Knock Off  
-- Drain Punch  
-- U-turn  
-
-Farfetch’d-Galar @ Eviolite  
-Ability: Scrappy  
-Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Swords Dance  
-- Close Combat  
-- Brave Bird  
-- Knock Off  
-
-Porygon @ Eviolite  
-Ability: Download  
-Level: 5  
-EVs: 36 Def / 236 SpA / 196 Spe  
-Modest Nature  
-- Tri Attack  
-- Recover  
-- Ice Beam  
-- Psychic  

@@ -3,57 +3,58 @@ Ability: Regenerator
 Level: 5  
 EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
 Bold Nature  
+IVs: 0 Atk  
 - Recover  
 - Scald  
-- Toxic Spikes  
-- Sludge Bomb  
+- Toxic Spikes 
+- Sludge Bomb
 
-Dewpider @ Berry Juice  
-Ability: Water Bubble  
-Level: 5  
-EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
-Modest Nature  
-- Sticky Web  
-- Surf  
-- Icy Wind  
-- Giga Drain
-
-Grookey @ Eviolite  
-Ability: Grassy Surge  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
-Jolly Nature  
-- Grassy Glide  
-- Knock Off  
-- Drain Punch  
-- U-turn  
-
-Wingull @ Life Orb  
-Ability: Hydration  
+Magnemite @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
 EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
-- Scald  
-- Hurricane  
-- U-turn  
-- Air Slash  
+- Flash Cannon  
+- Volt Switch  
+- Endure  
+- Recycle  
 
-Bunnelby @ Eviolite  
-Ability: Huge Power  
+Dwebble @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 228 Atk / 132 Def / 148 SpD  
+EVs: 236 Atk / 236 Spe  
 Adamant Nature  
-- Earthquake  
-- Quick Attack  
-- U-turn  
-- Facade
+- Rock Blast  
+- Knock Off  
+- Stealth Rock  
+- Spikes
 
-Archen @ Berry Juice  
-Ability: Defeatist  
+Omanyte @ Eviolite  
+Ability: Shell Armor  
 Level: 5  
-EVs: 76 HP / 180 Atk / 196 Spe  
-Jolly Nature  
-- Stone Edge  
-- Dual Wingbeat  
-- Earthquake  
-- U-turn
+EVs: 76 HP / 196 SpA / 236 Spe  
+Modest Nature  
+- Shell Smash  
+- Hydro Pump  
+- Ice Beam  
+- Earth Power
+
+Vulpix @ Life Orb  
+Ability: Drought  
+Level: 5  
+EVs: 52 HP / 196 SpA / 236 Spe  
+Hasty Nature  
+- Energy Ball  
+- Weather Ball  
+- Overheat  
+- Quick Attack
+
+Chinchou @ Eviolite  
+Ability: Volt Absorb  
+Level: 5  
+EVs: 52 Def / 228 SpA / 220 Spe  
+Timid Nature  
+- Volt Switch  
+- Scald 
+- Ice Beam  
+- Thunderbolt

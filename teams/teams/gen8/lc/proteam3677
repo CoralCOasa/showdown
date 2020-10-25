@@ -1,24 +1,45 @@
-Croagunk @ Eviolite  
-Ability: Dry Skin  
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
 Level: 5  
-EVs: 116 Def / 188 SpA / 196 Spe  
-Timid Nature  
-- Vacuum Wave  
-- Nasty Plot  
-- Sludge Wave  
-- Focus Blast  
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
+Bold Nature  
+- Moonblast  
+- Wish  
+- Protect  
+- Calm Mind 
 
-Archen @ Berry Juice  
-Ability: Defeatist  
+Slowpoke @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 76 HP / 180 Atk / 196 Spe  
+EVs: 116 HP / 76 Def / 116 SpA / 196 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Psychic 
+- Slack Off  
+- Teleport
+
+Ponyta @ Eviolite  
+Ability: Flame Body  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
 Jolly Nature  
-- Stone Edge  
-- Dual Wingbeat  
-- Earthquake  
-- U-turn
+- Flare Blitz  
+- High Horsepower  
+- Morning Sun  
+- Will-O-Wisp
 
-Wingull @ Life Orb  
+Carvanha @ Life Orb  
+Ability: Speed Boost  
+Level: 5  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+Adamant Nature  
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation
+
+Wingull @ Life Orb 
 Ability: Hydration  
 Level: 5  
 EVs: 36 Def / 236 SpA / 236 Spe  
@@ -26,34 +47,14 @@ Timid Nature
 - Scald  
 - Hurricane  
 - U-turn  
-- Air Slash  
+- Air Slash 
 
-Mienfoo @ Eviolite  
-Ability: Regenerator  
+Larvesta @ Eviolite  
+Ability: Flame Body  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
+EVs: 76 HP / 76 Atk / 156 Def / 196 Spe  
 Jolly Nature  
-- Knock Off  
 - U-turn  
-- High Jump Kick  
-- Fake Out  
-
-Farfetch’d-Galar @ Eviolite  
-Ability: Scrappy  
-Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Swords Dance  
-- Close Combat  
-- Brave Bird  
-- Knock Off  
-
-Dwebble @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 236 Atk / 236 Spe  
-Adamant Nature  
-- Shell Smash  
-- Rock Blast  
-- Earthquake  
-- Knock Off  
+- Flare Blitz  
+- Morning Sun  
+- Will-O-Wisp

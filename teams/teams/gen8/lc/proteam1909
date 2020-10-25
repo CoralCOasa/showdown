@@ -1,59 +1,60 @@
-Magnemite @ Berry Juice  
-Ability: Sturdy  
+Tirtouga @ Eviolite  
+Ability: Solid Rock  
 Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-- Flash Cannon  
-- Volt Switch  
-- Thunderbolt  
-- Recycle  
-
-Vullaby @ Berry Juice  
-Ability: Weak Armor  
-Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Jolly Nature  
+EVs: 164 HP / 52 Atk / 92 Def / 156 SpD / 20 Spe  
+Careful Nature  
+- Stealth Rock  
+- Stone Edge  
 - Knock Off  
-- Brave Bird  
-- U-turn  
-- Defog  
+- Aqua Jet
 
-Ponyta @ Eviolite  
+Omanyte @ Eviolite  
+Ability: Shell Armor  
+Level: 5  
+EVs: 76 HP / 196 SpA / 236 Spe  
+Modest Nature  
+- Shell Smash  
+- Hydro Pump  
+- Ice Beam  
+- Earth Power
+
+Ponyta @ Berry Juice  
 Ability: Flame Body  
 Level: 5  
 EVs: 236 Atk / 76 SpD / 196 Spe  
 Jolly Nature  
 - Flare Blitz  
 - High Horsepower  
-- Morning Sun  
 - Wild Charge  
+- Will-O-Wisp 
 
-Woobat @ Berry Juice  
-Ability: Simple  
+Wingull @ Life Orb 
+Ability: Hydration  
 Level: 5  
-EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
+EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
-- Nasty Plot  
-- Psychic  
-- Heat Wave  
-- Air Slash  
+- Scald  
+- Hurricane  
+- U-turn  
+- Knock Off
 
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
+Porygon @ Eviolite  
+Ability: Download  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
-Adamant Nature  
-- Body Slam  
-- Earthquake  
-- Curse  
-- Recycle
+EVs: 76 HP / 196 Def / 236 SpA  
+Quiet Nature  
+IVs: 0 Atk / 0 Spe  
+- Tri Attack  
+- Ice Beam  
+- Thunderbolt 
+- Trick Room
 
-Tirtouga @ Berry Juice  
-Ability: Sturdy  
+Larvesta @ Eviolite  
+Ability: Flame Body  
 Level: 5  
-EVs: 212 Atk / 92 Def / 180 Spe  
-Jolly Nature  
-- Shell Smash  
-- Waterfall  
-- Stone Edge  
-- Zen Headbutt
+EVs: 76 HP / 236 Def / 156 SpD / 36 Spe  
+Impish Nature  
+- U-turn  
+- Flare Blitz  
+- Morning Sun  
+- Will-O-Wisp

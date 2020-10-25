@@ -1,59 +1,59 @@
-Shellder @ Eviolite  
-Ability: Skill Link  
-Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Icicle Spear  
-- Shell Smash  
-- Rock Blast  
-- Liquidation  
-
-Farfetch’d-Galar @ Eviolite  
-Ability: Scrappy  
-Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Swords Dance  
-- Close Combat  
-- Brave Bird  
-- Knock Off  
-
-Scraggy @ Eviolite  
-Ability: Moxie  
-Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
-Adamant Nature  
-- Dragon Dance  
-- Knock Off  
-- Drain Punch  
-- High Jump Kick  
-
-Vulpix @ Choice Scarf  
-Ability: Drought  
-Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
-Timid Nature  
-- Energy Ball  
-- Weather Ball  
-- Overheat  
-- Fire Blast  
-
-Diglett @ Life Orb  
+Trapinch @ Eviolite  
 Ability: Arena Trap  
 Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
+EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
+Relaxed Nature  
+- Earthquake  
+- First Impression  
+- Rock Slide  
+- Giga Drain
+
+Omanyte @ Eviolite  
+Ability: Shell Armor  
+Level: 5  
+EVs: 76 HP / 196 SpA / 236 Spe  
+Modest Nature  
+- Shell Smash  
+- Hydro Pump  
+- Ice Beam  
+- Earth Power
+
+Munchlax @ Eviolite  
+Ability: Thick Fat  
+Level: 5  
+EVs: 236 Atk / 196 Def / 76 SpD  
+Impish Nature  
+- Facade  
+- Earthquake  
+- Rest  
+- Sleep Talk
+
+Timburr @ Eviolite  
+Ability: Guts  
+Level: 5  
+EVs: 196 Atk / 156 Def / 156 SpD  
+Adamant Nature  
+- Drain Punch  
+- Knock Off  
+- Mach Punch  
+- Thunder Punch 
+
+Mudbray @ Choice Scarf  
+Ability: Stamina  
+Level: 5  
+EVs: 36 HP / 196 Atk / 36 Def / 236 Spe  
 Jolly Nature  
 - Earthquake  
-- Sucker Punch  
 - Rock Slide  
-- Stealth Rock  
+- Heavy Slam  
+- Close Combat
 
-Vullaby @ Berry Juice  
-Ability: Weak Armor  
+Vullaby @ Choice Scarf  
+Ability: Overcoat  
 Level: 5  
 EVs: 236 Atk / 76 Def / 196 Spe  
-Jolly Nature  
-- Knock Off  
+Adamant Nature
 - Brave Bird  
+- Knock Off  
 - U-turn  
-- Defog  
+- Heat Wave

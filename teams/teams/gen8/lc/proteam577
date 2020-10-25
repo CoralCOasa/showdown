@@ -1,60 +1,61 @@
-Magnemite @ Berry Juice  
-Ability: Sturdy  
+Magnemite @ Choice Scarf  
+Ability: Analytic  
 Level: 5  
 EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
-- Flash Cannon  
 - Volt Switch  
 - Thunderbolt  
-- Recycle  
+- Flash Cannon  
+- Steel Beam
 
-Natu @ Eviolite  
-Ability: Magic Bounce  
+Vulpix @ Choice Scarf 
+Ability: Drought  
 Level: 5  
-EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
+EVs: 52 HP / 196 SpA / 236 Spe  
 Timid Nature  
 IVs: 0 Atk  
-- Psychic  
-- Heat Wave  
-- U-turn  
-- Roost  
-
-Abra @ Focus Sash  
-Ability: Magic Guard  
-Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-- Psychic  
-- Dazzling Gleam  
 - Energy Ball  
-- Shadow Ball  
+- Weather Ball  
+- Overheat  
+- Fire Blast
 
-Grookey @ Eviolite  
-Ability: Grassy Surge  
+Munchlax @ Berry Juice  
+Ability: Thick Fat  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
-Jolly Nature  
-- Grassy Glide  
-- Knock Off  
-- Drain Punch  
-- U-turn  
+EVs: 236 Atk / 196 Def / 76 SpD  
+Impish Nature  
+- Body Slam 
+- Earthquake 
+- Zen Headbutt  
+- Curse
 
-Timburr @ Eviolite  
-Ability: Iron Fist  
+Farfetch’d-Galar @ Choice Scarf  
+Ability: Scrappy  
 Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
+EVs: 20 HP / 236 Atk / 236 Spe  
 Adamant Nature  
-- Drain Punch  
-- Mach Punch  
+- Close Combat  
+- Brave Bird  
 - Knock Off  
-- Defog  
+- Poison Jab 
 
-Archen @ Berry Juice  
-Ability: Defeatist  
+Drilbur @ Eviolite 
+Ability: Mold Breaker  
 Level: 5  
-EVs: 76 HP / 180 Atk / 196 Spe  
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
 Jolly Nature  
-- Stone Edge  
-- Dual Wingbeat  
 - Earthquake  
-- U-turn
+- Rapid Spin  
+- Rock Slide  
+- Stealth Rock 
+
+Slowpoke @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 116 HP / 76 Def / 116 SpA / 196 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Future Sight  
+- Slack Off  
+- Teleport

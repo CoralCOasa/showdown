@@ -1,60 +1,61 @@
-Ponyta-Galar @ Eviolite  
-Ability: Pastel Veil  
+Porygon @ Eviolite  
+Ability: Download  
 Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-- Mystical Fire  
-- Psychic  
-- Dazzling Gleam  
-- Calm Mind  
+EVs: 36 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Tri Attack  
+- Recover  
+- Ice Beam  
+- Psychic 
 
-Foongus @ Eviolite  
+Mareanie @ Eviolite  
 Ability: Regenerator  
 Level: 5  
-EVs: 124 HP / 156 Def / 156 SpD  
+EVs: 196 HP / 20 Def / 92 SpA / 180 SpD  
 Bold Nature  
-- Giga Drain  
-- Spore  
-- Sludge Bomb  
-- Synthesis  
+IVs: 0 Atk  
+- Recover  
+- Scald  
+- Toxic Spikes 
+- Sludge Bomb
 
-Woobat @ Berry Juice  
-Ability: Simple  
+Dewpider @ Berry Juice  
+Ability: Water Bubble  
 Level: 5  
-EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
-Timid Nature  
-- Nasty Plot  
-- Psychic  
-- Heat Wave  
-- Air Slash  
-
-Amaura @ Choice Scarf  
-Ability: Refrigerate  
-Level: 5  
-EVs: 60 HP / 220 SpA / 228 Spe  
+EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
 Modest Nature  
 IVs: 0 Atk  
-- Hyper Voice  
-- Earth Power  
-- Thunderbolt  
-- Ancient Power
+- Scald 
+- Giga Drain  
+- Magic Coat  
+- Sticky Web
 
-Croagunk @ Eviolite  
-Ability: Dry Skin  
+Staryu @ Eviolite  
+Ability: Natural Cure  
 Level: 5  
-EVs: 116 Def / 188 SpA / 196 Spe  
+EVs: 116 HP / 156 Def / 236 Spe  
 Timid Nature  
-- Vacuum Wave  
-- Nasty Plot  
-- Sludge Wave  
-- Focus Blast  
+- Rapid Spin  
+- Thunderbolt 
+- Recover  
+- Scald
 
-Shellder @ Eviolite  
-Ability: Skill Link  
+Abra @ Life Orb  
+Ability: Magic Guard  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Icicle Spear  
-- Shell Smash  
-- Rock Blast  
-- Liquidation  
+EVs: 36 Atk / 236 SpA / 196 Spe  
+Hasty Nature  
+- Psychic  
+- Dazzling Gleam  
+- Fire Punch  
+- Shadow Ball 
+
+Tyrunt @ Eviolite  
+Ability: Strong Jaw  
+Level: 5  
+EVs: 204 Atk / 76 SpD / 212 Spe  
+Adamant Nature
+- Rock Blast 
+- Close Combat  
+- Psychic Fangs  
+- Dragon Dance

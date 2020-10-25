@@ -1,59 +1,62 @@
-Staryu @ Eviolite  
-Ability: Natural Cure  
+Vulpix @ Eject Pack 
+Ability: Drought  
 Level: 5  
-EVs: 116 HP / 156 Def / 236 Spe  
+EVs: 52 HP / 196 SpA / 236 Spe  
 Timid Nature  
-- Rapid Spin  
-- Thunderbolt  
-- Recover  
-- Scald  
+IVs: 0 Atk  
+- Energy Ball  
+- Weather Ball  
+- Overheat  
+- Will-O-Wisp
 
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
+Dewpider @ Choice Scarf  
+Ability: Water Bubble  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
+EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Surf  
+- Giga Drain  
+- Bug Buzz  
+- Sticky Web
+
+Mudbray @ Eviolite  
+Ability: Stamina  
+Level: 5  
+EVs: 116 HP / 196 Atk / 36 Def / 156 Spe  
 Adamant Nature  
-- Body Slam  
 - Earthquake  
-- Curse  
-- Recycle
+- Stealth Rock  
+- Rock Slide  
+- Close Combat
 
-Mienfoo @ Eviolite  
-Ability: Regenerator  
+Larvesta @ Eviolite  
+Ability: Flame Body  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
-Jolly Nature  
-- Knock Off  
+EVs: 76 HP / 236 Def / 156 SpD / 36 Spe  
+Impish Nature  
 - U-turn  
-- High Jump Kick  
-- Fake Out  
+- Flare Blitz  
+- Morning Sun  
+- Will-O-Wisp
 
-Ponyta @ Eviolite  
+Ponyta @ Berry Juice  
 Ability: Flame Body  
 Level: 5  
 EVs: 236 Atk / 76 SpD / 196 Spe  
 Jolly Nature  
 - Flare Blitz  
 - High Horsepower  
-- Morning Sun  
 - Wild Charge  
+- Flame Charge 
 
-Larvesta @ Eviolite  
-Ability: Flame Body  
+Mareanie @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
-Jolly Nature  
-- U-turn  
-- Flare Blitz  
-- Morning Sun  
-- Will-O-Wisp  
-
-Grookey @ Eviolite  
-Ability: Grassy Surge  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
-Jolly Nature  
-- Grassy Glide  
+EVs: 196 HP / 20 Def / 92 SpA / 180 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Recover  
+- Scald  
 - Knock Off  
-- Drain Punch  
-- U-turn  
+- Sludge Bomb

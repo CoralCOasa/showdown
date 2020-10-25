@@ -1,59 +1,61 @@
-Foongus @ Eviolite  
-Ability: Regenerator  
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
 Level: 5  
-EVs: 124 HP / 156 Def / 156 SpD  
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
 Bold Nature  
-- Giga Drain  
-- Spore  
-- Sludge Bomb  
-- Synthesis  
+- Moonblast  
+- Wish  
+- Protect  
+- Psychic
 
-Mareanie @ Eviolite  
-Ability: Regenerator  
+Scraggy @ Eviolite  
+Ability: Shed Skin  
 Level: 5  
-EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
-Bold Nature  
-- Recover  
-- Scald  
-- Toxic Spikes  
-- Sludge Bomb  
-
-Onix @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
+EVs: 36 HP / 156 Atk / 36 Def / 36 SpD / 212 Spe  
 Jolly Nature  
-- Earthquake  
-- Stealth Rock  
-- Rock Blast  
 - Dragon Dance  
+- Knock Off  
+- Drain Punch  
+- High Jump Kick 
 
-Chinchou @ Eviolite  
-Ability: Volt Absorb  
+Vullaby @ Eviolite  
+Ability: Overcoat  
 Level: 5  
-EVs: 52 Def / 228 SpA / 220 Spe  
-Timid Nature  
-- Volt Switch  
-- Scald  
+EVs: 116 HP / 76 Def / 236 SpD / 36 Spe  
+Impish Nature  
+- Brave Bird  
+- Knock Off  
+- U-turn  
+- Roost
+
+Smoochum (F) @ Choice Scarf  
+Ability: Oblivious  
+Level: 5  
+EVs: 236 SpA / 236 Spe  
+Modest Nature
+IVs: 0 Atk  
 - Ice Beam  
-- Thunderbolt  
+- Psychic  
+- Shadow Ball  
+- Trick
 
-Corphish @ Eviolite  
-Ability: Adaptability  
+Amaura @ Choice Scarf  
+Ability: Refrigerate  
 Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
-Adamant Nature  
-- Aqua Jet  
-- Crabhammer  
-- Knock Off  
-- Dragon Dance  
+EVs: 60 HP / 220 SpA / 228 Spe  
+Modest Nature
+IVs: 0 Atk  
+- Hyper Voice  
+- Earth Power  
+- Freeze-Dry  
+- Hyper Beam
 
-Dwebble @ Berry Juice  
-Ability: Sturdy  
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
 Level: 5  
-EVs: 236 Atk / 236 Spe  
-Adamant Nature  
-- Shell Smash  
-- Rock Blast  
-- Earthquake  
+EVs: 84 HP / 188 Def / 84 SpA / 148 SpD  
+Sassy Nature  
 - Knock Off  
+- Thunder Wave  
+- Stealth Rock  
+- Giga Drain

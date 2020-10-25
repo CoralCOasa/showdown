@@ -1,22 +1,12 @@
-Onix @ Berry Juice  
-Ability: Sturdy  
+Croagunk @ Eviolite  
+Ability: Dry Skin  
 Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
-Jolly Nature  
-- Earthquake  
-- Stealth Rock  
-- Rock Blast  
-- Dragon Dance  
-
-Scraggy @ Eviolite  
-Ability: Moxie  
-Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
-Adamant Nature  
-- Dragon Dance  
-- Knock Off  
-- Drain Punch  
-- High Jump Kick  
+EVs: 116 Def / 188 SpA / 196 Spe  
+Timid Nature
+- Nasty Plot  
+- Vacuum Wave  
+- Sludge Wave  
+- Dark Pulse
 
 Mienfoo @ Eviolite  
 Ability: Regenerator  
@@ -25,35 +15,45 @@ EVs: 236 Atk / 36 Def / 236 Spe
 Jolly Nature  
 - Knock Off  
 - U-turn  
-- High Jump Kick  
-- Fake Out  
+- Close Combat  
+- Poison Jab
 
-Archen @ Berry Juice  
-Ability: Defeatist  
+Timburr @ Eviolite  
+Ability: Iron Fist 
 Level: 5  
-EVs: 76 HP / 180 Atk / 196 Spe  
-Jolly Nature  
-- Stone Edge  
-- Dual Wingbeat  
-- Earthquake  
+EVs: 196 Atk / 156 Def / 156 SpD  
+Adamant Nature  
+- Drain Punch  
+- Knock Off  
+- Mach Punch  
+- Bulk Up 
+
+Scorbunny @ Choice Scarf  
+Ability: Libero  
+Level: 5  
+EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
+Adamant Nature  
+- High Jump Kick  
+- Gunk Shot  
+- Blaze Kick 
 - U-turn
 
-Ponyta-Galar @ Eviolite  
-Ability: Pastel Veil  
+Scorbunny @ Life Orb 
+Ability: Libero  
 Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-- Mystical Fire  
-- Psychic  
-- Dazzling Gleam  
-- Calm Mind  
+EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
+Jolly Nature  
+- High Jump Kick  
+- U-turn  
+- Blaze Kick  
+- Gunk Shot 
 
-Abra @ Focus Sash  
-Ability: Magic Guard  
+Chinchou @ Eviolite  
+Ability: Volt Absorb  
 Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
+EVs: 52 Def / 228 SpA / 220 Spe  
 Timid Nature  
-- Psychic  
-- Dazzling Gleam  
-- Energy Ball  
-- Shadow Ball  
+- Volt Switch  
+- Hydro Pump  
+- Ice Beam  
+- Thunderbolt

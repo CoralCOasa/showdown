@@ -1,59 +1,59 @@
-Staryu @ Eviolite  
-Ability: Natural Cure  
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
 Level: 5  
-EVs: 116 HP / 156 Def / 236 Spe  
-Timid Nature  
-- Rapid Spin  
-- Thunderbolt  
-- Recover  
-- Scald  
-
-Pawniard @ Eviolite  
-Ability: Defiant  
-Level: 5  
-EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
-Jolly Nature  
-- Iron Head  
+EVs: 84 HP / 188 Def / 84 SpA / 148 SpD  
+Sassy Nature  
 - Knock Off  
-- Sucker Punch  
-- Stealth Rock  
-
-Meowth @ Life Orb  
-Ability: Technician  
-Level: 5  
-EVs: 236 Atk / 36 SpD / 196 Spe  
-Jolly Nature  
-- Fake Out  
-- Feint  
-- Aerial Ace  
-- Water Pulse  
-
-Trapinch @ Eviolite  
-Ability: Arena Trap  
-Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Relaxed Nature  
-- Earthquake  
-- First Impression  
-- Superpower  
-- Giga Drain  
+- Thunder Wave  
+- Spikes 
+- Giga Drain
 
 Mienfoo @ Eviolite  
 Ability: Regenerator  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
+EVs: 156 Atk / 36 Def / 36 SpD / 236 Spe  
 Jolly Nature  
+- Drain Punch  
 - Knock Off  
-- U-turn  
-- High Jump Kick  
-- Fake Out  
+- Close Combat  
+- Swords Dance
 
-Abra @ Focus Sash  
-Ability: Magic Guard  
+Munchlax @ Eviolite  
+Ability: Thick Fat  
 Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-- Psychic  
-- Dazzling Gleam  
-- Energy Ball  
-- Shadow Ball  
+EVs: 236 Atk / 196 Def / 76 SpD  
+Impish Nature  
+- Body Slam 
+- Earthquake  
+- Rest  
+- Sleep Talk
+
+Porygon @ Eviolite  
+Ability: Trace  
+Level: 5  
+EVs: 236 HP / 196 Def / 76 SpD  
+Calm Nature  
+- Tri Attack  
+- Ice Beam  
+- Thunder Wave  
+- Recover
+
+Dwebble @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 236 Atk / 236 Spe  
+Adamant Nature  
+- Rock Blast  
+- Earthquake  
+- Knock Off 
+- Shell Smash
+
+Mudbray @ Choice Scarf  
+Ability: Stamina  
+Level: 5  
+EVs: 36 HP / 196 Atk / 36 Def / 236 Spe  
+Adamant Nature
+- Earthquake  
+- Rock Slide  
+- Heavy Slam  
+- Close Combat

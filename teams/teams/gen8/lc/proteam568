@@ -1,32 +1,43 @@
-Mienfoo @ Eviolite  
-Ability: Regenerator  
+Corphish @ Eviolite  
+Ability: Adaptability  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
-Jolly Nature  
+EVs: 196 Atk / 76 Def / 236 Spe  
+Adamant Nature  
+- Aqua Jet  
+- Crabhammer  
 - Knock Off  
-- U-turn  
-- High Jump Kick  
-- Fake Out  
+- Dragon Dance 
 
-Foongus @ Eviolite  
-Ability: Regenerator  
+Tyrunt @ Eviolite  
+Ability: Strong Jaw  
 Level: 5  
-EVs: 124 HP / 156 Def / 156 SpD  
-Bold Nature  
+EVs: 204 Atk / 76 SpD / 212 Spe  
+Adamant Nature
+- Stone Edge  
+- Close Combat  
+- Psychic Fangs  
+- Dragon Dance
+
+Dewpider @ Berry Juice  
+Ability: Water Bubble  
+Level: 5  
+EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
+Timid Nature
+IVs: 0 Atk  
+- Surf 
 - Giga Drain  
-- Spore  
-- Sludge Bomb  
-- Synthesis  
+- Icy Wind 
+- Sticky Web
 
-Onix @ Berry Juice  
-Ability: Sturdy  
+Munchlax @ Eviolite  
+Ability: Thick Fat  
 Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
-Jolly Nature  
+EVs: 236 Atk / 196 Def / 76 SpD  
+Impish Nature  
+- Facade  
 - Earthquake  
-- Stealth Rock  
-- Rock Blast  
-- Dragon Dance  
+- Rest  
+- Sleep Talk
 
 Archen @ Berry Juice  
 Ability: Defeatist  
@@ -38,22 +49,12 @@ Jolly Nature
 - Earthquake  
 - U-turn
 
-Corphish @ Eviolite  
-Ability: Adaptability  
+Omanyte @ Eviolite  
+Ability: Shell Armor  
 Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
-Adamant Nature  
-- Aqua Jet  
-- Crabhammer  
-- Knock Off  
-- Dragon Dance  
-
-Tirtouga @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 212 Atk / 92 Def / 180 Spe  
-Jolly Nature  
+EVs: 76 HP / 196 SpA / 236 Spe  
+Modest Nature  
 - Shell Smash  
-- Waterfall  
-- Stone Edge  
-- Zen Headbutt
+- Hydro Pump  
+- Ice Beam  
+- Earth Power

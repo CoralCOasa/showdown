@@ -1,59 +1,59 @@
-Staryu @ Eviolite  
-Ability: Natural Cure  
+Dwebble @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 116 HP / 156 Def / 236 Spe  
-Timid Nature  
-- Rapid Spin  
-- Thunderbolt  
-- Recover  
-- Scald  
-
-Carvanha @ Life Orb  
-Ability: Speed Boost  
-Level: 5  
-EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+EVs: 236 Atk / 236 Spe  
 Adamant Nature  
-- Crunch  
-- Psychic Fangs  
-- Protect  
-- Liquidation  
-
-Vulpix @ Choice Scarf  
-Ability: Drought  
-Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
-Timid Nature  
-- Energy Ball  
-- Weather Ball  
-- Overheat  
-- Fire Blast  
-
-Ferroseed @ Eviolite  
-Ability: Iron Barbs  
-Level: 5  
-EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
-Impish Nature  
+- Rock Blast  
 - Knock Off  
-- Thunder Wave  
-- Spikes  
-- Giga Drain
+- Stealth Rock  
+- Spikes
 
-Foongus @ Eviolite  
-Ability: Regenerator  
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
 Level: 5  
-EVs: 124 HP / 156 Def / 156 SpD  
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
 Bold Nature  
-- Giga Drain  
-- Spore  
-- Sludge Bomb  
-- Synthesis  
+- Moonblast  
+- Wish  
+- Protect  
+- Calm Mind 
 
-Archen @ Berry Juice  
-Ability: Defeatist  
+Abra @ Life Orb  
+Ability: Magic Guard  
 Level: 5  
-EVs: 76 HP / 180 Atk / 196 Spe  
+EVs: 36 Atk / 236 SpA / 196 Spe  
+Hasty Nature  
+- Psychic  
+- Dazzling Gleam  
+- Fire Punch  
+- Protect 
+
+Larvesta @ Eviolite  
+Ability: Flame Body  
+Level: 5  
+EVs: 76 HP / 76 Atk / 156 Def / 196 Spe  
 Jolly Nature  
-- Stone Edge  
-- Dual Wingbeat  
-- Earthquake  
-- U-turn
+- U-turn  
+- Flare Blitz  
+- Morning Sun  
+- Will-O-Wisp
+
+Porygon @ Eviolite  
+Ability: Download  
+Level: 5  
+EVs: 156 HP / 36 Def / 236 SpA / 36 Spe  
+Modest Nature  
+- Tri Attack  
+- Thunderbolt  
+- Ice Beam  
+- Recover
+
+Timburr @ Eviolite  
+Ability: Guts  
+Level: 5  
+EVs: 196 Atk / 156 Def / 156 SpD  
+Adamant Nature  
+- Drain Punch  
+- Knock Off  
+- Mach Punch  
+- Bulk Up

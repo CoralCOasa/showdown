@@ -1,59 +1,60 @@
-Foongus @ Eviolite  
+Mareanie @ Eviolite  
 Ability: Regenerator  
 Level: 5  
-EVs: 124 HP / 156 Def / 156 SpD  
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
 Bold Nature  
-- Giga Drain  
-- Spore  
-- Sludge Bomb  
-- Synthesis  
+IVs: 0 Atk  
+- Recover  
+- Scald  
+- Toxic Spikes 
+- Sludge Bomb
 
-Scraggy @ Eviolite  
-Ability: Moxie  
+Croagunk @ Eviolite  
+Ability: Dry Skin  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
-Adamant Nature  
-- Dragon Dance  
-- Knock Off  
-- Drain Punch  
-- High Jump Kick  
+EVs: 116 Def / 188 SpA / 196 Spe  
+Timid Nature
+- Nasty Plot  
+- Vacuum Wave  
+- Sludge Wave  
+- Focus Blast 
 
 Meowth @ Life Orb  
 Ability: Technician  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 196 Spe  
+EVs: 36 HP / 236 Atk / 36 SpD / 196 Spe  
 Jolly Nature  
 - Fake Out  
 - Feint  
-- Aerial Ace  
-- Water Pulse  
+- Knock Off  
+- Double-Edge 
 
-Larvesta @ Eviolite  
-Ability: Flame Body  
+Zigzagoon @ Berry Juice  
+Ability: Quick Feet 
 Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
-Jolly Nature  
-- U-turn  
-- Flare Blitz  
-- Morning Sun  
-- Will-O-Wisp  
-
-Timburr @ Eviolite  
-Ability: Iron Fist  
-Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
+EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
 Adamant Nature  
-- Drain Punch  
-- Mach Punch  
-- Knock Off  
-- Defog  
+- Belly Drum  
+- Extreme Speed  
+- Thief  
+- Seed Bomb
 
-Farfetch’d-Galar @ Eviolite  
-Ability: Scrappy  
+Carvanha @ Life Orb  
+Ability: Speed Boost  
 Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+Adamant Nature  
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation
+
+Pawniard @ Eviolite  
+Ability: Defiant  
+Level: 5  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
 Jolly Nature  
-- Swords Dance  
-- Close Combat  
-- Brave Bird  
+- Iron Head  
 - Knock Off  
+- Sucker Punch  
+- Swords Dance 

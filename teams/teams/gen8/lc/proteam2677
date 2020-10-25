@@ -1,14 +1,14 @@
-Scraggy @ Eviolite  
-Ability: Moxie  
+Mienfoo @ Choice Scarf  
+Ability: Reckless  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
+EVs: 236 Atk / 36 Def / 236 Spe  
 Adamant Nature  
-- Dragon Dance  
-- Knock Off  
-- Drain Punch  
 - High Jump Kick  
+- Knock Off  
+- U-turn  
+- Stone Edge 
 
-Drilbur @ Eviolite  
+Drilbur @ Berry Juice  
 Ability: Mold Breaker  
 Level: 5  
 EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
@@ -16,44 +16,44 @@ Jolly Nature
 - Earthquake  
 - Rapid Spin  
 - Rock Slide  
-- Stealth Rock  
+- Stealth Rock 
 
-Shellder @ Eviolite  
-Ability: Skill Link  
+Abra @ Focus Sash  
+Ability: Magic Guard  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Icicle Spear  
-- Shell Smash  
-- Rock Blast  
-- Liquidation  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Psychic  
+- Dazzling Gleam  
+- Shadow Ball 
+- Protect
 
-Tirtouga @ Berry Juice  
-Ability: Sturdy  
+Magnemite @ Choice Scarf  
+Ability: Analytic  
 Level: 5  
-EVs: 212 Atk / 92 Def / 180 Spe  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Timid Nature  
+- Volt Switch  
+- Thunderbolt  
+- Flash Cannon  
+- Steel Beam
+
+Foongus @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 124 HP / 156 Def / 156 SpD  
+Bold Nature  
+- Giga Drain  
+- Spore  
+- Sludge Bomb  
+- Synthesis
+
+Grookey @ Eviolite  
+Ability: Grassy Surge  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
 Jolly Nature  
-- Shell Smash  
-- Waterfall  
-- Stone Edge  
-- Zen Headbutt
-
-Archen @ Berry Juice  
-Ability: Defeatist  
-Level: 5  
-EVs: 76 HP / 180 Atk / 196 Spe  
-Jolly Nature  
-- Stone Edge  
-- Dual Wingbeat  
-- Earthquake  
-- U-turn
-
-Scorbunny @ Berry Juice  
-Ability: Libero  
-Level: 5  
-EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
-Jolly Nature  
-- High Jump Kick  
-- U-turn  
-- Blaze Kick  
-- Gunk Shot  
+- Grassy Glide  
+- Knock Off  
+- Drain Punch  
+- Wood Hammer

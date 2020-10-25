@@ -1,59 +1,61 @@
-Chinchou @ Eviolite  
-Ability: Volt Absorb  
+Porygon @ Eviolite  
+Ability: Download  
 Level: 5  
-EVs: 52 Def / 228 SpA / 220 Spe  
-Timid Nature  
-- Volt Switch  
-- Scald  
+EVs: 76 HP / 196 Def / 236 SpA  
+Quiet Nature  
+IVs: 0 Atk / 0 Spe  
+- Tri Attack  
 - Ice Beam  
-- Thunderbolt  
+- Psychic  
+- Trick Room
 
-Dewpider @ Berry Juice  
-Ability: Water Bubble  
+Meowth @ Life Orb  
+Ability: Technician  
 Level: 5  
-EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
-Modest Nature  
-- Sticky Web  
-- Surf  
-- Icy Wind  
+EVs: 36 HP / 236 Atk / 36 SpD / 196 Spe  
+Jolly Nature  
+- Fake Out  
+- Feint  
+- Knock Off  
+- Double-Edge 
+
+Shellder @ Eviolite  
+Ability: Skill Link  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Adamant Nature  
+- Icicle Spear  
+- Shell Smash  
+- Rock Blast  
+- Liquidation 
+
+Natu @ Life Orb  
+Ability: Magic Bounce  
+Level: 5  
+EVs: 36 HP / 76 Def / 196 SpA / 196 Spe  
+Timid Nature  
+- Psychic  
+- Heat Wave  
+- Dazzling Gleam  
 - Giga Drain
 
-Grookey @ Eviolite  
-Ability: Grassy Surge  
+Pawniard @ Choice Scarf  
+Ability: Defiant  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
-Jolly Nature  
-- Grassy Glide  
+EVs: 236 Atk / 36 Def / 36 SpD / 196 Spe  
+Adamant Nature
+- Iron Head  
 - Knock Off  
-- Drain Punch  
-- U-turn  
+- Brick Break  
+- Sucker Punch
 
-Mienfoo @ Eviolite  
+Mareanie @ Eviolite  
 Ability: Regenerator  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
-Jolly Nature  
-- Knock Off  
-- U-turn  
-- High Jump Kick  
-- Fake Out  
-
-Koffing @ Eviolite  
-Ability: Levitate  
-Level: 5  
-EVs: 36 HP / 236 Def / 236 SpD  
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
 Bold Nature  
-- Will-O-Wisp  
-- Toxic Spikes  
-- Pain Split  
-- Sludge Bomb  
-
-Tirtouga @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 212 Atk / 92 Def / 180 Spe  
-Jolly Nature  
-- Shell Smash  
-- Waterfall  
-- Stone Edge  
-- Zen Headbutt
+IVs: 0 Atk  
+- Recover  
+- Scald  
+- Toxic Spikes 
+- Sludge Bomb

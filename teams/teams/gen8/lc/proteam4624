@@ -1,52 +1,52 @@
-Onix @ Berry Juice  
+Staryu @ Eviolite  
+Ability: Analytic  
+Level: 5  
+EVs: 156 Def / 116 SpA / 236 Spe  
+Timid Nature  
+- Hydro Pump 
+- Thunderbolt  
+- Psychic  
+- Ice Beam 
+
+Dwebble @ Berry Juice  
 Ability: Sturdy  
 Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
-Jolly Nature  
-- Earthquake  
-- Stealth Rock  
+EVs: 236 Atk / 236 Spe  
+Adamant Nature  
 - Rock Blast  
+- Earthquake  
+- X-Scissor  
+- Shell Smash
+
+Scraggy @ Eviolite  
+Ability: Moxie  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 212 Spe  
+Adamant Nature  
 - Dragon Dance  
-
-Ferroseed @ Eviolite  
-Ability: Iron Barbs  
-Level: 5  
-EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
-Impish Nature  
 - Knock Off  
-- Thunder Wave  
-- Spikes  
-- Giga Drain
+- High Jump Kick  
+- Stone Edge
 
-Abra @ Focus Sash  
-Ability: Magic Guard  
+Magnemite @ Choice Scarf  
+Ability: Analytic  
 Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-- Psychic  
-- Dazzling Gleam  
-- Energy Ball  
-- Shadow Ball  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Modest Nature
+- Volt Switch  
+- Thunderbolt  
+- Flash Cannon  
+- Steel Beam
 
-Croagunk @ Eviolite  
-Ability: Dry Skin  
+Tyrunt @ Eviolite  
+Ability: Strong Jaw  
 Level: 5  
-EVs: 116 Def / 188 SpA / 196 Spe  
-Timid Nature  
-- Vacuum Wave  
-- Nasty Plot  
-- Sludge Wave  
-- Focus Blast  
-
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
-Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
-Bold Nature  
-- Moonblast  
-- Wish  
-- Protect  
-- Calm Mind  
+EVs: 204 Atk / 76 SpD / 212 Spe  
+Jolly Nature  
+- Stone Edge  
+- Close Combat  
+- Psychic Fangs  
+- Dragon Dance
 
 Foongus @ Eviolite  
 Ability: Regenerator  
@@ -56,4 +56,4 @@ Bold Nature
 - Giga Drain  
 - Spore  
 - Sludge Bomb  
-- Synthesis  
+- Synthesis

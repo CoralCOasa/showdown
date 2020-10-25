@@ -1,3 +1,34 @@
+Diglett @ Life Orb  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Sucker Punch  
+- Rock Slide  
+- Substitute 
+
+Amaura @ Choice Scarf  
+Ability: Snow Warning  
+Level: 5  
+EVs: 60 HP / 220 SpA / 228 Spe  
+Modest Nature
+IVs: 0 Atk  
+- Blizzard  
+- Earth Power  
+- Freeze-Dry  
+- Ancient Power
+
+Ponyta-Galar @ Choice Scarf  
+Ability: Pastel Veil  
+Level: 5  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Naughty Nature  
+- Zen Headbutt  
+- Play Rough  
+- Mystical Fire  
+- Healing Wish
+
 Corphish @ Eviolite  
 Ability: Adaptability  
 Level: 5  
@@ -6,54 +37,24 @@ Adamant Nature
 - Aqua Jet  
 - Crabhammer  
 - Knock Off  
-- Dragon Dance  
+- Swords Dance 
 
-Vullaby @ Berry Juice  
-Ability: Weak Armor  
+Magnemite @ Choice Scarf  
+Ability: Analytic  
 Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Jolly Nature  
-- Knock Off  
-- Brave Bird  
-- U-turn  
-- Defog  
-
-Dewpider @ Berry Juice  
-Ability: Water Bubble  
-Level: 5  
-EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
-Modest Nature  
-- Sticky Web  
-- Surf  
-- Icy Wind  
-- Giga Drain
-
-Larvesta @ Eviolite  
-Ability: Flame Body  
-Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
-Jolly Nature  
-- U-turn  
-- Flare Blitz  
-- Morning Sun  
-- Will-O-Wisp  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Modest Nature
+- Volt Switch  
+- Thunderbolt  
+- Flash Cannon  
+- Steel Beam
 
 Ferroseed @ Eviolite  
 Ability: Iron Barbs  
 Level: 5  
-EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
-Impish Nature  
+EVs: 84 HP / 188 Def / 84 SpA / 148 SpD  
+Sassy Nature  
 - Knock Off  
 - Thunder Wave  
-- Spikes  
+- Stealth Rock  
 - Giga Drain
-
-Timburr @ Eviolite  
-Ability: Iron Fist  
-Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
-Adamant Nature  
-- Drain Punch  
-- Mach Punch  
-- Knock Off  
-- Defog  

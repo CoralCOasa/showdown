@@ -1,59 +1,59 @@
-Mienfoo @ Eviolite  
-Ability: Regenerator  
+Farfetch’d-Galar @ Choice Scarf  
+Ability: Scrappy  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
-Jolly Nature  
+EVs: 20 HP / 236 Atk / 236 Spe  
+Jolly Nature
+- Close Combat  
+- Brave Bird  
 - Knock Off  
-- U-turn  
-- High Jump Kick  
-- Fake Out  
+- Leaf Blade
 
 Dwebble @ Berry Juice  
 Ability: Sturdy  
 Level: 5  
 EVs: 236 Atk / 236 Spe  
 Adamant Nature  
-- Shell Smash  
 - Rock Blast  
-- Earthquake  
 - Knock Off  
+- Stealth Rock  
+- Spikes
 
-Bunnelby @ Eviolite  
-Ability: Huge Power  
+Trapinch @ Eviolite  
+Ability: Arena Trap  
 Level: 5  
-EVs: 228 Atk / 132 Def / 148 SpD  
-Adamant Nature  
+EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
+Relaxed Nature  
 - Earthquake  
-- Quick Attack  
-- U-turn  
-- Facade
+- First Impression  
+- Rock Slide  
+- Giga Drain
 
-Carvanha @ Life Orb  
-Ability: Speed Boost  
+Grookey @ Eviolite  
+Ability: Grassy Surge  
 Level: 5  
-EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
-Adamant Nature  
-- Crunch  
-- Psychic Fangs  
-- Protect  
-- Liquidation  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Grassy Glide  
+- Knock Off  
+- Drain Punch  
+- Wood Hammer
 
-Vullaby @ Berry Juice  
+Croagunk @ Eviolite  
+Ability: Dry Skin  
+Level: 5  
+EVs: 116 Def / 188 SpA / 196 Spe  
+Timid Nature
+- Nasty Plot  
+- Vacuum Wave  
+- Sludge Wave  
+- Focus Blast 
+
+Vullaby @ Eviolite 
 Ability: Weak Armor  
 Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Jolly Nature  
-- Knock Off  
-- Brave Bird  
-- U-turn  
-- Defog  
-
-Archen @ Berry Juice  
-Ability: Defeatist  
-Level: 5  
-EVs: 76 HP / 180 Atk / 196 Spe  
-Jolly Nature  
-- Stone Edge  
-- Dual Wingbeat  
-- Earthquake  
-- U-turn
+EVs: 76 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Nasty Plot  
+- Air Slash  
+- Heat Wave  
+- Dark Pulse

@@ -1,60 +1,59 @@
-Natu @ Eviolite  
-Ability: Magic Bounce  
+Koffing @ Eviolite  
+Ability: Levitate  
 Level: 5  
-EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Psychic  
-- Heat Wave  
-- U-turn  
-- Roost  
-
-Trapinch @ Eviolite  
-Ability: Arena Trap  
-Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Relaxed Nature  
-- Earthquake  
-- First Impression  
-- Superpower  
-- Giga Drain  
-
-Foongus @ Eviolite  
-Ability: Regenerator  
-Level: 5  
-EVs: 124 HP / 156 Def / 156 SpD  
+EVs: 36 HP / 236 Def / 236 SpD  
 Bold Nature  
-- Giga Drain  
-- Spore  
-- Sludge Bomb  
-- Synthesis  
+- Flamethrower 
+- Toxic Spikes  
+- Pain Split  
+- Clear Smog
 
-Drilbur @ Eviolite  
-Ability: Mold Breaker  
+Vullaby @ Eviolite 
+Ability: Weak Armor  
 Level: 5  
-EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
-Jolly Nature  
-- Earthquake  
-- Rapid Spin  
-- Rock Slide  
-- Stealth Rock  
+EVs: 76 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Nasty Plot  
+- Air Slash  
+- Heat Wave  
+- Dark Pulse
 
-Ferroseed @ Eviolite  
-Ability: Iron Barbs  
+Farfetch’d-Galar @ Choice Scarf  
+Ability: Scrappy  
 Level: 5  
-EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
-Impish Nature  
+EVs: 20 HP / 236 Atk / 236 Spe  
+Jolly Nature
+- Close Combat  
+- Brave Bird  
 - Knock Off  
-- Thunder Wave  
-- Spikes  
-- Giga Drain
+- Leaf Blade
 
-Shellder @ Eviolite  
-Ability: Skill Link  
+Dewpider @ Eviolite  
+Ability: Water Bubble  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
+EVs: 132 HP / 116 Atk / 20 Def / 116 SpA / 20 SpD / 60 Spe  
 Adamant Nature  
-- Icicle Spear  
-- Shell Smash  
-- Rock Blast  
 - Liquidation  
+- Leech Life  
+- Magic Coat  
+- Sticky Web
+
+Staryu @ Eviolite  
+Ability: Analytic  
+Level: 5  
+EVs: 156 Def / 116 SpA / 236 Spe  
+Timid Nature  
+- Hydro Pump 
+- Thunderbolt  
+- Psychic  
+- Rapid Spin 
+
+Abra @ Life Orb  
+Ability: Magic Guard  
+Level: 5  
+EVs: 36 Atk / 236 SpA / 196 Spe  
+Hasty Nature  
+- Psychic  
+- Dazzling Gleam  
+- Fire Punch  
+- Substitute 

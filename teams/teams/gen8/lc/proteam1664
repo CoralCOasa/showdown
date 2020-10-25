@@ -1,32 +1,33 @@
-Koffing @ Eviolite  
-Ability: Levitate  
+Dewpider @ Berry Juice  
+Ability: Water Bubble  
 Level: 5  
-EVs: 36 HP / 236 Def / 236 SpD  
-Bold Nature  
-- Will-O-Wisp  
-- Toxic Spikes  
-- Pain Split  
-- Sludge Bomb  
+EVs: 132 HP / 180 Def / 116 SpA / 20 SpD / 60 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Scald 
+- Giga Drain  
+- Magic Coat  
+- Sticky Web
 
-Vullaby @ Berry Juice  
+Tyrunt @ Eviolite  
+Ability: Strong Jaw  
+Level: 5  
+EVs: 204 Atk / 76 SpD / 212 Spe  
+Jolly Nature  
+- Rock Blast 
+- Close Combat  
+- Psychic Fangs  
+- Dragon Dance
+
+Dwebble @ Eviolite  
 Ability: Weak Armor  
 Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Jolly Nature  
+EVs: 116 HP / 76 Atk / 156 Def / 156 Spe  
+Impish Nature  
+- Rock Blast  
 - Knock Off  
-- Brave Bird  
-- U-turn  
-- Defog  
-
-Larvesta @ Eviolite  
-Ability: Flame Body  
-Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
-Jolly Nature  
-- U-turn  
-- Flare Blitz  
-- Morning Sun  
-- Will-O-Wisp  
+- Stealth Rock  
+- Spikes
 
 Diglett @ Life Orb  
 Ability: Arena Trap  
@@ -36,24 +37,25 @@ Jolly Nature
 - Earthquake  
 - Sucker Punch  
 - Rock Slide  
-- Stealth Rock  
+- Memento
 
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
+Porygon @ Eviolite  
+Ability: Download  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
-Adamant Nature  
-- Body Slam  
-- Earthquake  
-- Curse  
-- Recycle
+EVs: 76 HP / 196 Def / 236 SpA  
+Quiet Nature  
+IVs: 0 Atk / 0 Spe  
+- Tri Attack  
+- Ice Beam  
+- Thunderbolt 
+- Trick Room
 
-Woobat @ Berry Juice  
-Ability: Simple  
+Omanyte @ Eviolite  
+Ability: Shell Armor  
 Level: 5  
-EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
-Timid Nature  
-- Nasty Plot  
-- Psychic  
-- Heat Wave  
-- Air Slash  
+EVs: 76 HP / 196 SpA / 236 Spe  
+Modest Nature  
+- Shell Smash  
+- Hydro Pump  
+- Ice Beam  
+- Earth Power

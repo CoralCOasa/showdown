@@ -1,60 +1,60 @@
-Timburr @ Eviolite  
-Ability: Iron Fist  
+Corphish @ Eviolite  
+Ability: Adaptability  
 Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
+EVs: 196 Atk / 76 Def / 236 Spe  
 Adamant Nature  
-- Drain Punch  
-- Mach Punch  
+- Aqua Jet  
+- Crabhammer  
 - Knock Off  
-- Defog  
+- Dragon Dance 
 
-Natu @ Eviolite  
-Ability: Magic Bounce  
+Zigzagoon @ Berry Juice  
+Ability: Pickup  
 Level: 5  
-EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-IVs: 0 Atk  
+EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
+Adamant Nature  
+- Belly Drum  
+- Extreme Speed  
+- Thief  
+- Seed Bomb
+
+Elekid @ Life Orb  
+Ability: Vital Spirit  
+Level: 5  
+EVs: 12 Atk / 236 SpA / 236 Spe  
+Hasty Nature  
+- Thunderbolt  
+- Cross Chop  
 - Psychic  
-- Heat Wave  
-- U-turn  
-- Roost  
+- Volt Switch
 
-Vullaby @ Berry Juice  
-Ability: Weak Armor  
+Mareanie @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Jolly Nature  
+EVs: 196 HP / 20 Def / 92 SpA / 180 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Recover  
+- Scald  
 - Knock Off  
-- Brave Bird  
-- U-turn  
-- Defog  
+- Sludge Bomb
 
-Ferroseed @ Eviolite  
-Ability: Iron Barbs  
+Munchlax @ Eviolite  
+Ability: Thick Fat  
 Level: 5  
-EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
+EVs: 236 Atk / 196 Def / 76 SpD  
 Impish Nature  
-- Knock Off  
-- Thunder Wave  
-- Spikes  
-- Giga Drain
+- Body Slam 
+- Earthquake  
+- Rest  
+- Sleep Talk
 
-Croagunk @ Eviolite  
-Ability: Dry Skin  
+Trapinch @ Eviolite  
+Ability: Arena Trap  
 Level: 5  
-EVs: 116 Def / 188 SpA / 196 Spe  
-Timid Nature  
-- Vacuum Wave  
-- Nasty Plot  
-- Sludge Wave  
-- Focus Blast  
-
-Scraggy @ Eviolite  
-Ability: Moxie  
-Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
+EVs: 156 HP / 196 Atk / 76 Def / 76 SpD  
 Adamant Nature  
-- Dragon Dance  
-- Knock Off  
-- Drain Punch  
-- High Jump Kick  
+- Earthquake  
+- First Impression  
+- Superpower  
+- Quick Attack 

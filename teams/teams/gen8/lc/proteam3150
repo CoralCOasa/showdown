@@ -1,4 +1,34 @@
-Wingull @ Life Orb  
+Drilbur @ Eviolite 
+Ability: Mold Breaker  
+Level: 5  
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
+Jolly Nature  
+- Earthquake  
+- Rapid Spin  
+- Rock Slide  
+- Stealth Rock 
+
+Diglett @ Life Orb  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Sucker Punch  
+- Rock Slide  
+- Stealth Rock 
+
+Koffing @ Eviolite  
+Ability: Levitate 
+Level: 5  
+EVs: 36 HP / 236 Def / 236 SpD  
+Bold Nature  
+- Will-O-Wisp 
+- Toxic Spikes  
+- Pain Split  
+- Sludge Bomb 
+
+Wingull @ Berry Juice  
 Ability: Hydration  
 Level: 5  
 EVs: 36 Def / 236 SpA / 236 Spe  
@@ -6,54 +36,24 @@ Timid Nature
 - Scald  
 - Hurricane  
 - U-turn  
-- Air Slash  
+- Knock Off
 
-Meowth @ Life Orb  
-Ability: Technician  
+Natu @ Eviolite  
+Ability: Magic Bounce  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 196 Spe  
-Jolly Nature  
-- Fake Out  
-- Feint  
-- Aerial Ace  
-- Water Pulse  
-
-Woobat @ Berry Juice  
-Ability: Simple  
-Level: 5  
-EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
+EVs: 36 HP / 76 Def / 116 SpA / 76 SpD / 196 Spe  
 Timid Nature  
-- Nasty Plot  
 - Psychic  
 - Heat Wave  
-- Air Slash  
+- Dazzling Gleam 
+- Roost
 
-Bunnelby @ Eviolite  
-Ability: Huge Power  
+Elekid @ Life Orb  
+Ability: Vital Spirit  
 Level: 5  
-EVs: 228 Atk / 132 Def / 148 SpD  
-Adamant Nature  
-- Earthquake  
-- Quick Attack  
-- U-turn  
-- Facade
-
-Chinchou @ Eviolite  
-Ability: Volt Absorb  
-Level: 5  
-EVs: 52 Def / 228 SpA / 220 Spe  
-Timid Nature  
-- Volt Switch  
-- Scald  
-- Ice Beam  
+EVs: 12 Atk / 236 SpA / 236 Spe  
+Hasty Nature  
 - Thunderbolt  
-
-Foongus @ Eviolite  
-Ability: Regenerator  
-Level: 5  
-EVs: 124 HP / 156 Def / 156 SpD  
-Bold Nature  
-- Giga Drain  
-- Spore  
-- Sludge Bomb  
-- Synthesis  
+- Cross Chop  
+- Psychic  
+- Volt Switch

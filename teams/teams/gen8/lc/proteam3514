@@ -1,59 +1,59 @@
-Diglett @ Life Orb  
-Ability: Arena Trap  
+Staryu @ Eviolite  
+Ability: Natural Cure  
 Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Earthquake  
-- Sucker Punch  
-- Rock Slide  
-- Stealth Rock  
-
-Ponyta-Galar @ Eviolite  
-Ability: Pastel Veil  
-Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
+EVs: 116 HP / 156 Def / 236 Spe  
 Timid Nature  
-- Mystical Fire  
-- Psychic  
-- Dazzling Gleam  
-- Calm Mind  
+- Rapid Spin  
+- Thunderbolt 
+- Recover  
+- Scald
 
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
+Vullaby @ Eviolite  
+Ability: Overcoat  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
-Adamant Nature  
-- Body Slam  
-- Earthquake  
-- Curse  
-- Recycle
+EVs: 116 HP / 76 Def / 236 SpD / 36 Spe  
+Impish Nature  
+- Brave Bird  
+- Knock Off  
+- U-turn  
+- Roost
 
-Tirtouga @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 212 Atk / 92 Def / 180 Spe  
-Jolly Nature  
-- Shell Smash  
-- Waterfall  
-- Stone Edge  
-- Zen Headbutt
-
-Magnemite @ Berry Juice  
-Ability: Sturdy  
+Wingull @ Life Orb 
+Ability: Hydration  
 Level: 5  
 EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
-- Flash Cannon  
-- Volt Switch  
-- Thunderbolt  
-- Recycle  
+- Scald  
+- Hurricane  
+- U-turn  
+- Air Slash 
 
-Shellder @ Eviolite  
-Ability: Skill Link  
+Abra @ Focus Sash  
+Ability: Magic Guard  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Icicle Spear  
-- Shell Smash  
-- Rock Blast  
-- Liquidation  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Psychic  
+- Dazzling Gleam  
+- Energy Ball 
+- Counter
+
+Elekid @ Life Orb  
+Ability: Vital Spirit  
+Level: 5  
+EVs: 12 Atk / 236 SpA / 236 Spe  
+Hasty Nature  
+- Thunderbolt  
+- Cross Chop  
+- Psychic  
+- Volt Switch
+
+Scraggy @ Eviolite  
+Ability: Shed Skin  
+Level: 5  
+EVs: 36 HP / 156 Atk / 36 Def / 36 SpD / 212 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Knock Off  
+- Drain Punch  
+- Stone Edge

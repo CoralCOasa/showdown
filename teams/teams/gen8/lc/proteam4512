@@ -1,59 +1,61 @@
-Carvanha @ Life Orb  
-Ability: Speed Boost  
+Tyrunt @ Eviolite  
+Ability: Strong Jaw  
 Level: 5  
-EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
-Adamant Nature  
-- Crunch  
-- Psychic Fangs  
-- Protect  
-- Liquidation  
-
-Diglett @ Life Orb  
-Ability: Arena Trap  
-Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
+EVs: 204 Atk / 76 SpD / 212 Spe  
 Jolly Nature  
-- Earthquake  
-- Sucker Punch  
-- Rock Slide  
-- Stealth Rock  
+- Rock Blast 
+- Close Combat  
+- Psychic Fangs  
+- Dragon Dance
 
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
+Amaura @ Choice Scarf  
+Ability: Snow Warning  
 Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
-Bold Nature  
-- Moonblast  
-- Wish  
-- Protect  
-- Calm Mind  
+EVs: 60 HP / 220 SpA / 228 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Blizzard  
+- Earth Power  
+- Freeze-Dry  
+- Ancient Power
 
-Mareanie @ Eviolite  
+Meowth @ Life Orb  
+Ability: Technician  
+Level: 5  
+EVs: 36 HP / 236 Atk / 36 SpD / 196 Spe  
+Jolly Nature  
+- Fake Out  
+- Feint  
+- Knock Off  
+- Double-Edge 
+
+Slowpoke @ Eviolite  
 Ability: Regenerator  
 Level: 5  
-EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
-Bold Nature  
-- Recover  
+EVs: 116 HP / 76 Def / 116 SpA / 196 SpD  
+Calm Nature  
+IVs: 0 Atk  
 - Scald  
-- Toxic Spikes  
-- Sludge Bomb  
+- Psychic 
+- Slack Off  
+- Teleport
 
-Timburr @ Eviolite  
-Ability: Iron Fist  
+Zigzagoon @ Berry Juice  
+Ability: Pickup  
 Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
+EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
 Adamant Nature  
-- Drain Punch  
-- Mach Punch  
-- Knock Off  
-- Defog  
+- Belly Drum  
+- Extreme Speed  
+- Thief  
+- Seed Bomb
 
-Staryu @ Eviolite  
-Ability: Natural Cure  
+Tirtouga @ Eviolite  
+Ability: Solid Rock  
 Level: 5  
-EVs: 116 HP / 156 Def / 236 Spe  
-Timid Nature  
-- Rapid Spin  
-- Thunderbolt  
-- Recover  
-- Scald  
+EVs: 4 HP / 132 Atk / 92 Def / 76 SpD / 180 Spe  
+Jolly Nature  
+- Shell Smash  
+- Liquidation  
+- Stone Edge  
+- Earthquake

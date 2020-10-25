@@ -1,59 +1,61 @@
-Scorbunny @ Berry Juice  
-Ability: Libero  
+Wingull @ Life Orb 
+Ability: Hydration  
 Level: 5  
-EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
-Jolly Nature  
-- High Jump Kick  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Timid Nature  
+- Scald  
+- Hurricane  
 - U-turn  
-- Blaze Kick  
-- Gunk Shot  
+- Air Slash 
 
-Grookey @ Eviolite  
-Ability: Grassy Surge  
+Natu @ Life Orb  
+Ability: Magic Bounce  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
+EVs: 36 HP / 76 Def / 196 SpA / 196 Spe  
+Timid Nature  
+- Psychic  
+- Heat Wave  
+- Dazzling Gleam  
+- Giga Drain
+
+Spritzee @ Berry Juice  
+Ability: Aroma Veil  
+Level: 5  
+EVs: 52 HP / 116 Def / 252 SpA / 76 SpD / 12 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Psychic  
+- Energy Ball  
+- Thunderbolt 
+
+Onix @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 76 HP / 236 Atk / 196 Spe  
 Jolly Nature  
-- Grassy Glide  
-- Knock Off  
-- Drain Punch  
-- U-turn  
+- Earthquake  
+- Stealth Rock  
+- Rock Blast  
+- Dragon Dance
 
-Scraggy @ Eviolite  
-Ability: Moxie  
+Smoochum (F) @ Choice Scarf  
+Ability: Oblivious  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
+EVs: 236 SpA / 236 Spe  
+Modest Nature
+IVs: 0 Atk  
+- Ice Beam  
+- Psychic  
+- Shadow Ball  
+- Trick
+
+Mudbray @ Berry Juice  
+Ability: Stamina  
+Level: 5  
+EVs: 116 HP / 36 Atk / 196 Def / 156 Spe  
 Adamant Nature  
-- Dragon Dance  
-- Knock Off  
-- Drain Punch  
-- High Jump Kick  
-
-Mienfoo @ Eviolite  
-Ability: Regenerator  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
-Jolly Nature  
-- Knock Off  
-- U-turn  
-- High Jump Kick  
-- Fake Out  
-
-Zigzagoon @ Berry Juice  
-Ability: Quick Feet  
-Level: 5  
-EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
-Adamant Nature  
-- Extreme Speed  
-- Belly Drum  
-- Thief  
-- Seed Bomb  
-
-Foongus @ Eviolite  
-Ability: Regenerator  
-Level: 5  
-EVs: 124 HP / 156 Def / 156 SpD  
-Bold Nature  
-- Giga Drain  
-- Spore  
-- Sludge Bomb  
-- Synthesis  
+- Earthquake  
+- Stealth Rock  
+- Rock Slide 
+- Heavy Slam

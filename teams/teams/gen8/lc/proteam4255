@@ -1,59 +1,61 @@
-Mudbray @ Eviolite  
-Ability: Stamina  
-Level: 5  
-EVs: 116 HP / 36 Atk / 196 Def / 156 Spe  
-Adamant Nature  
-- Earthquake  
-- Stealth Rock  
-- Rock Slide  
-- Heavy Slam  
-
-Wingull @ Life Orb  
-Ability: Hydration  
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-- Scald  
-- Hurricane  
-- U-turn  
-- Air Slash  
-
-Magnemite @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-- Flash Cannon  
-- Volt Switch  
-- Thunderbolt  
-- Recycle  
-
-Foongus @ Eviolite  
+Slowpoke @ Eviolite  
 Ability: Regenerator  
 Level: 5  
-EVs: 124 HP / 156 Def / 156 SpD  
-Bold Nature  
-- Giga Drain  
-- Spore  
-- Sludge Bomb  
-- Synthesis  
+EVs: 116 HP / 76 Def / 116 SpA / 196 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Psychic 
+- Slack Off  
+- Teleport
 
-Grookey @ Eviolite  
-Ability: Grassy Surge  
+Magnemite @ Choice Scarf  
+Ability: Analytic  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Timid Nature  
+- Volt Switch  
+- Thunderbolt  
+- Flash Cannon  
+- Steel Beam
+
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 156 Atk / 36 Def / 36 SpD / 236 Spe  
 Jolly Nature  
-- Grassy Glide  
-- Knock Off  
 - Drain Punch  
-- U-turn  
-
-Vullaby @ Berry Juice  
-Ability: Weak Armor  
-Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Jolly Nature  
 - Knock Off  
-- Brave Bird  
-- U-turn  
-- Defog  
+- Stone Edge 
+- Swords Dance
+
+Munchlax @ Berry Juice  
+Ability: Thick Fat  
+Level: 5  
+EVs: 236 Atk / 196 Def / 76 SpD  
+Impish Nature  
+- Double_Edge  
+- Earthquake 
+- Zen Headbutt  
+- Curse
+
+Croagunk @ Eviolite  
+Ability: Dry Skin  
+Level: 5  
+EVs: 116 Def / 188 SpA / 196 Spe  
+Modest Nature  
+- Nasty Plot  
+- Vacuum Wave  
+- Sludge Wave  
+- Dark Pulse
+
+Porygon @ Eviolite  
+Ability: Download  
+Level: 5  
+EVs: 76 HP / 196 Def / 236 SpA  
+Quiet Nature  
+IVs: 0 Atk / 0 Spe  
+- Tri Attack  
+- Ice Beam  
+- Psychic  
+- Trick Room

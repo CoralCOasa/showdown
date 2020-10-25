@@ -1,59 +1,59 @@
-Archen @ Berry Juice  
-Ability: Defeatist  
+Koffing @ Eviolite  
+Ability: Levitate  
 Level: 5  
-EVs: 76 HP / 180 Atk / 196 Spe  
-Jolly Nature  
-- Stone Edge  
-- Dual Wingbeat  
-- Earthquake  
-- U-turn
-
-Mienfoo @ Eviolite  
-Ability: Regenerator  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
-Jolly Nature  
-- Knock Off  
-- U-turn  
-- High Jump Kick  
-- Fake Out  
-
-Onix @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
-Jolly Nature  
-- Earthquake  
-- Stealth Rock  
-- Rock Blast  
-- Dragon Dance  
+EVs: 36 HP / 196 SpA / 236 Spe  
+Timid Nature  
+- Sludge Bomb  
+- Will-O-Wisp 
+- Flamethrower  
+- Thunderbolt
 
 Dwebble @ Berry Juice  
 Ability: Sturdy  
 Level: 5  
 EVs: 236 Atk / 236 Spe  
 Adamant Nature  
-- Shell Smash  
 - Rock Blast  
-- Earthquake  
+- X-Scissor  
 - Knock Off  
+- Shell Smash
 
-Meowth @ Life Orb  
-Ability: Technician  
+Carvanha @ Life Orb  
+Ability: Speed Boost  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 196 Spe  
-Jolly Nature  
-- Fake Out  
-- Feint  
-- Aerial Ace  
-- Water Pulse  
-
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
-Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
-Bold Nature  
-- Moonblast  
-- Wish  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+Adamant Nature  
+- Crunch  
+- Psychic Fangs  
 - Protect  
-- Calm Mind  
+- Liquidation
+
+Pawniard @ Eviolite  
+Ability: Defiant  
+Level: 5  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Iron Head  
+- Knock Off  
+- Sucker Punch  
+- Swords Dance 
+
+Elekid @ Life Orb  
+Ability: Vital Spirit  
+Level: 5  
+EVs: 12 Atk / 236 SpA / 236 Spe  
+Hasty Nature  
+- Thunderbolt  
+- Cross Chop  
+- Psychic  
+- Volt Switch
+
+Porygon @ Eviolite  
+Ability: Download  
+Level: 5  
+EVs: 156 HP / 36 Def / 236 SpA / 36 Spe  
+Modest Nature  
+- Tri Attack  
+- Psychic  
+- Thunderbolt  
+- Recover

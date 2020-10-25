@@ -1,13 +1,3 @@
-Mienfoo @ Eviolite  
-Ability: Regenerator  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
-Jolly Nature  
-- Knock Off  
-- U-turn  
-- High Jump Kick  
-- Fake Out  
-
 Foongus @ Eviolite  
 Ability: Regenerator  
 Level: 5  
@@ -16,44 +6,54 @@ Bold Nature
 - Giga Drain  
 - Spore  
 - Sludge Bomb  
-- Synthesis  
+- Synthesis
 
-Vulpix @ Choice Scarf  
-Ability: Drought  
+Munchlax @ Eviolite  
+Ability: Thick Fat  
 Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
-Timid Nature  
-- Energy Ball  
-- Weather Ball  
-- Overheat  
-- Fire Blast  
+EVs: 236 Atk / 196 Def / 76 SpD  
+Impish Nature  
+- Facade  
+- Earthquake  
+- Rest  
+- Sleep Talk
 
-Staryu @ Eviolite  
-Ability: Natural Cure  
+Larvesta @ Heavy-Duty Boots  
+Ability: Flame Body  
 Level: 5  
-EVs: 116 HP / 156 Def / 236 Spe  
-Timid Nature  
-- Rapid Spin  
-- Thunderbolt  
-- Recover  
-- Scald  
+EVs: 76 HP / 76 Atk / 76 Def / 76 SpD / 196 Spe  
+Jolly Nature  
+- U-turn  
+- Flare Blitz  
+- Morning Sun  
+- Will-O-Wisp
 
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
+Omanyte @ Eviolite  
+Ability: Shell Armor  
 Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
-Bold Nature  
-- Moonblast  
-- Wish  
-- Protect  
-- Calm Mind  
+EVs: 76 HP / 196 SpA / 236 Spe  
+Modest Nature  
+- Shell Smash  
+- Hydro Pump  
+- Ice Beam  
+- Earth Power
 
-Drilbur @ Eviolite  
-Ability: Mold Breaker  
+Munchlax @ Eviolite  
+Ability: Thick Fat  
 Level: 5  
-EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
+EVs: 236 Atk / 196 Def / 76 SpD  
+Impish Nature  
+- Body Slam 
+- Earthquake  
+- Rest  
+- Sleep Talk
+
+Diglett @ Life Orb  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 236 Atk / 236 Spe  
 Jolly Nature  
 - Earthquake  
-- Rapid Spin  
+- Sucker Punch  
 - Rock Slide  
-- Stealth Rock  
+- Substitute 

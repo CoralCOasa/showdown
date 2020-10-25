@@ -1,60 +1,61 @@
-Dewpider @ Berry Juice  
-Ability: Water Bubble  
+Koffing @ Eviolite  
+Ability: Levitate  
 Level: 5  
-EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
-Modest Nature  
-- Sticky Web  
-- Surf  
-- Icy Wind  
-- Giga Drain
+EVs: 36 HP / 236 Def / 236 SpD  
+Bold Nature  
+- Will-O-Wisp 
+- Toxic Spikes  
+- Pain Split  
+- Sludge Bomb 
 
-Shellder @ Eviolite  
-Ability: Skill Link  
+Porygon @ Eviolite  
+Ability: Download  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Icicle Spear  
-- Shell Smash  
-- Rock Blast  
-- Liquidation  
+EVs: 36 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Agility  
+- Tri Attack  
+- Psychic  
+- Ice Beam
 
 Amaura @ Choice Scarf  
 Ability: Refrigerate  
 Level: 5  
 EVs: 60 HP / 220 SpA / 228 Spe  
-Modest Nature  
+Modest Nature
 IVs: 0 Atk  
 - Hyper Voice  
 - Earth Power  
-- Thunderbolt  
-- Ancient Power
+- Freeze-Dry  
+- Ancient Power 
 
-Diglett @ Life Orb  
-Ability: Arena Trap  
+Corphish @ Eviolite  
+Ability: Adaptability  
 Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Earthquake  
-- Sucker Punch  
-- Rock Slide  
-- Stealth Rock  
-
-Grookey @ Eviolite  
-Ability: Grassy Surge  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
-Jolly Nature  
-- Grassy Glide  
-- Knock Off  
-- Drain Punch  
-- U-turn  
-
-Scraggy @ Eviolite  
-Ability: Moxie  
-Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
+EVs: 196 Atk / 76 Def / 236 Spe  
 Adamant Nature  
-- Dragon Dance  
+- Aqua Jet  
+- Crabhammer  
 - Knock Off  
-- Drain Punch  
-- High Jump Kick  
+- Swords Dance 
+
+Ponyta-Galar @ Choice Scarf  
+Ability: Pastel Veil  
+Level: 5  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Naughty Nature  
+- Zen Headbutt  
+- Play Rough  
+- Mystical Fire  
+- Healing Wish
+
+Dewpider @ Eviolite  
+Ability: Water Bubble  
+Level: 5  
+EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Surf 
+- Giga Drain  
+- Magic Coat  
+- Sticky Web

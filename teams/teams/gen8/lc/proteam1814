@@ -1,42 +1,12 @@
-Farfetch’d-Galar @ Eviolite  
-Ability: Scrappy  
+Meowth @ Life Orb  
+Ability: Technician  
 Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
+EVs: 36 HP / 236 Atk / 36 SpD / 196 Spe  
 Jolly Nature  
-- Swords Dance  
-- Close Combat  
-- Brave Bird  
+- Fake Out  
+- Feint  
 - Knock Off  
-
-Grookey @ Eviolite  
-Ability: Grassy Surge  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
-Jolly Nature  
-- Grassy Glide  
-- Knock Off  
-- Drain Punch  
-- U-turn  
-
-Ponyta @ Eviolite  
-Ability: Flame Body  
-Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Jolly Nature  
-- Flare Blitz  
-- High Horsepower  
-- Morning Sun  
-- Wild Charge  
-
-Carvanha @ Life Orb  
-Ability: Speed Boost  
-Level: 5  
-EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
-Adamant Nature  
-- Crunch  
-- Psychic Fangs  
-- Protect  
-- Liquidation  
+- Double-Edge 
 
 Shellder @ Eviolite  
 Ability: Skill Link  
@@ -46,14 +16,44 @@ Adamant Nature
 - Icicle Spear  
 - Shell Smash  
 - Rock Blast  
-- Liquidation  
+- Liquidation 
 
-Porygon @ Eviolite  
-Ability: Download  
+Koffing @ Eviolite  
+Ability: Neutralizing Gas 
 Level: 5  
-EVs: 36 Def / 236 SpA / 196 Spe  
-Modest Nature  
-- Tri Attack  
-- Recover  
-- Ice Beam  
-- Psychic  
+EVs: 36 HP / 236 Def / 236 SpD  
+Bold Nature  
+- Fire Blast  
+- Toxic Spikes  
+- Pain Split  
+- Clear Smog
+
+Mienfoo @ Choice Scarf  
+Ability: Reckless  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Adamant Nature  
+- High Jump Kick  
+- Knock Off  
+- U-turn  
+- Poison Jab
+
+Trapinch @ Eviolite  
+Ability: Arena Trap  
+Level: 5  
+EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
+Relaxed Nature  
+- Earthquake  
+- First Impression  
+- Quick Attack 
+- Giga Drain
+
+Diglett @ Eviolite  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 236 Atk / 236 Spe  
+Hasty Nature
+- Earthquake  
+- Earth Power  
+- Rock Slide  
+- Final Gambit 

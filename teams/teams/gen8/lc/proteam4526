@@ -1,4 +1,4 @@
-Drilbur @ Eviolite  
+Drilbur @ Berry Juice  
 Ability: Mold Breaker  
 Level: 5  
 EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
@@ -6,17 +6,17 @@ Jolly Nature
 - Earthquake  
 - Rapid Spin  
 - Rock Slide  
-- Stealth Rock  
+- Stealth Rock 
 
-Croagunk @ Eviolite  
-Ability: Dry Skin  
+Mienfoo @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 116 Def / 188 SpA / 196 Spe  
-Timid Nature  
-- Vacuum Wave  
-- Nasty Plot  
-- Sludge Wave  
-- Focus Blast  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Knock Off  
+- U-turn  
+- Close Combat  
+- Stone Edge 
 
 Shellder @ Eviolite  
 Ability: Skill Link  
@@ -26,35 +26,35 @@ Adamant Nature
 - Icicle Spear  
 - Shell Smash  
 - Rock Blast  
-- Liquidation  
+- Liquidation 
 
-Tirtouga @ Berry Juice  
-Ability: Sturdy  
+Porygon @ Eviolite  
+Ability: Download  
 Level: 5  
-EVs: 212 Atk / 92 Def / 180 Spe  
-Jolly Nature  
-- Shell Smash  
-- Waterfall  
-- Stone Edge  
-- Zen Headbutt
+EVs: 156 HP / 36 Def / 236 SpA / 36 Spe  
+Modest Nature  
+- Tri Attack  
+- Psychic 
+- Ice Beam  
+- Recover
 
-Staryu @ Eviolite  
-Ability: Natural Cure  
+Dewpider @ Eviolite  
+Ability: Water Bubble  
 Level: 5  
-EVs: 116 HP / 156 Def / 236 Spe  
-Timid Nature  
-- Rapid Spin  
-- Thunderbolt  
-- Recover  
-- Scald  
-
-Natu @ Eviolite  
-Ability: Magic Bounce  
-Level: 5  
-EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
+EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
 Timid Nature  
 IVs: 0 Atk  
-- Psychic  
-- Heat Wave  
-- U-turn  
-- Roost  
+- Surf  
+- Giga Drain  
+- Icy Wind 
+- Sticky Web
+
+Foongus @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 124 HP / 156 Def / 156 SpD  
+Bold Nature  
+- Giga Drain  
+- Spore  
+- Sludge Bomb  
+- Synthesis

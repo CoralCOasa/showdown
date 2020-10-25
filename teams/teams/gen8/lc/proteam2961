@@ -1,22 +1,22 @@
-Woobat @ Berry Juice  
-Ability: Simple  
+Onix @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
-Timid Nature  
-- Nasty Plot  
-- Psychic  
-- Heat Wave  
-- Air Slash  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- Earthquake  
+- Stealth Rock  
+- Rock Blast  
+- Explosion 
 
-Ponyta-Galar @ Eviolite  
-Ability: Pastel Veil  
+Koffing @ Eviolite  
+Ability: Neutralizing Gas 
 Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-- Mystical Fire  
-- Psychic  
-- Dazzling Gleam  
-- Calm Mind  
+EVs: 36 HP / 236 Def / 236 SpD  
+Bold Nature  
+- Fire Blast  
+- Toxic Spikes  
+- Pain Split  
+- Clear Smog
 
 Pawniard @ Eviolite  
 Ability: Defiant  
@@ -26,35 +26,35 @@ Jolly Nature
 - Iron Head  
 - Knock Off  
 - Sucker Punch  
-- Stealth Rock  
+- Stealth Rock 
 
-Scraggy @ Eviolite  
-Ability: Moxie  
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
-Adamant Nature  
-- Dragon Dance  
+EVs: 84 HP / 188 Def / 84 SpA / 148 SpD  
+Sassy Nature  
 - Knock Off  
-- Drain Punch  
-- High Jump Kick  
+- Thunder Wave  
+- Stealth Rock  
+- Giga Drain
 
-Amaura @ Choice Scarf  
-Ability: Refrigerate  
+Abra @ Focus Sash  
+Ability: Magic Guard  
 Level: 5  
-EVs: 60 HP / 220 SpA / 228 Spe  
-Modest Nature  
-IVs: 0 Atk  
-- Hyper Voice  
-- Earth Power  
-- Thunderbolt  
-- Ancient Power
-
-Porygon @ Eviolite  
-Ability: Download  
-Level: 5  
-EVs: 36 Def / 236 SpA / 196 Spe  
-Modest Nature  
-- Tri Attack  
-- Recover  
-- Ice Beam  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
 - Psychic  
+- Dazzling Gleam  
+- Shadow Ball  
+- Energy Ball 
+
+Slowpoke @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 116 HP / 76 Def / 116 SpA / 196 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Future Sight  
+- Slack Off  
+- Teleport

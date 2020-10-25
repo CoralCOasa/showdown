@@ -1,59 +1,59 @@
-Meowth @ Life Orb  
-Ability: Technician  
+Onix @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 196 Spe  
+EVs: 76 HP / 236 Atk / 196 Spe  
 Jolly Nature  
-- Fake Out  
-- Feint  
-- Aerial Ace  
-- Water Pulse  
+- Earthquake  
+- Stealth Rock  
+- Rock Blast  
+- Body Press
 
-Farfetch’d-Galar @ Eviolite  
-Ability: Scrappy  
+Munchlax @ Berry Juice  
+Ability: Thick Fat  
 Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Swords Dance  
-- Close Combat  
-- Brave Bird  
-- Knock Off  
-
-Vullaby @ Berry Juice  
-Ability: Weak Armor  
-Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Jolly Nature  
-- Knock Off  
-- Brave Bird  
-- U-turn  
-- Defog  
-
-Ferroseed @ Eviolite  
-Ability: Iron Barbs  
-Level: 5  
-EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
+EVs: 236 Atk / 196 Def / 76 SpD  
 Impish Nature  
-- Knock Off  
-- Thunder Wave  
-- Spikes  
-- Giga Drain
+- Facade 
+- Fire Punch  
+- Zen Headbutt  
+- Curse
 
-Scraggy @ Eviolite  
-Ability: Moxie  
+Dwebble @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
+EVs: 236 Atk / 236 Spe  
 Adamant Nature  
-- Dragon Dance  
-- Knock Off  
-- Drain Punch  
-- High Jump Kick  
+- Rock Blast  
+- Earthquake  
+- X-Scissor  
+- Shell Smash
 
-Grookey @ Eviolite  
-Ability: Grassy Surge  
+Mienfoo @ Eviolite  
+Ability: Regenerator  
 Level: 5  
 EVs: 236 Atk / 36 Def / 236 Spe  
 Jolly Nature  
-- Grassy Glide  
 - Knock Off  
-- Drain Punch  
 - U-turn  
+- High Jump Kick 
+- Poison Jab
+
+Meowth @ Life Orb  
+Ability: Technician  
+Level: 5  
+EVs: 36 HP / 236 Atk / 36 SpD / 196 Spe  
+Jolly Nature  
+- Fake Out  
+- Feint  
+- Knock Off  
+- Aerial Ace
+
+Foongus @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 124 HP / 156 Def / 156 SpD  
+Bold Nature  
+- Giga Drain  
+- Spore  
+- Sludge Bomb  
+- Synthesis

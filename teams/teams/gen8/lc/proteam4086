@@ -1,60 +1,60 @@
-Tirtouga @ Berry Juice  
-Ability: Sturdy  
+Scraggy @ Eviolite  
+Ability: Moxie 
 Level: 5  
-EVs: 212 Atk / 92 Def / 180 Spe  
+EVs: 36 HP / 156 Atk / 36 Def / 36 SpD / 212 Spe  
 Jolly Nature  
-- Shell Smash  
-- Waterfall  
-- Stone Edge  
-- Zen Headbutt
-
-Woobat @ Berry Juice  
-Ability: Simple  
-Level: 5  
-EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
-Timid Nature  
-- Nasty Plot  
-- Psychic  
-- Heat Wave  
-- Air Slash  
-
-Ferroseed @ Eviolite  
-Ability: Iron Barbs  
-Level: 5  
-EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
-Impish Nature  
+- Dragon Dance  
 - Knock Off  
-- Thunder Wave  
-- Spikes  
-- Giga Drain
+- Drain Punch  
+- Poison Jab 
 
-Mienfoo @ Eviolite  
-Ability: Regenerator  
+Koffing @ Eviolite  
+Ability: Levitate 
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
-Jolly Nature  
-- Knock Off  
-- U-turn  
-- High Jump Kick  
-- Fake Out  
+EVs: 36 HP / 236 Def / 236 SpD  
+Bold Nature  
+- Will-O-Wisp 
+- Toxic Spikes  
+- Pain Split  
+- Sludge Bomb 
 
-Amaura @ Choice Scarf  
-Ability: Refrigerate  
+Smoochum (F) @ Choice Scarf  
+Ability: Oblivious  
 Level: 5  
-EVs: 60 HP / 220 SpA / 228 Spe  
-Modest Nature  
+EVs: 236 SpA / 236 Spe  
+Modest Nature
 IVs: 0 Atk  
-- Hyper Voice  
-- Earth Power  
-- Thunderbolt  
-- Ancient Power
+- Ice Beam  
+- Psychic  
+- Shadow Ball  
+- Trick
 
-Dewpider @ Berry Juice  
-Ability: Water Bubble  
+Tyrunt @ Eviolite  
+Ability: Strong Jaw  
 Level: 5  
-EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
+EVs: 204 Atk / 76 SpD / 212 Spe  
+Jolly Nature  
+- Rock Blast 
+- Close Combat  
+- Psychic Fangs  
+- Dragon Dance
+
+Munchlax @ Eviolite  
+Ability: Thick Fat  
+Level: 5  
+EVs: 236 Atk / 196 Def / 76 SpD  
+Impish Nature  
+- Body Slam 
+- Earthquake  
+- Rest  
+- Sleep Talk
+
+Porygon @ Eviolite  
+Ability: Download  
+Level: 5  
+EVs: 36 Def / 236 SpA / 196 Spe  
 Modest Nature  
-- Sticky Web  
-- Surf  
-- Icy Wind  
-- Giga Drain
+- Agility  
+- Tri Attack  
+- Psychic  
+- Ice Beam

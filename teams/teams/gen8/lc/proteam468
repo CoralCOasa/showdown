@@ -1,60 +1,62 @@
-Meowth @ Life Orb  
-Ability: Technician  
+Ponyta @ Berry Juice  
+Ability: Flame Body  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 196 Spe  
+EVs: 236 Atk / 76 SpD / 196 Spe  
 Jolly Nature  
-- Fake Out  
-- Feint  
-- Aerial Ace  
-- Water Pulse  
+- Flare Blitz  
+- High Horsepower  
+- Wild Charge  
+- Flame Charge 
 
-Natu @ Eviolite  
-Ability: Magic Bounce  
+Munchlax @ Berry Juice  
+Ability: Thick Fat  
 Level: 5  
-EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
-Timid Nature  
+EVs: 236 Atk / 196 Def / 76 SpD  
+Impish Nature  
+- Double_Edge  
+- Fire Punch  
+- Zen Headbutt  
+- Curse
+
+Amaura @ Choice Scarf  
+Ability: Snow Warning  
+Level: 5  
+EVs: 60 HP / 220 SpA / 228 Spe  
+Modest Nature
 IVs: 0 Atk  
-- Psychic  
-- Heat Wave  
-- U-turn  
-- Roost  
+- Blizzard  
+- Earth Power  
+- Freeze-Dry  
+- Ancient Power
 
-Pawniard @ Eviolite  
-Ability: Defiant  
+Drilbur @ Eviolite 
+Ability: Mold Breaker  
 Level: 5  
-EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
 Jolly Nature  
-- Iron Head  
-- Knock Off  
-- Sucker Punch  
-- Stealth Rock  
-
-Bunnelby @ Eviolite  
-Ability: Huge Power  
-Level: 5  
-EVs: 228 Atk / 132 Def / 148 SpD  
-Adamant Nature  
 - Earthquake  
-- Quick Attack  
-- U-turn  
-- Facade
+- Rapid Spin  
+- Rock Slide  
+- Swords Dance
 
-Porygon @ Eviolite  
-Ability: Download  
+Spritzee @ Eviolite 
+Ability: Aroma Veil  
 Level: 5  
-EVs: 36 Def / 236 SpA / 196 Spe  
+EVs: 52 HP / 116 Def / 252 SpA / 76 SpD / 12 Spe  
 Modest Nature  
-- Tri Attack  
-- Recover  
-- Ice Beam  
+IVs: 0 Atk  
+- Moonblast  
 - Psychic  
+- Energy Ball  
+- Nasty Plot
 
-Scraggy @ Eviolite  
-Ability: Moxie  
+Slowpoke @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
-Adamant Nature  
-- Dragon Dance  
-- Knock Off  
-- Drain Punch  
-- High Jump Kick  
+EVs: 116 HP / 76 Def / 116 SpA / 196 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Psychic 
+- Slack Off  
+- Teleport

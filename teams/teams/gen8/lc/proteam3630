@@ -1,60 +1,60 @@
-Pawniard @ Eviolite  
-Ability: Defiant  
+Vulpix @ Life Orb  
+Ability: Drought  
 Level: 5  
-EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
-Jolly Nature  
-- Iron Head  
-- Knock Off  
-- Sucker Punch  
-- Stealth Rock  
+EVs: 52 HP / 196 SpA / 236 Spe  
+Hasty Nature  
+- Energy Ball  
+- Weather Ball  
+- Extrasensory 
+- Quick Attack
 
-Amaura @ Choice Scarf  
-Ability: Refrigerate  
+Timburr @ Eviolite  
+Ability: Guts  
 Level: 5  
-EVs: 60 HP / 220 SpA / 228 Spe  
-Modest Nature  
-IVs: 0 Atk  
-- Hyper Voice  
-- Earth Power  
-- Thunderbolt  
-- Ancient Power
+EVs: 196 Atk / 156 Def / 156 SpD  
+Adamant Nature  
+- Drain Punch  
+- Knock Off  
+- Mach Punch  
+- Bulk Up
 
 Koffing @ Eviolite  
 Ability: Levitate  
 Level: 5  
 EVs: 36 HP / 236 Def / 236 SpD  
 Bold Nature  
-- Will-O-Wisp  
+- Fire Blast  
 - Toxic Spikes  
 - Pain Split  
-- Sludge Bomb  
+- Clear Smog
 
-Larvesta @ Eviolite  
+Shellder @ Eviolite  
+Ability: Skill Link  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Adamant Nature  
+- Icicle Spear  
+- Shell Smash  
+- Rock Blast  
+- Liquidation 
+
+Dewpider @ Focus Sash  
+Ability: Water Bubble  
+Level: 5  
+EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Surf  
+- Giga Drain  
+- Icy Wind 
+- Sticky Web
+
+Ponyta @ Eviolite  
 Ability: Flame Body  
 Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
+EVs: 236 Atk / 76 SpD / 196 Spe  
 Jolly Nature  
-- U-turn  
 - Flare Blitz  
+- High Horsepower  
 - Morning Sun  
-- Will-O-Wisp  
-
-Ferroseed @ Eviolite  
-Ability: Iron Barbs  
-Level: 5  
-EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
-Impish Nature  
-- Knock Off  
-- Thunder Wave  
-- Spikes  
-- Giga Drain
-
-Carvanha @ Life Orb  
-Ability: Speed Boost  
-Level: 5  
-EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
-Adamant Nature  
-- Crunch  
-- Psychic Fangs  
-- Protect  
-- Liquidation  
+- Will-O-Wisp 

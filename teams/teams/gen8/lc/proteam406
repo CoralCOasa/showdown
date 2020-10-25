@@ -1,42 +1,53 @@
-Drilbur @ Eviolite  
-Ability: Mold Breaker  
+Dewpider @ Eviolite  
+Ability: Water Bubble  
 Level: 5  
-EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
-Jolly Nature  
-- Earthquake  
-- Rapid Spin  
-- Rock Slide  
-- Stealth Rock  
+EVs: 132 HP / 116 Atk / 20 Def / 116 SpA / 20 SpD / 60 Spe  
+Adamant Nature  
+- Liquidation  
+- Leech Life  
+- Magic Coat  
+- Sticky Web
 
-Ponyta-Galar @ Eviolite  
-Ability: Pastel Veil  
+Slowpoke @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-- Mystical Fire  
-- Psychic  
-- Dazzling Gleam  
-- Calm Mind  
+EVs: 116 HP / 76 Def / 116 SpA / 196 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Psychic 
+- Slack Off  
+- Teleport
 
-Ponyta @ Eviolite  
-Ability: Flame Body  
+Grookey @ Eviolite  
+Ability: Grassy Surge  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
+EVs: 236 Atk / 36 Def / 236 Spe  
 Jolly Nature  
-- Flare Blitz  
-- High Horsepower  
-- Morning Sun  
-- Wild Charge  
-
-Vullaby @ Berry Juice  
-Ability: Weak Armor  
-Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Jolly Nature  
+- Grassy Glide  
 - Knock Off  
-- Brave Bird  
-- U-turn  
-- Defog  
+- Drain Punch  
+- U-turn 
+
+Corphish @ Eviolite  
+Ability: Adaptability  
+Level: 5  
+EVs: 196 Atk / 76 Def / 236 Spe  
+Adamant Nature  
+- Aqua Jet  
+- Crabhammer  
+- Knock Off  
+- Swords Dance 
+
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
+Level: 5  
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
+Bold Nature  
+- Moonblast  
+- Wish  
+- Protect  
+- Calm Mind 
 
 Trapinch @ Eviolite  
 Ability: Arena Trap  
@@ -45,15 +56,5 @@ EVs: 156 HP / 36 Atk / 236 Def / 76 SpD
 Relaxed Nature  
 - Earthquake  
 - First Impression  
-- Superpower  
-- Giga Drain  
-
-Abra @ Focus Sash  
-Ability: Magic Guard  
-Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-- Psychic  
-- Dazzling Gleam  
-- Energy Ball  
-- Shadow Ball  
+- Rock Slide  
+- Giga Drain

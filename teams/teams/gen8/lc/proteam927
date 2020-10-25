@@ -1,59 +1,60 @@
-Archen @ Berry Juice  
-Ability: Defeatist  
+Farfetch’d-Galar @ Choice Scarf  
+Ability: Scrappy  
 Level: 5  
-EVs: 76 HP / 180 Atk / 196 Spe  
-Jolly Nature  
-- Stone Edge  
-- Dual Wingbeat  
-- Earthquake  
-- U-turn
+EVs: 20 HP / 236 Atk / 236 Spe  
+Jolly Nature
+- Close Combat  
+- Brave Bird  
+- Knock Off  
+- Leaf Blade
 
-Ponyta-Galar @ Eviolite  
-Ability: Pastel Veil  
+Slowpoke @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-- Mystical Fire  
-- Psychic  
-- Dazzling Gleam  
-- Calm Mind  
+EVs: 116 HP / 76 Def / 116 SpA / 196 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Psychic 
+- Slack Off  
+- Teleport
 
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
+Koffing @ Eviolite  
+Ability: Neutralizing Gas 
 Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
+EVs: 36 HP / 236 Def / 236 SpD  
 Bold Nature  
-- Moonblast  
-- Wish  
-- Protect  
-- Calm Mind  
+- Flamethrower 
+- Toxic Spikes  
+- Pain Split  
+- Clear Smog
 
-Scorbunny @ Berry Juice  
-Ability: Libero  
+Diglett @ Focus Sash  
+Ability: Arena Trap  
 Level: 5  
-EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
+EVs: 36 HP / 236 Atk / 236 Spe  
 Jolly Nature  
-- High Jump Kick  
-- U-turn  
-- Blaze Kick  
-- Gunk Shot  
+- Earthquake  
+- Sucker Punch  
+- Rock Slide  
+- Memento
 
-Larvesta @ Eviolite  
-Ability: Flame Body  
+Drilbur @ Berry Juice  
+Ability: Mold Breaker  
 Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
 Jolly Nature  
-- U-turn  
-- Flare Blitz  
-- Morning Sun  
-- Will-O-Wisp  
+- Earthquake  
+- Rapid Spin  
+- Rock Slide  
+- Stealth Rock 
 
-Carvanha @ Life Orb  
-Ability: Speed Boost  
+Tyrunt @ Eviolite  
+Ability: Strong Jaw  
 Level: 5  
-EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
-Adamant Nature  
-- Crunch  
+EVs: 204 Atk / 76 SpD / 212 Spe  
+Jolly Nature  
+- Rock Blast 
+- Close Combat  
 - Psychic Fangs  
-- Protect  
-- Liquidation  
+- Dragon Dance

@@ -1,59 +1,60 @@
-Meowth @ Life Orb  
-Ability: Technician  
+Dwebble @ Eviolite  
+Ability: Weak Armor  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 196 Spe  
-Jolly Nature  
-- Fake Out  
-- Feint  
-- Aerial Ace  
-- Water Pulse  
+EVs: 116 HP / 76 Atk / 156 Def / 156 Spe  
+Impish Nature  
+- Rock Blast  
+- Knock Off  
+- Stealth Rock  
+- Spikes
 
-Foongus @ Eviolite  
-Ability: Regenerator  
+Croagunk @ Eviolite  
+Ability: Dry Skin  
 Level: 5  
-EVs: 124 HP / 156 Def / 156 SpD  
-Bold Nature  
-- Giga Drain  
-- Spore  
-- Sludge Bomb  
-- Synthesis  
-
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
-Adamant Nature  
-- Body Slam  
-- Earthquake  
-- Curse  
-- Recycle
-
-Tirtouga @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 212 Atk / 92 Def / 180 Spe  
-Jolly Nature  
-- Shell Smash  
-- Waterfall  
-- Stone Edge  
-- Zen Headbutt
-
-Woobat @ Berry Juice  
-Ability: Simple  
-Level: 5  
-EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
-Timid Nature  
+EVs: 116 Def / 188 SpA / 196 Spe  
+Timid Nature
 - Nasty Plot  
-- Psychic  
-- Heat Wave  
-- Air Slash  
+- Vacuum Wave  
+- Sludge Wave  
+- Focus Blast 
 
-Staryu @ Eviolite  
-Ability: Natural Cure  
+Elekid @ Life Orb  
+Ability: Vital Spirit  
 Level: 5  
-EVs: 116 HP / 156 Def / 236 Spe  
-Timid Nature  
-- Rapid Spin  
+EVs: 12 Atk / 236 SpA / 236 Spe  
+Hasty Nature  
 - Thunderbolt  
-- Recover  
-- Scald  
+- Cross Chop  
+- Psychic  
+- Volt Switch
+
+Trapinch @ Eviolite  
+Ability: Arena Trap  
+Level: 5  
+EVs: 156 HP / 196 Atk / 76 Def / 76 SpD  
+Adamant Nature  
+- Earthquake  
+- First Impression  
+- Superpower  
+- Quick Attack
+
+Timburr @ Eviolite  
+Ability: Guts  
+Level: 5  
+EVs: 196 Atk / 156 Def / 156 SpD  
+Adamant Nature  
+- Drain Punch  
+- Knock Off  
+- Mach Punch  
+- Defog 
+
+Amaura @ Choice Scarf  
+Ability: Snow Warning  
+Level: 5  
+EVs: 60 HP / 220 SpA / 228 Spe  
+Modest Nature
+IVs: 0 Atk  
+- Blizzard  
+- Earth Power  
+- Freeze-Dry  
+- Ancient Power

@@ -1,59 +1,60 @@
-Meowth @ Life Orb  
-Ability: Technician  
+Munchlax @ Berry Juice  
+Ability: Thick Fat  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 196 Spe  
-Jolly Nature  
-- Fake Out  
-- Feint  
-- Aerial Ace  
-- Water Pulse  
+EVs: 236 Atk / 196 Def / 76 SpD  
+Impish Nature  
+- Double_Edge  
+- Fire Punch  
+- Zen Headbutt  
+- Curse
 
-Chinchou @ Eviolite  
-Ability: Volt Absorb  
+Wingull @ Life Orb 
+Ability: Hydration  
 Level: 5  
-EVs: 52 Def / 228 SpA / 220 Spe  
+EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
-- Volt Switch  
 - Scald  
-- Ice Beam  
-- Thunderbolt  
+- Hurricane  
+- U-turn  
+- Knock Off
 
-Timburr @ Eviolite  
-Ability: Iron Fist  
+Spritzee @ Eviolite 
+Ability: Aroma Veil  
 Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
+EVs: 52 HP / 116 Def / 252 SpA / 76 SpD / 12 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Psychic  
+- Energy Ball  
+- Nasty Plot
+
+Corphish @ Eviolite  
+Ability: Adaptability  
+Level: 5  
+EVs: 196 Atk / 76 Def / 236 Spe  
 Adamant Nature  
-- Drain Punch  
-- Mach Punch  
+- Aqua Jet  
+- Crabhammer  
 - Knock Off  
-- Defog  
+- Swords Dance 
 
-Archen @ Berry Juice  
-Ability: Defeatist  
+Scraggy @ Eviolite  
+Ability: Moxie  
 Level: 5  
-EVs: 76 HP / 180 Atk / 196 Spe  
-Jolly Nature  
-- Stone Edge  
-- Dual Wingbeat  
-- Earthquake  
-- U-turn
-
-Farfetch’d-Galar @ Eviolite  
-Ability: Scrappy  
-Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Swords Dance  
-- Close Combat  
-- Brave Bird  
-- Knock Off  
-
-Carvanha @ Life Orb  
-Ability: Speed Boost  
-Level: 5  
-EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+EVs: 236 Atk / 36 SpD / 212 Spe  
 Adamant Nature  
-- Crunch  
-- Psychic Fangs  
-- Protect  
-- Liquidation  
+- Dragon Dance  
+- Knock Off  
+- High Jump Kick  
+- Drain Punch 
+
+Larvesta @ Eviolite  
+Ability: Flame Body  
+Level: 5  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- U-turn  
+- Flare Blitz  
+- Morning Sun  
+- Will-O-Wisp

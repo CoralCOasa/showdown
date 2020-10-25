@@ -1,43 +1,23 @@
-Zigzagoon @ Berry Juice  
-Ability: Quick Feet  
+Mienfoo @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
-Adamant Nature  
-- Extreme Speed  
-- Belly Drum  
-- Thief  
-- Seed Bomb  
+EVs: 76 HP / 196 Def / 196 SpD  
+Impish Nature  
+- High Jump Kick 
+- Knock Off  
+- U-turn  
+- Fake Out
 
 Mareanie @ Eviolite  
 Ability: Regenerator  
 Level: 5  
-EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+EVs: 196 HP / 20 Def / 92 SpA / 180 SpD  
 Bold Nature  
+IVs: 0 Atk  
 - Recover  
 - Scald  
-- Toxic Spikes  
-- Sludge Bomb  
-
-Amaura @ Choice Scarf  
-Ability: Refrigerate  
-Level: 5  
-EVs: 60 HP / 220 SpA / 228 Spe  
-Modest Nature  
-IVs: 0 Atk  
-- Hyper Voice  
-- Earth Power  
-- Thunderbolt  
-- Ancient Power
-
-Corphish @ Eviolite  
-Ability: Adaptability  
-Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
-Adamant Nature  
-- Aqua Jet  
-- Crabhammer  
-- Knock Off  
-- Dragon Dance  
+- Toxic Spikes 
+- Sludge Bomb
 
 Carvanha @ Life Orb  
 Ability: Speed Boost  
@@ -47,14 +27,34 @@ Adamant Nature
 - Crunch  
 - Psychic Fangs  
 - Protect  
-- Liquidation  
+- Liquidation
 
-Porygon @ Eviolite  
-Ability: Download  
+Zigzagoon @ Berry Juice  
+Ability: Pickup  
 Level: 5  
-EVs: 36 Def / 236 SpA / 196 Spe  
-Modest Nature  
-- Tri Attack  
-- Recover  
-- Ice Beam  
+EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
+Adamant Nature  
+- Belly Drum  
+- Extreme Speed  
+- Thief  
+- Seed Bomb
+
+Natu @ Eviolite  
+Ability: Magic Bounce  
+Level: 5  
+EVs: 36 HP / 76 Def / 116 SpA / 76 SpD / 196 Spe  
+Timid Nature  
 - Psychic  
+- Heat Wave  
+- Giga Drain  
+- Roost
+
+Dwebble @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 236 Atk / 236 Spe  
+Adamant Nature  
+- Rock Blast  
+- Knock Off  
+- Stealth Rock  
+- Spikes

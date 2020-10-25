@@ -1,60 +1,61 @@
-Meowth @ Life Orb  
-Ability: Technician  
+Wingull @ Berry Juice  
+Ability: Hydration  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 196 Spe  
-Jolly Nature  
-- Fake Out  
-- Feint  
-- Aerial Ace  
-- Water Pulse  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Timid Nature  
+- Scald  
+- Hurricane  
+- U-turn  
+- Air Slash 
 
-Archen @ Berry Juice  
-Ability: Defeatist  
+Elekid @ Life Orb  
+Ability: Vital Spirit  
 Level: 5  
-EVs: 76 HP / 180 Atk / 196 Spe  
-Jolly Nature  
-- Stone Edge  
-- Dual Wingbeat  
-- Earthquake  
-- U-turn
+EVs: 12 Atk / 236 SpA / 236 Spe  
+Hasty Nature  
+- Thunderbolt  
+- Cross Chop  
+- Psychic  
+- Volt Switch
 
-Natu @ Eviolite  
-Ability: Magic Bounce  
+Dewpider @ Eviolite  
+Ability: Water Bubble  
 Level: 5  
-EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
+EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
 Timid Nature  
 IVs: 0 Atk  
-- Psychic  
-- Heat Wave  
-- U-turn  
-- Roost  
+- Surf  
+- Giga Drain  
+- Magic Coat  
+- Sticky Web
 
-Grookey @ Eviolite  
-Ability: Grassy Surge  
+Dwebble @ Eviolite  
+Ability: Weak Armor  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
-Jolly Nature  
-- Grassy Glide  
+EVs: 116 HP / 76 Atk / 156 Def / 156 Spe  
+Impish Nature  
+- Rock Blast  
 - Knock Off  
-- Drain Punch  
-- U-turn  
-
-Mudbray @ Eviolite  
-Ability: Stamina  
-Level: 5  
-EVs: 116 HP / 36 Atk / 196 Def / 156 Spe  
-Adamant Nature  
-- Earthquake  
 - Stealth Rock  
-- Rock Slide  
-- Heavy Slam  
+- Spikes
 
 Munchlax @ Berry Juice  
 Ability: Thick Fat  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
-Adamant Nature  
-- Body Slam  
-- Earthquake  
-- Curse  
-- Recycle
+EVs: 236 Atk / 196 Def / 76 SpD  
+Impish Nature  
+- Double_Edge  
+- Fire Punch  
+- Zen Headbutt  
+- Curse
+
+Smoochum (F) @ Eviolite 
+Ability: Oblivious  
+Level: 5  
+EVs: 236 SpA / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Psychic  
+- Shadow Ball  
+- Nasty Plot

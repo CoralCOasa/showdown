@@ -1,60 +1,59 @@
-Drilbur @ Eviolite  
-Ability: Mold Breaker  
+Farfetch’d-Galar @ Eviolite  
+Ability: Scrappy  
 Level: 5  
-EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
+EVs: 20 HP / 236 Atk / 236 Spe  
 Jolly Nature  
+- Swords Dance  
+- Close Combat  
+- Brave Bird  
+- Knock Off
+
+Archen @ Berry Juice  
+Ability: Defeatist  
+Level: 5  
+EVs: 76 HP / 180 Atk / 196 Spe  
+Jolly Nature  
+- Stone Edge  
+- Dual Wingbeat  
 - Earthquake  
-- Rapid Spin  
-- Rock Slide  
-- Stealth Rock  
+- U-turn
 
-Natu @ Eviolite  
-Ability: Magic Bounce  
+Abra @ Life Orb  
+Ability: Magic Guard  
 Level: 5  
-EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-IVs: 0 Atk  
+EVs: 36 Atk / 236 SpA / 196 Spe  
+Hasty Nature  
 - Psychic  
-- Heat Wave  
-- U-turn  
-- Roost  
+- Dazzling Gleam  
+- Fire Punch  
+- Protect 
 
-Dewpider @ Berry Juice  
-Ability: Water Bubble  
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
 Level: 5  
-EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
-Modest Nature  
-- Sticky Web  
-- Surf  
-- Icy Wind  
+EVs: 84 HP / 188 Def / 84 SpA / 148 SpD  
+Sassy Nature  
+- Knock Off  
+- Thunder Wave  
+- Stealth Rock  
 - Giga Drain
 
-Croagunk @ Eviolite  
-Ability: Dry Skin  
+Diglett @ Life Orb  
+Ability: Arena Trap  
 Level: 5  
-EVs: 116 Def / 188 SpA / 196 Spe  
-Timid Nature  
-- Vacuum Wave  
-- Nasty Plot  
-- Sludge Wave  
-- Focus Blast  
+EVs: 36 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Sucker Punch  
+- Rock Slide  
+- Stealth Rock 
 
-Woobat @ Berry Juice  
-Ability: Simple  
+Trapinch @ Eviolite  
+Ability: Arena Trap  
 Level: 5  
-EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
-Timid Nature  
-- Nasty Plot  
-- Psychic  
-- Heat Wave  
-- Air Slash  
-
-Wingull @ Life Orb  
-Ability: Hydration  
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-- Scald  
-- Hurricane  
-- U-turn  
-- Air Slash  
+EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
+Relaxed Nature  
+- Earthquake  
+- First Impression  
+- Superpower 
+- Giga Drain

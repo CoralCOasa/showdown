@@ -1,12 +1,32 @@
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
+Larvesta @ Eviolite  
+Ability: Flame Body  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
+EVs: 76 HP / 76 Atk / 156 Def / 196 Spe  
+Jolly Nature  
+- U-turn  
+- Flare Blitz  
+- Morning Sun  
+- Will-O-Wisp
+
+Farfetch’d-Galar @ Choice Scarf  
+Ability: Scrappy  
+Level: 5  
+EVs: 20 HP / 236 Atk / 236 Spe  
 Adamant Nature  
-- Body Slam  
+- Close Combat  
+- Brave Bird  
+- Knock Off  
+- Leaf Blade
+
+Mudbray @ Eviolite  
+Ability: Stamina  
+Level: 5  
+EVs: 116 HP / 196 Atk / 36 Def / 156 Spe  
+Adamant Nature  
 - Earthquake  
-- Curse  
-- Recycle
+- Stealth Rock  
+- Rock Slide 
+- Heavy Slam
 
 Mienfoo @ Eviolite  
 Ability: Regenerator  
@@ -15,45 +35,25 @@ EVs: 236 Atk / 36 Def / 236 Spe
 Jolly Nature  
 - Knock Off  
 - U-turn  
+- High Jump Kick 
+- Fake Out 
+
+Scorbunny @ Berry Juice 
+Ability: Libero  
+Level: 5  
+EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
+Jolly Nature  
 - High Jump Kick  
-- Fake Out  
-
-Timburr @ Eviolite  
-Ability: Iron Fist  
-Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
-Adamant Nature  
-- Drain Punch  
-- Mach Punch  
-- Knock Off  
-- Defog  
-
-Drilbur @ Eviolite  
-Ability: Mold Breaker  
-Level: 5  
-EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
-Jolly Nature  
-- Earthquake  
-- Rapid Spin  
-- Rock Slide  
-- Stealth Rock  
-
-Ponyta-Galar @ Eviolite  
-Ability: Pastel Veil  
-Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-- Mystical Fire  
-- Psychic  
-- Dazzling Gleam  
-- Calm Mind  
-
-Larvesta @ Eviolite  
-Ability: Flame Body  
-Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
-Jolly Nature  
 - U-turn  
-- Flare Blitz  
-- Morning Sun  
-- Will-O-Wisp  
+- Blaze Kick  
+- Sucker Punch
+
+Carvanha @ Life Orb  
+Ability: Speed Boost  
+Level: 5  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+Adamant Nature  
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation

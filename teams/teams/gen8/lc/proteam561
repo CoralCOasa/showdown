@@ -1,59 +1,60 @@
-Vullaby @ Berry Juice  
-Ability: Weak Armor  
+Elekid @ Life Orb  
+Ability: Vital Spirit  
 Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Jolly Nature  
-- Knock Off  
-- Brave Bird  
-- U-turn  
-- Defog  
+EVs: 12 Atk / 236 SpA / 236 Spe  
+Hasty Nature  
+- Thunderbolt  
+- Cross Chop  
+- Psychic  
+- Volt Switch
 
-Bunnelby @ Eviolite  
-Ability: Huge Power  
+Dwebble @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 228 Atk / 132 Def / 148 SpD  
+EVs: 236 Atk / 236 Spe  
 Adamant Nature  
+- Rock Blast  
 - Earthquake  
-- Quick Attack  
-- U-turn  
-- Facade
+- Knock Off 
+- Shell Smash
 
-Farfetch’d-Galar @ Eviolite  
-Ability: Scrappy  
+Mienfoo @ Choice Scarf  
+Ability: Reckless  
 Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Swords Dance  
-- Close Combat  
-- Brave Bird  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature
+- High Jump Kick  
 - Knock Off  
+- U-turn  
+- Close Combat 
 
-Ponyta @ Eviolite  
-Ability: Flame Body  
+Omanyte @ Eviolite  
+Ability: Shell Armor  
+Level: 5  
+EVs: 76 HP / 196 SpA / 236 Spe  
+Modest Nature  
+- Shell Smash  
+- Hydro Pump  
+- Ice Beam  
+- Earth Power
+
+Amaura @ Choice Scarf  
+Ability: Snow Warning  
+Level: 5  
+EVs: 60 HP / 220 SpA / 228 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Blizzard  
+- Earth Power  
+- Freeze-Dry  
+- Ancient Power
+
+Shellder @ Eviolite  
+Ability: Skill Link  
 Level: 5  
 EVs: 236 Atk / 76 SpD / 196 Spe  
-Jolly Nature  
-- Flare Blitz  
-- High Horsepower  
-- Morning Sun  
-- Wild Charge  
-
-Meowth @ Life Orb  
-Ability: Technician  
-Level: 5  
-EVs: 236 Atk / 36 SpD / 196 Spe  
-Jolly Nature  
-- Fake Out  
-- Feint  
-- Aerial Ace  
-- Water Pulse  
-
-Wingull @ Life Orb  
-Ability: Hydration  
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-- Scald  
-- Hurricane  
-- U-turn  
-- Air Slash  
+Adamant Nature  
+- Icicle Spear  
+- Shell Smash  
+- Rock Blast  
+- Liquidation 

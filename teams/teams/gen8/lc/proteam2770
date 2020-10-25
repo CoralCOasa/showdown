@@ -1,24 +1,24 @@
-Bunnelby @ Eviolite  
-Ability: Huge Power  
+Pawniard @ Choice Scarf  
+Ability: Defiant  
 Level: 5  
-EVs: 228 Atk / 132 Def / 148 SpD  
-Adamant Nature  
-- Earthquake  
-- Quick Attack  
-- U-turn  
-- Facade
-
-Archen @ Berry Juice  
-Ability: Defeatist  
-Level: 5  
-EVs: 76 HP / 180 Atk / 196 Spe  
+EVs: 236 Atk / 36 Def / 36 SpD / 196 Spe  
 Jolly Nature  
-- Stone Edge  
-- Dual Wingbeat  
-- Earthquake  
-- U-turn
+- Iron Head  
+- Knock Off  
+- Brick Break  
+- Sucker Punch
 
-Diglett @ Life Orb  
+Timburr @ Eviolite  
+Ability: Guts  
+Level: 5  
+EVs: 196 Atk / 156 Def / 156 SpD  
+Adamant Nature  
+- Drain Punch  
+- Knock Off  
+- Mach Punch  
+- Thunder Punch 
+
+Diglett @ Focus Sash  
 Ability: Arena Trap  
 Level: 5  
 EVs: 36 HP / 236 Atk / 236 Spe  
@@ -26,35 +26,35 @@ Jolly Nature
 - Earthquake  
 - Sucker Punch  
 - Rock Slide  
-- Stealth Rock  
+- Reversal 
 
-Amaura @ Choice Scarf  
-Ability: Refrigerate  
+Chinchou @ Choice Scarf  
+Ability: Volt Absorb  
 Level: 5  
-EVs: 60 HP / 220 SpA / 228 Spe  
-Modest Nature  
+EVs: 52 Def / 228 SpA / 220 Spe  
+Timid Nature  
 IVs: 0 Atk  
-- Hyper Voice  
-- Earth Power  
-- Thunderbolt  
-- Ancient Power
+- Scald
+- Hydro Pump  
+- Ice Beam  
+- Volt Switch
 
-Dwebble @ Berry Juice  
-Ability: Sturdy  
+Onix @ Eviolite  
+Ability: Weak Armor  
 Level: 5  
-EVs: 236 Atk / 236 Spe  
-Adamant Nature  
-- Shell Smash  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Jolly Nature  
 - Rock Blast  
 - Earthquake  
-- Knock Off  
+- Stealth Rock  
+- Explosion
 
-Foongus @ Eviolite  
-Ability: Regenerator  
+Trapinch @ Eviolite  
+Ability: Arena Trap  
 Level: 5  
-EVs: 124 HP / 156 Def / 156 SpD  
-Bold Nature  
-- Giga Drain  
-- Spore  
-- Sludge Bomb  
-- Synthesis  
+EVs: 156 HP / 196 Atk / 76 Def / 76 SpD  
+Adamant Nature  
+- Earthquake  
+- First Impression  
+- Superpower  
+- Rock Slide 

@@ -1,12 +1,32 @@
-Diglett @ Life Orb  
-Ability: Arena Trap  
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
 Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Earthquake  
-- Sucker Punch  
-- Rock Slide  
-- Stealth Rock  
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
+Bold Nature  
+- Moonblast  
+- Wish  
+- Protect  
+- Calm Mind 
+
+Scraggy @ Eviolite  
+Ability: Moxie  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 212 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Knock Off  
+- High Jump Kick  
+- Drain Punch 
+
+Vullaby @ Berry Juice  
+Ability: Weak Armor  
+Level: 5  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Adamant Nature  
+- Knock Off  
+- Brave Bird  
+- U-turn  
+- Defog 
 
 Farfetch’d-Galar @ Eviolite  
 Ability: Scrappy  
@@ -16,44 +36,25 @@ Jolly Nature
 - Swords Dance  
 - Close Combat  
 - Brave Bird  
-- Knock Off  
+- Knock Off
 
-Mienfoo @ Eviolite  
-Ability: Regenerator  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
-Jolly Nature  
-- Knock Off  
-- U-turn  
-- High Jump Kick  
-- Fake Out  
-
-Vulpix @ Choice Scarf  
+Vulpix @ Choice Scarf 
 Ability: Drought  
 Level: 5  
 EVs: 52 HP / 196 SpA / 236 Spe  
 Timid Nature  
+IVs: 0 Atk  
 - Energy Ball  
 - Weather Ball  
 - Overheat  
-- Fire Blast  
+- Fire Blast 
 
-Scraggy @ Eviolite  
-Ability: Moxie  
+Mienfoo @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
-Adamant Nature  
-- Dragon Dance  
+EVs: 196 Def / 36 SpD / 236 Spe  
+Jolly Nature  
+- Close Combat 
 - Knock Off  
-- Drain Punch  
-- High Jump Kick  
-
-Ponyta-Galar @ Eviolite  
-Ability: Pastel Veil  
-Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-- Mystical Fire  
-- Psychic  
-- Dazzling Gleam  
-- Calm Mind  
+- U-turn  
+- Fake Out

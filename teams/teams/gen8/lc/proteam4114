@@ -1,32 +1,12 @@
-Mudbray @ Eviolite  
-Ability: Stamina  
+Scraggy @ Berry Juice 
+Ability: Moxie  
 Level: 5  
-EVs: 116 HP / 36 Atk / 196 Def / 156 Spe  
+EVs: 236 Atk / 36 SpD / 212 Spe  
 Adamant Nature  
-- Earthquake  
-- Stealth Rock  
-- Rock Slide  
-- Heavy Slam  
-
-Ferroseed @ Eviolite  
-Ability: Iron Barbs  
-Level: 5  
-EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
-Impish Nature  
+- Dragon Dance  
 - Knock Off  
-- Thunder Wave  
-- Spikes  
-- Giga Drain
-
-Porygon @ Eviolite  
-Ability: Download  
-Level: 5  
-EVs: 36 Def / 236 SpA / 196 Spe  
-Modest Nature  
-- Tri Attack  
-- Recover  
-- Ice Beam  
-- Psychic  
+- High Jump Kick  
+- Drain Punch 
 
 Archen @ Berry Juice  
 Ability: Defeatist  
@@ -41,19 +21,40 @@ Jolly Nature
 Koffing @ Eviolite  
 Ability: Levitate  
 Level: 5  
-EVs: 36 HP / 236 Def / 236 SpD  
-Bold Nature  
-- Will-O-Wisp  
-- Toxic Spikes  
-- Pain Split  
+EVs: 36 HP / 196 SpA / 236 Spe  
+Timid Nature  
 - Sludge Bomb  
+- Will-O-Wisp 
+- Flamethrower  
+- Thunderbolt
 
-Trapinch @ Eviolite  
-Ability: Arena Trap  
+Pawniard @ Eviolite  
+Ability: Defiant  
 Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Relaxed Nature  
-- Earthquake  
-- First Impression  
-- Superpower  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Iron Head  
+- Knock Off  
+- Sucker Punch  
+- Swords Dance 
+
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
+Level: 5  
+EVs: 52 HP / 116 Def / 252 SpA / 76 SpD / 12 Spe  
+Quiet Nature  
+IVs: 0 Atk / 0 Spe  
+- Moonblast  
+- Psychic  
+- Energy Ball 
+- Trick Room
+
+Foongus @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 124 HP / 156 Def / 156 SpD  
+Bold Nature  
 - Giga Drain  
+- Spore  
+- Sludge Bomb  
+- Synthesis

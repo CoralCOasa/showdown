@@ -1,59 +1,62 @@
-Porygon @ Eviolite  
-Ability: Download  
+Diglett @ Focus Sash  
+Ability: Arena Trap  
 Level: 5  
-EVs: 36 Def / 236 SpA / 196 Spe  
-Modest Nature  
-- Tri Attack  
-- Recover  
+EVs: 36 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Sucker Punch  
+- Rock Slide  
+- Reversal 
+
+Vulpix @ Choice Specs  
+Ability: Drought  
+Level: 5  
+EVs: 52 HP / 196 SpA / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Energy Ball  
+- Weather Ball  
+- Overheat  
+- Fire Blast
+
+Smoochum (F) @ Life Orb  
+Ability: Oblivious  
+Level: 5  
+EVs: 236 SpA / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
 - Ice Beam  
 - Psychic  
+- Shadow Ball  
+- Nasty Plot
 
-Shellder @ Eviolite  
-Ability: Skill Link  
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
+EVs: 4 HP / 196 Atk / 28 Def / 164 SpA / 68 SpD / 36 Spe  
 Adamant Nature  
-- Icicle Spear  
-- Shell Smash  
-- Rock Blast  
-- Liquidation  
-
-Bunnelby @ Eviolite  
-Ability: Huge Power  
-Level: 5  
-EVs: 228 Atk / 132 Def / 148 SpD  
-Adamant Nature  
-- Earthquake  
-- Quick Attack  
-- U-turn  
-- Facade
-
-Pawniard @ Eviolite  
-Ability: Defiant  
-Level: 5  
-EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
-Jolly Nature  
+- Bullet Seed  
 - Iron Head  
 - Knock Off  
-- Sucker Punch  
-- Stealth Rock  
+- Explosion 
 
-Staryu @ Eviolite  
-Ability: Natural Cure  
+Mienfoo @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 116 HP / 156 Def / 236 Spe  
-Timid Nature  
-- Rapid Spin  
-- Thunderbolt  
-- Recover  
-- Scald  
+EVs: 156 Atk / 36 Def / 36 SpD / 236 Spe  
+Jolly Nature  
+- Drain Punch  
+- Knock Off  
+- Poison Jab 
+- Swords Dance
 
-Magnemite @ Berry Juice  
-Ability: Sturdy  
+Amaura @ Choice Scarf  
+Ability: Snow Warning  
 Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
+EVs: 60 HP / 220 SpA / 228 Spe  
 Timid Nature  
-- Flash Cannon  
-- Volt Switch  
-- Thunderbolt  
-- Recycle  
+IVs: 0 Atk  
+- Blizzard  
+- Earth Power  
+- Freeze-Dry  
+- Ancient Power

@@ -1,59 +1,59 @@
-Woobat @ Berry Juice  
-Ability: Simple  
+Farfetch’d-Galar @ Eviolite  
+Ability: Scrappy  
 Level: 5  
-EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
-Timid Nature  
-- Nasty Plot  
-- Psychic  
-- Heat Wave  
-- Air Slash  
-
-Archen @ Berry Juice  
-Ability: Defeatist  
-Level: 5  
-EVs: 76 HP / 180 Atk / 196 Spe  
+EVs: 20 HP / 236 Atk / 236 Spe  
 Jolly Nature  
-- Stone Edge  
-- Dual Wingbeat  
-- Earthquake  
-- U-turn
-
-Vullaby @ Berry Juice  
-Ability: Weak Armor  
-Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Jolly Nature  
-- Knock Off  
+- Swords Dance  
+- Close Combat  
 - Brave Bird  
-- U-turn  
-- Defog  
+- Knock Off
 
-Shellder @ Eviolite  
-Ability: Skill Link  
+Drilbur @ Eviolite 
+Ability: Mold Breaker  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
+Jolly Nature  
+- Earthquake  
+- Rapid Spin  
+- Rock Slide  
+- Swords Dance
+
+Corphish @ Eviolite  
+Ability: Adaptability  
+Level: 5  
+EVs: 196 Atk / 76 Def / 236 Spe  
 Adamant Nature  
-- Icicle Spear  
-- Shell Smash  
-- Rock Blast  
-- Liquidation  
+- Aqua Jet  
+- Crabhammer  
+- Knock Off  
+- Swords Dance 
+
+Diglett @ Focus Sash  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Sucker Punch  
+- Rock Slide  
+- Stealth Rock 
+
+Porygon @ Eviolite  
+Ability: Trace  
+Level: 5  
+EVs: 236 HP / 196 Def / 76 SpD  
+Calm Nature  
+- Tri Attack  
+- Ice Beam  
+- Thunder Wave  
+- Recover
 
 Dwebble @ Berry Juice  
 Ability: Sturdy  
 Level: 5  
 EVs: 236 Atk / 236 Spe  
 Adamant Nature  
-- Shell Smash  
 - Rock Blast  
-- Earthquake  
+- Earthquake 
 - Knock Off  
-
-Vulpix @ Choice Scarf  
-Ability: Drought  
-Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
-Timid Nature  
-- Energy Ball  
-- Weather Ball  
-- Overheat  
-- Fire Blast  
+- Shell Smash

@@ -1,59 +1,61 @@
-Pawniard @ Eviolite  
-Ability: Defiant  
+Dewpider @ Choice Scarf  
+Ability: Water Bubble  
 Level: 5  
-EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
-Jolly Nature  
-- Iron Head  
-- Knock Off  
-- Sucker Punch  
-- Stealth Rock  
-
-Foongus @ Eviolite  
-Ability: Regenerator  
-Level: 5  
-EVs: 124 HP / 156 Def / 156 SpD  
-Bold Nature  
+EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Surf  
 - Giga Drain  
-- Spore  
-- Sludge Bomb  
-- Synthesis  
+- Bug Buzz  
+- Sticky Web
 
-Carvanha @ Life Orb  
-Ability: Speed Boost  
+Archen @ Berry Juice  
+Ability: Defeatist  
 Level: 5  
-EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
-Adamant Nature  
-- Crunch  
-- Psychic Fangs  
-- Protect  
-- Liquidation  
+EVs: 76 HP / 180 Atk / 196 Spe  
+Jolly Nature  
+- Stone Edge  
+- Dual Wingbeat  
+- Earthquake  
+- U-turn
 
-Koffing @ Eviolite  
-Ability: Levitate  
+Natu @ Eviolite  
+Ability: Magic Bounce  
 Level: 5  
-EVs: 36 HP / 236 Def / 236 SpD  
+EVs: 196 HP / 236 Def / 76 SpD  
 Bold Nature  
-- Will-O-Wisp  
-- Toxic Spikes  
-- Pain Split  
-- Sludge Bomb  
+- Psychic  
+- Heat Wave  
+- U-turn 
+- Roost
 
 Timburr @ Eviolite  
-Ability: Iron Fist  
+Ability: Guts  
 Level: 5  
 EVs: 196 Atk / 156 Def / 156 SpD  
 Adamant Nature  
 - Drain Punch  
-- Mach Punch  
 - Knock Off  
-- Defog  
+- Mach Punch  
+- Bulk Up
 
-Tirtouga @ Berry Juice  
-Ability: Sturdy  
+Larvesta @ Eviolite  
+Ability: Flame Body  
 Level: 5  
-EVs: 212 Atk / 92 Def / 180 Spe  
+EVs: 76 HP / 236 Atk / 196 Spe  
 Jolly Nature  
-- Shell Smash  
-- Waterfall  
-- Stone Edge  
-- Zen Headbutt
+- U-turn  
+- Flare Blitz  
+- Morning Sun  
+- Will-O-Wisp
+
+Dewpider @ Berry Juice  
+Ability: Water Bubble  
+Level: 5  
+EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
+Timid Nature
+IVs: 0 Atk  
+- Scald 
+- Giga Drain  
+- Icy Wind 
+- Sticky Web

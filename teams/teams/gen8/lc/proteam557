@@ -1,32 +1,52 @@
-Bunnelby @ Eviolite  
-Ability: Huge Power  
+Munchlax @ Eviolite  
+Ability: Thick Fat  
 Level: 5  
-EVs: 228 Atk / 132 Def / 148 SpD  
+EVs: 236 Atk / 196 Def / 76 SpD  
+Impish Nature  
+- Facade  
+- Earthquake  
+- Rest  
+- Sleep Talk
+
+Timburr @ Eviolite  
+Ability: Iron Fist 
+Level: 5  
+EVs: 196 Atk / 156 Def / 156 SpD  
 Adamant Nature  
-- Earthquake  
-- Quick Attack  
-- U-turn  
-- Facade
-
-Mienfoo @ Eviolite  
-Ability: Regenerator  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
-Jolly Nature  
+- Drain Punch  
 - Knock Off  
-- U-turn  
-- High Jump Kick  
-- Fake Out  
+- Mach Punch  
+- Thunder Punch 
 
-Onix @ Berry Juice  
-Ability: Sturdy  
+Croagunk @ Eviolite  
+Ability: Dry Skin  
 Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
-Jolly Nature  
-- Earthquake  
-- Stealth Rock  
+EVs: 132 HP / 28 Atk / 116 Def / 108 SpA / 116 SpD  
+Quiet Nature  
+- Knock Off  
+- Sludge Bomb  
+- Vacuum Wave  
+- Sucker Punch 
+
+Dwebble @ Eviolite  
+Ability: Weak Armor  
+Level: 5  
+EVs: 116 HP / 76 Atk / 156 Def / 156 Spe  
+Impish Nature  
 - Rock Blast  
-- Dragon Dance  
+- Knock Off  
+- Stealth Rock  
+- Spikes
+
+Tyrunt @ Eviolite  
+Ability: Strong Jaw  
+Level: 5  
+EVs: 204 Atk / 76 SpD / 212 Spe  
+Jolly Nature  
+- Rock Blast 
+- Close Combat  
+- Psychic Fangs  
+- Dragon Dance
 
 Corphish @ Eviolite  
 Ability: Adaptability  
@@ -36,24 +56,4 @@ Adamant Nature
 - Aqua Jet  
 - Crabhammer  
 - Knock Off  
-- Dragon Dance  
-
-Vullaby @ Berry Juice  
-Ability: Weak Armor  
-Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Jolly Nature  
-- Knock Off  
-- Brave Bird  
-- U-turn  
-- Defog  
-
-Staryu @ Eviolite  
-Ability: Natural Cure  
-Level: 5  
-EVs: 116 HP / 156 Def / 236 Spe  
-Timid Nature  
-- Rapid Spin  
-- Thunderbolt  
-- Recover  
-- Scald  
+- Swords Dance 

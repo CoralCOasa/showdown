@@ -1,22 +1,22 @@
-Grookey @ Eviolite  
-Ability: Grassy Surge  
+Timburr @ Eviolite  
+Ability: Iron Fist 
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
-Jolly Nature  
-- Grassy Glide  
-- Knock Off  
-- Drain Punch  
-- U-turn  
-
-Bunnelby @ Eviolite  
-Ability: Huge Power  
-Level: 5  
-EVs: 228 Atk / 132 Def / 148 SpD  
+EVs: 196 Atk / 156 Def / 156 SpD  
 Adamant Nature  
-- Earthquake  
-- Quick Attack  
-- U-turn  
-- Facade
+- Drain Punch  
+- Knock Off  
+- Mach Punch  
+- Thunder Punch 
+
+Elekid @ Life Orb  
+Ability: Vital Spirit  
+Level: 5  
+EVs: 12 Atk / 236 SpA / 236 Spe  
+Hasty Nature  
+- Thunderbolt  
+- Cross Chop  
+- Psychic  
+- Volt Switch
 
 Staryu @ Eviolite  
 Ability: Natural Cure  
@@ -24,36 +24,36 @@ Level: 5
 EVs: 116 HP / 156 Def / 236 Spe  
 Timid Nature  
 - Rapid Spin  
-- Thunderbolt  
+- Ice Beam 
 - Recover  
-- Scald  
+- Scald
 
-Shellder @ Eviolite  
-Ability: Skill Link  
+Tyrunt @ Eviolite  
+Ability: Strong Jaw  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Icicle Spear  
-- Shell Smash  
-- Rock Blast  
-- Liquidation  
-
-Diglett @ Life Orb  
-Ability: Arena Trap  
-Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
+EVs: 204 Atk / 76 SpD / 212 Spe  
 Jolly Nature  
-- Earthquake  
-- Sucker Punch  
-- Rock Slide  
-- Stealth Rock  
+- Stone Edge  
+- Close Combat  
+- Psychic Fangs  
+- Dragon Dance
 
-Croagunk @ Eviolite  
-Ability: Dry Skin  
+Wingull @ Berry Juice  
+Ability: Hydration  
 Level: 5  
-EVs: 116 Def / 188 SpA / 196 Spe  
+EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
-- Vacuum Wave  
-- Nasty Plot  
-- Sludge Wave  
-- Focus Blast  
+- Scald  
+- Hurricane  
+- U-turn  
+- Air Slash 
+
+Foongus @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 124 HP / 156 Def / 156 SpD  
+Bold Nature  
+- Giga Drain  
+- Spore  
+- Sludge Bomb  
+- Synthesis

@@ -1,59 +1,59 @@
-Corphish @ Eviolite  
-Ability: Adaptability  
+Drilbur @ Eviolite 
+Ability: Mold Breaker  
 Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
+Jolly Nature  
+- Earthquake  
+- Rapid Spin  
+- Rock Slide  
+- Swords Dance
+
+Mudbray @ Eviolite  
+Ability: Stamina  
+Level: 5  
+EVs: 116 HP / 196 Atk / 36 Def / 156 Spe  
 Adamant Nature  
-- Aqua Jet  
-- Crabhammer  
+- Earthquake  
+- Stealth Rock  
+- Rock Slide 
+- Heavy Slam
+
+Tirtouga @ Eviolite  
+Ability: Solid Rock  
+Level: 5  
+EVs: 164 HP / 52 Atk / 92 Def / 156 SpD / 20 Spe  
+Careful Nature  
+- Stealth Rock  
+- Stone Edge  
 - Knock Off  
-- Dragon Dance  
+- Aqua Jet
 
-Ponyta-Galar @ Eviolite  
-Ability: Pastel Veil  
+Farfetch’d-Galar @ Eviolite  
+Ability: Scrappy  
 Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-- Mystical Fire  
-- Psychic  
-- Dazzling Gleam  
-- Calm Mind  
+EVs: 20 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Swords Dance  
+- Close Combat  
+- Brave Bird  
+- Knock Off
 
-Koffing @ Eviolite  
-Ability: Levitate  
-Level: 5  
-EVs: 36 HP / 236 Def / 236 SpD  
-Bold Nature  
-- Will-O-Wisp  
-- Toxic Spikes  
-- Pain Split  
-- Sludge Bomb  
-
-Ponyta @ Eviolite  
+Ponyta @ Berry Juice  
 Ability: Flame Body  
 Level: 5  
 EVs: 236 Atk / 76 SpD / 196 Spe  
 Jolly Nature  
 - Flare Blitz  
 - High Horsepower  
-- Morning Sun  
 - Wild Charge  
+- Flame Charge 
 
-Scraggy @ Eviolite  
-Ability: Moxie  
+Pawniard @ Life Orb  
+Ability: Defiant  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
-Adamant Nature  
-- Dragon Dance  
+EVs: 236 Atk / 36 Def / 36 SpD / 196 Spe  
+Jolly Nature  
+- Iron Head  
 - Knock Off  
-- Drain Punch  
-- High Jump Kick  
-
-Mudbray @ Eviolite  
-Ability: Stamina  
-Level: 5  
-EVs: 116 HP / 36 Atk / 196 Def / 156 Spe  
-Adamant Nature  
-- Earthquake  
-- Stealth Rock  
-- Rock Slide  
-- Heavy Slam  
+- Sucker Punch  
+- Low Sweep

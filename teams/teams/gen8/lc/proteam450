@@ -1,60 +1,61 @@
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
+Diglett @ Life Orb  
+Ability: Arena Trap  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
-Adamant Nature  
-- Body Slam  
+EVs: 36 HP / 236 Atk / 236 Spe  
+Jolly Nature  
 - Earthquake  
-- Curse  
-- Recycle
-
-Mudbray @ Eviolite  
-Ability: Stamina  
-Level: 5  
-EVs: 116 HP / 36 Atk / 196 Def / 156 Spe  
-Adamant Nature  
-- Earthquake  
-- Stealth Rock  
+- Sucker Punch  
 - Rock Slide  
-- Heavy Slam  
+- Substitute 
 
-Natu @ Eviolite  
-Ability: Magic Bounce  
+Chinchou @ Choice Scarf  
+Ability: Volt Absorb  
 Level: 5  
-EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
-Timid Nature  
+EVs: 52 Def / 228 SpA / 220 Spe  
+Modest Nature
 IVs: 0 Atk  
-- Psychic  
-- Heat Wave  
-- U-turn  
-- Roost  
+- Scald
+- Hydro Pump  
+- Ice Beam  
+- Volt Switch
 
-Magnemite @ Berry Juice  
-Ability: Sturdy  
+Timburr @ Eviolite  
+Ability: Iron Fist 
 Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-- Flash Cannon  
-- Volt Switch  
-- Thunderbolt  
-- Recycle  
-
-Corphish @ Eviolite  
-Ability: Adaptability  
-Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
+EVs: 196 Atk / 156 Def / 156 SpD  
 Adamant Nature  
-- Aqua Jet  
-- Crabhammer  
+- Drain Punch  
 - Knock Off  
-- Dragon Dance  
+- Mach Punch  
+- Thunder Punch 
 
-Vulpix @ Choice Scarf  
+Porygon @ Eviolite  
+Ability: Trace  
+Level: 5  
+EVs: 236 HP / 196 Def / 76 SpD  
+Calm Nature  
+- Tri Attack  
+- Ice Beam  
+- Thunder Wave  
+- Recover
+
+Vulpix @ Eviolite  
 Ability: Drought  
 Level: 5  
 EVs: 52 HP / 196 SpA / 236 Spe  
 Timid Nature  
+IVs: 0 Atk  
 - Energy Ball  
 - Weather Ball  
 - Overheat  
-- Fire Blast  
+- Will-O-Wisp
+
+Koffing @ Eviolite  
+Ability: Levitate  
+Level: 5  
+EVs: 36 HP / 196 SpA / 236 Spe  
+Timid Nature  
+- Sludge Bomb  
+- Will-O-Wisp 
+- Fire Blast 
+- Thunderbolt

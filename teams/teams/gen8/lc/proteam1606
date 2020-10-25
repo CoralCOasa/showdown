@@ -1,59 +1,60 @@
-Drilbur @ Eviolite  
-Ability: Mold Breaker  
+Chinchou @ Choice Scarf  
+Ability: Volt Absorb  
 Level: 5  
-EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
-Jolly Nature  
-- Earthquake  
-- Rapid Spin  
-- Rock Slide  
-- Stealth Rock  
+EVs: 52 Def / 228 SpA / 220 Spe  
+Modest Nature
+IVs: 0 Atk  
+- Thunderbolt 
+- Hydro Pump  
+- Ice Beam  
+- Volt Switch
 
-Carvanha @ Life Orb  
-Ability: Speed Boost  
+Dwebble @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+EVs: 236 Atk / 236 Spe  
 Adamant Nature  
-- Crunch  
-- Psychic Fangs  
-- Protect  
-- Liquidation  
+- Rock Blast  
+- Earthquake 
+- Knock Off  
+- Shell Smash
 
-Foongus @ Eviolite  
-Ability: Regenerator  
+Porygon @ Eviolite  
+Ability: Download  
 Level: 5  
-EVs: 124 HP / 156 Def / 156 SpD  
-Bold Nature  
-- Giga Drain  
-- Spore  
-- Sludge Bomb  
-- Synthesis  
-
-Dewpider @ Berry Juice  
-Ability: Water Bubble  
-Level: 5  
-EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
+EVs: 36 Def / 236 SpA / 196 Spe  
 Modest Nature  
-- Sticky Web  
-- Surf  
-- Icy Wind  
-- Giga Drain
-
-Wingull @ Life Orb  
-Ability: Hydration  
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-- Scald  
-- Hurricane  
-- U-turn  
-- Air Slash  
-
-Staryu @ Eviolite  
-Ability: Natural Cure  
-Level: 5  
-EVs: 116 HP / 156 Def / 236 Spe  
-Timid Nature  
-- Rapid Spin  
-- Thunderbolt  
+- Tri Attack  
 - Recover  
-- Scald  
+- Ice Beam  
+- Psychic 
+
+Onix @ Eviolite  
+Ability: Rock Head  
+Level: 5  
+EVs: 236 Atk / 36 Def / 196 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Head Smash  
+- Earthquake  
+- Body Press
+
+Chinchou @ Eviolite  
+Ability: Volt Absorb  
+Level: 5  
+EVs: 52 Def / 228 SpA / 220 Spe  
+Timid Nature  
+- Volt Switch  
+- Scald 
+- Ice Beam  
+- Thunderbolt
+
+Elekid @ Life Orb  
+Ability: Vital Spirit  
+Level: 5  
+EVs: 12 Atk / 236 SpA / 236 Spe  
+Hasty Nature  
+- Thunderbolt  
+- Cross Chop  
+- Psychic  
+- Volt Switch

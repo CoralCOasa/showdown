@@ -1,59 +1,60 @@
-Pawniard @ Eviolite  
-Ability: Defiant  
+Mienfoo @ Choice Scarf  
+Ability: Reckless  
 Level: 5  
-EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
-Jolly Nature  
-- Iron Head  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature
+- High Jump Kick  
 - Knock Off  
-- Sucker Punch  
-- Stealth Rock  
+- U-turn  
+- Poison Jab
 
-Ponyta-Galar @ Eviolite  
-Ability: Pastel Veil  
+Archen @ Berry Juice  
+Ability: Defeatist  
 Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-- Mystical Fire  
-- Psychic  
-- Dazzling Gleam  
-- Calm Mind  
+EVs: 76 HP / 180 Atk / 196 Spe  
+Jolly Nature  
+- Stone Edge  
+- Dual Wingbeat  
+- Earthquake  
+- U-turn
 
-Abra @ Focus Sash  
+Abra @ Life Orb  
 Ability: Magic Guard  
 Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
+EVs: 36 Atk / 236 SpA / 196 Spe  
+Hasty Nature  
 - Psychic  
 - Dazzling Gleam  
-- Energy Ball  
-- Shadow Ball  
+- Fire Punch  
+- Energy Ball
 
-Croagunk @ Eviolite  
-Ability: Dry Skin  
+Spritzee @ Eviolite 
+Ability: Aroma Veil  
 Level: 5  
-EVs: 116 Def / 188 SpA / 196 Spe  
-Timid Nature  
-- Vacuum Wave  
-- Nasty Plot  
-- Sludge Wave  
-- Focus Blast  
+EVs: 52 HP / 116 Def / 252 SpA / 76 SpD / 12 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Psychic  
+- Energy Ball  
+- Nasty Plot
 
-Munchlax @ Berry Juice  
+Munchlax @ Eviolite  
 Ability: Thick Fat  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
-Adamant Nature  
-- Body Slam  
+EVs: 236 Atk / 196 Def / 76 SpD  
+Impish Nature  
+- Body Slam 
 - Earthquake  
-- Curse  
-- Recycle
+- Rest  
+- Sleep Talk
 
-Shellder @ Eviolite  
-Ability: Skill Link  
+Natu @ Choice Scarf  
+Ability: Magic Bounce  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Icicle Spear  
-- Shell Smash  
-- Rock Blast  
-- Liquidation  
+EVs: 36 HP / 76 Def / 196 SpA / 196 Spe  
+Timid Nature
+- Psychic  
+- Heat Wave  
+- Dazzling Gleam  
+- U-turn 

@@ -1,59 +1,60 @@
-Onix @ Berry Juice  
-Ability: Sturdy  
+Mienfoo @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Knock Off  
+- U-turn  
+- Close Combat  
+- Fake Out 
+
+Tyrunt @ Eviolite  
+Ability: Strong Jaw  
+Level: 5  
+EVs: 204 Atk / 76 SpD / 212 Spe  
+Jolly Nature  
+- Stone Edge  
+- Close Combat  
+- Psychic Fangs  
+- Dragon Dance
+
+Diglett @ Focus Sash  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 236 Atk / 236 Spe  
 Jolly Nature  
 - Earthquake  
-- Stealth Rock  
-- Rock Blast  
-- Dragon Dance  
-
-Abra @ Focus Sash  
-Ability: Magic Guard  
-Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-- Psychic  
-- Dazzling Gleam  
-- Energy Ball  
-- Shadow Ball  
+- Sucker Punch  
+- Rock Slide  
+- Stealth Rock 
 
 Timburr @ Eviolite  
-Ability: Iron Fist  
+Ability: Guts  
 Level: 5  
 EVs: 196 Atk / 156 Def / 156 SpD  
 Adamant Nature  
 - Drain Punch  
+- Knock Off  
 - Mach Punch  
-- Knock Off  
-- Defog  
+- Bulk Up 
 
-Dewpider @ Berry Juice  
-Ability: Water Bubble  
+Amaura @ Choice Scarf  
+Ability: Snow Warning  
 Level: 5  
-EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
-Modest Nature  
-- Sticky Web  
-- Surf  
-- Icy Wind  
-- Giga Drain
-
-Farfetch’d-Galar @ Eviolite  
-Ability: Scrappy  
-Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Swords Dance  
-- Close Combat  
-- Brave Bird  
-- Knock Off  
+EVs: 60 HP / 220 SpA / 228 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Blizzard  
+- Earth Power  
+- Freeze-Dry  
+- Ancient Power
 
 Dwebble @ Berry Juice  
 Ability: Sturdy  
 Level: 5  
 EVs: 236 Atk / 236 Spe  
 Adamant Nature  
-- Shell Smash  
 - Rock Blast  
 - Earthquake  
-- Knock Off  
+- X-Scissor  
+- Shell Smash

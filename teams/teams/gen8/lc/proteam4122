@@ -1,59 +1,59 @@
-Ferroseed @ Eviolite  
-Ability: Iron Barbs  
+Dewpider @ Eviolite  
+Ability: Water Bubble  
 Level: 5  
-EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
-Impish Nature  
+EVs: 52 HP / 196 Atk / 20 Def / 20 SpD / 220 Spe  
+Adamant Nature  
+- Liquidation  
+- Leech Life  
+- Magic Coat  
+- Sticky Web
+
+Grookey @ Life Orb  
+Ability: Grassy Surge  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature
+- Wood Hammer 
+- Grassy Glide  
 - Knock Off  
-- Thunder Wave  
-- Spikes  
-- Giga Drain
+- Drain Punch
 
-Meowth @ Life Orb  
-Ability: Technician  
+Farfetch’d-Galar @ Eviolite  
+Ability: Scrappy  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 196 Spe  
+EVs: 20 HP / 236 Atk / 236 Spe  
 Jolly Nature  
-- Fake Out  
-- Feint  
-- Aerial Ace  
-- Water Pulse  
+- Swords Dance  
+- Close Combat  
+- Brave Bird  
+- Knock Off
 
-Carvanha @ Life Orb  
-Ability: Speed Boost  
+Onix @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
-Adamant Nature  
-- Crunch  
-- Psychic Fangs  
-- Protect  
-- Liquidation  
-
-Shellder @ Eviolite  
-Ability: Skill Link  
-Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Icicle Spear  
-- Shell Smash  
-- Rock Blast  
-- Liquidation  
-
-Foongus @ Eviolite  
-Ability: Regenerator  
-Level: 5  
-EVs: 124 HP / 156 Def / 156 SpD  
-Bold Nature  
-- Giga Drain  
-- Spore  
-- Sludge Bomb  
-- Synthesis  
-
-Drilbur @ Eviolite  
-Ability: Mold Breaker  
-Level: 5  
-EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
+EVs: 76 HP / 236 Atk / 196 Spe  
 Jolly Nature  
 - Earthquake  
-- Rapid Spin  
-- Rock Slide  
 - Stealth Rock  
+- Rock Blast  
+- Explosion 
+
+Natu @ Eviolite  
+Ability: Magic Bounce  
+Level: 5  
+EVs: 36 HP / 76 Def / 116 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Psychic  
+- Heat Wave  
+- Dazzling Gleam 
+- Roost
+
+Mienfoo @ Choice Scarf  
+Ability: Reckless  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Adamant Nature  
+- High Jump Kick  
+- Knock Off  
+- U-turn  
+- Stone Edge 

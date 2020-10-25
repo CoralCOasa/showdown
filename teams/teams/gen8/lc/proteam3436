@@ -1,13 +1,3 @@
-Trapinch @ Eviolite  
-Ability: Arena Trap  
-Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Relaxed Nature  
-- Earthquake  
-- First Impression  
-- Superpower  
-- Giga Drain  
-
 Grookey @ Eviolite  
 Ability: Grassy Surge  
 Level: 5  
@@ -16,44 +6,54 @@ Jolly Nature
 - Grassy Glide  
 - Knock Off  
 - Drain Punch  
-- U-turn  
+- U-turn
 
-Shellder @ Eviolite  
-Ability: Skill Link  
+Trapinch @ Eviolite  
+Ability: Arena Trap  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
+EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
+Relaxed Nature  
+- Earthquake  
+- First Impression  
+- Superpower 
+- Giga Drain
+
+Zigzagoon @ Berry Juice  
+Ability: Pickup  
+Level: 5  
+EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
 Adamant Nature  
-- Icicle Spear  
-- Shell Smash  
+- Belly Drum  
+- Extreme Speed  
+- Thief  
+- Seed Bomb
+
+Dwebble @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 236 Atk / 236 Spe  
+Adamant Nature  
 - Rock Blast  
-- Liquidation  
+- X-Scissor  
+- Knock Off  
+- Shell Smash
 
-Mienfoo @ Eviolite  
-Ability: Regenerator  
+Pawniard @ Eviolite  
+Ability: Defiant  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
 Jolly Nature  
+- Iron Head  
 - Knock Off  
-- U-turn  
-- High Jump Kick  
-- Fake Out  
+- Sucker Punch  
+- Brick Break 
 
-Wingull @ Life Orb  
-Ability: Hydration  
+Larvesta @ Eviolite  
+Ability: Flame Body  
 Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-- Scald  
-- Hurricane  
+EVs: 76 HP / 76 Atk / 156 Def / 196 Spe  
+Jolly Nature  
 - U-turn  
-- Air Slash  
-
-Scraggy @ Eviolite  
-Ability: Moxie  
-Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
-Adamant Nature  
-- Dragon Dance  
-- Knock Off  
-- Drain Punch  
-- High Jump Kick  
+- Flare Blitz  
+- Morning Sun  
+- Will-O-Wisp

@@ -1,42 +1,12 @@
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
+Carvanha @ Life Orb  
+Ability: Speed Boost  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
 Adamant Nature  
-- Body Slam  
-- Earthquake  
-- Curse  
-- Recycle
-
-Wingull @ Life Orb  
-Ability: Hydration  
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-- Scald  
-- Hurricane  
-- U-turn  
-- Air Slash  
-
-Meowth @ Life Orb  
-Ability: Technician  
-Level: 5  
-EVs: 236 Atk / 36 SpD / 196 Spe  
-Jolly Nature  
-- Fake Out  
-- Feint  
-- Aerial Ace  
-- Water Pulse  
-
-Farfetch’d-Galar @ Eviolite  
-Ability: Scrappy  
-Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Swords Dance  
-- Close Combat  
-- Brave Bird  
-- Knock Off  
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation
 
 Magnemite @ Berry Juice  
 Ability: Sturdy  
@@ -45,15 +15,45 @@ EVs: 36 Def / 236 SpA / 236 Spe
 Timid Nature  
 - Flash Cannon  
 - Volt Switch  
-- Thunderbolt  
+- Thunderbolt 
 - Recycle  
 
-Chinchou @ Eviolite  
-Ability: Volt Absorb  
+Meowth @ Life Orb  
+Ability: Technician  
 Level: 5  
-EVs: 52 Def / 228 SpA / 220 Spe  
+EVs: 36 HP / 236 Atk / 36 SpD / 196 Spe  
+Jolly Nature  
+- Fake Out  
+- Feint  
+- Knock Off  
+- Double-Edge 
+
+Staryu @ Life Orb  
+Ability: Analytic  
+Level: 5  
+EVs: 76 Def / 196 SpA / 236 Spe  
 Timid Nature  
-- Volt Switch  
-- Scald  
-- Ice Beam  
+- Surf  
+- Psychic  
 - Thunderbolt  
+- Ice Beam 
+
+Croagunk @ Eviolite  
+Ability: Dry Skin  
+Level: 5  
+EVs: 116 Def / 188 SpA / 196 Spe  
+Timid Nature
+- Nasty Plot  
+- Vacuum Wave  
+- Sludge Wave  
+- Focus Blast 
+
+Trapinch @ Eviolite  
+Ability: Arena Trap  
+Level: 5  
+EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
+Relaxed Nature  
+- Earthquake  
+- First Impression  
+- Quick Attack 
+- Giga Drain

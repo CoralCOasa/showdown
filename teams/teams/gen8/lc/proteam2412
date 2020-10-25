@@ -1,32 +1,53 @@
-Larvesta @ Eviolite  
+Smoochum (F) @ Life Orb  
+Ability: Oblivious  
+Level: 5  
+EVs: 236 SpA / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Psychic  
+- Shadow Ball  
+- Nasty Plot
+
+Mienfoo @ Choice Scarf  
+Ability: Reckless  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature
+- High Jump Kick  
+- Knock Off  
+- U-turn  
+- Close Combat 
+
+Ponyta @ Eviolite  
 Ability: Flame Body  
 Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
+EVs: 236 Atk / 76 SpD / 196 Spe  
 Jolly Nature  
-- U-turn  
 - Flare Blitz  
+- High Horsepower  
 - Morning Sun  
-- Will-O-Wisp  
+- Will-O-Wisp
 
-Timburr @ Eviolite  
-Ability: Iron Fist  
+Zigzagoon @ Berry Juice  
+Ability: Pickup  
 Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
+EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
 Adamant Nature  
-- Drain Punch  
-- Mach Punch  
-- Knock Off  
-- Defog  
+- Belly Drum  
+- Extreme Speed  
+- Thief  
+- Seed Bomb
 
-Vullaby @ Berry Juice  
-Ability: Weak Armor  
+Omanyte @ Eviolite  
+Ability: Shell Armor  
 Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Jolly Nature  
-- Knock Off  
-- Brave Bird  
-- U-turn  
-- Defog  
+EVs: 76 HP / 196 SpA / 236 Spe  
+Modest Nature  
+- Shell Smash  
+- Hydro Pump  
+- Ice Beam  
+- Earth Power
 
 Grookey @ Eviolite  
 Ability: Grassy Surge  
@@ -36,24 +57,4 @@ Jolly Nature
 - Grassy Glide  
 - Knock Off  
 - Drain Punch  
-- U-turn  
-
-Abra @ Focus Sash  
-Ability: Magic Guard  
-Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-- Psychic  
-- Dazzling Gleam  
-- Energy Ball  
-- Shadow Ball  
-
-Archen @ Berry Juice  
-Ability: Defeatist  
-Level: 5  
-EVs: 76 HP / 180 Atk / 196 Spe  
-Jolly Nature  
-- Stone Edge  
-- Dual Wingbeat  
-- Earthquake  
-- U-turn
+- U-turn 

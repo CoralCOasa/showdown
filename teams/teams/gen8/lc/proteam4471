@@ -1,59 +1,60 @@
-Staryu @ Eviolite  
-Ability: Natural Cure  
+Tyrunt @ Eviolite  
+Ability: Strong Jaw  
 Level: 5  
-EVs: 116 HP / 156 Def / 236 Spe  
-Timid Nature  
-- Rapid Spin  
-- Thunderbolt  
-- Recover  
-- Scald  
-
-Farfetch’d-Galar @ Eviolite  
-Ability: Scrappy  
-Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Swords Dance  
+EVs: 204 Atk / 76 SpD / 212 Spe  
+Adamant Nature
+- Rock Blast 
 - Close Combat  
-- Brave Bird  
-- Knock Off  
+- Psychic Fangs  
+- Dragon Dance
 
-Ferroseed @ Eviolite  
-Ability: Iron Barbs  
+Archen @ Berry Juice  
+Ability: Defeatist  
 Level: 5  
-EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
-Impish Nature  
-- Knock Off  
-- Thunder Wave  
-- Spikes  
-- Giga Drain
-
-Trapinch @ Eviolite  
-Ability: Arena Trap  
-Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Relaxed Nature  
+EVs: 76 HP / 180 Atk / 196 Spe  
+Jolly Nature  
+- Stone Edge  
+- Dual Wingbeat  
 - Earthquake  
-- First Impression  
-- Superpower  
+- U-turn
+
+Koffing @ Eviolite  
+Ability: Levitate 
+Level: 5  
+EVs: 36 HP / 236 Def / 236 SpD  
+Bold Nature  
+- Flamethrower 
+- Toxic Spikes  
+- Pain Split  
+- Sludge Bomb 
+
+Dewpider @ Eviolite 
+Ability: Water Bubble  
+Level: 5  
+EVs: 132 HP / 180 Def / 116 SpA / 20 SpD / 60 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Scald 
 - Giga Drain  
+- Icy Wind 
+- Sticky Web
 
-Scorbunny @ Berry Juice  
-Ability: Libero  
+Scraggy @ Eviolite  
+Ability: Moxie 
 Level: 5  
-EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
+EVs: 36 HP / 156 Atk / 36 Def / 36 SpD / 212 Spe  
 Jolly Nature  
-- High Jump Kick  
-- U-turn  
-- Blaze Kick  
-- Gunk Shot  
+- Dragon Dance  
+- Knock Off  
+- Drain Punch  
+- High Jump Kick 
 
-Drilbur @ Eviolite  
-Ability: Mold Breaker  
+Omanyte @ Eviolite  
+Ability: Shell Armor  
 Level: 5  
-EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
-Jolly Nature  
-- Earthquake  
-- Rapid Spin  
-- Rock Slide  
-- Stealth Rock  
+EVs: 76 HP / 196 SpA / 236 Spe  
+Modest Nature  
+- Shell Smash  
+- Hydro Pump  
+- Ice Beam  
+- Earth Power

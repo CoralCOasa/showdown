@@ -1,60 +1,59 @@
-Amaura @ Choice Scarf  
-Ability: Refrigerate  
+Ponyta @ Berry Juice  
+Ability: Flame Body  
 Level: 5  
-EVs: 60 HP / 220 SpA / 228 Spe  
-Modest Nature  
-IVs: 0 Atk  
-- Hyper Voice  
-- Earth Power  
-- Thunderbolt  
-- Ancient Power
-
-Chinchou @ Eviolite  
-Ability: Volt Absorb  
-Level: 5  
-EVs: 52 Def / 228 SpA / 220 Spe  
-Timid Nature  
-- Volt Switch  
-- Scald  
-- Ice Beam  
-- Thunderbolt  
-
-Archen @ Berry Juice  
-Ability: Defeatist  
-Level: 5  
-EVs: 76 HP / 180 Atk / 196 Spe  
+EVs: 236 Atk / 76 SpD / 196 Spe  
 Jolly Nature  
-- Stone Edge  
-- Dual Wingbeat  
-- Earthquake  
-- U-turn
+- Flare Blitz  
+- High Horsepower  
+- Wild Charge  
+- Will-O-Wisp 
 
 Mienfoo @ Eviolite  
 Ability: Regenerator  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
+EVs: 156 Atk / 36 Def / 36 SpD / 236 Spe  
 Jolly Nature  
+- Drain Punch  
 - Knock Off  
-- U-turn  
-- High Jump Kick  
+- Poison Jab 
+- Swords Dance
+
+Scraggy @ Eviolite  
+Ability: Shed Skin  
+Level: 5  
+EVs: 36 HP / 156 Atk / 36 Def / 36 SpD / 212 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Knock Off  
+- Drain Punch  
+- Poison Jab 
+
+Magnemite @ Choice Scarf  
+Ability: Analytic  
+Level: 5  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Modest Nature
+- Volt Switch  
+- Thunderbolt  
+- Flash Cannon  
+- Steel Beam
+
+Meowth @ Life Orb  
+Ability: Technician  
+Level: 5  
+EVs: 36 HP / 236 Atk / 36 SpD / 196 Spe  
+Jolly Nature  
 - Fake Out  
-
-Farfetch’d-Galar @ Eviolite  
-Ability: Scrappy  
-Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Swords Dance  
-- Close Combat  
-- Brave Bird  
+- Feint  
 - Knock Off  
+- U-turn 
 
-Pawniard @ Eviolite  
-Ability: Defiant  
+Shellder @ Eviolite  
+Ability: Skill Link  
 Level: 5  
-EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
-Jolly Nature  
-- Iron Head  
-- Knock Off  
-- Sucker Punch  
-- Stealth Rock  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Adamant Nature  
+- Icicle Spear  
+- Shell Smash  
+- Rock Blast  
+- Liquidation 

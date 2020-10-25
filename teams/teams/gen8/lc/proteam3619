@@ -1,59 +1,60 @@
-Ponyta-Galar @ Eviolite  
-Ability: Pastel Veil  
+Natu @ Eviolite  
+Ability: Magic Bounce  
 Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-- Mystical Fire  
+EVs: 196 HP / 236 Def / 76 SpD  
+Bold Nature  
 - Psychic  
-- Dazzling Gleam  
-- Calm Mind  
+- Heat Wave  
+- Thunder Wave  
+- Roost
 
-Magnemite @ Berry Juice  
+Tirtouga @ Berry Juice  
 Ability: Sturdy  
 Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-- Flash Cannon  
-- Volt Switch  
-- Thunderbolt  
-- Recycle  
+EVs: 212 Atk / 92 Def / 180 Spe  
+Jolly Nature  
+- Shell Smash  
+- Liquidation  
+- Stone Edge  
+- Earthquake
 
-Timburr @ Eviolite  
-Ability: Iron Fist  
+Koffing @ Eviolite  
+Ability: Levitate 
 Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
-Adamant Nature  
-- Drain Punch  
-- Mach Punch  
-- Knock Off  
-- Defog  
+EVs: 36 HP / 236 Def / 236 SpD  
+Bold Nature  
+- Will-O-Wisp 
+- Toxic Spikes  
+- Pain Split  
+- Clear Smog
 
-Chinchou @ Eviolite  
-Ability: Volt Absorb  
+Slowpoke @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 52 Def / 228 SpA / 220 Spe  
-Timid Nature  
-- Volt Switch  
+EVs: 116 HP / 76 Def / 116 SpA / 196 SpD  
+Calm Nature  
+IVs: 0 Atk  
 - Scald  
-- Ice Beam  
-- Thunderbolt  
+- Future Sight  
+- Slack Off  
+- Teleport
 
-Vullaby @ Berry Juice  
-Ability: Weak Armor  
+Tyrunt @ Eviolite  
+Ability: Strong Jaw  
 Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Jolly Nature  
-- Knock Off  
-- Brave Bird  
-- U-turn  
-- Defog  
+EVs: 204 Atk / 76 SpD / 212 Spe  
+Adamant Nature
+- Stone Edge  
+- Close Combat  
+- Psychic Fangs  
+- Dragon Dance
 
-Pawniard @ Eviolite  
-Ability: Defiant  
+Grookey @ Berry Juice  
+Ability: Grassy Surge  
 Level: 5  
-EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+EVs: 236 Atk / 36 Def / 236 Spe  
 Jolly Nature  
-- Iron Head  
-- Knock Off  
-- Sucker Punch  
-- Stealth Rock  
+- Wood Hammer  
+- Grassy Glide  
+- Swords Dance  
+- Acrobatics

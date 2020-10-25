@@ -1,59 +1,60 @@
-Abra @ Focus Sash  
-Ability: Magic Guard  
+Chinchou @ Eviolite  
+Ability: Volt Absorb  
 Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
+EVs: 52 Def / 228 SpA / 220 Spe  
 Timid Nature  
-- Psychic  
-- Dazzling Gleam  
-- Energy Ball  
-- Shadow Ball  
+- Volt Switch  
+- Hydro Pump  
+- Ice Beam  
+- Thunderbolt
 
-Woobat @ Berry Juice  
-Ability: Simple  
+Archen @ Berry Juice  
+Ability: Defeatist  
 Level: 5  
-EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
-Timid Nature  
-- Nasty Plot  
-- Psychic  
-- Heat Wave  
-- Air Slash  
-
-Tirtouga @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 212 Atk / 92 Def / 180 Spe  
+EVs: 76 HP / 180 Atk / 196 Spe  
 Jolly Nature  
-- Shell Smash  
-- Waterfall  
 - Stone Edge  
-- Zen Headbutt
+- Dual Wingbeat  
+- Earthquake  
+- U-turn
 
-Timburr @ Eviolite  
-Ability: Iron Fist  
+Elekid @ Life Orb  
+Ability: Vital Spirit  
 Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
-Adamant Nature  
-- Drain Punch  
-- Mach Punch  
-- Knock Off  
-- Defog  
+EVs: 12 Atk / 236 SpA / 236 Spe  
+Hasty Nature  
+- Thunderbolt  
+- Cross Chop  
+- Psychic  
+- Volt Switch
 
-Wingull @ Life Orb  
-Ability: Hydration  
+Elekid @ Life Orb  
+Ability: Vital Spirit  
 Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
+EVs: 12 Atk / 236 SpA / 236 Spe  
+Hasty Nature  
+- Thunderbolt  
+- Cross Chop  
+- Psychic  
+- Volt Switch
+
+Mareanie @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Recover  
 - Scald  
-- Hurricane  
-- U-turn  
-- Air Slash  
+- Toxic Spikes 
+- Sludge Bomb
 
 Trapinch @ Eviolite  
 Ability: Arena Trap  
 Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Relaxed Nature  
+EVs: 156 HP / 196 Atk / 76 Def / 76 SpD  
+Adamant Nature  
 - Earthquake  
 - First Impression  
 - Superpower  
-- Giga Drain  
+- Rock Slide 

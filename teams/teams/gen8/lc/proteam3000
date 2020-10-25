@@ -1,59 +1,60 @@
-Abra @ Focus Sash  
-Ability: Magic Guard  
+Grookey @ Life Orb  
+Ability: Grassy Surge  
 Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-- Psychic  
-- Dazzling Gleam  
-- Energy Ball  
-- Shadow Ball  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Adamant Nature  
+- U-turn  
+- Grassy Glide  
+- Knock Off  
+- Drain Punch
 
-Meowth @ Life Orb  
-Ability: Technician  
+Mienfoo @ Berry Juice  
+Ability: Reckless  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 196 Spe  
+EVs: 236 Atk / 36 Def / 236 Spe  
 Jolly Nature  
-- Fake Out  
-- Feint  
-- Aerial Ace  
-- Water Pulse  
+- Swords Dance  
+- High Jump Kick  
+- Acrobatics  
+- Knock Off
 
-Porygon @ Eviolite  
-Ability: Download  
+Smoochum (F) @ Eviolite 
+Ability: Oblivious  
 Level: 5  
-EVs: 36 Def / 236 SpA / 196 Spe  
-Modest Nature  
-- Tri Attack  
-- Recover  
+EVs: 236 SpA / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
 - Ice Beam  
 - Psychic  
+- Shadow Ball  
+- Nasty Plot
 
-Bunnelby @ Eviolite  
-Ability: Huge Power  
+Trapinch @ Eviolite  
+Ability: Arena Trap  
 Level: 5  
-EVs: 228 Atk / 132 Def / 148 SpD  
+EVs: 156 HP / 196 Atk / 76 Def / 76 SpD  
 Adamant Nature  
 - Earthquake  
-- Quick Attack  
-- U-turn  
-- Facade
+- First Impression  
+- Superpower  
+- Quick Attack
 
-Pawniard @ Eviolite  
-Ability: Defiant  
+Zigzagoon @ Berry Juice  
+Ability: Quick Feet 
 Level: 5  
-EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
+Adamant Nature  
+- Belly Drum  
+- Extreme Speed  
+- Thief  
+- Seed Bomb
+
+Farfetch’d-Galar @ Eviolite  
+Ability: Scrappy  
+Level: 5  
+EVs: 20 HP / 236 Atk / 236 Spe  
 Jolly Nature  
-- Iron Head  
-- Knock Off  
-- Sucker Punch  
-- Stealth Rock  
-
-Croagunk @ Eviolite  
-Ability: Dry Skin  
-Level: 5  
-EVs: 116 Def / 188 SpA / 196 Spe  
-Timid Nature  
-- Vacuum Wave  
-- Nasty Plot  
-- Sludge Wave  
-- Focus Blast  
+- Swords Dance  
+- Close Combat  
+- Brave Bird  
+- Knock Off

@@ -1,60 +1,59 @@
 Staryu @ Eviolite  
-Ability: Natural Cure  
+Ability: Analytic  
 Level: 5  
-EVs: 116 HP / 156 Def / 236 Spe  
+EVs: 156 Def / 116 SpA / 236 Spe  
 Timid Nature  
-- Rapid Spin  
+- Hydro Pump 
 - Thunderbolt  
-- Recover  
-- Scald  
+- Psychic  
+- Recover
 
-Croagunk @ Eviolite  
-Ability: Dry Skin  
+Munchlax @ Berry Juice  
+Ability: Thick Fat  
 Level: 5  
-EVs: 116 Def / 188 SpA / 196 Spe  
-Timid Nature  
-- Vacuum Wave  
-- Nasty Plot  
-- Sludge Wave  
-- Focus Blast  
+EVs: 236 Atk / 196 Def / 76 SpD  
+Impish Nature  
+- Double_Edge  
+- Fire Punch  
+- Zen Headbutt  
+- Curse
 
-Farfetch’d-Galar @ Eviolite  
-Ability: Scrappy  
+Tyrunt @ Eviolite  
+Ability: Strong Jaw  
 Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
+EVs: 204 Atk / 76 SpD / 212 Spe  
 Jolly Nature  
-- Swords Dance  
+- Rock Blast 
 - Close Combat  
-- Brave Bird  
-- Knock Off  
+- Psychic Fangs  
+- Dragon Dance
 
-Natu @ Eviolite  
-Ability: Magic Bounce  
+Mudbray @ Choice Scarf  
+Ability: Stamina  
 Level: 5  
-EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Psychic  
-- Heat Wave  
+EVs: 36 HP / 196 Atk / 36 Def / 236 Spe  
+Adamant Nature
+- Earthquake  
+- Rock Slide  
+- Heavy Slam  
+- Close Combat
+
+Larvesta @ Eviolite  
+Ability: Flame Body  
+Level: 5  
+EVs: 76 HP / 236 Def / 156 SpD / 36 Spe  
+Impish Nature  
 - U-turn  
-- Roost  
+- Flare Blitz  
+- Morning Sun  
+- Will-O-Wisp
 
-Woobat @ Berry Juice  
-Ability: Simple  
+Carvanha @ Life Orb  
+Ability: Speed Boost  
 Level: 5  
-EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
-Timid Nature  
-- Nasty Plot  
-- Psychic  
-- Heat Wave  
-- Air Slash  
-
-Zigzagoon @ Berry Juice  
-Ability: Quick Feet  
-Level: 5  
-EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
 Adamant Nature  
-- Extreme Speed  
-- Belly Drum  
-- Thief  
-- Seed Bomb  
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation

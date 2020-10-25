@@ -1,52 +1,54 @@
-Scraggy @ Eviolite  
-Ability: Moxie  
+Elekid @ Life Orb  
+Ability: Vital Spirit  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
-Adamant Nature  
-- Dragon Dance  
-- Knock Off  
-- Drain Punch  
-- High Jump Kick  
+EVs: 12 Atk / 236 SpA / 236 Spe  
+Hasty Nature  
+- Thunderbolt  
+- Cross Chop  
+- Psychic  
+- Volt Switch
 
-Meowth @ Life Orb  
-Ability: Technician  
+Ponyta @ Eviolite  
+Ability: Flame Body  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 196 Spe  
+EVs: 236 Atk / 76 SpD / 196 Spe  
 Jolly Nature  
-- Fake Out  
-- Feint  
-- Aerial Ace  
-- Water Pulse  
+- Flare Blitz  
+- High Horsepower  
+- Morning Sun  
+- Wild Charge 
 
-Grookey @ Eviolite  
-Ability: Grassy Surge  
+Dewpider @ Eviolite  
+Ability: Water Bubble  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
-Jolly Nature  
-- Grassy Glide  
-- Knock Off  
-- Drain Punch  
-- U-turn  
+EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
+Modest Nature
+IVs: 0 Atk  
+- Scald 
+- Giga Drain  
+- Icy Wind 
+- Sticky Web
 
-Mudbray @ Eviolite  
-Ability: Stamina  
+Abra @ Life Orb  
+Ability: Magic Guard  
 Level: 5  
-EVs: 116 HP / 36 Atk / 196 Def / 156 Spe  
-Adamant Nature  
-- Earthquake  
-- Stealth Rock  
-- Rock Slide  
-- Heavy Slam  
+EVs: 36 Atk / 236 SpA / 196 Spe  
+Hasty Nature  
+- Psychic  
+- Dazzling Gleam  
+- Fire Punch  
+- Energy Ball
 
-Croagunk @ Eviolite  
-Ability: Dry Skin  
+Dewpider @ Eviolite  
+Ability: Water Bubble  
 Level: 5  
-EVs: 116 Def / 188 SpA / 196 Spe  
-Timid Nature  
-- Vacuum Wave  
-- Nasty Plot  
-- Sludge Wave  
-- Focus Blast  
+EVs: 132 HP / 180 Def / 116 SpA / 20 SpD / 60 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Scald 
+- Giga Drain  
+- Icy Wind 
+- Sticky Web
 
 Archen @ Berry Juice  
 Ability: Defeatist  

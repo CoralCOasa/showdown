@@ -1,59 +1,60 @@
-Archen @ Berry Juice  
-Ability: Defeatist  
+Grookey @ Life Orb  
+Ability: Grassy Surge  
 Level: 5  
-EVs: 76 HP / 180 Atk / 196 Spe  
-Jolly Nature  
-- Stone Edge  
-- Dual Wingbeat  
-- Earthquake  
-- U-turn
-
-Scraggy @ Eviolite  
-Ability: Moxie  
-Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
-Adamant Nature  
-- Dragon Dance  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature
+- Wood Hammer 
+- Grassy Glide  
 - Knock Off  
-- Drain Punch  
-- High Jump Kick  
+- Drain Punch
 
-Bunnelby @ Eviolite  
-Ability: Huge Power  
+Vullaby @ Choice Scarf  
+Ability: Overcoat  
 Level: 5  
-EVs: 228 Atk / 132 Def / 148 SpD  
-Adamant Nature  
-- Earthquake  
-- Quick Attack  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Adamant Nature
+- Brave Bird  
+- Knock Off  
 - U-turn  
-- Facade
+- Defog 
+
+Porygon @ Eviolite  
+Ability: Download  
+Level: 5  
+EVs: 36 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Tri Attack  
+- Recover  
+- Ice Beam  
+- Psychic 
 
 Mareanie @ Eviolite  
 Ability: Regenerator  
 Level: 5  
 EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
 Bold Nature  
+IVs: 0 Atk  
 - Recover  
 - Scald  
-- Toxic Spikes  
-- Sludge Bomb  
+- Toxic Spikes 
+- Sludge Bomb
 
-Vullaby @ Berry Juice  
-Ability: Weak Armor  
+Scorbunny @ Berry Juice  
+Ability: Libero  
 Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
+EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
 Jolly Nature  
+- High Jump Kick  
+- Gunk Shot  
+- Acrobatics  
+- Flame Charge
+
+Ferroseed @ Berry Juice  
+Ability: Iron Barbs  
+Level: 5  
+EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
+Impish Nature  
 - Knock Off  
-- Brave Bird  
-- U-turn  
-- Defog  
-
-Meowth @ Life Orb  
-Ability: Technician  
-Level: 5  
-EVs: 236 Atk / 36 SpD / 196 Spe  
-Jolly Nature  
-- Fake Out  
-- Feint  
-- Aerial Ace  
-- Water Pulse  
+- Thunder Wave  
+- Stealth Rock  
+- Bullet Seed

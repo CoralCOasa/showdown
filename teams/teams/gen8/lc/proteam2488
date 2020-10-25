@@ -1,22 +1,23 @@
-Scraggy @ Eviolite  
-Ability: Moxie  
+Vulpix @ Choice Scarf 
+Ability: Drought  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
-Adamant Nature  
-- Dragon Dance  
-- Knock Off  
-- Drain Punch  
-- High Jump Kick  
-
-Croagunk @ Eviolite  
-Ability: Dry Skin  
-Level: 5  
-EVs: 116 Def / 188 SpA / 196 Spe  
+EVs: 52 HP / 196 SpA / 236 Spe  
 Timid Nature  
-- Vacuum Wave  
-- Nasty Plot  
-- Sludge Wave  
-- Focus Blast  
+IVs: 0 Atk  
+- Energy Ball  
+- Weather Ball  
+- Overheat  
+- Fire Blast
+
+Pawniard @ Eviolite  
+Ability: Defiant  
+Level: 5  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Iron Head  
+- Knock Off  
+- Sucker Punch  
+- Brick Break 
 
 Archen @ Berry Juice  
 Ability: Defeatist  
@@ -28,33 +29,33 @@ Jolly Nature
 - Earthquake  
 - U-turn
 
-Woobat @ Berry Juice  
-Ability: Simple  
+Corphish @ Eviolite  
+Ability: Adaptability  
 Level: 5  
-EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
-Timid Nature  
-- Nasty Plot  
-- Psychic  
-- Heat Wave  
-- Air Slash  
+EVs: 196 Atk / 76 Def / 236 Spe  
+Adamant Nature  
+- Aqua Jet  
+- Crabhammer  
+- Knock Off  
+- Superpower
 
-Amaura @ Choice Scarf  
-Ability: Refrigerate  
+Slowpoke @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 60 HP / 220 SpA / 228 Spe  
-Modest Nature  
+EVs: 116 HP / 76 Def / 116 SpA / 196 SpD  
+Calm Nature  
 IVs: 0 Atk  
-- Hyper Voice  
-- Earth Power  
-- Thunderbolt  
-- Ancient Power
+- Scald  
+- Psychic 
+- Slack Off  
+- Teleport
 
-Larvesta @ Eviolite  
-Ability: Flame Body  
+Tyrunt @ Eviolite  
+Ability: Strong Jaw  
 Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
+EVs: 204 Atk / 76 SpD / 212 Spe  
 Jolly Nature  
-- U-turn  
-- Flare Blitz  
-- Morning Sun  
-- Will-O-Wisp  
+- Stone Edge  
+- Close Combat  
+- Psychic Fangs  
+- Dragon Dance

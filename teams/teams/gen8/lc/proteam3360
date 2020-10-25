@@ -1,59 +1,60 @@
-Pawniard @ Eviolite  
-Ability: Defiant  
+Mudbray @ Choice Scarf  
+Ability: Stamina  
 Level: 5  
-EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
-Jolly Nature  
-- Iron Head  
-- Knock Off  
-- Sucker Punch  
-- Stealth Rock  
+EVs: 36 HP / 196 Atk / 36 Def / 236 Spe  
+Adamant Nature
+- Earthquake  
+- Rock Slide  
+- Heavy Slam  
+- Close Combat
 
-Ponyta-Galar @ Eviolite  
-Ability: Pastel Veil  
+Abra @ Life Orb  
+Ability: Magic Guard  
 Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-- Mystical Fire  
+EVs: 36 Atk / 236 SpA / 196 Spe  
+Hasty Nature  
 - Psychic  
 - Dazzling Gleam  
-- Calm Mind  
+- Fire Punch  
+- Shadow Ball 
 
-Trapinch @ Eviolite  
-Ability: Arena Trap  
+Vulpix @ Eviolite  
+Ability: Drought  
 Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Relaxed Nature  
-- Earthquake  
-- First Impression  
-- Superpower  
-- Giga Drain  
+EVs: 52 HP / 196 SpA / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Energy Ball  
+- Weather Ball  
+- Overheat  
+- Will-O-Wisp
 
-Carvanha @ Life Orb  
-Ability: Speed Boost  
+Omanyte @ Eviolite  
+Ability: Shell Armor  
 Level: 5  
-EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
-Adamant Nature  
-- Crunch  
-- Psychic Fangs  
-- Protect  
-- Liquidation  
-
-Koffing @ Eviolite  
-Ability: Levitate  
-Level: 5  
-EVs: 36 HP / 236 Def / 236 SpD  
-Bold Nature  
-- Will-O-Wisp  
-- Toxic Spikes  
-- Pain Split  
-- Sludge Bomb  
+EVs: 76 HP / 196 SpA / 236 Spe  
+Modest Nature  
+- Shell Smash  
+- Hydro Pump  
+- Ice Beam  
+- Earth Power
 
 Meowth @ Life Orb  
 Ability: Technician  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 196 Spe  
-Jolly Nature  
+EVs: 36 HP / 236 Atk / 36 SpA / 196 Spe  
+Naughty Nature  
 - Fake Out  
 - Feint  
-- Aerial Ace  
 - Water Pulse  
+- U-turn
+
+Koffing @ Eviolite  
+Ability: Levitate  
+Level: 5  
+EVs: 36 HP / 196 SpA / 236 Spe  
+Timid Nature  
+- Sludge Bomb  
+- Will-O-Wisp 
+- Fire Blast 
+- Thunderbolt

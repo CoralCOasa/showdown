@@ -1,59 +1,61 @@
-Mareanie @ Eviolite  
-Ability: Regenerator  
+Staryu @ Eviolite  
+Ability: Natural Cure  
 Level: 5  
-EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
-Bold Nature  
-- Recover  
-- Scald  
-- Toxic Spikes  
-- Sludge Bomb  
-
-Croagunk @ Eviolite  
-Ability: Dry Skin  
-Level: 5  
-EVs: 116 Def / 188 SpA / 196 Spe  
+EVs: 116 HP / 156 Def / 236 Spe  
 Timid Nature  
-- Vacuum Wave  
-- Nasty Plot  
-- Sludge Wave  
-- Focus Blast  
+- Rapid Spin  
+- Thunderbolt 
+- Recover  
+- Scald
 
-Vullaby @ Berry Juice  
-Ability: Weak Armor  
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
 Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
+EVs: 52 HP / 116 Def / 252 SpA / 76 SpD / 12 Spe  
+Quiet Nature  
+IVs: 0 Atk / 0 Spe  
+- Moonblast  
+- Psychic  
+- Energy Ball 
+- Trick Room
+
+Meowth @ Life Orb  
+Ability: Technician  
+Level: 5  
+EVs: 36 HP / 236 Atk / 36 SpA / 196 Spe  
+Naughty Nature  
+- Fake Out  
+- Feint  
+- Water Pulse  
+- Double-Edge 
+
+Grookey @ Eviolite  
+Ability: Grassy Surge  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
 Jolly Nature  
+- Grassy Glide  
 - Knock Off  
-- Brave Bird  
-- U-turn  
-- Defog  
+- Drain Punch  
+- Wood Hammer
 
-Foongus @ Eviolite  
-Ability: Regenerator  
+Vulpix @ Choice Scarf 
+Ability: Drought  
 Level: 5  
-EVs: 124 HP / 156 Def / 156 SpD  
-Bold Nature  
-- Giga Drain  
-- Spore  
-- Sludge Bomb  
-- Synthesis  
+EVs: 52 HP / 196 SpA / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Energy Ball  
+- Weather Ball  
+- Overheat  
+- Extrasensory
 
 Porygon @ Eviolite  
 Ability: Download  
 Level: 5  
-EVs: 36 Def / 236 SpA / 196 Spe  
+EVs: 156 HP / 36 Def / 236 SpA / 36 Spe  
 Modest Nature  
 - Tri Attack  
-- Recover  
+- Psychic 
 - Ice Beam  
-- Psychic  
-
-Timburr @ Eviolite  
-Ability: Iron Fist  
-Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
-Adamant Nature  
-- Drain Punch  
-- Mach Punch  
-- Knock Off  
-- Defog  
+- Recover

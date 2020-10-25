@@ -1,59 +1,61 @@
-Grookey @ Eviolite  
-Ability: Grassy Surge  
+Meowth @ Life Orb  
+Ability: Technician  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
+EVs: 36 HP / 236 Atk / 36 SpD / 196 Spe  
 Jolly Nature  
-- Grassy Glide  
+- Fake Out  
+- Feint  
 - Knock Off  
-- Drain Punch  
-- U-turn  
+- Double-Edge 
 
-Scorbunny @ Berry Juice  
-Ability: Libero  
+Porygon @ Eviolite  
+Ability: Download  
 Level: 5  
-EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
-Jolly Nature  
-- High Jump Kick  
-- U-turn  
-- Blaze Kick  
-- Gunk Shot  
+EVs: 36 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Tri Attack  
+- Recover  
+- Ice Beam  
+- Thunderbolt
 
-Dewpider @ Berry Juice  
+Dewpider @ Eviolite  
 Ability: Water Bubble  
 Level: 5  
 EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
-Modest Nature  
-- Sticky Web  
+Modest Nature
+IVs: 0 Atk  
 - Surf  
-- Icy Wind  
-- Giga Drain
+- Giga Drain  
+- Magic Coat  
+- Sticky Web
 
-Abra @ Focus Sash  
-Ability: Magic Guard  
+Grookey @ Life Orb  
+Ability: Grassy Surge  
 Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-- Psychic  
-- Dazzling Gleam  
-- Energy Ball  
-- Shadow Ball  
-
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
-Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
-Bold Nature  
-- Moonblast  
-- Wish  
-- Protect  
-- Calm Mind  
-
-Farfetch’d-Galar @ Eviolite  
-Ability: Scrappy  
-Level: 5  
-EVs: 20 HP / 236 Atk / 236 Spe  
-Jolly Nature  
-- Swords Dance  
-- Close Combat  
-- Brave Bird  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Adamant Nature  
+- Wood Hammer 
+- Grassy Glide  
 - Knock Off  
+- Drain Punch
+
+Timburr @ Eviolite  
+Ability: Iron Fist 
+Level: 5  
+EVs: 196 Atk / 156 Def / 156 SpD  
+Adamant Nature  
+- Drain Punch  
+- Knock Off  
+- Mach Punch  
+- Bulk Up 
+
+Mareanie @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Recover  
+- Scald  
+- Toxic Spikes 
+- Sludge Bomb

@@ -1,22 +1,22 @@
-Shellder @ Eviolite  
-Ability: Skill Link  
+Onix @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
-Adamant Nature  
-- Icicle Spear  
-- Shell Smash  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- Earthquake  
+- Stealth Rock  
 - Rock Blast  
-- Liquidation  
+- Explosion 
 
-Chinchou @ Eviolite  
-Ability: Volt Absorb  
+Grookey @ Life Orb  
+Ability: Grassy Surge  
 Level: 5  
-EVs: 52 Def / 228 SpA / 220 Spe  
-Timid Nature  
-- Volt Switch  
-- Scald  
-- Ice Beam  
-- Thunderbolt  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature
+- Wood Hammer 
+- Grassy Glide  
+- Knock Off  
+- Drain Punch
 
 Tirtouga @ Berry Juice  
 Ability: Sturdy  
@@ -24,36 +24,37 @@ Level: 5
 EVs: 212 Atk / 92 Def / 180 Spe  
 Jolly Nature  
 - Shell Smash  
-- Waterfall  
+- Liquidation  
 - Stone Edge  
-- Zen Headbutt
+- Zen Headbutt 
 
-Magnemite @ Berry Juice  
-Ability: Sturdy  
+Elekid @ Life Orb  
+Ability: Vital Spirit  
+Level: 5  
+EVs: 12 Atk / 236 SpA / 236 Spe  
+Hasty Nature  
+- Thunderbolt  
+- Cross Chop  
+- Psychic  
+- Volt Switch
+
+Smoochum (F) @ Choice Scarf  
+Ability: Oblivious  
+Level: 5  
+EVs: 236 SpA / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Psychic  
+- Shadow Ball  
+- Trick
+
+Magnemite @ Choice Scarf  
+Ability: Analytic  
 Level: 5  
 EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
-- Flash Cannon  
 - Volt Switch  
 - Thunderbolt  
-- Recycle  
-
-Timburr @ Eviolite  
-Ability: Iron Fist  
-Level: 5  
-EVs: 196 Atk / 156 Def / 156 SpD  
-Adamant Nature  
-- Drain Punch  
-- Mach Punch  
-- Knock Off  
-- Defog  
-
-Porygon @ Eviolite  
-Ability: Download  
-Level: 5  
-EVs: 36 Def / 236 SpA / 196 Spe  
-Modest Nature  
-- Tri Attack  
-- Recover  
-- Ice Beam  
-- Psychic  
+- Flash Cannon  
+- Steel Beam

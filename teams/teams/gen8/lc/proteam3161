@@ -1,60 +1,59 @@
-Tirtouga @ Berry Juice  
-Ability: Sturdy  
+Grookey @ Berry Juice  
+Ability: Grassy Surge  
 Level: 5  
-EVs: 212 Atk / 92 Def / 180 Spe  
+EVs: 236 Atk / 36 Def / 236 Spe  
 Jolly Nature  
-- Shell Smash  
-- Waterfall  
-- Stone Edge  
-- Zen Headbutt
+- Wood Hammer  
+- Grassy Glide  
+- Swords Dance  
+- Acrobatics
 
-Amaura @ Choice Scarf  
-Ability: Refrigerate  
+Natu @ Life Orb  
+Ability: Magic Bounce  
 Level: 5  
-EVs: 60 HP / 220 SpA / 228 Spe  
-Modest Nature  
-IVs: 0 Atk  
-- Hyper Voice  
-- Earth Power  
-- Thunderbolt  
-- Ancient Power
-
-Dewpider @ Berry Juice  
-Ability: Water Bubble  
-Level: 5  
-EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
-Modest Nature  
-- Sticky Web  
-- Surf  
-- Icy Wind  
-- Giga Drain
-
-Abra @ Focus Sash  
-Ability: Magic Guard  
-Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
+EVs: 36 HP / 76 Def / 196 SpA / 196 Spe  
 Timid Nature  
 - Psychic  
+- Heat Wave  
 - Dazzling Gleam  
-- Energy Ball  
-- Shadow Ball  
+- Giga Drain
 
-Drilbur @ Eviolite  
-Ability: Mold Breaker  
+Ponyta @ Berry Juice  
+Ability: Flame Body  
 Level: 5  
-EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
+EVs: 236 Atk / 76 SpD / 196 Spe  
 Jolly Nature  
-- Earthquake  
-- Rapid Spin  
-- Rock Slide  
-- Stealth Rock  
+- Flare Blitz  
+- High Horsepower  
+- Wild Charge  
+- Flame Charge 
 
-Bunnelby @ Eviolite  
-Ability: Huge Power  
+Corphish @ Eviolite  
+Ability: Adaptability  
 Level: 5  
-EVs: 228 Atk / 132 Def / 148 SpD  
+EVs: 196 Atk / 76 Def / 236 Spe  
 Adamant Nature  
+- Aqua Jet  
+- Crabhammer  
+- Knock Off  
+- Swords Dance 
+
+Croagunk @ Eviolite  
+Ability: Dry Skin  
+Level: 5  
+EVs: 132 HP / 28 Atk / 116 Def / 108 SpA / 116 SpD  
+Quiet Nature  
+- Knock Off  
+- Sludge Bomb  
+- Vacuum Wave  
+- Drain Punch 
+
+Onix @ Eviolite  
+Ability: Rock Head  
+Level: 5  
+EVs: 236 Atk / 36 Def / 196 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Head Smash  
 - Earthquake  
-- Quick Attack  
-- U-turn  
-- Facade
+- Body Press

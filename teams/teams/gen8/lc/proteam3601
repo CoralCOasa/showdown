@@ -1,60 +1,61 @@
-Natu @ Eviolite  
-Ability: Magic Bounce  
+Vulpix @ Eviolite  
+Ability: Drought  
 Level: 5  
-EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
+EVs: 52 HP / 196 SpA / 236 Spe  
 Timid Nature  
 IVs: 0 Atk  
-- Psychic  
-- Heat Wave  
-- U-turn  
-- Roost  
+- Energy Ball  
+- Weather Ball  
+- Overheat  
+- Will-O-Wisp
 
-Dwebble @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 236 Atk / 236 Spe  
-Adamant Nature  
-- Shell Smash  
-- Rock Blast  
-- Earthquake  
-- Knock Off  
-
-Spritzee @ Eviolite  
-Ability: Aroma Veil  
-Level: 5  
-EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
-Bold Nature  
-- Moonblast  
-- Wish  
-- Protect  
-- Calm Mind  
-
-Mienfoo @ Eviolite  
-Ability: Regenerator  
+Mienfoo @ Choice Scarf  
+Ability: Reckless  
 Level: 5  
 EVs: 236 Atk / 36 Def / 236 Spe  
-Jolly Nature  
+Jolly Nature
+- High Jump Kick  
 - Knock Off  
 - U-turn  
-- High Jump Kick  
-- Fake Out  
+- Close Combat 
 
-Pawniard @ Eviolite  
-Ability: Defiant  
+Scraggy @ Berry Juice 
+Ability: Moxie  
 Level: 5  
-EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
-Jolly Nature  
-- Iron Head  
+EVs: 236 Atk / 36 SpD / 212 Spe  
+Adamant Nature  
+- Dragon Dance  
 - Knock Off  
-- Sucker Punch  
-- Stealth Rock  
+- High Jump Kick  
+- Drain Punch 
 
-Archen @ Berry Juice  
-Ability: Defeatist  
+Slowpoke @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 76 HP / 180 Atk / 196 Spe  
-Jolly Nature  
-- Stone Edge  
-- Dual Wingbeat  
-- Earthquake  
-- U-turn
+EVs: 116 HP / 76 Def / 116 SpA / 196 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Future Sight  
+- Slack Off  
+- Teleport
+
+Munchlax @ Berry Juice  
+Ability: Thick Fat  
+Level: 5  
+EVs: 236 Atk / 196 Def / 76 SpD  
+Impish Nature  
+- Double_Edge  
+- Earthquake 
+- Zen Headbutt  
+- Curse
+
+Carvanha @ Life Orb  
+Ability: Speed Boost  
+Level: 5  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+Adamant Nature  
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation

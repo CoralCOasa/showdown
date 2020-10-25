@@ -1,59 +1,60 @@
-Tirtouga @ Berry Juice  
-Ability: Sturdy  
+Timburr @ Eviolite  
+Ability: Guts  
 Level: 5  
-EVs: 212 Atk / 92 Def / 180 Spe  
-Jolly Nature  
-- Shell Smash  
-- Waterfall  
-- Stone Edge  
-- Zen Headbutt
-
-Pawniard @ Eviolite  
-Ability: Defiant  
-Level: 5  
-EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
-Jolly Nature  
-- Iron Head  
-- Knock Off  
-- Sucker Punch  
-- Stealth Rock  
-
-Grookey @ Eviolite  
-Ability: Grassy Surge  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
-Jolly Nature  
-- Grassy Glide  
-- Knock Off  
+EVs: 196 Atk / 156 Def / 156 SpD  
+Adamant Nature  
 - Drain Punch  
-- U-turn  
+- Knock Off  
+- Mach Punch  
+- Thunder Punch 
 
-Croagunk @ Eviolite  
-Ability: Dry Skin  
+Abra @ Focus Sash  
+Ability: Magic Guard  
 Level: 5  
-EVs: 116 Def / 188 SpA / 196 Spe  
+EVs: 236 SpA / 76 SpD / 196 Spe  
 Timid Nature  
-- Vacuum Wave  
-- Nasty Plot  
-- Sludge Wave  
-- Focus Blast  
+- Psychic  
+- Dazzling Gleam  
+- Shadow Ball  
+- Counter
 
-Meowth @ Life Orb  
-Ability: Technician  
+Drilbur @ Eviolite 
+Ability: Mold Breaker  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 196 Spe  
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
 Jolly Nature  
-- Fake Out  
-- Feint  
-- Aerial Ace  
-- Water Pulse  
+- Earthquake  
+- Rapid Spin  
+- Rock Slide  
+- Stealth Rock 
 
-Wingull @ Life Orb  
-Ability: Hydration  
+Smoochum (F) @ Eviolite 
+Ability: Oblivious  
 Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
+EVs: 236 SpA / 236 Spe  
 Timid Nature  
-- Scald  
-- Hurricane  
+IVs: 0 Atk  
+- Ice Beam  
+- Psychic  
+- Shadow Ball  
+- Nasty Plot
+
+Larvesta @ Heavy-Duty Boots  
+Ability: Flame Body  
+Level: 5  
+EVs: 76 HP / 76 Atk / 76 Def / 76 SpD / 196 Spe  
+Jolly Nature  
 - U-turn  
-- Air Slash  
+- Flare Blitz  
+- Morning Sun  
+- Will-O-Wisp
+
+Staryu @ Life Orb  
+Ability: Analytic  
+Level: 5  
+EVs: 76 Def / 196 SpA / 236 Spe  
+Timid Nature  
+- Hydro Pump 
+- Psychic  
+- Thunderbolt  
+- Ice Beam 

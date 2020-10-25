@@ -1,34 +1,44 @@
-Drilbur @ Eviolite  
-Ability: Mold Breaker  
+Dwebble @ Eviolite  
+Ability: Weak Armor  
 Level: 5  
-EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
-Jolly Nature  
-- Earthquake  
-- Rapid Spin  
-- Rock Slide  
+EVs: 116 HP / 76 Atk / 156 Def / 156 Spe  
+Impish Nature  
+- Rock Blast  
+- Knock Off  
 - Stealth Rock  
+- Spikes
 
-Bunnelby @ Eviolite  
-Ability: Huge Power  
+Munchlax @ Eviolite  
+Ability: Thick Fat  
 Level: 5  
-EVs: 228 Atk / 132 Def / 148 SpD  
-Adamant Nature  
+EVs: 236 Atk / 196 Def / 76 SpD  
+Impish Nature  
+- Body Slam 
 - Earthquake  
-- Quick Attack  
-- U-turn  
-- Facade
+- Rest  
+- Sleep Talk
 
-Trapinch @ Eviolite  
-Ability: Arena Trap  
+Farfetch’d-Galar @ Eviolite  
+Ability: Scrappy  
 Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Relaxed Nature  
-- Earthquake  
-- First Impression  
-- Superpower  
-- Giga Drain  
+EVs: 20 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Swords Dance  
+- Close Combat  
+- Brave Bird  
+- Knock Off
 
-Wingull @ Life Orb  
+Natu @ Life Orb  
+Ability: Magic Bounce  
+Level: 5  
+EVs: 36 HP / 76 Def / 196 SpA / 196 Spe  
+Timid Nature  
+- Psychic  
+- Heat Wave  
+- Dazzling Gleam  
+- Giga Drain
+
+Wingull @ Life Orb 
 Ability: Hydration  
 Level: 5  
 EVs: 36 Def / 236 SpA / 236 Spe  
@@ -36,24 +46,14 @@ Timid Nature
 - Scald  
 - Hurricane  
 - U-turn  
-- Air Slash  
+- Knock Off
 
-Ponyta-Galar @ Eviolite  
-Ability: Pastel Veil  
+Staryu @ Eviolite  
+Ability: Analytic  
 Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
+EVs: 156 Def / 116 SpA / 236 Spe  
 Timid Nature  
-- Mystical Fire  
-- Psychic  
-- Dazzling Gleam  
-- Calm Mind  
-
-Vulpix @ Choice Scarf  
-Ability: Drought  
-Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
-Timid Nature  
-- Energy Ball  
-- Weather Ball  
-- Overheat  
-- Fire Blast  
+- Hydro Pump 
+- Thunderbolt  
+- Ice Beam  
+- Psychic 

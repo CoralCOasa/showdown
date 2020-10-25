@@ -1,60 +1,59 @@
-Foongus @ Eviolite  
-Ability: Regenerator  
+Tirtouga @ Eviolite  
+Ability: Solid Rock  
 Level: 5  
-EVs: 124 HP / 156 Def / 156 SpD  
-Bold Nature  
-- Giga Drain  
-- Spore  
-- Sludge Bomb  
-- Synthesis  
-
-Diglett @ Life Orb  
-Ability: Arena Trap  
-Level: 5  
-EVs: 36 HP / 236 Atk / 236 Spe  
+EVs: 4 HP / 132 Atk / 92 Def / 76 SpD / 180 Spe  
 Jolly Nature  
-- Earthquake  
-- Sucker Punch  
-- Rock Slide  
-- Stealth Rock  
+- Shell Smash  
+- Waterfall 
+- Stone Edge  
+- Earthquake
 
-Zigzagoon @ Berry Juice  
-Ability: Quick Feet  
+Tyrunt @ Eviolite  
+Ability: Strong Jaw  
 Level: 5  
-EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
-Adamant Nature  
-- Extreme Speed  
-- Belly Drum  
-- Thief  
-- Seed Bomb  
+EVs: 204 Atk / 76 SpD / 212 Spe  
+Jolly Nature  
+- Rock Blast 
+- Close Combat  
+- Psychic Fangs  
+- Dragon Dance
 
-Amaura @ Choice Scarf  
-Ability: Refrigerate  
+Porygon @ Eviolite  
+Ability: Download  
 Level: 5  
-EVs: 60 HP / 220 SpA / 228 Spe  
+EVs: 36 Def / 236 SpA / 196 Spe  
 Modest Nature  
-IVs: 0 Atk  
-- Hyper Voice  
-- Earth Power  
-- Thunderbolt  
-- Ancient Power
+- Tri Attack  
+- Recover  
+- Ice Beam  
+- Thunderbolt
 
-Ponyta @ Eviolite  
-Ability: Flame Body  
+Farfetch’d-Galar @ Eviolite  
+Ability: Scrappy  
 Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
+EVs: 20 HP / 236 Atk / 236 Spe  
 Jolly Nature  
-- Flare Blitz  
-- High Horsepower  
-- Morning Sun  
-- Wild Charge  
+- Swords Dance  
+- Close Combat  
+- Brave Bird  
+- Knock Off
 
-Ferroseed @ Eviolite  
-Ability: Iron Barbs  
+Scorbunny @ Berry Juice 
+Ability: Libero  
 Level: 5  
-EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
-Impish Nature  
+EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
+Jolly Nature  
+- High Jump Kick  
+- U-turn  
+- Blaze Kick 
+- Gunk Shot
+
+Tirtouga @ Eviolite  
+Ability: Solid Rock  
+Level: 5  
+EVs: 164 HP / 52 Atk / 92 Def / 156 SpD / 20 Spe  
+Careful Nature  
+- Stealth Rock  
+- Stone Edge  
 - Knock Off  
-- Thunder Wave  
-- Spikes  
-- Giga Drain
+- Aqua Jet

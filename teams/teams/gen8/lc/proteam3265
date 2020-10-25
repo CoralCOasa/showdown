@@ -1,42 +1,43 @@
-Bunnelby @ Eviolite  
-Ability: Huge Power  
+Carvanha @ Life Orb  
+Ability: Speed Boost  
 Level: 5  
-EVs: 228 Atk / 132 Def / 148 SpD  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
 Adamant Nature  
-- Earthquake  
-- Quick Attack  
-- U-turn  
-- Facade
+- Crunch  
+- Psychic Fangs  
+- Protect  
+- Liquidation
 
-Mareanie @ Eviolite  
+Slowpoke @ Eviolite  
 Ability: Regenerator  
 Level: 5  
-EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
-Bold Nature  
-- Recover  
+EVs: 116 HP / 76 Def / 116 SpA / 196 SpD  
+Calm Nature  
+IVs: 0 Atk  
 - Scald  
-- Toxic Spikes  
-- Sludge Bomb  
+- Psychic 
+- Slack Off  
+- Teleport
 
-Pawniard @ Eviolite  
-Ability: Defiant  
+Vullaby @ Eviolite  
+Ability: Weak Armor  
 Level: 5  
-EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
-Jolly Nature  
-- Iron Head  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Adamant Nature  
 - Knock Off  
-- Sucker Punch  
-- Stealth Rock  
+- Brave Bird  
+- U-turn  
+- Heat Wave
 
-Koffing @ Eviolite  
-Ability: Levitate  
+Wingull @ Life Orb 
+Ability: Hydration  
 Level: 5  
-EVs: 36 HP / 236 Def / 236 SpD  
-Bold Nature  
-- Will-O-Wisp  
-- Toxic Spikes  
-- Pain Split  
-- Sludge Bomb  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Timid Nature  
+- Scald  
+- Hurricane  
+- U-turn  
+- Knock Off
 
 Shellder @ Eviolite  
 Ability: Skill Link  
@@ -46,14 +47,14 @@ Adamant Nature
 - Icicle Spear  
 - Shell Smash  
 - Rock Blast  
-- Liquidation  
+- Liquidation 
 
-Vullaby @ Berry Juice  
-Ability: Weak Armor  
+Abra @ Life Orb  
+Ability: Magic Guard  
 Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Jolly Nature  
-- Knock Off  
-- Brave Bird  
-- U-turn  
-- Defog  
+EVs: 36 Atk / 236 SpA / 196 Spe  
+Hasty Nature  
+- Psychic  
+- Dazzling Gleam  
+- Fire Punch  
+- Shadow Ball 

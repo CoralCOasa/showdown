@@ -1,13 +1,3 @@
-Trapinch @ Eviolite  
-Ability: Arena Trap  
-Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Relaxed Nature  
-- Earthquake  
-- First Impression  
-- Superpower  
-- Giga Drain  
-
 Onix @ Berry Juice  
 Ability: Sturdy  
 Level: 5  
@@ -16,44 +6,54 @@ Jolly Nature
 - Earthquake  
 - Stealth Rock  
 - Rock Blast  
-- Dragon Dance  
+- Dragon Dance
 
-Vulpix @ Choice Scarf  
-Ability: Drought  
+Drilbur @ Berry Juice  
+Ability: Mold Breaker  
 Level: 5  
-EVs: 52 HP / 196 SpA / 236 Spe  
-Timid Nature  
-- Energy Ball  
-- Weather Ball  
-- Overheat  
-- Fire Blast  
-
-Bunnelby @ Eviolite  
-Ability: Huge Power  
-Level: 5  
-EVs: 228 Atk / 132 Def / 148 SpD  
-Adamant Nature  
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
+Jolly Nature  
 - Earthquake  
-- Quick Attack  
-- U-turn  
-- Facade
+- Rapid Spin  
+- Rock Slide  
+- Stealth Rock 
 
-Ponyta-Galar @ Eviolite  
-Ability: Pastel Veil  
+Abra @ Life Orb  
+Ability: Magic Guard  
 Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-- Mystical Fire  
+EVs: 36 Atk / 236 SpA / 196 Spe  
+Hasty Nature  
 - Psychic  
 - Dazzling Gleam  
-- Calm Mind  
+- Fire Punch  
+- Energy Ball
 
-Mienfoo @ Eviolite  
-Ability: Regenerator  
+Munchlax @ Eviolite  
+Ability: Thick Fat  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
-Jolly Nature  
-- Knock Off  
-- U-turn  
+EVs: 236 Atk / 196 Def / 76 SpD  
+Impish Nature  
+- Facade  
+- Earthquake  
+- Rest  
+- Sleep Talk
+
+Elekid @ Life Orb  
+Ability: Vital Spirit  
+Level: 5  
+EVs: 12 Atk / 236 SpA / 236 Spe  
+Hasty Nature  
+- Thunderbolt  
+- Cross Chop  
+- Psychic  
+- Volt Switch
+
+Scorbunny @ Choice Scarf  
+Ability: Libero  
+Level: 5  
+EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
+Adamant Nature  
 - High Jump Kick  
-- Fake Out  
+- Gunk Shot  
+- Double-Edge 
+- U-turn

@@ -1,61 +1,59 @@
-Staryu @ Eviolite  
-Ability: Natural Cure  
+Dewpider @ Eviolite  
+Ability: Water Bubble  
 Level: 5  
-EVs: 116 HP / 156 Def / 236 Spe  
-Timid Nature  
-- Rapid Spin  
-- Thunderbolt  
-- Recover  
-- Scald  
-
-Shellder @ Eviolite  
-Ability: Skill Link  
-Level: 5  
-EVs: 236 Atk / 76 SpD / 196 Spe  
+EVs: 52 HP / 196 Atk / 20 Def / 20 SpD / 220 Spe  
 Adamant Nature  
-- Icicle Spear  
-- Shell Smash  
-- Rock Blast  
 - Liquidation  
+- Leech Life  
+- Magic Coat  
+- Sticky Web
 
-Grookey @ Eviolite  
-Ability: Grassy Surge  
+Vullaby @ Berry Juice  
+Ability: Weak Armor  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
-Jolly Nature  
-- Grassy Glide  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Jolly Nature
 - Knock Off  
-- Drain Punch  
+- Brave Bird  
 - U-turn  
+- Defog 
 
-Natu @ Eviolite  
-Ability: Magic Bounce  
+Wingull @ Berry Juice  
+Ability: Hydration  
 Level: 5  
-EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
+EVs: 36 Def / 236 SpA / 236 Spe  
 Timid Nature  
-IVs: 0 Atk  
-- Psychic  
-- Heat Wave  
+- Scald  
+- Hurricane  
 - U-turn  
-- Roost  
+- Air Slash 
 
-Amaura @ Choice Scarf  
-Ability: Refrigerate  
+Munchlax @ Eviolite  
+Ability: Thick Fat  
 Level: 5  
-EVs: 60 HP / 220 SpA / 228 Spe  
-Modest Nature  
-IVs: 0 Atk  
-- Hyper Voice  
-- Earth Power  
-- Thunderbolt  
-- Ancient Power
-
-Onix @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
-Jolly Nature  
+EVs: 236 Atk / 196 Def / 76 SpD  
+Impish Nature  
+- Body Slam 
 - Earthquake  
-- Stealth Rock  
-- Rock Blast  
-- Dragon Dance  
+- Rest  
+- Sleep Talk
+
+Corphish @ Eviolite  
+Ability: Adaptability  
+Level: 5  
+EVs: 196 Atk / 76 Def / 236 Spe  
+Adamant Nature  
+- Aqua Jet  
+- Crabhammer  
+- Knock Off  
+- Swords Dance 
+
+Ponyta-Galar @ Eviolite  
+Ability: Pastel Veil  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Mystical Fire  
+- Psychic  
+- Dazzling Gleam  
+- Calm Mind

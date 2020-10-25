@@ -1,14 +1,15 @@
-Porygon @ Eviolite  
-Ability: Download  
+Mareanie @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 36 Def / 236 SpA / 196 Spe  
-Modest Nature  
-- Tri Attack  
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+Bold Nature  
+IVs: 0 Atk  
 - Recover  
-- Ice Beam  
-- Psychic  
+- Scald  
+- Toxic Spikes 
+- Sludge Bomb
 
-Scorbunny @ Berry Juice  
+Scorbunny @ Eviolite  
 Ability: Libero  
 Level: 5  
 EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
@@ -16,44 +17,45 @@ Jolly Nature
 - High Jump Kick  
 - U-turn  
 - Blaze Kick  
-- Gunk Shot  
+- Gunk Shot 
 
-Chinchou @ Eviolite  
-Ability: Volt Absorb  
+Farfetch’d-Galar @ Choice Scarf  
+Ability: Scrappy  
 Level: 5  
-EVs: 52 Def / 228 SpA / 220 Spe  
-Timid Nature  
-- Volt Switch  
-- Scald  
-- Ice Beam  
-- Thunderbolt  
+EVs: 20 HP / 236 Atk / 236 Spe  
+Jolly Nature
+- Close Combat  
+- Brave Bird  
+- Knock Off  
+- Poison Jab 
 
 Koffing @ Eviolite  
-Ability: Levitate  
+Ability: Levitate 
 Level: 5  
 EVs: 36 HP / 236 Def / 236 SpD  
 Bold Nature  
-- Will-O-Wisp  
+- Flamethrower 
 - Toxic Spikes  
 - Pain Split  
-- Sludge Bomb  
+- Clear Smog
 
-Foongus @ Eviolite  
-Ability: Regenerator  
+Vullaby @ Choice Scarf  
+Ability: Overcoat  
 Level: 5  
-EVs: 124 HP / 156 Def / 156 SpD  
-Bold Nature  
-- Giga Drain  
-- Spore  
-- Sludge Bomb  
-- Synthesis  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Adamant Nature
+- Brave Bird  
+- Knock Off  
+- U-turn  
+- Defog 
 
-Meowth @ Life Orb  
-Ability: Technician  
+Smoochum (F) @ Eviolite 
+Ability: Oblivious  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 196 Spe  
-Jolly Nature  
-- Fake Out  
-- Feint  
-- Aerial Ace  
-- Water Pulse  
+EVs: 236 SpA / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Psychic  
+- Shadow Ball  
+- Nasty Plot

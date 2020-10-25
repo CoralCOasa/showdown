@@ -1,60 +1,60 @@
-Bunnelby @ Eviolite  
-Ability: Huge Power  
+Zigzagoon @ Berry Juice  
+Ability: Pickup  
 Level: 5  
-EVs: 228 Atk / 132 Def / 148 SpD  
+EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
 Adamant Nature  
-- Earthquake  
-- Quick Attack  
-- U-turn  
-- Facade
+- Belly Drum  
+- Extreme Speed  
+- Thief  
+- Seed Bomb
 
-Amaura @ Choice Scarf  
-Ability: Refrigerate  
+Smoochum (F) @ Choice Scarf  
+Ability: Oblivious  
 Level: 5  
-EVs: 60 HP / 220 SpA / 228 Spe  
-Modest Nature  
+EVs: 236 SpA / 236 Spe  
+Modest Nature
 IVs: 0 Atk  
-- Hyper Voice  
-- Earth Power  
-- Thunderbolt  
-- Ancient Power
+- Ice Beam  
+- Psychic  
+- Shadow Ball  
+- Trick
 
-Dewpider @ Berry Juice  
-Ability: Water Bubble  
+Natu @ Life Orb  
+Ability: Magic Bounce  
 Level: 5  
-EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
-Modest Nature  
-- Sticky Web  
-- Surf  
-- Icy Wind  
+EVs: 36 HP / 76 Def / 196 SpA / 196 Spe  
+Timid Nature  
+- Psychic  
+- Heat Wave  
+- Dazzling Gleam  
 - Giga Drain
 
-Munchlax @ Berry Juice  
-Ability: Thick Fat  
+Shellder @ Eviolite  
+Ability: Skill Link  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 SpD  
+EVs: 236 Atk / 76 SpD / 196 Spe  
 Adamant Nature  
-- Body Slam  
-- Earthquake  
-- Curse  
-- Recycle
+- Icicle Spear  
+- Shell Smash  
+- Rock Blast  
+- Ice Shard
 
-Staryu @ Eviolite  
-Ability: Natural Cure  
+Natu @ Choice Scarf  
+Ability: Magic Bounce  
 Level: 5  
-EVs: 116 HP / 156 Def / 236 Spe  
-Timid Nature  
-- Rapid Spin  
-- Thunderbolt  
-- Recover  
-- Scald  
+EVs: 36 HP / 76 Def / 196 SpA / 196 Spe  
+Timid Nature
+- Psychic  
+- Heat Wave  
+- Giga Drain 
+- Trick
 
-Koffing @ Eviolite  
-Ability: Levitate  
+Foongus @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 36 HP / 236 Def / 236 SpD  
+EVs: 124 HP / 156 Def / 156 SpD  
 Bold Nature  
-- Will-O-Wisp  
-- Toxic Spikes  
-- Pain Split  
+- Giga Drain  
+- Spore  
 - Sludge Bomb  
+- Synthesis

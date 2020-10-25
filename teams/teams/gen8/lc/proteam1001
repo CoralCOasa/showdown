@@ -1,4 +1,14 @@
-Scorbunny @ Berry Juice  
+Mudbray @ Berry Juice  
+Ability: Stamina  
+Level: 5  
+EVs: 116 HP / 36 Atk / 196 Def / 156 Spe  
+Adamant Nature  
+- Earthquake  
+- Stealth Rock  
+- Rock Slide  
+- Heavy Slam 
+
+Scorbunny @ Berry Juice 
 Ability: Libero  
 Level: 5  
 EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
@@ -6,50 +16,39 @@ Jolly Nature
 - High Jump Kick  
 - U-turn  
 - Blaze Kick  
-- Gunk Shot  
+- Sucker Punch
 
-Ferroseed @ Eviolite  
-Ability: Iron Barbs  
+Dwebble @ Eviolite  
+Ability: Weak Armor  
 Level: 5  
-EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
+EVs: 116 HP / 76 Atk / 156 Def / 156 Spe  
 Impish Nature  
+- Rock Blast  
 - Knock Off  
-- Thunder Wave  
-- Spikes  
-- Giga Drain
+- Stealth Rock  
+- Spikes
 
-Dwebble @ Berry Juice  
+Onix @ Berry Juice  
 Ability: Sturdy  
 Level: 5  
-EVs: 236 Atk / 236 Spe  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- Earthquake  
+- Stealth Rock  
+- Rock Blast  
+- Taunt
+
+Shellder @ Eviolite  
+Ability: Skill Link  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
 Adamant Nature  
+- Icicle Spear  
 - Shell Smash  
 - Rock Blast  
-- Earthquake  
-- Knock Off  
+- Ice Shard
 
-Carvanha @ Life Orb  
-Ability: Speed Boost  
-Level: 5  
-EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
-Adamant Nature  
-- Crunch  
-- Psychic Fangs  
-- Protect  
-- Liquidation  
-
-Amaura @ Choice Scarf  
-Ability: Refrigerate  
-Level: 5  
-EVs: 60 HP / 220 SpA / 228 Spe  
-Modest Nature  
-IVs: 0 Atk  
-- Hyper Voice  
-- Earth Power  
-- Thunderbolt  
-- Ancient Power
-
-Drilbur @ Eviolite  
+Drilbur @ Berry Juice  
 Ability: Mold Breaker  
 Level: 5  
 EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
@@ -57,4 +56,4 @@ Jolly Nature
 - Earthquake  
 - Rapid Spin  
 - Rock Slide  
-- Stealth Rock  
+- Stealth Rock 

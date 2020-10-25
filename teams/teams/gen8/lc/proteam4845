@@ -1,60 +1,60 @@
-Ponyta-Galar @ Eviolite  
-Ability: Pastel Veil  
+Porygon @ Eviolite  
+Ability: Download  
 Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-- Mystical Fire  
+EVs: 156 HP / 36 Def / 236 SpA / 36 Spe  
+Modest Nature  
+- Tri Attack  
 - Psychic  
-- Dazzling Gleam  
-- Calm Mind  
+- Thunderbolt  
+- Recover
 
-Dwebble @ Berry Juice  
-Ability: Sturdy  
+Spritzee @ Berry Juice  
+Ability: Aroma Veil  
 Level: 5  
-EVs: 236 Atk / 236 Spe  
-Adamant Nature  
-- Shell Smash  
-- Rock Blast  
-- Earthquake  
-- Knock Off  
-
-Mienfoo @ Eviolite  
-Ability: Regenerator  
-Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
-Jolly Nature  
-- Knock Off  
-- U-turn  
-- High Jump Kick  
-- Fake Out  
-
-Natu @ Eviolite  
-Ability: Magic Bounce  
-Level: 5  
-EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
-Timid Nature  
+EVs: 52 HP / 116 Def / 252 SpA / 76 SpD / 12 Spe  
+Modest Nature  
 IVs: 0 Atk  
+- Moonblast  
 - Psychic  
-- Heat Wave  
-- U-turn  
-- Roost  
+- Energy Ball  
+- Nasty Plot
 
-Grookey @ Eviolite  
-Ability: Grassy Surge  
+Corphish @ Eviolite  
+Ability: Adaptability  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
-Jolly Nature  
-- Grassy Glide  
+EVs: 196 Atk / 76 Def / 236 Spe  
+Adamant Nature  
+- Aqua Jet  
+- Crabhammer  
 - Knock Off  
-- Drain Punch  
-- U-turn  
+- Swords Dance 
 
 Vullaby @ Berry Juice  
 Ability: Weak Armor  
 Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
+EVs: 76 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Nasty Plot  
+- Air Slash  
+- Heat Wave  
+- Dark Pulse
+
+Larvesta @ Choice Scarf  
+Ability: Flame Body  
+Level: 5  
+EVs: 76 HP / 236 Atk / 196 Spe  
 Jolly Nature  
-- Knock Off  
-- Brave Bird  
 - U-turn  
-- Defog  
+- Flare Blitz  
+- Wild Charge  
+- Leech Life 
+
+Mienfoo @ Berry Juice  
+Ability: Reckless  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Swords Dance  
+- High Jump Kick  
+- Acrobatics  
+- Knock Off

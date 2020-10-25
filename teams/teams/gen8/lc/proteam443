@@ -1,59 +1,59 @@
-Scraggy @ Eviolite  
-Ability: Moxie  
+Dwebble @ Berry Juice  
+Ability: Sturdy  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 212 Spe  
+EVs: 236 Atk / 236 Spe  
 Adamant Nature  
-- Dragon Dance  
+- Rock Blast  
+- Earthquake 
 - Knock Off  
-- Drain Punch  
-- High Jump Kick  
+- Shell Smash
 
-Ferroseed @ Eviolite  
+Ferroseed @ Eviolite 
 Ability: Iron Barbs  
 Level: 5  
 EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
 Impish Nature  
 - Knock Off  
 - Thunder Wave  
-- Spikes  
-- Giga Drain
+- Spikes 
+- Bullet Seed
 
-Abra @ Focus Sash  
-Ability: Magic Guard  
+Archen @ Berry Juice  
+Ability: Defeatist  
 Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-- Psychic  
-- Dazzling Gleam  
-- Energy Ball  
-- Shadow Ball  
+EVs: 76 HP / 180 Atk / 196 Spe  
+Jolly Nature  
+- Stone Edge  
+- Dual Wingbeat  
+- Earthquake  
+- U-turn
 
-Corphish @ Eviolite  
-Ability: Adaptability  
+Shellder @ Eviolite  
+Ability: Skill Link  
 Level: 5  
-EVs: 196 Atk / 76 Def / 236 Spe  
+EVs: 236 Atk / 76 SpD / 196 Spe  
 Adamant Nature  
-- Aqua Jet  
-- Crabhammer  
-- Knock Off  
-- Dragon Dance  
+- Icicle Spear  
+- Shell Smash  
+- Rock Blast  
+- Liquidation 
 
-Vullaby @ Berry Juice  
-Ability: Weak Armor  
+Larvesta @ Choice Scarf  
+Ability: Flame Body  
 Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Jolly Nature  
-- Knock Off  
-- Brave Bird  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Adamant Nature
 - U-turn  
-- Defog  
+- Flare Blitz  
+- Wild Charge  
+- Leech Life 
 
-Pawniard @ Eviolite  
-Ability: Defiant  
+Foongus @ Eviolite  
+Ability: Regenerator  
 Level: 5  
-EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
-Jolly Nature  
-- Iron Head  
-- Knock Off  
-- Sucker Punch  
-- Stealth Rock  
+EVs: 124 HP / 156 Def / 156 SpD  
+Bold Nature  
+- Giga Drain  
+- Spore  
+- Sludge Bomb  
+- Synthesis

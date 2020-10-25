@@ -1,54 +1,55 @@
-Vullaby @ Berry Juice  
+Onix @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- Earthquake  
+- Stealth Rock  
+- Rock Blast  
+- Dragon Dance
+
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
+Level: 5  
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
+Bold Nature  
+- Moonblast  
+- Wish  
+- Protect  
+- Calm Mind 
+
+Vullaby @ Eviolite  
 Ability: Weak Armor  
 Level: 5  
 EVs: 236 Atk / 76 Def / 196 Spe  
-Jolly Nature  
+Adamant Nature  
 - Knock Off  
 - Brave Bird  
 - U-turn  
-- Defog  
+- Defog 
 
-Trapinch @ Eviolite  
-Ability: Arena Trap  
+Chinchou @ Eviolite  
+Ability: Volt Absorb  
 Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Relaxed Nature  
-- Earthquake  
-- First Impression  
-- Superpower  
-- Giga Drain  
-
-Foongus @ Eviolite  
-Ability: Regenerator  
-Level: 5  
-EVs: 124 HP / 156 Def / 156 SpD  
+EVs: 236 HP / 212 Def / 60 Spe  
 Bold Nature  
-- Giga Drain  
-- Spore  
-- Sludge Bomb  
-- Synthesis  
-
-Bunnelby @ Eviolite  
-Ability: Huge Power  
-Level: 5  
-EVs: 228 Atk / 132 Def / 148 SpD  
-Adamant Nature  
-- Earthquake  
-- Quick Attack  
-- U-turn  
-- Facade
-
-Magnemite @ Berry Juice  
-Ability: Sturdy  
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
-Timid Nature  
-- Flash Cannon  
+IVs: 0 Atk  
 - Volt Switch  
-- Thunderbolt  
-- Recycle  
+- Scald  
+- Ice Beam  
+- Thunder Wave 
 
-Mudbray @ Eviolite  
+Pawniard @ Eviolite  
+Ability: Defiant  
+Level: 5  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Iron Head  
+- Knock Off  
+- Sucker Punch  
+- Swords Dance 
+
+Mudbray @ Eviolite 
 Ability: Stamina  
 Level: 5  
 EVs: 116 HP / 36 Atk / 196 Def / 156 Spe  
@@ -56,4 +57,4 @@ Adamant Nature
 - Earthquake  
 - Stealth Rock  
 - Rock Slide  
-- Heavy Slam  
+- Close Combat

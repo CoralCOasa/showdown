@@ -1,59 +1,60 @@
-Bunnelby @ Eviolite  
-Ability: Huge Power  
+Omanyte @ Eviolite  
+Ability: Shell Armor  
 Level: 5  
-EVs: 228 Atk / 132 Def / 148 SpD  
-Adamant Nature  
-- Earthquake  
-- Quick Attack  
-- U-turn  
-- Facade
+EVs: 76 HP / 196 SpA / 236 Spe  
+Modest Nature  
+- Shell Smash  
+- Hydro Pump  
+- Ice Beam  
+- Earth Power
 
-Vulpix @ Choice Scarf  
+Vulpix @ Life Orb  
 Ability: Drought  
 Level: 5  
 EVs: 52 HP / 196 SpA / 236 Spe  
-Timid Nature  
+Hasty Nature  
 - Energy Ball  
 - Weather Ball  
-- Overheat  
-- Fire Blast  
+- Extrasensory 
+- Quick Attack
 
-Larvesta @ Eviolite  
-Ability: Flame Body  
+Shellder @ Eviolite  
+Ability: Skill Link  
 Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
-Jolly Nature  
-- U-turn  
-- Flare Blitz  
-- Morning Sun  
-- Will-O-Wisp  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Adamant Nature  
+- Icicle Spear  
+- Shell Smash  
+- Rock Blast  
+- Ice Shard
 
-Onix @ Berry Juice  
-Ability: Sturdy  
+Mudbray @ Eviolite  
+Ability: Stamina  
 Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
-Jolly Nature  
+EVs: 116 HP / 196 Atk / 36 Def / 156 Spe  
+Adamant Nature  
 - Earthquake  
 - Stealth Rock  
-- Rock Blast  
-- Dragon Dance  
+- Rock Slide 
+- Heavy Slam
 
-Mienfoo @ Eviolite  
-Ability: Regenerator  
+Natu @ Life Orb  
+Ability: Magic Bounce  
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
-Jolly Nature  
-- Knock Off  
-- U-turn  
-- High Jump Kick  
-- Fake Out  
-
-Wingull @ Life Orb  
-Ability: Hydration  
-Level: 5  
-EVs: 36 Def / 236 SpA / 236 Spe  
+EVs: 36 HP / 76 Def / 196 SpA / 196 Spe  
 Timid Nature  
-- Scald  
-- Hurricane  
-- U-turn  
-- Air Slash  
+- Psychic  
+- Heat Wave  
+- Dazzling Gleam  
+- Giga Drain
+
+Smoochum (F) @ Life Orb  
+Ability: Oblivious  
+Level: 5  
+EVs: 236 SpA / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Psychic  
+- Shadow Ball  
+- Nasty Plot

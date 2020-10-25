@@ -1,32 +1,42 @@
-Dwebble @ Berry Juice  
-Ability: Sturdy  
+Pawniard @ Eviolite  
+Ability: Defiant  
 Level: 5  
-EVs: 236 Atk / 236 Spe  
-Adamant Nature  
-- Shell Smash  
-- Rock Blast  
-- Earthquake  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Iron Head  
 - Knock Off  
+- Sucker Punch  
+- Stealth Rock 
 
-Scraggy @ Eviolite  
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 76 HP / 196 Def / 196 SpD  
+Impish Nature  
+- High Jump Kick 
+- Knock Off  
+- U-turn  
+- Fake Out
+
+Scraggy @ Berry Juice 
 Ability: Moxie  
 Level: 5  
 EVs: 236 Atk / 36 SpD / 212 Spe  
 Adamant Nature  
 - Dragon Dance  
 - Knock Off  
-- Drain Punch  
 - High Jump Kick  
+- Stone Edge
 
-Drilbur @ Eviolite  
-Ability: Mold Breaker  
+Staryu @ Eviolite  
+Ability: Analytic  
 Level: 5  
-EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
-Jolly Nature  
-- Earthquake  
-- Rapid Spin  
-- Rock Slide  
-- Stealth Rock  
+EVs: 156 Def / 116 SpA / 236 Spe  
+Timid Nature  
+- Hydro Pump 
+- Thunderbolt  
+- Ice Beam  
+- Recover
 
 Magnemite @ Berry Juice  
 Ability: Sturdy  
@@ -35,25 +45,15 @@ EVs: 36 Def / 236 SpA / 236 Spe
 Timid Nature  
 - Flash Cannon  
 - Volt Switch  
-- Thunderbolt  
+- Thunderbolt 
 - Recycle  
 
-Mareanie @ Eviolite  
-Ability: Regenerator  
+Vullaby @ Eviolite 
+Ability: Weak Armor  
 Level: 5  
-EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
-Bold Nature  
-- Recover  
-- Scald  
-- Toxic Spikes  
-- Sludge Bomb  
-
-Foongus @ Eviolite  
-Ability: Regenerator  
-Level: 5  
-EVs: 124 HP / 156 Def / 156 SpD  
-Bold Nature  
-- Giga Drain  
-- Spore  
-- Sludge Bomb  
-- Synthesis  
+EVs: 76 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Nasty Plot  
+- Air Slash  
+- Heat Wave  
+- Dark Pulse

@@ -1,15 +1,25 @@
-Amaura @ Choice Scarf  
-Ability: Refrigerate  
+Wingull @ Berry Juice  
+Ability: Hydration  
 Level: 5  
-EVs: 60 HP / 220 SpA / 228 Spe  
-Modest Nature  
-IVs: 0 Atk  
-- Hyper Voice  
-- Earth Power  
-- Thunderbolt  
-- Ancient Power
+EVs: 36 Def / 236 SpA / 236 Spe  
+Timid Nature  
+- Scald  
+- Hurricane  
+- U-turn  
+- Knock Off
 
-Scorbunny @ Berry Juice  
+Smoochum (F) @ Choice Scarf  
+Ability: Oblivious  
+Level: 5  
+EVs: 236 SpA / 236 Spe  
+Modest Nature
+IVs: 0 Atk  
+- Ice Beam  
+- Psychic  
+- Shadow Ball  
+- Trick
+
+Scorbunny @ Berry Juice 
 Ability: Libero  
 Level: 5  
 EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
@@ -17,44 +27,34 @@ Jolly Nature
 - High Jump Kick  
 - U-turn  
 - Blaze Kick  
-- Gunk Shot  
+- Gunk Shot 
 
-Bunnelby @ Eviolite  
-Ability: Huge Power  
+Croagunk @ Eviolite  
+Ability: Dry Skin  
 Level: 5  
-EVs: 228 Atk / 132 Def / 148 SpD  
-Adamant Nature  
-- Earthquake  
-- Quick Attack  
-- U-turn  
-- Facade
+EVs: 132 HP / 28 Atk / 116 Def / 108 SpA / 116 SpD  
+Quiet Nature  
+- Knock Off  
+- Sludge Bomb  
+- Vacuum Wave  
+- Sucker Punch 
 
 Meowth @ Life Orb  
 Ability: Technician  
 Level: 5  
-EVs: 236 Atk / 36 SpD / 196 Spe  
+EVs: 36 HP / 236 Atk / 36 SpD / 196 Spe  
 Jolly Nature  
 - Fake Out  
 - Feint  
-- Aerial Ace  
-- Water Pulse  
-
-Vullaby @ Berry Juice  
-Ability: Weak Armor  
-Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Jolly Nature  
 - Knock Off  
-- Brave Bird  
-- U-turn  
-- Defog  
+- Double-Edge 
 
-Larvesta @ Eviolite  
-Ability: Flame Body  
+Pawniard @ Life Orb  
+Ability: Defiant  
 Level: 5  
-EVs: 76 HP / 236 Atk / 196 Spe  
+EVs: 236 Atk / 36 Def / 36 SpD / 196 Spe  
 Jolly Nature  
-- U-turn  
-- Flare Blitz  
-- Morning Sun  
-- Will-O-Wisp  
+- Iron Head  
+- Knock Off  
+- Sucker Punch  
+- Brick Break 

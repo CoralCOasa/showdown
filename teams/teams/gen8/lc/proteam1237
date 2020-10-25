@@ -1,59 +1,59 @@
-Bunnelby @ Eviolite  
-Ability: Huge Power  
+Timburr @ Eviolite  
+Ability: Guts  
 Level: 5  
-EVs: 228 Atk / 132 Def / 148 SpD  
+EVs: 196 Atk / 156 Def / 156 SpD  
 Adamant Nature  
-- Earthquake  
-- Quick Attack  
-- U-turn  
-- Facade
+- Drain Punch  
+- Knock Off  
+- Mach Punch  
+- Bulk Up 
 
-Ponyta-Galar @ Eviolite  
-Ability: Pastel Veil  
+Natu @ Eviolite  
+Ability: Magic Bounce  
 Level: 5  
-EVs: 236 SpA / 76 SpD / 196 Spe  
-Timid Nature  
-- Mystical Fire  
+EVs: 196 HP / 236 Def / 76 SpD  
+Bold Nature  
 - Psychic  
-- Dazzling Gleam  
-- Calm Mind  
+- Heat Wave  
+- U-turn 
+- Roost
 
-Archen @ Berry Juice  
-Ability: Defeatist  
+Scorbunny @ Eviolite  
+Ability: Libero  
 Level: 5  
-EVs: 76 HP / 180 Atk / 196 Spe  
+EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe  
 Jolly Nature  
-- Stone Edge  
-- Dual Wingbeat  
-- Earthquake  
-- U-turn
+- High Jump Kick  
+- U-turn  
+- Sucker Punch  
+- Gunk Shot
 
-Foongus @ Eviolite  
-Ability: Regenerator  
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
 Level: 5  
-EVs: 124 HP / 156 Def / 156 SpD  
-Bold Nature  
-- Giga Drain  
-- Spore  
-- Sludge Bomb  
-- Synthesis  
+EVs: 84 HP / 188 Def / 84 SpA / 148 SpD  
+Sassy Nature  
+- Knock Off  
+- Thunder Wave  
+- Spikes 
+- Giga Drain
 
-Trapinch @ Eviolite  
-Ability: Arena Trap  
+Porygon @ Eviolite  
+Ability: Download  
 Level: 5  
-EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
-Relaxed Nature  
-- Earthquake  
-- First Impression  
-- Superpower  
-- Giga Drain  
-
-Mareanie @ Eviolite  
-Ability: Regenerator  
-Level: 5  
-EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
-Bold Nature  
+EVs: 36 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Tri Attack  
 - Recover  
-- Scald  
-- Toxic Spikes  
-- Sludge Bomb  
+- Ice Beam  
+- Psychic 
+
+Larvesta @ Eviolite  
+Ability: Flame Body  
+Level: 5  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- U-turn  
+- Flare Blitz  
+- Morning Sun  
+- Will-O-Wisp

@@ -1,43 +1,53 @@
-Chinchou @ Eviolite  
-Ability: Volt Absorb  
+Staryu @ Eviolite  
+Ability: Analytic  
 Level: 5  
-EVs: 52 Def / 228 SpA / 220 Spe  
+EVs: 156 Def / 116 SpA / 236 Spe  
 Timid Nature  
-- Volt Switch  
 - Scald  
-- Ice Beam  
 - Thunderbolt  
-
-Woobat @ Berry Juice  
-Ability: Simple  
-Level: 5  
-EVs: 76 HP / 12 Def / 236 SpA / 180 Spe  
-Timid Nature  
-- Nasty Plot  
 - Psychic  
-- Heat Wave  
-- Air Slash  
+- Rapid Spin 
 
-Amaura @ Choice Scarf  
-Ability: Refrigerate  
+Corphish @ Eviolite  
+Ability: Adaptability  
 Level: 5  
-EVs: 60 HP / 220 SpA / 228 Spe  
-Modest Nature  
+EVs: 196 Atk / 76 Def / 236 Spe  
+Adamant Nature  
+- Aqua Jet  
+- Crabhammer  
+- Knock Off  
+- Swords Dance 
+
+Mareanie @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+Bold Nature  
 IVs: 0 Atk  
-- Hyper Voice  
-- Earth Power  
-- Thunderbolt  
-- Ancient Power
+- Recover  
+- Scald  
+- Toxic Spikes 
+- Sludge Bomb
 
-Drilbur @ Eviolite  
-Ability: Mold Breaker  
+Timburr @ Eviolite  
+Ability: Guts  
 Level: 5  
-EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
-Jolly Nature  
+EVs: 196 Atk / 156 Def / 156 SpD  
+Adamant Nature  
+- Drain Punch  
+- Knock Off  
+- Mach Punch  
+- Bulk Up 
+
+Trapinch @ Eviolite  
+Ability: Arena Trap  
+Level: 5  
+EVs: 156 HP / 196 Atk / 76 Def / 76 SpD  
+Adamant Nature  
 - Earthquake  
-- Rapid Spin  
-- Rock Slide  
-- Stealth Rock  
+- First Impression  
+- Superpower  
+- Quick Attack 
 
 Shellder @ Eviolite  
 Ability: Skill Link  
@@ -47,14 +57,4 @@ Adamant Nature
 - Icicle Spear  
 - Shell Smash  
 - Rock Blast  
-- Liquidation  
-
-Dewpider @ Berry Juice  
-Ability: Water Bubble  
-Level: 5  
-EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
-Modest Nature  
-- Sticky Web  
-- Surf  
-- Icy Wind  
-- Giga Drain
+- Liquidation 

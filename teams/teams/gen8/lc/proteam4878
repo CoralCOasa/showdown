@@ -1,22 +1,12 @@
-Chinchou @ Eviolite  
-Ability: Volt Absorb  
+Munchlax @ Eviolite  
+Ability: Thick Fat  
 Level: 5  
-EVs: 52 Def / 228 SpA / 220 Spe  
-Timid Nature  
-- Volt Switch  
-- Scald  
-- Ice Beam  
-- Thunderbolt  
-
-Vullaby @ Berry Juice  
-Ability: Weak Armor  
-Level: 5  
-EVs: 236 Atk / 76 Def / 196 Spe  
-Jolly Nature  
-- Knock Off  
-- Brave Bird  
-- U-turn  
-- Defog  
+EVs: 236 Atk / 196 Def / 76 SpD  
+Impish Nature  
+- Body Slam 
+- Earthquake  
+- Rest  
+- Sleep Talk
 
 Porygon @ Eviolite  
 Ability: Download  
@@ -25,36 +15,46 @@ EVs: 36 Def / 236 SpA / 196 Spe
 Modest Nature  
 - Tri Attack  
 - Recover  
+- Ice Beam 
+- Psychic
+
+Diglett @ Life Orb  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Sucker Punch  
+- Rock Slide  
+- Substitute
+
+Smoochum (F) @ Choice Scarf  
+Ability: Oblivious  
+Level: 5  
+EVs: 236 SpA / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
 - Ice Beam  
 - Psychic  
+- Shadow Ball  
+- Trick
 
-Grookey @ Eviolite  
-Ability: Grassy Surge  
+Scraggy @ Eviolite  
+Ability: Moxie 
 Level: 5  
-EVs: 236 Atk / 36 Def / 236 Spe  
+EVs: 36 HP / 156 Atk / 36 Def / 36 SpD / 212 Spe  
 Jolly Nature  
-- Grassy Glide  
+- Dragon Dance  
 - Knock Off  
 - Drain Punch  
-- U-turn  
+- Stone Edge
 
-Amaura @ Choice Scarf  
-Ability: Refrigerate  
+Croagunk @ Eviolite  
+Ability: Dry Skin  
 Level: 5  
-EVs: 60 HP / 220 SpA / 228 Spe  
+EVs: 116 Def / 188 SpA / 196 Spe  
 Modest Nature  
-IVs: 0 Atk  
-- Hyper Voice  
-- Earth Power  
-- Thunderbolt  
-- Ancient Power
-
-Meowth @ Life Orb  
-Ability: Technician  
-Level: 5  
-EVs: 236 Atk / 36 SpD / 196 Spe  
-Jolly Nature  
-- Fake Out  
-- Feint  
-- Aerial Ace  
-- Water Pulse  
+- Nasty Plot  
+- Vacuum Wave  
+- Sludge Wave  
+- Focus Blast 
