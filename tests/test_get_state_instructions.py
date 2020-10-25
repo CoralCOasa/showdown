@@ -1,4 +1,12 @@
+"""
+TestGetStateInstructions is the main Pokemon engine test class
+All battle mechanics are tested in this TestCase
+"""
+
+
 import unittest
+from unittest import mock
+
 import config
 import constants
 from collections import defaultdict
@@ -28,6 +36,7 @@ class TestGetStateInstructions(unittest.TestCase):
                                 "dragonite": Pokemon.from_state_pokemon_dict(StatePokemon("dragonite", 81).to_dict()),
                                 "hitmonlee": Pokemon.from_state_pokemon_dict(StatePokemon("hitmonlee", 81).to_dict()),
                             },
+                            (0, 0),
                             defaultdict(lambda: 0)
                         ),
                         Side(
@@ -39,6 +48,7 @@ class TestGetStateInstructions(unittest.TestCase):
                                 "toxapex": Pokemon.from_state_pokemon_dict(StatePokemon("toxapex", 73).to_dict()),
                                 "bronzong": Pokemon.from_state_pokemon_dict(StatePokemon("bronzong", 73).to_dict()),
                             },
+                            (0, 0),
                             defaultdict(lambda: 0)
                         ),
                         None,
@@ -194,12 +204,45 @@ class TestGetStateInstructions(unittest.TestCase):
         instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
         expected_instructions = [
             TransposeInstruction(
-                1.0,
+                0.2,
                 [
-                    (constants.MUTATOR_UNBOOST, constants.OPPONENT, constants.ATTACK, 3)
+                    (constants.MUTATOR_UNBOOST, constants.OPPONENT, constants.ATTACK, 3),
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'yveltal'),
                 ],
                 False
-            )
+            ),
+            TransposeInstruction(
+                0.2,
+                [
+                    (constants.MUTATOR_UNBOOST, constants.OPPONENT, constants.ATTACK, 3),
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'slurpuff'),
+                ],
+                False
+            ),
+            TransposeInstruction(
+                0.2,
+                [
+                    (constants.MUTATOR_UNBOOST, constants.OPPONENT, constants.ATTACK, 3),
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'victini'),
+                ],
+                False
+            ),
+            TransposeInstruction(
+                0.2,
+                [
+                    (constants.MUTATOR_UNBOOST, constants.OPPONENT, constants.ATTACK, 3),
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'toxapex'),
+                ],
+                False
+            ),
+            TransposeInstruction(
+                0.2,
+                [
+                    (constants.MUTATOR_UNBOOST, constants.OPPONENT, constants.ATTACK, 3),
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'bronzong'),
+                ],
+                False
+            ),
         ]
 
         self.assertEqual(expected_instructions, instructions)
@@ -214,6 +257,47 @@ class TestGetStateInstructions(unittest.TestCase):
                 1.0,
                 [
                     (constants.MUTATOR_UNBOOST, constants.OPPONENT, constants.ATTACK, 3)
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_haze_removes_status_boosts_for_both_sides(self):
+        bot_move = "haze"
+        opponent_move = "splash"
+        self.state.self.active.attack_boost = 3
+        self.state.opponent.active.attack_boost = 3
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1.0,
+                [
+                    (constants.MUTATOR_UNBOOST, constants.SELF, constants.ATTACK, 3),
+                    (constants.MUTATOR_UNBOOST, constants.OPPONENT, constants.ATTACK, 3)
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_boosting_move_into_haze(self):
+        bot_move = "haze"
+        opponent_move = "swordsdance"
+        self.state.self.active.speed = 1
+        self.state.opponent.active.speed = 2
+        self.state.self.active.attack_boost = 3
+        self.state.opponent.active.attack_boost = 3
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1.0,
+                [
+                    (constants.MUTATOR_BOOST, constants.OPPONENT, constants.ATTACK, 2),
+                    (constants.MUTATOR_UNBOOST, constants.SELF, constants.ATTACK, 3),
+                    (constants.MUTATOR_UNBOOST, constants.OPPONENT, constants.ATTACK, 5)
                 ],
                 False
             )
@@ -541,6 +625,50 @@ class TestGetStateInstructions(unittest.TestCase):
 
         self.assertEqual(expected_instructions, instructions)
 
+    def test_prankster_glare_works_on_non_dark_type(self):
+        bot_move = "glare"
+        opponent_move = "splash"
+        self.state.self.active.ability = 'prankster'
+        self.state.opponent.active.types = ['normal']
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_APPLY_STATUS, constants.OPPONENT, constants.PARALYZED)
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_prankster_spore_works_on_non_dark_type(self):
+        bot_move = "spore"
+        opponent_move = "splash"
+        self.state.self.active.ability = 'prankster'
+        self.state.opponent.active.types = ['normal']
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                0.33,
+                [
+                    (constants.MUTATOR_APPLY_STATUS, constants.OPPONENT, constants.SLEEP),
+                    (constants.MUTATOR_REMOVE_STATUS, constants.OPPONENT, constants.SLEEP)
+                ],
+                False
+            ),
+            TransposeInstruction(
+                0.6699999999999999,
+                [
+                    (constants.MUTATOR_APPLY_STATUS, constants.OPPONENT, constants.SLEEP)
+                ],
+                True
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
     def test_sound_move_goes_through_substitute(self):
         bot_move = "boomburst"
         opponent_move = "splash"
@@ -626,6 +754,41 @@ class TestGetStateInstructions(unittest.TestCase):
                 1,
                 [
                     (constants.MUTATOR_DAMAGE, constants.OPPONENT, 27)
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_grassknot_does_damage_on_light_pokemon(self):
+        bot_move = "grassknot"
+        opponent_move = "splash"
+        self.state.opponent.active.id = 'castform'
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 12)
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_grassknot_does_damage_on_heavy_pokemon(self):
+        bot_move = "grassknot"
+        opponent_move = "splash"
+        self.state.opponent.active.id = 'golem'
+        self.state.opponent.active.types = ['normal']
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 63)
                 ],
                 False
             )
@@ -870,7 +1033,8 @@ class TestGetStateInstructions(unittest.TestCase):
                 1,
                 [
                     # this move does 20 damage without knockoff boost
-                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 30)
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 30),
+                    (constants.MUTATOR_CHANGE_ITEM, constants.OPPONENT, None, constants.UNKNOWN_ITEM),
                 ],
                 False
             )
@@ -891,6 +1055,131 @@ class TestGetStateInstructions(unittest.TestCase):
                     (constants.MUTATOR_SIDE_START, constants.SELF, constants.PROTECT, 1)
                 ],
                 True
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_using_wish_sets_the_wish_value_to_half_of_the_users_max_health(self):
+        bot_move = "wish"
+        opponent_move = "splash"
+        self.state.self.active.maxhp = 200
+        self.state.self.active.hp = 50
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_WISH_START, constants.SELF, 100, self.state.self.wish[1]),
+                    (constants.MUTATOR_WISH_DECREMENT, constants.SELF)
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_having_wish_causes_heal_at_the_end_of_the_turn(self):
+        bot_move = "splash"
+        opponent_move = "splash"
+        self.state.self.active.maxhp = 200
+        self.state.self.active.hp = 50
+        self.state.self.wish = (1, 100)
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_HEAL, constants.SELF, 100),
+                    (constants.MUTATOR_WISH_DECREMENT, constants.SELF)
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_wish_does_not_overheal(self):
+        bot_move = "splash"
+        opponent_move = "splash"
+        self.state.self.active.maxhp = 200
+        self.state.self.active.hp = 150
+        self.state.self.wish = (1, 100)
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_HEAL, constants.SELF, 50),
+                    (constants.MUTATOR_WISH_DECREMENT, constants.SELF)
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_wish_does_not_heal_when_active_pokemon_is_dead_but_still_decrements(self):
+        bot_move = "splash"
+        opponent_move = "tackle"
+
+        # opponent guaranteed to move first
+        self.state.self.active.speed = 1
+        self.state.opponent.active.speed = 2
+
+        self.state.self.active.maxhp = 200
+        self.state.self.active.hp = 1  # tackle will kill
+        self.state.self.wish = (1, 100)
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.SELF, 1),
+                    (constants.MUTATOR_WISH_DECREMENT, constants.SELF)
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_wish_cannot_be_used_while_wish_is_active(self):
+        bot_move = "wish"
+        opponent_move = "splash"
+
+        self.state.self.active.maxhp = 200
+        self.state.self.active.hp = 100
+        self.state.self.wish = (1, 100)
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_HEAL, constants.SELF, 100),
+                    (constants.MUTATOR_WISH_DECREMENT, constants.SELF)
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_wish_activating_at_full_hp_produces_no_instruction(self):
+        bot_move = "splash"
+        opponent_move = "splash"
+
+        self.state.self.active.maxhp = 200
+        self.state.self.active.hp = 200
+        self.state.self.wish = (1, 100)
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_WISH_DECREMENT, constants.SELF)
+                ],
+                False
             )
         ]
 
@@ -941,7 +1230,7 @@ class TestGetStateInstructions(unittest.TestCase):
 
         self.assertEqual(expected_instructions, instructions)
 
-    def test_knockoff_does_not_amplify_damage_for_mega(self):
+    def test_knockoff_does_not_amplify_damage_or_remove_item_for_mega(self):
         bot_move = "knockoff"
         opponent_move = "splash"
         self.state.opponent.active.maxhp = 100
@@ -957,6 +1246,50 @@ class TestGetStateInstructions(unittest.TestCase):
                     # this move does 20 damage without knockoff boost
                     (constants.MUTATOR_DAMAGE, constants.OPPONENT, 20)
                 ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_knockoff_removes_item(self):
+        bot_move = "knockoff"
+        opponent_move = "splash"
+        self.state.opponent.active.item = 'leftovers'
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    # this move does 20 damage without knockoff boost
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 30),
+                    (constants.MUTATOR_CHANGE_ITEM, constants.OPPONENT, None, 'leftovers'),
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_knockoff_missing_does_not_remove_item(self):
+        bot_move = "knockoff"
+        opponent_move = "splash"
+        self.state.opponent.active.item = 'leftovers'
+        self.state.self.active.accuracy_boost = -1
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                0.75,
+                [
+                    # this move does 20 damage without knockoff boost
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 30),
+                    (constants.MUTATOR_CHANGE_ITEM, constants.OPPONENT, None, 'leftovers'),
+                ],
+                False
+            ),
+            TransposeInstruction(
+                0.25,
+                [],
                 False
             )
         ]
@@ -1035,7 +1368,7 @@ class TestGetStateInstructions(unittest.TestCase):
                     (constants.MUTATOR_APPLY_VOLATILE_STATUS, constants.OPPONENT, constants.TAUNT),
                     (constants.MUTATOR_DAMAGE, constants.SELF, 60),
                     (constants.MUTATOR_REMOVE_VOLATILE_STATUS, constants.OPPONENT, constants.TAUNT),
-                    (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'slurpuff')
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'yveltal')
                 ],
                 False
             )
@@ -1054,7 +1387,7 @@ class TestGetStateInstructions(unittest.TestCase):
                 1.0,
                 [
                         (constants.MUTATOR_DAMAGE, constants.SELF, 60),
-                        (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'slurpuff')
+                        (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'yveltal')
                 ],
                 False
             )
@@ -1084,6 +1417,32 @@ class TestGetStateInstructions(unittest.TestCase):
 
         self.assertEqual(expected_instructions, instructions)
 
+    def test_fast_uturn_switch_into_choice_pkmn_does_not_lock_moves(self):
+        bot_move = "uturn"
+        opponent_move = "splash"
+        self.state.self.reserve['xatu'].item = 'choiceband'
+        self.state.self.reserve['xatu'].moves = [
+            {constants.ID: 'tackle', constants.DISABLED: False},
+            {constants.ID: 'thunderwave', constants.DISABLED: False},
+            {constants.ID: 'coil', constants.DISABLED: False},
+            {constants.ID: 'sandattack', constants.DISABLED: False}
+        ]
+        self.state.self.active.speed = 2
+        self.state.opponent.active.speed = 1
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1.0,
+                [
+                        (constants.MUTATOR_DAMAGE, constants.OPPONENT, 22),
+                        (constants.MUTATOR_SWITCH, constants.SELF, 'raichu', 'xatu'),
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
     def test_slow_uturn_results_in_switching_out_for_bot(self):
         bot_move = "uturn"
         opponent_move = "tackle"
@@ -1106,6 +1465,28 @@ class TestGetStateInstructions(unittest.TestCase):
 
         self.assertEqual(expected_instructions, instructions)
 
+    def test_flipturn_causes_switch(self):
+        bot_move = "flipturn"
+        opponent_move = "tackle"
+        self.state.self.reserve['gyarados'].ability = 'intimidate'
+        self.state.self.active.speed = 1
+        self.state.opponent.active.speed = 2
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1.0,
+                [
+                        (constants.MUTATOR_DAMAGE, constants.SELF, 35),
+                        (constants.MUTATOR_DAMAGE, constants.OPPONENT, 37),
+                        (constants.MUTATOR_SWITCH, constants.SELF, 'raichu', 'gyarados'),
+                        (constants.MUTATOR_UNBOOST, constants.OPPONENT, constants.ATTACK, 1)
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
     def test_slow_uturn_results_in_switching_out_for_opponent(self):
         bot_move = "tackle"
         opponent_move = "uturn"
@@ -1118,7 +1499,7 @@ class TestGetStateInstructions(unittest.TestCase):
                 [
                         (constants.MUTATOR_DAMAGE, constants.OPPONENT, 25),
                         (constants.MUTATOR_DAMAGE, constants.SELF, 60),
-                        (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'slurpuff')
+                        (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'yveltal')
                 ],
                 False
             )
@@ -1139,7 +1520,7 @@ class TestGetStateInstructions(unittest.TestCase):
                     ('damage', 'opponent', 72),
                     ('apply_status', 'opponent', 'par'),
                     ('damage', 'self', 60),
-                    ('switch', 'opponent', 'aromatisse', 'slurpuff')
+                    ('switch', 'opponent', 'aromatisse', 'yveltal')
                 ],
                 False
             ),
@@ -1247,7 +1628,7 @@ class TestGetStateInstructions(unittest.TestCase):
 
         self.assertEqual(expected_instructions, instructions)
 
-    def test_parting_show_allows_switch(self):
+    def test_parting_shot_allows_switch(self):
         self.state.self.active.types = ['ground']
         bot_move = "tackle"
         opponent_move = "partingshot"
@@ -1260,8 +1641,27 @@ class TestGetStateInstructions(unittest.TestCase):
                 [
                     (constants.MUTATOR_BOOST, constants.SELF, constants.ATTACK, -1),
                     (constants.MUTATOR_BOOST, constants.SELF, constants.SPECIAL_ATTACK, -1),
-                    (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'yveltal'),
-                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 15)
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'bronzong'),
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 6)
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_teleport_causes_switch_and_moves_second(self):
+        bot_move = "tackle"
+        opponent_move = "teleport"
+        self.state.self.active.speed = 1
+        self.state.opponent.active.speed = 2
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1.0,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 25),
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'yveltal')
                 ],
                 False
             )
@@ -1323,6 +1723,58 @@ class TestGetStateInstructions(unittest.TestCase):
 
         self.assertEqual(expected_instructions, instructions)
 
+    def test_gryo_ball_does_damage_when_speed_is_equal(self):
+        bot_move = "gyroball"
+        opponent_move = "splash"
+        self.state.self.active.speed = self.state.opponent.active.speed
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1.0,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 35),
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_electro_ball_does_damage_when_speed_is_equal(self):
+        bot_move = "electroball"
+        opponent_move = "splash"
+        self.state.self.active.speed = self.state.opponent.active.speed
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1.0,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 33),
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_electro_ball_does_damage_when_speed_is_much_greater(self):
+        bot_move = "electroball"
+        opponent_move = "splash"
+        self.state.opponent.active.speed = 1
+        self.state.self.active.speed = 100
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1.0,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 119),
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
     def test_whirlwind_behaves_correctly_with_a_regular_move(self):
         bot_move = "whirlwind"
         opponent_move = "flamethrower"
@@ -1330,23 +1782,105 @@ class TestGetStateInstructions(unittest.TestCase):
         instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
         expected_instructions = [
             TransposeInstruction(
-                0.1,
+                0.020000000000000004,
                 [
                     (constants.MUTATOR_DAMAGE, constants.SELF, 74),
                     (constants.MUTATOR_APPLY_STATUS, constants.SELF, constants.BURN),
                     (constants.MUTATOR_UNBOOST, constants.OPPONENT, constants.ATTACK, 3),
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'yveltal'),
                     (constants.MUTATOR_DAMAGE, constants.SELF, 13),  # burn damage
                 ],
                 False
             ),
             TransposeInstruction(
-                0.9,
+                0.020000000000000004,
                 [
                     (constants.MUTATOR_DAMAGE, constants.SELF, 74),
-                    (constants.MUTATOR_UNBOOST, constants.OPPONENT, constants.ATTACK, 3)
+                    (constants.MUTATOR_APPLY_STATUS, constants.SELF, constants.BURN),
+                    (constants.MUTATOR_UNBOOST, constants.OPPONENT, constants.ATTACK, 3),
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'slurpuff'),
+                    (constants.MUTATOR_DAMAGE, constants.SELF, 13),  # burn damage
                 ],
                 False
-            )
+            ),
+            TransposeInstruction(
+                0.020000000000000004,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.SELF, 74),
+                    (constants.MUTATOR_APPLY_STATUS, constants.SELF, constants.BURN),
+                    (constants.MUTATOR_UNBOOST, constants.OPPONENT, constants.ATTACK, 3),
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'victini'),
+                    (constants.MUTATOR_DAMAGE, constants.SELF, 13),  # burn damage
+                ],
+                False
+            ),
+            TransposeInstruction(
+                0.020000000000000004,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.SELF, 74),
+                    (constants.MUTATOR_APPLY_STATUS, constants.SELF, constants.BURN),
+                    (constants.MUTATOR_UNBOOST, constants.OPPONENT, constants.ATTACK, 3),
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'toxapex'),
+                    (constants.MUTATOR_DAMAGE, constants.SELF, 13),  # burn damage
+                ],
+                False
+            ),
+            TransposeInstruction(
+                0.020000000000000004,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.SELF, 74),
+                    (constants.MUTATOR_APPLY_STATUS, constants.SELF, constants.BURN),
+                    (constants.MUTATOR_UNBOOST, constants.OPPONENT, constants.ATTACK, 3),
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'bronzong'),
+                    (constants.MUTATOR_DAMAGE, constants.SELF, 13),  # burn damage
+                ],
+                False
+            ),
+            TransposeInstruction(
+                0.18000000000000002,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.SELF, 74),
+                    (constants.MUTATOR_UNBOOST, constants.OPPONENT, constants.ATTACK, 3),
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'yveltal'),
+                ],
+                False
+            ),
+            TransposeInstruction(
+                0.18000000000000002,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.SELF, 74),
+                    (constants.MUTATOR_UNBOOST, constants.OPPONENT, constants.ATTACK, 3),
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'slurpuff'),
+                ],
+                False
+            ),
+            TransposeInstruction(
+                0.18000000000000002,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.SELF, 74),
+                    (constants.MUTATOR_UNBOOST, constants.OPPONENT, constants.ATTACK, 3),
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'victini'),
+                ],
+                False
+            ),
+            TransposeInstruction(
+                0.18000000000000002,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.SELF, 74),
+                    (constants.MUTATOR_UNBOOST, constants.OPPONENT, constants.ATTACK, 3),
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'toxapex'),
+                ],
+                False
+            ),
+            TransposeInstruction(
+                0.18000000000000002,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.SELF, 74),
+                    (constants.MUTATOR_UNBOOST, constants.OPPONENT, constants.ATTACK, 3),
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'bronzong'),
+                ],
+                False
+            ),
         ]
 
         self.assertEqual(expected_instructions, instructions)
@@ -1357,13 +1891,50 @@ class TestGetStateInstructions(unittest.TestCase):
         instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
         expected_instructions = [
             TransposeInstruction(
-                1.0,
+                0.2,
                 [
                     (constants.MUTATOR_BOOST, constants.OPPONENT, constants.ATTACK, 2),
-                    (constants.MUTATOR_UNBOOST, constants.OPPONENT, constants.ATTACK, 2)
+                    (constants.MUTATOR_UNBOOST, constants.OPPONENT, constants.ATTACK, 2),
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'yveltal')
                 ],
                 False
-            )
+            ),
+            TransposeInstruction(
+                0.2,
+                [
+                    (constants.MUTATOR_BOOST, constants.OPPONENT, constants.ATTACK, 2),
+                    (constants.MUTATOR_UNBOOST, constants.OPPONENT, constants.ATTACK, 2),
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'slurpuff')
+                ],
+                False
+            ),
+            TransposeInstruction(
+                0.2,
+                [
+                    (constants.MUTATOR_BOOST, constants.OPPONENT, constants.ATTACK, 2),
+                    (constants.MUTATOR_UNBOOST, constants.OPPONENT, constants.ATTACK, 2),
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'victini')
+                ],
+                False
+            ),
+            TransposeInstruction(
+                0.2,
+                [
+                    (constants.MUTATOR_BOOST, constants.OPPONENT, constants.ATTACK, 2),
+                    (constants.MUTATOR_UNBOOST, constants.OPPONENT, constants.ATTACK, 2),
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'toxapex')
+                ],
+                False
+            ),
+            TransposeInstruction(
+                0.2,
+                [
+                    (constants.MUTATOR_BOOST, constants.OPPONENT, constants.ATTACK, 2),
+                    (constants.MUTATOR_UNBOOST, constants.OPPONENT, constants.ATTACK, 2),
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'bronzong')
+                ],
+                False
+            ),
         ]
 
         self.assertEqual(expected_instructions, instructions)
@@ -1550,13 +2121,50 @@ class TestGetStateInstructions(unittest.TestCase):
         instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
         expected_instructions = [
             TransposeInstruction(
-                1.0,
+                0.2,
                 [
                     (constants.MUTATOR_REMOVE_VOLATILE_STATUS, constants.SELF, constants.SUBSTITUTE),
-                    (constants.MUTATOR_SWITCH, constants.SELF, 'raichu', 'starmie')
+                    (constants.MUTATOR_SWITCH, constants.SELF, 'raichu', 'starmie'),
+                    (constants.MUTATOR_SWITCH, constants.SELF, 'starmie', 'xatu')
                 ],
                 False
-            )
+            ),
+            TransposeInstruction(
+                0.2,
+                [
+                    (constants.MUTATOR_REMOVE_VOLATILE_STATUS, constants.SELF, constants.SUBSTITUTE),
+                    (constants.MUTATOR_SWITCH, constants.SELF, 'raichu', 'starmie'),
+                    (constants.MUTATOR_SWITCH, constants.SELF, 'starmie', 'gyarados')
+                ],
+                False
+            ),
+            TransposeInstruction(
+                0.2,
+                [
+                    (constants.MUTATOR_REMOVE_VOLATILE_STATUS, constants.SELF, constants.SUBSTITUTE),
+                    (constants.MUTATOR_SWITCH, constants.SELF, 'raichu', 'starmie'),
+                    (constants.MUTATOR_SWITCH, constants.SELF, 'starmie', 'dragonite')
+                ],
+                False
+            ),
+            TransposeInstruction(
+                0.2,
+                [
+                    (constants.MUTATOR_REMOVE_VOLATILE_STATUS, constants.SELF, constants.SUBSTITUTE),
+                    (constants.MUTATOR_SWITCH, constants.SELF, 'raichu', 'starmie'),
+                    (constants.MUTATOR_SWITCH, constants.SELF, 'starmie', 'hitmonlee')
+                ],
+                False
+            ),
+            TransposeInstruction(
+                0.2,
+                [
+                    (constants.MUTATOR_REMOVE_VOLATILE_STATUS, constants.SELF, constants.SUBSTITUTE),
+                    (constants.MUTATOR_SWITCH, constants.SELF, 'raichu', 'starmie'),
+                    (constants.MUTATOR_SWITCH, constants.SELF, 'starmie', 'raichu')
+                ],
+                False
+            ),
         ]
 
         self.assertEqual(expected_instructions, instructions)
@@ -1570,14 +2178,55 @@ class TestGetStateInstructions(unittest.TestCase):
         instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
         expected_instructions = [
             TransposeInstruction(
-                1.0,
+                0.2,
                 [
                     (constants.MUTATOR_REMOVE_VOLATILE_STATUS, constants.SELF, constants.SUBSTITUTE),
                     (constants.MUTATOR_SWITCH, constants.SELF, 'raichu', 'starmie'),
-                    (constants.MUTATOR_UNBOOST, constants.OPPONENT, constants.ATTACK, 5)
+                    (constants.MUTATOR_UNBOOST, constants.OPPONENT, constants.ATTACK, 5),
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'yveltal')
                 ],
                 False
-            )
+            ),
+            TransposeInstruction(
+                0.2,
+                [
+                    (constants.MUTATOR_REMOVE_VOLATILE_STATUS, constants.SELF, constants.SUBSTITUTE),
+                    (constants.MUTATOR_SWITCH, constants.SELF, 'raichu', 'starmie'),
+                    (constants.MUTATOR_UNBOOST, constants.OPPONENT, constants.ATTACK, 5),
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'slurpuff')
+                ],
+                False
+            ),
+            TransposeInstruction(
+                0.2,
+                [
+                    (constants.MUTATOR_REMOVE_VOLATILE_STATUS, constants.SELF, constants.SUBSTITUTE),
+                    (constants.MUTATOR_SWITCH, constants.SELF, 'raichu', 'starmie'),
+                    (constants.MUTATOR_UNBOOST, constants.OPPONENT, constants.ATTACK, 5),
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'victini')
+                ],
+                False
+            ),
+            TransposeInstruction(
+                0.2,
+                [
+                    (constants.MUTATOR_REMOVE_VOLATILE_STATUS, constants.SELF, constants.SUBSTITUTE),
+                    (constants.MUTATOR_SWITCH, constants.SELF, 'raichu', 'starmie'),
+                    (constants.MUTATOR_UNBOOST, constants.OPPONENT, constants.ATTACK, 5),
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'toxapex')
+                ],
+                False
+            ),
+            TransposeInstruction(
+                0.2,
+                [
+                    (constants.MUTATOR_REMOVE_VOLATILE_STATUS, constants.SELF, constants.SUBSTITUTE),
+                    (constants.MUTATOR_SWITCH, constants.SELF, 'raichu', 'starmie'),
+                    (constants.MUTATOR_UNBOOST, constants.OPPONENT, constants.ATTACK, 5),
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'bronzong')
+                ],
+                False
+            ),
         ]
 
         self.assertEqual(expected_instructions, instructions)
@@ -1590,11 +2239,52 @@ class TestGetStateInstructions(unittest.TestCase):
         instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
         expected_instructions = [
             TransposeInstruction(
-                0.9,
+                0.18000000000000002,
                 [
                     (constants.MUTATOR_DAMAGE, constants.SELF, 127),
                     (constants.MUTATOR_DAMAGE, constants.OPPONENT, 37),
-                    (constants.MUTATOR_UNBOOST, constants.OPPONENT, constants.ATTACK, 3)
+                    (constants.MUTATOR_UNBOOST, constants.OPPONENT, constants.ATTACK, 3),
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'yveltal')
+                ],
+                False
+            ),
+            TransposeInstruction(
+                0.18000000000000002,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.SELF, 127),
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 37),
+                    (constants.MUTATOR_UNBOOST, constants.OPPONENT, constants.ATTACK, 3),
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'slurpuff')
+                ],
+                False
+            ),
+            TransposeInstruction(
+                0.18000000000000002,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.SELF, 127),
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 37),
+                    (constants.MUTATOR_UNBOOST, constants.OPPONENT, constants.ATTACK, 3),
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'victini')
+                ],
+                False
+            ),
+            TransposeInstruction(
+                0.18000000000000002,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.SELF, 127),
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 37),
+                    (constants.MUTATOR_UNBOOST, constants.OPPONENT, constants.ATTACK, 3),
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'toxapex')
+                ],
+                False
+            ),
+            TransposeInstruction(
+                0.18000000000000002,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.SELF, 127),
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 37),
+                    (constants.MUTATOR_UNBOOST, constants.OPPONENT, constants.ATTACK, 3),
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'bronzong')
                 ],
                 False
             ),
@@ -1616,10 +2306,202 @@ class TestGetStateInstructions(unittest.TestCase):
         instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
         expected_instructions = [
             TransposeInstruction(
-                1.0,
+                0.2,
                 [
-                    (constants.MUTATOR_REMOVE_VOLATILE_STATUS, constants.OPPONENT, constants.CONFUSION)
+                    (constants.MUTATOR_REMOVE_VOLATILE_STATUS, constants.OPPONENT, constants.CONFUSION),
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'yveltal'),
                 ],
+                False
+            ),
+            TransposeInstruction(
+                0.2,
+                [
+                    (constants.MUTATOR_REMOVE_VOLATILE_STATUS, constants.OPPONENT, constants.CONFUSION),
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'slurpuff'),
+                ],
+                False
+            ),
+            TransposeInstruction(
+                0.2,
+                [
+                    (constants.MUTATOR_REMOVE_VOLATILE_STATUS, constants.OPPONENT, constants.CONFUSION),
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'victini'),
+                ],
+                False
+            ),
+            TransposeInstruction(
+                0.2,
+                [
+                    (constants.MUTATOR_REMOVE_VOLATILE_STATUS, constants.OPPONENT, constants.CONFUSION),
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'toxapex'),
+                ],
+                False
+            ),
+            TransposeInstruction(
+                0.2,
+                [
+                    (constants.MUTATOR_REMOVE_VOLATILE_STATUS, constants.OPPONENT, constants.CONFUSION),
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'bronzong'),
+                ],
+                False
+            ),
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_whirlwind_creates_one_transposition_for_each_reserve_pokemon(self):
+        bot_move = "whirlwind"
+        opponent_move = "splash"
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                0.2,
+                [
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, self.state.opponent.active.id, 'yveltal')
+                ],
+                False
+            ),
+            TransposeInstruction(
+                0.2,
+                [
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, self.state.opponent.active.id, 'slurpuff')
+                ],
+                False
+            ),
+            TransposeInstruction(
+                0.2,
+                [
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, self.state.opponent.active.id, 'victini')
+                ],
+                False
+            ),
+            TransposeInstruction(
+                0.2,
+                [
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, self.state.opponent.active.id, 'toxapex')
+                ],
+                False
+            ),
+            TransposeInstruction(
+                0.2,
+                [
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, self.state.opponent.active.id, 'bronzong')
+                ],
+                False
+            ),
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_whirlwind_into_whirlwind_properly_does_nothing_for_second_whirlwind(self):
+        # generally, any move with the same priority should not work because the pokemon trying to use it was phased out
+        # other examples are: dragontail, teleport, circlethrow
+        bot_move = "whirlwind"
+        opponent_move = "whirlwind"
+        self.state.self.active.speed = 2  # bot's whirlwind only should activate as it is faster
+        self.state.opponent.active.speed = 1
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                0.2,
+                [
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, self.state.opponent.active.id, 'yveltal')
+                ],
+                False
+            ),
+            TransposeInstruction(
+                0.2,
+                [
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, self.state.opponent.active.id, 'slurpuff')
+                ],
+                False
+            ),
+            TransposeInstruction(
+                0.2,
+                [
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, self.state.opponent.active.id, 'victini')
+                ],
+                False
+            ),
+            TransposeInstruction(
+                0.2,
+                [
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, self.state.opponent.active.id, 'toxapex')
+                ],
+                False
+            ),
+            TransposeInstruction(
+                0.2,
+                [
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, self.state.opponent.active.id, 'bronzong')
+                ],
+                False
+            ),
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_whirlwind_into_teleport_properly_does_nothing_for_the_teleport(self):
+        # generally, any move with the same priority should not work because the pokemon trying to use it was phased out
+        # other examples are: dragontail, teleport, circlethrow
+        bot_move = "whirlwind"
+        opponent_move = "teleport"
+        self.state.self.active.speed = 2  # bot's whirlwind only activate as it is faster
+        self.state.opponent.active.speed = 1  # opponent shoudl get phased and not teleport
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                0.2,
+                [
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, self.state.opponent.active.id, 'yveltal')
+                ],
+                False
+            ),
+            TransposeInstruction(
+                0.2,
+                [
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, self.state.opponent.active.id, 'slurpuff')
+                ],
+                False
+            ),
+            TransposeInstruction(
+                0.2,
+                [
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, self.state.opponent.active.id, 'victini')
+                ],
+                False
+            ),
+            TransposeInstruction(
+                0.2,
+                [
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, self.state.opponent.active.id, 'toxapex')
+                ],
+                False
+            ),
+            TransposeInstruction(
+                0.2,
+                [
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, self.state.opponent.active.id, 'bronzong')
+                ],
+                False
+            ),
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_whirlwind_does_nothing_when_no_reserves_are_alive(self):
+        bot_move = "whirlwind"
+        opponent_move = "splash"
+
+        # reserves are all fainted
+        for pkmn in self.mutator.state.opponent.reserve.values():
+            pkmn.hp = 0
+
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [],
                 False
             )
         ]
@@ -1931,7 +2813,7 @@ class TestGetStateInstructions(unittest.TestCase):
 
         self.assertEqual(expected_instructions, instructions)
 
-    def test_noretreat_boosts_own_stats(self):
+    def test_noretreat_boosts_own_stats_and_starts_volatile_status(self):
         bot_move = "noretreat"
         opponent_move = "splash"
         instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
@@ -1939,12 +2821,28 @@ class TestGetStateInstructions(unittest.TestCase):
             TransposeInstruction(
                 1,
                 [
+                    (constants.MUTATOR_APPLY_VOLATILE_STATUS, constants.SELF, 'noretreat'),
                     (constants.MUTATOR_BOOST, constants.SELF, constants.ATTACK, 1),
                     (constants.MUTATOR_BOOST, constants.SELF, constants.DEFENSE, 1),
                     (constants.MUTATOR_BOOST, constants.SELF, constants.SPECIAL_ATTACK, 1),
                     (constants.MUTATOR_BOOST, constants.SELF, constants.SPECIAL_DEFENSE, 1),
                     (constants.MUTATOR_BOOST, constants.SELF, constants.SPEED, 1),
                 ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_noretreat_fails_when_user_has_volatile_status(self):
+        bot_move = "noretreat"
+        opponent_move = "splash"
+        self.state.self.active.volatile_status.add("noretreat")
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [],
                 False
             )
         ]
@@ -2013,6 +2911,25 @@ class TestGetStateInstructions(unittest.TestCase):
                 1,
                 [
                     (constants.MUTATOR_DAMAGE, constants.OPPONENT, 80)
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_boltbeak_does_double_damage_when_opponent_switches(self):
+        self.state.self.active.speed = 1
+        self.state.opponent.active.speed = 2
+        bot_move = "boltbeak"
+        opponent_move = "switch yveltal"
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'yveltal'),
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 285)
                 ],
                 False
             )
@@ -2532,6 +3449,24 @@ class TestGetStateInstructions(unittest.TestCase):
 
         self.assertEqual(expected_instructions, instructions)
 
+    def test_stakeout_does_double_damage_versus_switch(self):
+        bot_move = "tackle"
+        opponent_move = "switch yveltal"
+        self.state.self.active.ability = 'stakeout'
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'yveltal'),
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 45),  # 26 damage normally
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
     def test_icescales_halves_special_damage(self):
         bot_move = "swift"
         opponent_move = "splash"
@@ -2560,6 +3495,31 @@ class TestGetStateInstructions(unittest.TestCase):
                 [
                     (constants.MUTATOR_DAMAGE, constants.OPPONENT, 25),
                 ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_corrosion_poisons_steel_types(self):
+        bot_move = "toxic"
+        opponent_move = "splash"
+        self.state.self.active.ability = 'corrosion'
+        self.state.opponent.active.types = ['steel']
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                0.9,
+                [
+                    (constants.MUTATOR_APPLY_STATUS, constants.OPPONENT, constants.TOXIC),
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 18),
+                    (constants.MUTATOR_SIDE_START, constants.OPPONENT, constants.TOXIC_COUNT, 1),
+                ],
+                False
+            ),
+            TransposeInstruction(
+                0.09999999999999998,
+                [],
                 False
             )
         ]
@@ -2687,6 +3647,41 @@ class TestGetStateInstructions(unittest.TestCase):
                     (constants.MUTATOR_SIDE_END, constants.OPPONENT, constants.REFLECT, 1),
                     (constants.MUTATOR_SIDE_END, constants.SELF, constants.LIGHT_SCREEN, 1),
                     (constants.MUTATOR_SIDE_END, constants.OPPONENT, constants.AURORA_VEIL, 1),
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_auroraveil_fails_without_hail(self):
+        bot_move = "auroraveil"
+        opponent_move = "splash"
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_auroraveil_works_in_hail(self):
+        bot_move = "auroraveil"
+        opponent_move = "splash"
+        self.state.weather = constants.HAIL
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_SIDE_START, constants.SELF, constants.AURORA_VEIL, 1),
+
+                    # hail damage since neither are ice type
+                    (constants.MUTATOR_DAMAGE, constants.SELF, 13),
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 18)
                 ],
                 False
             )
@@ -2846,6 +3841,24 @@ class TestGetStateInstructions(unittest.TestCase):
                 1,
                 [
                     (constants.MUTATOR_DAMAGE, constants.OPPONENT, 63)
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_growth_boosts_by_two_in_the_sun(self):
+        bot_move = "growth"
+        opponent_move = "splash"
+        self.state.weather = constants.SUN
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_BOOST, constants.SELF, constants.ATTACK, 2),
+                    (constants.MUTATOR_BOOST, constants.SELF, constants.SPECIAL_ATTACK, 2),
                 ],
                 False
             )
@@ -3019,6 +4032,47 @@ class TestGetStateInstructions(unittest.TestCase):
 
         self.assertEqual(expected_instructions, instructions)
 
+    def test_switch_into_side_with_rocks_and_spikes(self):
+        bot_move = "switch starmie"
+        opponent_move = "splash"
+        self.state.self.side_conditions[constants.STEALTH_ROCK] = 1
+        self.state.self.side_conditions[constants.SPIKES] = 1
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_SWITCH, constants.SELF, "raichu", "starmie"),
+                    (constants.MUTATOR_DAMAGE, constants.SELF, 28.75),
+                    (constants.MUTATOR_DAMAGE, constants.SELF, 28.75),
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_switch_into_side_with_rocks_and_spikes_when_one_kills(self):
+        bot_move = "switch starmie"
+        opponent_move = "splash"
+        self.state.self.side_conditions[constants.STEALTH_ROCK] = 1
+        self.state.self.side_conditions[constants.SPIKES] = 1
+        self.state.self.reserve['starmie'].hp = 15
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_SWITCH, constants.SELF, "raichu", "starmie"),
+                    (constants.MUTATOR_DAMAGE, constants.SELF, 15),
+                    (constants.MUTATOR_DAMAGE, constants.SELF, 0),
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
     def test_spikes_into_rapid_spin_clears_the_spikes(self):
         bot_move = "spikes"
         opponent_move = "rapidspin"
@@ -3070,6 +4124,7 @@ class TestGetStateInstructions(unittest.TestCase):
                 [
                     (constants.MUTATOR_SIDE_START, constants.OPPONENT, constants.SPIKES, 1),
                     (constants.MUTATOR_SIDE_END, constants.OPPONENT, constants.SPIKES, 1),
+                    (constants.MUTATOR_BOOST, constants.SELF, constants.EVASION, -1)
                 ],
                 False
             )
@@ -3087,7 +4142,8 @@ class TestGetStateInstructions(unittest.TestCase):
             TransposeInstruction(
                 1,
                 [
-                    (constants.MUTATOR_FIELD_END, constants.ELECTRIC_TERRAIN)
+                    (constants.MUTATOR_FIELD_END, constants.ELECTRIC_TERRAIN),
+                    (constants.MUTATOR_BOOST, constants.SELF, constants.EVASION, -1)
                 ],
                 False
             )
@@ -3107,7 +4163,8 @@ class TestGetStateInstructions(unittest.TestCase):
                 1,
                 [
                     (constants.MUTATOR_FIELD_END, constants.ELECTRIC_TERRAIN),
-                    (constants.MUTATOR_SIDE_END, constants.SELF, constants.SPIKES, 2)
+                    (constants.MUTATOR_SIDE_END, constants.SELF, constants.SPIKES, 2),
+                    (constants.MUTATOR_BOOST, constants.SELF, constants.EVASION, -1)
                 ],
                 False
             )
@@ -3424,6 +4481,23 @@ class TestGetStateInstructions(unittest.TestCase):
 
         self.assertEqual(expected_instructions, instructions)
 
+    def test_blackglasses_boosts_dark_moves(self):
+        bot_move = "darkestlariat"
+        opponent_move = "splash"
+        self.state.self.active.item = 'blackglasses'
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 31)  # normal damage is 26
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
     def test_choice_band_boosts_damage(self):
         bot_move = "tackle"
         opponent_move = "tackle"
@@ -3629,8 +4703,173 @@ class TestGetStateInstructions(unittest.TestCase):
             TransposeInstruction(
                 1,
                 [
-                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 111)
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 37)
                 ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    @mock.patch('showdown.engine.special_effects.moves.move_special_effect.pokedex')
+    def test_heavyslam_damage_for_10_times_the_weight(self, pokedex_mock):
+        # 10x the weight should result in 120 base-power
+        fake_pokedex = {
+            'pikachu': {
+                'weight': 100
+            },
+            'pidgey': {
+                'weight': 10
+            }
+        }
+        pokedex_mock.__getitem__.side_effect = fake_pokedex.__getitem__
+
+        bot_move = "heavyslam"
+        opponent_move = "splash"
+        self.state.self.active.types = ['normal']
+        self.state.opponent.active.types = ['normal']
+        self.state.self.active.id = 'pikachu'
+        self.state.opponent.active.id = 'pidgey'
+
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 74)
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    @mock.patch('showdown.engine.special_effects.moves.move_special_effect.pokedex')
+    def test_heavyslam_damage_for_4_times_the_weight(self, pokedex_mock):
+        # 4x the weight should result in 100 base-power
+        fake_pokedex = {
+            'pikachu': {
+                'weight': 100
+            },
+            'pidgey': {
+                'weight': 25
+            }
+        }
+        pokedex_mock.__getitem__.side_effect = fake_pokedex.__getitem__
+
+        bot_move = "heavyslam"
+        opponent_move = "splash"
+        self.state.self.active.types = ['normal']
+        self.state.opponent.active.types = ['normal']
+        self.state.self.active.id = 'pikachu'
+        self.state.opponent.active.id = 'pidgey'
+
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 62)
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    @mock.patch('showdown.engine.special_effects.moves.move_special_effect.pokedex')
+    def test_heavyslam_damage_for_the_same_weight(self, pokedex_mock):
+        # equal weight should result in 40 base-power
+        fake_pokedex = {
+            'pikachu': {
+                'weight': 100
+            },
+            'pidgey': {
+                'weight': 100
+            }
+        }
+        pokedex_mock.__getitem__.side_effect = fake_pokedex.__getitem__
+
+        bot_move = "heavyslam"
+        opponent_move = "splash"
+        self.state.self.active.types = ['normal']
+        self.state.opponent.active.types = ['normal']
+        self.state.self.active.id = 'pikachu'
+        self.state.opponent.active.id = 'pidgey'
+
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 25)
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    @mock.patch('showdown.engine.special_effects.moves.move_special_effect.pokedex')
+    def test_heatcrash_damage_for_the_same_weight(self, pokedex_mock):
+        # 10x equal weight should result in 120 base-power
+        fake_pokedex = {
+            'pikachu': {
+                'weight': 100
+            },
+            'pidgey': {
+                'weight': 10
+            }
+        }
+        pokedex_mock.__getitem__.side_effect = fake_pokedex.__getitem__
+
+        bot_move = "heatcrash"
+        opponent_move = "splash"
+        self.state.self.active.types = ['normal']
+        self.state.opponent.active.types = ['normal']
+        self.state.self.active.id = 'pikachu'
+        self.state.opponent.active.id = 'pidgey'
+
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 74)
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    @mock.patch('showdown.engine.special_effects.moves.move_special_effect.pokedex')
+    def test_heatcrash_into_flashfire(self, pokedex_mock):
+        # the defender has flashfire so no damage should be done, even with 10x the weight
+        fake_pokedex = {
+            'pikachu': {
+                'weight': 100
+            },
+            'pidgey': {
+                'weight': 10
+            }
+        }
+        pokedex_mock.__getitem__.side_effect = fake_pokedex.__getitem__
+
+        bot_move = "heatcrash"
+        opponent_move = "splash"
+        self.state.self.active.types = ['normal']
+        self.state.opponent.active.types = ['normal']
+        self.state.self.active.id = 'pikachu'
+        self.state.opponent.active.id = 'pidgey'
+
+        self.state.opponent.active.ability = 'flashfire'
+
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [],
                 False
             )
         ]
@@ -3821,6 +5060,271 @@ class TestGetStateInstructions(unittest.TestCase):
                 1,
                 [
                     (constants.MUTATOR_HEAL, constants.SELF, 13)
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_flameorb_burns_at_end_of_turn(self):
+        bot_move = "splash"
+        opponent_move = "splash"
+        self.state.self.active.item = 'flameorb'
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_APPLY_STATUS, constants.SELF, constants.BURN),
+                    (constants.MUTATOR_DAMAGE, constants.SELF, 13)
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_fire_type_cannot_be_burned_by_flameorb(self):
+        bot_move = "splash"
+        opponent_move = "splash"
+        self.state.self.active.item = 'flameorb'
+        self.state.self.active.types = ['fire']
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_toxicorb_toxics_the_user(self):
+        bot_move = "splash"
+        opponent_move = "splash"
+        self.state.self.active.item = 'toxicorb'
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_APPLY_STATUS, constants.SELF, constants.TOXIC),
+                    (constants.MUTATOR_DAMAGE, constants.SELF, 13),
+                    (constants.MUTATOR_SIDE_START, constants.SELF, constants.TOXIC_COUNT, 1)
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_poison_type_cannot_be_toxiced_by_toxicorb(self):
+        bot_move = "splash"
+        opponent_move = "splash"
+        self.state.self.active.item = 'toxicorb'
+        self.state.self.active.types = ['poison']
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_flameorb_cannot_burn_paralyzed_pokemon(self):
+        bot_move = "splash"
+        opponent_move = "splash"
+        self.state.self.active.item = 'flameorb'
+        self.state.self.active.status = constants.PARALYZED
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_solarpower_self_damage_at_the_end_of_the_turn(self):
+        bot_move = "splash"
+        opponent_move = "splash"
+        self.state.weather = constants.SUN
+        self.state.self.active.ability = 'solarpower'
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.SELF, 26)
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_raindish_heals_when_weather_is_rain(self):
+        bot_move = "splash"
+        opponent_move = "splash"
+        self.state.weather = constants.RAIN
+        self.state.self.active.ability = 'raindish'
+        self.state.self.active.hp = 1
+        self.state.self.active.maxhp = 100
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_HEAL, constants.SELF, 6)
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_dryskin_heals_when_weather_is_rain(self):
+        bot_move = "splash"
+        opponent_move = "splash"
+        self.state.weather = constants.RAIN
+        self.state.self.active.ability = 'dryskin'
+        self.state.self.active.hp = 1
+        self.state.self.active.maxhp = 100
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_HEAL, constants.SELF, 12)
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_dryskin_damages_when_weather_is_sun(self):
+        bot_move = "splash"
+        opponent_move = "splash"
+        self.state.weather = constants.SUN
+        self.state.self.active.ability = 'dryskin'
+        self.state.self.active.hp = 100
+        self.state.self.active.maxhp = 100
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.SELF, 12)
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_dryskin_does_not_overkill(self):
+        bot_move = "splash"
+        opponent_move = "splash"
+        self.state.weather = constants.SUN
+        self.state.self.active.ability = 'dryskin'
+        self.state.self.active.hp = 1
+        self.state.self.active.maxhp = 100
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.SELF, 1)
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_raindish_does_not_overheal(self):
+        bot_move = "splash"
+        opponent_move = "splash"
+        self.state.weather = constants.RAIN
+        self.state.self.active.ability = 'raindish'
+        self.state.self.active.hp = 99
+        self.state.self.active.maxhp = 100
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_HEAL, constants.SELF, 1)
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_dryskin_does_not_overheal(self):
+        bot_move = "splash"
+        opponent_move = "splash"
+        self.state.weather = constants.RAIN
+        self.state.self.active.ability = 'dryskin'
+        self.state.self.active.hp = 99
+        self.state.self.active.maxhp = 100
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_HEAL, constants.SELF, 1)
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_icebody_does_not_overheal(self):
+        bot_move = "splash"
+        opponent_move = "splash"
+        self.state.weather = constants.HAIL
+        self.state.self.active.ability = 'icebody'
+        self.state.self.active.hp = 99
+        self.state.self.active.maxhp = 100
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 18),  # opponent's hail damage
+                    (constants.MUTATOR_HEAL, constants.SELF, 1)
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_icebody_healing(self):
+        bot_move = "splash"
+        opponent_move = "splash"
+        self.state.weather = constants.HAIL
+        self.state.self.active.ability = 'icebody'
+        self.state.self.active.hp = 1
+        self.state.self.active.maxhp = 100
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 18),  # opponent's hail damage
+                    (constants.MUTATOR_HEAL, constants.SELF, 6)
                 ],
                 False
             )
@@ -4228,6 +5732,7 @@ class TestGetStateInstructions(unittest.TestCase):
                 1,
                 [
                     (constants.MUTATOR_DAMAGE, constants.SELF, 82),
+                    (constants.MUTATOR_CHANGE_ITEM, constants.SELF, None, constants.UNKNOWN_ITEM),
                     (constants.MUTATOR_BOOST, constants.SELF, constants.ATTACK, 1),
                 ],
                 False
@@ -4248,7 +5753,7 @@ class TestGetStateInstructions(unittest.TestCase):
                 [
                     (constants.MUTATOR_BOOST, constants.SELF, constants.ATTACK, -1),
                     (constants.MUTATOR_BOOST, constants.SELF, constants.SPECIAL_ATTACK, -1),
-                    (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'slurpuff')
+                    (constants.MUTATOR_SWITCH, constants.OPPONENT, 'aromatisse', 'yveltal')
                 ],
                 False
             )
@@ -4338,7 +5843,7 @@ class TestGetStateInstructions(unittest.TestCase):
             TransposeInstruction(
                 1,
                 [
-                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 97),
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 33),
                     (constants.MUTATOR_DAMAGE, constants.SELF, 13),
                     (constants.MUTATOR_DAMAGE, constants.OPPONENT, 18)
                 ],
@@ -4652,6 +6157,64 @@ class TestGetStateInstructions(unittest.TestCase):
 
         self.assertEqual(expected_instructions, instructions)
 
+    def test_partingshot_into_competitive_boosts_special_attack_by_4(self):
+        bot_move = "partingshot"
+        opponent_move = "splash"
+        self.state.opponent.active.types = ['normal']
+        self.state.opponent.active.ability = 'competitive'
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_BOOST, constants.OPPONENT, constants.ATTACK, -1),
+                    (constants.MUTATOR_BOOST, constants.OPPONENT, constants.SPECIAL_ATTACK, 3),
+                    (constants.MUTATOR_SWITCH, constants.SELF, 'raichu', 'xatu')
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_defog_into_competitive_boosts_special_attack_by_2(self):
+        bot_move = "defog"
+        opponent_move = "splash"
+        self.state.opponent.active.types = ['normal']
+        self.state.opponent.active.ability = 'competitive'
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_BOOST, constants.OPPONENT, constants.EVASION, -1),
+                    (constants.MUTATOR_BOOST, constants.OPPONENT, constants.SPECIAL_ATTACK, 2),
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_defog_into_defiant_boosts_attack_by_2(self):
+        bot_move = "defog"
+        opponent_move = "splash"
+        self.state.opponent.active.types = ['normal']
+        self.state.opponent.active.ability = 'defiant'
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_BOOST, constants.OPPONENT, constants.EVASION, -1),
+                    (constants.MUTATOR_BOOST, constants.OPPONENT, constants.ATTACK, 2),
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
     def test_partingshot_into_defiant_boosts_attack_by_4(self):
         bot_move = "partingshot"
         opponent_move = "splash"
@@ -4664,7 +6227,27 @@ class TestGetStateInstructions(unittest.TestCase):
                 [
                     (constants.MUTATOR_BOOST, constants.OPPONENT, constants.ATTACK, 3),
                     (constants.MUTATOR_BOOST, constants.OPPONENT, constants.SPECIAL_ATTACK, -1),
-                    (constants.MUTATOR_SWITCH, constants.SELF, 'raichu', 'hitmonlee')
+                    (constants.MUTATOR_SWITCH, constants.SELF, 'raichu', 'xatu')
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_memento_into_competitive(self):
+        bot_move = "memento"
+        opponent_move = "splash"
+        self.state.opponent.active.types = ['normal']
+        self.state.opponent.active.ability = 'competitive'
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_BOOST, constants.OPPONENT, constants.ATTACK, -2),
+                    (constants.MUTATOR_BOOST, constants.OPPONENT, constants.SPECIAL_ATTACK, 2),
+                    (constants.MUTATOR_HEAL, constants.SELF, -208)
                 ],
                 False
             )
@@ -4692,6 +6275,32 @@ class TestGetStateInstructions(unittest.TestCase):
 
         self.assertEqual(expected_instructions, instructions)
 
+    def test_moonblast_secondary_into_competitive(self):
+        bot_move = "moonblast"
+        opponent_move = "splash"
+        self.state.opponent.active.types = ['normal']
+        self.state.opponent.active.ability = 'competitive'
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                0.3,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 50),
+                    (constants.MUTATOR_BOOST, constants.OPPONENT, constants.SPECIAL_ATTACK, 1),
+                ],
+                False
+            ),
+            TransposeInstruction(
+                0.7,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 50),
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
     def test_moonblast_secondary_into_defiant(self):
         bot_move = "moonblast"
         opponent_move = "splash"
@@ -4712,6 +6321,48 @@ class TestGetStateInstructions(unittest.TestCase):
                 0.7,
                 [
                     (constants.MUTATOR_DAMAGE, constants.OPPONENT, 50),
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_switching_into_intimidate_into_competitive(self):
+        bot_move = "switch xatu"
+        opponent_move = "splash"
+        self.state.opponent.active.types = ['normal']
+        self.state.self.reserve['xatu'].ability = 'intimidate'
+        self.state.opponent.active.ability = 'competitive'
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_SWITCH, constants.SELF, 'raichu', 'xatu'),
+                    (constants.MUTATOR_UNBOOST, constants.OPPONENT, constants.ATTACK, 1),
+                    (constants.MUTATOR_BOOST, constants.OPPONENT, constants.SPECIAL_ATTACK, 2),
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_switching_into_intimidate_into_rattled(self):
+        bot_move = "switch xatu"
+        opponent_move = "splash"
+        self.state.opponent.active.types = ['normal']
+        self.state.self.reserve['xatu'].ability = 'intimidate'
+        self.state.opponent.active.ability = 'rattled'
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_SWITCH, constants.SELF, 'raichu', 'xatu'),
+                    (constants.MUTATOR_UNBOOST, constants.OPPONENT, constants.ATTACK, 1),
+                    (constants.MUTATOR_BOOST, constants.OPPONENT, constants.SPEED, 1),
                 ],
                 False
             )
@@ -4816,6 +6467,25 @@ class TestGetStateInstructions(unittest.TestCase):
 
         self.assertEqual(expected_instructions, instructions)
 
+    def test_protean_causes_attack_to_have_stab(self):
+        bot_move = "surf"
+        opponent_move = "splash"
+        self.state.self.active.types = ['normal']
+        self.state.self.active.ability = 'protean'
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_CHANGE_TYPE, constants.SELF, ['water'], ['normal']),
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 72),  # non-STAB surf does 48 damage
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
     def test_no_type_change_instruction_if_there_are_no_types_to_change(self):
         bot_move = "surf"
         opponent_move = "splash"
@@ -4834,6 +6504,82 @@ class TestGetStateInstructions(unittest.TestCase):
 
         self.assertEqual(expected_instructions, instructions)
 
+    def test_no_type_change_instruction_if_user_gets_flinched(self):
+        bot_move = "surf"
+        opponent_move = "ironhead"
+        self.state.self.active.speed = 1
+        self.state.opponent.active.speed = 2
+        self.state.self.active.types = ['normal']
+        self.state.self.active.ability = 'protean'
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                0.3,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.SELF, 68),
+                    (constants.MUTATOR_APPLY_VOLATILE_STATUS, constants.SELF, constants.FLINCH),
+                    (constants.MUTATOR_REMOVE_VOLATILE_STATUS, constants.SELF, constants.FLINCH),
+                ],
+                True
+            ),
+            TransposeInstruction(
+                0.7,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.SELF, 68),
+                    (constants.MUTATOR_CHANGE_TYPE, constants.SELF, ['water'], ['normal']),
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 72),
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_there_is_a_type_change_instruction_if_a_protean_user_misses_due_to_accuracy(self):
+        bot_move = "hydropump"
+        opponent_move = "splash"
+        self.state.self.active.types = ['normal']
+        self.state.self.active.ability = 'protean'
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                0.8,
+                [
+                    (constants.MUTATOR_CHANGE_TYPE, constants.SELF, ['water'], ['normal']),
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 88),
+                ],
+                False
+            ),
+            TransposeInstruction(
+                0.19999999999999996,
+                [
+                    (constants.MUTATOR_CHANGE_TYPE, constants.SELF, ['water'], ['normal']),
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_non_damaging_move_causes_type_change_instruction(self):
+        bot_move = "spikes"
+        opponent_move = "splash"
+        self.state.self.active.types = ['normal']
+        self.state.self.active.ability = 'protean'
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_CHANGE_TYPE, constants.SELF, ['ground'], ['normal']),
+                    (constants.MUTATOR_SIDE_START, constants.OPPONENT, constants.SPIKES, 1)
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
     def test_using_ground_move_with_libero_makes_pokemon_immune_to_electric_move(self):
         bot_move = "earthquake"
         opponent_move = "thunderwave"
@@ -4845,7 +6591,7 @@ class TestGetStateInstructions(unittest.TestCase):
                 1,
                 [
                     (constants.MUTATOR_CHANGE_TYPE, constants.SELF, ['ground'], ['water', 'grass']),
-                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 62),
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 94),
                 ],
                 True
             )
@@ -5376,6 +7122,55 @@ class TestGetStateInstructions(unittest.TestCase):
                     (constants.MUTATOR_DISABLE_MOVE, constants.SELF, 'thunderwave'),
                     (constants.MUTATOR_DISABLE_MOVE, constants.SELF, 'coil'),
                     (constants.MUTATOR_DISABLE_MOVE, constants.SELF, 'sandattack'),
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_switching_into_pkmn_with_choice_item_does_not_lock_other_moves(self):
+        bot_move = "switch xatu"
+        opponent_move = "celebrate"
+        self.state.self.reserve['xatu'].moves = [
+            {constants.ID: 'tackle', constants.DISABLED: False},
+            {constants.ID: 'thunderwave', constants.DISABLED: False},
+            {constants.ID: 'coil', constants.DISABLED: False},
+            {constants.ID: 'sandattack', constants.DISABLED: False}
+        ]
+        self.state.self.reserve['xatu'].item = 'choicescarf'
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_SWITCH, constants.SELF, self.state.self.active.id, 'xatu')
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_being_dragged_into_pkmn_with_choice_item_does_not_lock_other_moves(self):
+        bot_move = "celebrate"
+        opponent_move = "whirlwind"
+        self.state.self.reserve = {
+            'xatu': self.state.self.reserve['xatu']
+        }
+        self.state.self.reserve['xatu'].moves = [
+            {constants.ID: 'tackle', constants.DISABLED: False},
+            {constants.ID: 'thunderwave', constants.DISABLED: False},
+            {constants.ID: 'coil', constants.DISABLED: False},
+            {constants.ID: 'sandattack', constants.DISABLED: False}
+        ]
+        self.state.self.reserve['xatu'].item = 'choicescarf'
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_SWITCH, constants.SELF, self.state.self.active.id, 'xatu')
                 ],
                 False
             )
@@ -5949,6 +7744,24 @@ class TestGetStateInstructions(unittest.TestCase):
 
         self.assertEqual(expected_instructions, instructions)
 
+    def test_multiattack_with_no_item_is_normal(self):
+        bot_move = "multiattack"
+        opponent_move = "splash"
+        self.state.self.active.item = None
+        self.state.opponent.active.types = ['grass']
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1.0,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 74)
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
     def test_memories_change_multiattack_type_to_not_very_effective(self):
         bot_move = "multiattack"
         opponent_move = "splash"
@@ -6067,6 +7880,334 @@ class TestGetStateInstructions(unittest.TestCase):
                 1,
                 [
                     (constants.MUTATOR_WEATHER_START, constants.SUN, self.state.weather)
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_using_trick_swaps_items_with_opponent(self):
+        self.state.self.active.item = 'leftovers'
+        self.state.opponent.active.item = 'lifeorb'
+        bot_move = "trick"
+        opponent_move = "splash"
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_CHANGE_ITEM, constants.SELF, 'lifeorb', 'leftovers'),
+                    (constants.MUTATOR_CHANGE_ITEM, constants.OPPONENT, 'leftovers', 'lifeorb'),
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_trick_fails_against_z_crystal(self):
+        self.state.self.active.item = 'leftovers'
+        self.state.opponent.active.item = 'iciumz'
+        bot_move = "trick"
+        opponent_move = "splash"
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_trick_fails_against_sticky_hold(self):
+        self.state.self.active.item = 'choicescarf'
+        self.state.opponent.active.item = 'leftovers'
+        self.state.opponent.active.ability = 'stickyhold'
+        bot_move = "trick"
+        opponent_move = "splash"
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_switching_into_stickyweb_lowers_speed(self):
+        bot_move = "switch starmie"
+        opponent_move = "splash"
+        self.state.self.side_conditions[constants.STICKY_WEB] = 1
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_SWITCH, constants.SELF, 'raichu', 'starmie'),
+                    (constants.MUTATOR_UNBOOST, constants.SELF, constants.SPEED, 1)
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_switching_into_stickyweb_with_whitesmoke_does_not_lower_speed(self):
+        bot_move = "switch starmie"
+        opponent_move = "splash"
+        self.state.self.reserve['starmie'].ability = 'whitesmoke'
+        self.state.self.side_conditions[constants.STICKY_WEB] = 1
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_SWITCH, constants.SELF, 'raichu', 'starmie')
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_charm_against_pokemon_with_clearbody(self):
+        bot_move = "splash"
+        opponent_move = "charm"
+        self.state.self.active.ability = 'clearbody'
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_mysticwater_boosts_water_move(self):
+        bot_move = "watergun"
+        opponent_move = "splash"
+        self.state.self.active.item = 'mysticwater'
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 26)  # typical damage is 22
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_charcoal_boosts_fire_move(self):
+        bot_move = "eruption"
+        opponent_move = "splash"
+        self.state.self.active.item = 'charcoal'
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 95)  # typical damage is 79
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_trick_fails_against_silvally_with_memory(self):
+        self.state.self.active.item = 'leftovers'
+        self.state.opponent.active.item = 'steelmemory'
+        self.state.opponent.active.id = 'silvallysteel'
+        bot_move = "trick"
+        opponent_move = "splash"
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_trick_fails_on_opponent_with_substitute(self):
+        self.state.self.active.item = 'leftovers'
+        self.state.opponent.active.item = 'lifeorb'
+        self.state.opponent.active.volatile_status.add(constants.SUBSTITUTE)
+        bot_move = "trick"
+        opponent_move = "splash"
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_trick_succeeds_when_user_is_behind_substitute(self):
+        self.state.self.active.item = 'leftovers'
+        self.state.opponent.active.item = 'lifeorb'
+        self.state.self.active.volatile_status.add(constants.SUBSTITUTE)
+        bot_move = "trick"
+        opponent_move = "splash"
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_CHANGE_ITEM, constants.SELF, 'lifeorb', 'leftovers'),
+                    (constants.MUTATOR_CHANGE_ITEM, constants.OPPONENT, 'leftovers', 'lifeorb'),
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_trick_switches_when_user_has_no_item(self):
+        self.state.self.active.item = None
+        self.state.opponent.active.item = 'lifeorb'
+        bot_move = "trick"
+        opponent_move = "splash"
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_CHANGE_ITEM, constants.SELF, 'lifeorb', None),
+                    (constants.MUTATOR_CHANGE_ITEM, constants.OPPONENT, None, 'lifeorb'),
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_trick_switches_when_opponent_has_no_item(self):
+        self.state.self.active.item = 'lifeorb'
+        self.state.opponent.active.item = None
+        bot_move = "trick"
+        opponent_move = "splash"
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_CHANGE_ITEM, constants.SELF, None, 'lifeorb'),
+                    (constants.MUTATOR_CHANGE_ITEM, constants.OPPONENT, 'lifeorb', None),
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_double_no_item_produces_no_instructions(self):
+        self.state.self.active.item = None
+        self.state.opponent.active.item = None
+        bot_move = "trick"
+        opponent_move = "splash"
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_opponent_move_locks_when_choicescarf_is_tricked(self):
+        self.state.self.active.item = 'choicescarf'
+        self.state.opponent.active.item = 'lifeorb'
+        bot_move = "trick"
+        opponent_move = "tackle"
+        self.state.opponent.active.moves = [
+            {constants.ID: 'tackle', constants.DISABLED: False},
+            {constants.ID: 'thunderwave', constants.DISABLED: False},
+            {constants.ID: 'coil', constants.DISABLED: False},
+            {constants.ID: 'sandattack', constants.DISABLED: False}
+        ]
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_CHANGE_ITEM, constants.SELF, 'lifeorb', 'choicescarf'),
+                    (constants.MUTATOR_CHANGE_ITEM, constants.OPPONENT, 'choicescarf', 'lifeorb'),
+                    (constants.MUTATOR_DAMAGE, constants.SELF, 35),
+                    (constants.MUTATOR_DISABLE_MOVE, constants.OPPONENT, 'thunderwave'),
+                    (constants.MUTATOR_DISABLE_MOVE, constants.OPPONENT, 'coil'),
+                    (constants.MUTATOR_DISABLE_MOVE, constants.OPPONENT, 'sandattack'),
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_switcheroo_behaves_the_same_as_trick(self):
+        self.state.self.active.item = 'choicescarf'
+        self.state.opponent.active.item = 'lifeorb'
+        bot_move = "switcheroo"
+        opponent_move = "tackle"
+        self.state.opponent.active.moves = [
+            {constants.ID: 'tackle', constants.DISABLED: False},
+            {constants.ID: 'thunderwave', constants.DISABLED: False},
+            {constants.ID: 'coil', constants.DISABLED: False},
+            {constants.ID: 'sandattack', constants.DISABLED: False}
+        ]
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_CHANGE_ITEM, constants.SELF, 'lifeorb', 'choicescarf'),
+                    (constants.MUTATOR_CHANGE_ITEM, constants.OPPONENT, 'choicescarf', 'lifeorb'),
+                    (constants.MUTATOR_DAMAGE, constants.SELF, 35),
+                    (constants.MUTATOR_DISABLE_MOVE, constants.OPPONENT, 'thunderwave'),
+                    (constants.MUTATOR_DISABLE_MOVE, constants.OPPONENT, 'coil'),
+                    (constants.MUTATOR_DISABLE_MOVE, constants.OPPONENT, 'sandattack'),
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_bot_moves_are_not_locked_when_a_choice_item_is_tricked(self):
+        self.state.self.active.item = 'choicescarf'
+        self.state.opponent.active.item = 'lifeorb'
+        bot_move = "trick"
+        opponent_move = "splash"
+        self.state.self.active.moves = [
+            {constants.ID: 'trick', constants.DISABLED: False},
+            {constants.ID: 'thunderwave', constants.DISABLED: False},
+            {constants.ID: 'coil', constants.DISABLED: False},
+            {constants.ID: 'sandattack', constants.DISABLED: False}
+        ]
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_CHANGE_ITEM, constants.SELF, 'lifeorb', 'choicescarf'),
+                    (constants.MUTATOR_CHANGE_ITEM, constants.OPPONENT, 'choicescarf', 'lifeorb'),
                 ],
                 False
             )
@@ -6381,6 +8522,286 @@ class TestGetStateInstructions(unittest.TestCase):
                     (constants.MUTATOR_APPLY_VOLATILE_STATUS, constants.SELF, constants.PROTECT),
                     (constants.MUTATOR_REMOVE_VOLATILE_STATUS, constants.SELF, constants.PROTECT),
                     (constants.MUTATOR_SIDE_START, constants.SELF, constants.PROTECT, 1)
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_unseenfist_ignores_protect_with_contact_move(self):
+        bot_move = "protect"
+        opponent_move = "tackle"
+        self.state.opponent.active.ability = 'unseenfist'
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_APPLY_VOLATILE_STATUS, constants.SELF, constants.PROTECT),
+                    (constants.MUTATOR_DAMAGE, constants.SELF, 35),
+                    (constants.MUTATOR_REMOVE_VOLATILE_STATUS, constants.SELF, constants.PROTECT),
+                    (constants.MUTATOR_SIDE_START, constants.SELF, constants.PROTECT, 1)
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_unseenfist_does_not_ignore_protect_with_non_contact_move(self):
+        bot_move = "protect"
+        opponent_move = "watergun"
+        self.state.opponent.active.ability = 'unseenfist'
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_APPLY_VOLATILE_STATUS, constants.SELF, constants.PROTECT),
+                    (constants.MUTATOR_REMOVE_VOLATILE_STATUS, constants.SELF, constants.PROTECT),
+                    (constants.MUTATOR_SIDE_START, constants.SELF, constants.PROTECT, 1)
+                ],
+                True
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_psyshock_boost_in_terrain(self):
+        bot_move = "psyshock"
+        opponent_move = "splash"
+        self.state.field = constants.PSYCHIC_TERRAIN
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 64)  # normal damage without terrain is 49
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_expandingforce_power_boost_in_terrain(self):
+        bot_move = "expandingforce"
+        opponent_move = "splash"
+        self.state.field = constants.PSYCHIC_TERRAIN
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 82)  # normal damage in terrain without 1.5x boost is 56
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_risingvoltage_power_boost_in_terrain(self):
+        bot_move = "risingvoltage"
+        opponent_move = "splash"
+        self.state.field = constants.ELECTRIC_TERRAIN
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 110)  # normal damage in terrain without 1.5x boost is 56
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_terrainpulse_fails_against_ground_type_in_electricterrain(self):
+        bot_move = "terrainpulse"
+        opponent_move = "splash"
+        self.state.field = constants.ELECTRIC_TERRAIN
+        self.state.opponent.active.types = ['ground']
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_terrainpulse_fails_against_dark_type_in_psychicterrain(self):
+        bot_move = "terrainpulse"
+        opponent_move = "splash"
+        self.state.field = constants.PSYCHIC_TERRAIN
+        self.state.opponent.active.types = ['dark']
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_terrainpulse_fails_against_ghost_type_without_terrain(self):
+        bot_move = "terrainpulse"
+        opponent_move = "splash"
+        self.state.opponent.active.types = ['ghost']
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_poltergeist_fails_against_target_with_no_item(self):
+        bot_move = "poltergeist"
+        opponent_move = "splash"
+        self.state.opponent.active.item = None
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_poltergeist_does_not_fail_against_target_with_an_unknown_item(self):
+        bot_move = "poltergeist"
+        opponent_move = "splash"
+        self.state.opponent.active.item = constants.UNKNOWN_ITEM
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                0.9,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 68)
+                ],
+                False
+            ),
+            TransposeInstruction(
+                0.09999999999999998,
+                [],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_steelroller_works_in_terrain(self):
+        bot_move = "steelroller"
+        opponent_move = "splash"
+        self.state.field = constants.PSYCHIC_TERRAIN
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 162)
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_steelroller_fails_without_terrain_active(self):
+        bot_move = "steelroller"
+        opponent_move = "splash"
+        self.state.field = None
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_meteorbeam_charges_on_the_first_turn(self):
+        bot_move = "meteorbeam"
+        opponent_move = "splash"
+        self.state.field = None
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_APPLY_VOLATILE_STATUS, constants.SELF, 'meteorbeam')
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_meteorbeam_executes_when_volatile_status_is_active(self):
+        bot_move = "meteorbeam"
+        opponent_move = "splash"
+        self.state.self.active.volatile_status.add('meteorbeam')
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                0.9,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 63)
+                ],
+                False
+            ),
+            TransposeInstruction(
+                0.09999999999999998,
+                [],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_mistyexplosion_kills_user(self):
+        bot_move = "mistyexplosion"
+        opponent_move = "splash"
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 53),
+                    (constants.MUTATOR_HEAL, constants.SELF, -208),
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_mistyexplosion_does_more_in_mistyterrain(self):
+        bot_move = "mistyexplosion"
+        opponent_move = "splash"
+        self.state.field = constants.MISTY_TERRAIN
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 79),  # normal damage is 53
+                    (constants.MUTATOR_HEAL, constants.SELF, -208),
                 ],
                 False
             )
@@ -6943,6 +9364,40 @@ class TestGetStateInstructions(unittest.TestCase):
 
         self.assertEqual(expected_instructions, instructions)
 
+    def test_liquidvoice_boosts_sound_move_into_water_and_hits_ghost_type(self):
+        bot_move = "hypervoice"
+        opponent_move = "splash"
+        self.state.self.active.ability = 'liquidvoice'
+        self.state.opponent.active.types = ['ghost']  # make sure it hits a ghost type
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 48)
+                ],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_liquidvoice_versus_waterabsorb(self):
+        bot_move = "hypervoice"
+        opponent_move = "splash"
+        self.state.self.active.ability = 'liquidvoice'
+        self.state.opponent.active.ability = 'waterabsorb'
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
     def test_galvanize_boosts_normal_move_without_stab(self):
         bot_move = "tackle"
         opponent_move = "splash"
@@ -7343,6 +9798,24 @@ class TestGetStateInstructions(unittest.TestCase):
             TransposeInstruction(
                 1,
                 [],
+                False
+            )
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_electric_terrain_does_not_block_sleep_for_non_grounded(self):
+        bot_move = "splash"
+        opponent_move = "spore"
+        self.state.self.active.types = ['flying']
+        self.state.field = constants.ELECTRIC_TERRAIN
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_APPLY_STATUS, constants.SELF, constants.SLEEP)
+                ],
                 False
             )
         ]
@@ -7780,8 +10253,25 @@ class TestGetStateInstructions(unittest.TestCase):
 
         self.assertEqual(expected_instructions, instructions)
 
+    def test_junglehealing_heals(self):
+        bot_move = "eruption"
+        opponent_move = "junglehealing"
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 79),
+                    (constants.MUTATOR_HEAL, constants.OPPONENT, 74),
+                ],
+                False
+            ),
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
     def test_lifedew_healing(self):
-        bot_move = "recover"
+        bot_move = "lifedew"
         opponent_move = "splash"
         self.state.self.active.hp -= 25
         instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
@@ -7790,6 +10280,67 @@ class TestGetStateInstructions(unittest.TestCase):
                 1,
                 [
                     (constants.MUTATOR_HEAL, constants.SELF, 25),
+                ],
+                False
+            ),
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_morningsun_in_sunlight(self):
+        bot_move = "morningsun"
+        opponent_move = "splash"
+        self.state.self.active.hp = 1
+        self.state.self.active.maxhp = 100
+        self.state.weather = constants.SUN
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_HEAL, constants.SELF, (2/3) * 100),
+                ],
+                False
+            ),
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_morningsun_in_sand(self):
+        bot_move = "morningsun"
+        opponent_move = "splash"
+        self.state.self.active.hp = 1
+        self.state.self.active.maxhp = 100
+        self.state.weather = constants.SAND
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_HEAL, constants.SELF, (1/4) * 100),
+                    (constants.MUTATOR_DAMAGE, constants.SELF, 6),
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 18),
+                ],
+                False
+            ),
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_shoreup_in_sand(self):
+        bot_move = "shoreup"
+        opponent_move = "splash"
+        self.state.self.active.hp = 1
+        self.state.self.active.maxhp = 100
+        self.state.weather = constants.SAND
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_HEAL, constants.SELF, (2/3) * 100),
+                    (constants.MUTATOR_DAMAGE, constants.SELF, 6),
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 18),
                 ],
                 False
             ),
@@ -7957,6 +10508,82 @@ class TestGetStateInstructions(unittest.TestCase):
 
         self.assertEqual(expected_instructions, instructions)
 
+    def test_earthquake_hits_into_levitate_when_user_has_moldbreaker(self):
+        self.state.self.active.ability = 'moldbreaker'
+        self.state.opponent.active.ability = 'levitate'
+
+        bot_move = "earthquake"
+        opponent_move = "splash"
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 62)
+                ],
+                False
+            ),
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_earthquake_hits_into_levitate_when_user_has_turboblaze(self):
+        self.state.self.active.ability = 'turboblaze'
+        self.state.opponent.active.ability = 'levitate'
+
+        bot_move = "earthquake"
+        opponent_move = "splash"
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 62)
+                ],
+                False
+            ),
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_fire_move_hits_flashfire_pokemon_when_user_has_moldbreaker(self):
+        self.state.self.active.ability = 'moldbreaker'
+        self.state.opponent.active.ability = 'flashfire'
+
+        bot_move = "eruption"
+        opponent_move = "splash"
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 79)
+                ],
+                False
+            ),
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
+    def test_rocks_can_be_used_versus_magic_bounce_when_user_has_moldbreaker(self):
+        self.state.self.active.ability = 'moldbreaker'
+        self.state.opponent.active.ability = 'magicbounce'
+
+        bot_move = "stealthrock"
+        opponent_move = "splash"
+        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
+        expected_instructions = [
+            TransposeInstruction(
+                1,
+                [
+                    (constants.MUTATOR_SIDE_START, constants.OPPONENT, constants.STEALTH_ROCK, 1)
+                ],
+                False
+            ),
+        ]
+
+        self.assertEqual(expected_instructions, instructions)
+
     def test_paralyzed_pokemon_produces_two_states_when_trying_to_attack(self):
         self.state.self.active.status = constants.PARALYZED
         bot_move = "tackle"
@@ -7983,1374 +10610,11 @@ class TestGetStateInstructions(unittest.TestCase):
 
         self.assertEqual(expected_instructions, instructions)
 
-    def test_fireblast_into_crunch_when_already_burned_produces_four_states(self):
-        self.state = State.from_dict(
-            {
-                'self': {
-                    'active': {
-                        'canMegaEvo': False,
-                        'id': 'ninetales',
-                        'level': 83,
-                        'hp': 228,
-                        'maxhp': 257,
-                        'ability': 'drought',
-                        'item': '',
-                        'baseStats': {
-                            'hp': 73,
-                            'attack': 76,
-                            'defense': 75,
-                            'special-attack': 81,
-                            'special-defense': 100,
-                            'speed': 100
-                        },
-                        'attack': 174,
-                        'defense': 172,
-                        'special-attack': 182,
-                        'special-defense': 214,
-                        'speed': 214,
-                        'attack_boost': 0,
-                        'defense_boost': 0,
-                        'special_attack_boost': 0,
-                        'special_defense_boost': 0,
-                        'speed_boost': 0,
-                        'status': None,
-                        'volatileStatus': [
-
-                        ],
-                        'moves': [
-                            {
-                                'id': 'hiddenpower',
-                                'disabled': False,
-                                'current_pp': 24
-                            },
-                            {
-                                'id': 'willowisp',
-                                'disabled': False,
-                                'current_pp': 24
-                            },
-                            {
-                                'id': 'substitute',
-                                'disabled': False,
-                                'current_pp': 16
-                            },
-                            {
-                                'id': 'fireblast',
-                                'disabled': False,
-                                'current_pp': 8
-                            }
-                        ],
-                        'types': [
-                            'fire'
-                        ]
-                    },
-                    'reserve': {
-                        'registeel': {
-                            'canMegaEvo': False,
-                            'id': 'registeel',
-                            'level': 79,
-                            'hp': 256,
-                            'maxhp': 256,
-                            'ability': 'clearbody',
-                            'item': '',
-                            'baseStats': {
-                                'hp': 80,
-                                'attack': 75,
-                                'defense': 150,
-                                'special-attack': 75,
-                                'special-defense': 150,
-                                'speed': 50
-                            },
-                            'attack': 164,
-                            'defense': 283,
-                            'special-attack': 164,
-                            'special-defense': 283,
-                            'speed': 125,
-                            'attack_boost': 0,
-                            'defense_boost': 0,
-                            'special_attack_boost': 0,
-                            'special_defense_boost': 0,
-                            'speed_boost': 0,
-                            'status': None,
-                            'volatileStatus': [
-
-                            ],
-                            'moves': [
-                                {
-                                    'id': 'rest',
-                                    'disabled': False,
-                                    'current_pp': 16
-                                },
-                                {
-                                    'id': 'curse',
-                                    'disabled': False,
-                                    'current_pp': 16
-                                },
-                                {
-                                    'id': 'sleeptalk',
-                                    'disabled': False,
-                                    'current_pp': 16
-                                },
-                                {
-                                    'id': 'ironhead',
-                                    'disabled': False,
-                                    'current_pp': 24
-                                }
-                            ],
-                            'types': [
-                                'steel'
-                            ]
-                        },
-                        'swanna': {
-                            'canMegaEvo': False,
-                            'id': 'swanna',
-                            'level': 83,
-                            'hp': 259,
-                            'maxhp': 260,
-                            'ability': 'hydration',
-                            'item': '',
-                            'baseStats': {
-                                'hp': 75,
-                                'attack': 87,
-                                'defense': 63,
-                                'special-attack': 87,
-                                'special-defense': 63,
-                                'speed': 98
-                            },
-                            'attack': 192,
-                            'defense': 152,
-                            'special-attack': 192,
-                            'special-defense': 152,
-                            'speed': 210,
-                            'attack_boost': 0,
-                            'defense_boost': 0,
-                            'special_attack_boost': 0,
-                            'special_defense_boost': 0,
-                            'speed_boost': 0,
-                            'status': None,
-                            'volatileStatus': [
-
-                            ],
-                            'moves': [
-                                {
-                                    'id': 'icebeam',
-                                    'disabled': False,
-                                    'current_pp': 16
-                                },
-                                {
-                                    'id': 'raindance',
-                                    'disabled': False,
-                                    'current_pp': 8
-                                },
-                                {
-                                    'id': 'hurricane',
-                                    'disabled': False,
-                                    'current_pp': 16
-                                },
-                                {
-                                    'id': 'scald',
-                                    'disabled': False,
-                                    'current_pp': 24
-                                }
-                            ],
-                            'types': [
-                                'water',
-                                'flying'
-                            ]
-                        },
-                        'kommoo': {
-                            'canMegaEvo': False,
-                            'id': 'kommoo',
-                            'level': 79,
-                            'hp': 37,
-                            'maxhp': 248,
-                            'ability': 'bulletproof',
-                            'item': '',
-                            'baseStats': {
-                                'hp': 75,
-                                'attack': 110,
-                                'defense': 125,
-                                'special-attack': 100,
-                                'special-defense': 105,
-                                'speed': 85
-                            },
-                            'attack': 219,
-                            'defense': 243,
-                            'special-attack': 204,
-                            'special-defense': 211,
-                            'speed': 180,
-                            'attack_boost': 0,
-                            'defense_boost': 0,
-                            'special_attack_boost': 0,
-                            'special_defense_boost': 0,
-                            'speed_boost': 0,
-                            'status': None,
-                            'volatileStatus': [
-
-                            ],
-                            'moves': [
-                                {
-                                    'id': 'skyuppercut',
-                                    'disabled': False,
-                                    'current_pp': 24
-                                },
-                                {
-                                    'id': 'poisonjab',
-                                    'disabled': False,
-                                    'current_pp': 32
-                                },
-                                {
-                                    'id': 'dragonclaw',
-                                    'disabled': False,
-                                    'current_pp': 24
-                                },
-                                {
-                                    'id': 'dragondance',
-                                    'disabled': False,
-                                    'current_pp': 32
-                                }
-                            ],
-                            'types': [
-                                'dragon',
-                                'fighting'
-                            ]
-                        },
-                        'mothim': {
-                            'canMegaEvo': False,
-                            'id': 'mothim',
-                            'level': 83,
-                            'hp': 251,
-                            'maxhp': 252,
-                            'ability': 'tintedlens',
-                            'item': '',
-                            'baseStats': {
-                                'hp': 70,
-                                'attack': 94,
-                                'defense': 50,
-                                'special-attack': 94,
-                                'special-defense': 50,
-                                'speed': 66
-                            },
-                            'attack': 204,
-                            'defense': 131,
-                            'special-attack': 204,
-                            'special-defense': 131,
-                            'speed': 157,
-                            'attack_boost': 0,
-                            'defense_boost': 0,
-                            'special_attack_boost': 0,
-                            'special_defense_boost': 0,
-                            'speed_boost': 0,
-                            'status': None,
-                            'volatileStatus': [
-
-                            ],
-                            'moves': [
-                                {
-                                    'id': 'quiverdance',
-                                    'disabled': False,
-                                    'current_pp': 32
-                                },
-                                {
-                                    'id': 'gigadrain',
-                                    'disabled': False,
-                                    'current_pp': 16
-                                },
-                                {
-                                    'id': 'bugbuzz',
-                                    'disabled': False,
-                                    'current_pp': 16
-                                },
-                                {
-                                    'id': 'airslash',
-                                    'disabled': False,
-                                    'current_pp': 24
-                                }
-                            ],
-                            'types': [
-                                'bug',
-                                'flying'
-                            ]
-                        },
-                        'magearna': {
-                            'canMegaEvo': False,
-                            'id': 'magearna',
-                            'level': 75,
-                            'hp': 244,
-                            'maxhp': 244,
-                            'ability': 'soulheart',
-                            'item': '',
-                            'baseStats': {
-                                'hp': 80,
-                                'attack': 95,
-                                'defense': 115,
-                                'special-attack': 130,
-                                'special-defense': 115,
-                                'speed': 65
-                            },
-                            'attack': 186,
-                            'defense': 216,
-                            'special-attack': 239,
-                            'special-defense': 216,
-                            'speed': 141,
-                            'attack_boost': 0,
-                            'defense_boost': 0,
-                            'special_attack_boost': 0,
-                            'special_defense_boost': 0,
-                            'speed_boost': 0,
-                            'status': None,
-                            'volatileStatus': [
-
-                            ],
-                            'moves': [
-                                {
-                                    'id': 'icebeam',
-                                    'disabled': False,
-                                    'current_pp': 16
-                                },
-                                {
-                                    'id': 'flashcannon',
-                                    'disabled': False,
-                                    'current_pp': 16
-                                },
-                                {
-                                    'id': 'fleurcannon',
-                                    'disabled': False,
-                                    'current_pp': 8
-                                },
-                                {
-                                    'id': 'thunderbolt',
-                                    'disabled': False,
-                                    'current_pp': 24
-                                }
-                            ],
-                            'types': [
-                                'steel',
-                                'fairy'
-                            ]
-                        }
-                    },
-                    'side_conditions': {
-                        'stealthrock': 0,
-                        'spikes': 0
-                    },
-                    'trapped': False
-                },
-                'opponent': {
-                    'active': {
-                        'canMegaEvo': False,
-                        'id': 'luxray',
-                        'level': 83,
-                        'hp': 115.24,
-                        'maxhp': 268,
-                        'ability': None,
-                        'item': '',
-                        'baseStats': {
-                            'hp': 80,
-                            'attack': 120,
-                            'defense': 79,
-                            'special-attack': 95,
-                            'special-defense': 79,
-                            'speed': 70
-                        },
-                        'attack': 247,
-                        'defense': 179,
-                        'special-attack': 205,
-                        'special-defense': 179,
-                        'speed': 164,
-                        'attack_boost': 0,
-                        'defense_boost': 0,
-                        'special_attack_boost': 0,
-                        'special_defense_boost': 0,
-                        'speed_boost': 0,
-                        'status': 'brn',
-                        'volatileStatus': [
-
-                        ],
-                        'moves': [
-                            {
-                                'id': 'icefang',
-                                'disabled': False,
-                                'current_pp': 24
-                            },
-                            {
-                                'id': 'facade',
-                                'disabled': False,
-                                'current_pp': 32
-                            }
-                        ],
-                        'types': [
-                            'electric'
-                        ]
-                    },
-                    'reserve': {
-
-                    },
-                    'side_conditions': {
-
-                    },
-                    'trapped': False
-                },
-                'weather': None,
-                'field': None,
-                'forceSwitch': False,
-                'wait': False,
-                'trickroom': False
-            }
-        )
-        self.mutator.state = self.state
-
-        bot_move = "fireblast"
-        opponent_move = "crunch"
-
-        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
-        expected_instructions = [
-            TransposeInstruction(
-                0.17,
-                [
-                    ('damage', 'opponent', 111),
-                    ('damage', 'self', 37),
-                    ('boost', 'self', 'defense', -1),
-                    ('damage', 'opponent', 4)
-
-                ],
-                False
-            ),
-            TransposeInstruction(
-                0.68,
-                [
-                    ('damage', 'opponent', 111),
-                    ('damage', 'self', 37),
-                    ('damage', 'opponent', 4)
-
-                ],
-                False
-            ),
-            TransposeInstruction(
-                0.030000000000000006,
-                [
-                    ('damage', 'self', 37),
-                    ('boost', 'self', 'defense', -1),
-                    ('damage', 'opponent', 16)
-
-                ],
-                False
-            ),
-            TransposeInstruction(
-                0.12000000000000002,
-                [
-                    ('damage', 'self', 37),
-                    ('damage', 'opponent', 16)
-
-                ],
-                False
-            ),
-        ]
-
-        self.assertEqual(expected_instructions, instructions)
-
-    def test_fireblast_into_crunch_produces_six_states(self):
-        self.state = State.from_dict(
-            {
-                'self': {
-                    'active': {
-                        'canMegaEvo': False,
-                        'id': 'ninetales',
-                        'level': 83,
-                        'hp': 228,
-                        'maxhp': 257,
-                        'ability': 'drought',
-                        'item': '',
-                        'baseStats': {
-                            'hp': 73,
-                            'attack': 76,
-                            'defense': 75,
-                            'special-attack': 81,
-                            'special-defense': 100,
-                            'speed': 100
-                        },
-                        'attack': 174,
-                        'defense': 172,
-                        'special-attack': 182,
-                        'special-defense': 214,
-                        'speed': 214,
-                        'attack_boost': 0,
-                        'defense_boost': 0,
-                        'special_attack_boost': 0,
-                        'special_defense_boost': 0,
-                        'speed_boost': 0,
-                        'status': None,
-                        'volatileStatus': [
-
-                        ],
-                        'moves': [
-                            {
-                                'id': 'hiddenpower',
-                                'disabled': False,
-                                'current_pp': 24
-                            },
-                            {
-                                'id': 'willowisp',
-                                'disabled': False,
-                                'current_pp': 24
-                            },
-                            {
-                                'id': 'substitute',
-                                'disabled': False,
-                                'current_pp': 16
-                            },
-                            {
-                                'id': 'fireblast',
-                                'disabled': False,
-                                'current_pp': 8
-                            }
-                        ],
-                        'types': [
-                            'fire'
-                        ]
-                    },
-                    'reserve': {
-                        'registeel': {
-                            'canMegaEvo': False,
-                            'id': 'registeel',
-                            'level': 79,
-                            'hp': 256,
-                            'maxhp': 256,
-                            'ability': 'clearbody',
-                            'item': '',
-                            'baseStats': {
-                                'hp': 80,
-                                'attack': 75,
-                                'defense': 150,
-                                'special-attack': 75,
-                                'special-defense': 150,
-                                'speed': 50
-                            },
-                            'attack': 164,
-                            'defense': 283,
-                            'special-attack': 164,
-                            'special-defense': 283,
-                            'speed': 125,
-                            'attack_boost': 0,
-                            'defense_boost': 0,
-                            'special_attack_boost': 0,
-                            'special_defense_boost': 0,
-                            'speed_boost': 0,
-                            'status': None,
-                            'volatileStatus': [
-
-                            ],
-                            'moves': [
-                                {
-                                    'id': 'rest',
-                                    'disabled': False,
-                                    'current_pp': 16
-                                },
-                                {
-                                    'id': 'curse',
-                                    'disabled': False,
-                                    'current_pp': 16
-                                },
-                                {
-                                    'id': 'sleeptalk',
-                                    'disabled': False,
-                                    'current_pp': 16
-                                },
-                                {
-                                    'id': 'ironhead',
-                                    'disabled': False,
-                                    'current_pp': 24
-                                }
-                            ],
-                            'types': [
-                                'steel'
-                            ]
-                        },
-                        'swanna': {
-                            'canMegaEvo': False,
-                            'id': 'swanna',
-                            'level': 83,
-                            'hp': 259,
-                            'maxhp': 260,
-                            'ability': 'hydration',
-                            'item': '',
-                            'baseStats': {
-                                'hp': 75,
-                                'attack': 87,
-                                'defense': 63,
-                                'special-attack': 87,
-                                'special-defense': 63,
-                                'speed': 98
-                            },
-                            'attack': 192,
-                            'defense': 152,
-                            'special-attack': 192,
-                            'special-defense': 152,
-                            'speed': 210,
-                            'attack_boost': 0,
-                            'defense_boost': 0,
-                            'special_attack_boost': 0,
-                            'special_defense_boost': 0,
-                            'speed_boost': 0,
-                            'status': None,
-                            'volatileStatus': [
-
-                            ],
-                            'moves': [
-                                {
-                                    'id': 'icebeam',
-                                    'disabled': False,
-                                    'current_pp': 16
-                                },
-                                {
-                                    'id': 'raindance',
-                                    'disabled': False,
-                                    'current_pp': 8
-                                },
-                                {
-                                    'id': 'hurricane',
-                                    'disabled': False,
-                                    'current_pp': 16
-                                },
-                                {
-                                    'id': 'scald',
-                                    'disabled': False,
-                                    'current_pp': 24
-                                }
-                            ],
-                            'types': [
-                                'water',
-                                'flying'
-                            ]
-                        },
-                        'kommoo': {
-                            'canMegaEvo': False,
-                            'id': 'kommoo',
-                            'level': 79,
-                            'hp': 37,
-                            'maxhp': 248,
-                            'ability': 'bulletproof',
-                            'item': '',
-                            'baseStats': {
-                                'hp': 75,
-                                'attack': 110,
-                                'defense': 125,
-                                'special-attack': 100,
-                                'special-defense': 105,
-                                'speed': 85
-                            },
-                            'attack': 219,
-                            'defense': 243,
-                            'special-attack': 204,
-                            'special-defense': 211,
-                            'speed': 180,
-                            'attack_boost': 0,
-                            'defense_boost': 0,
-                            'special_attack_boost': 0,
-                            'special_defense_boost': 0,
-                            'speed_boost': 0,
-                            'status': None,
-                            'volatileStatus': [
-
-                            ],
-                            'moves': [
-                                {
-                                    'id': 'skyuppercut',
-                                    'disabled': False,
-                                    'current_pp': 24
-                                },
-                                {
-                                    'id': 'poisonjab',
-                                    'disabled': False,
-                                    'current_pp': 32
-                                },
-                                {
-                                    'id': 'dragonclaw',
-                                    'disabled': False,
-                                    'current_pp': 24
-                                },
-                                {
-                                    'id': 'dragondance',
-                                    'disabled': False,
-                                    'current_pp': 32
-                                }
-                            ],
-                            'types': [
-                                'dragon',
-                                'fighting'
-                            ]
-                        },
-                        'mothim': {
-                            'canMegaEvo': False,
-                            'id': 'mothim',
-                            'level': 83,
-                            'hp': 251,
-                            'maxhp': 252,
-                            'ability': 'tintedlens',
-                            'item': '',
-                            'baseStats': {
-                                'hp': 70,
-                                'attack': 94,
-                                'defense': 50,
-                                'special-attack': 94,
-                                'special-defense': 50,
-                                'speed': 66
-                            },
-                            'attack': 204,
-                            'defense': 131,
-                            'special-attack': 204,
-                            'special-defense': 131,
-                            'speed': 157,
-                            'attack_boost': 0,
-                            'defense_boost': 0,
-                            'special_attack_boost': 0,
-                            'special_defense_boost': 0,
-                            'speed_boost': 0,
-                            'status': None,
-                            'volatileStatus': [
-
-                            ],
-                            'moves': [
-                                {
-                                    'id': 'quiverdance',
-                                    'disabled': False,
-                                    'current_pp': 32
-                                },
-                                {
-                                    'id': 'gigadrain',
-                                    'disabled': False,
-                                    'current_pp': 16
-                                },
-                                {
-                                    'id': 'bugbuzz',
-                                    'disabled': False,
-                                    'current_pp': 16
-                                },
-                                {
-                                    'id': 'airslash',
-                                    'disabled': False,
-                                    'current_pp': 24
-                                }
-                            ],
-                            'types': [
-                                'bug',
-                                'flying'
-                            ]
-                        },
-                        'magearna': {
-                            'canMegaEvo': False,
-                            'id': 'magearna',
-                            'level': 75,
-                            'hp': 244,
-                            'maxhp': 244,
-                            'ability': 'soulheart',
-                            'item': '',
-                            'baseStats': {
-                                'hp': 80,
-                                'attack': 95,
-                                'defense': 115,
-                                'special-attack': 130,
-                                'special-defense': 115,
-                                'speed': 65
-                            },
-                            'attack': 186,
-                            'defense': 216,
-                            'special-attack': 239,
-                            'special-defense': 216,
-                            'speed': 141,
-                            'attack_boost': 0,
-                            'defense_boost': 0,
-                            'special_attack_boost': 0,
-                            'special_defense_boost': 0,
-                            'speed_boost': 0,
-                            'status': None,
-                            'volatileStatus': [
-
-                            ],
-                            'moves': [
-                                {
-                                    'id': 'icebeam',
-                                    'disabled': False,
-                                    'current_pp': 16
-                                },
-                                {
-                                    'id': 'flashcannon',
-                                    'disabled': False,
-                                    'current_pp': 16
-                                },
-                                {
-                                    'id': 'fleurcannon',
-                                    'disabled': False,
-                                    'current_pp': 8
-                                },
-                                {
-                                    'id': 'thunderbolt',
-                                    'disabled': False,
-                                    'current_pp': 24
-                                }
-                            ],
-                            'types': [
-                                'steel',
-                                'fairy'
-                            ]
-                        }
-                    },
-                    'side_conditions': {
-                        'stealthrock': 0,
-                        'spikes': 0
-                    },
-                    'trapped': False
-                },
-                'opponent': {
-                    'active': {
-                        'canMegaEvo': False,
-                        'id': 'luxray',
-                        'level': 83,
-                        'hp': 115.24,
-                        'maxhp': 268,
-                        'ability': None,
-                        'item': '',
-                        'baseStats': {
-                            'hp': 80,
-                            'attack': 120,
-                            'defense': 79,
-                            'special-attack': 95,
-                            'special-defense': 79,
-                            'speed': 70
-                        },
-                        'attack': 247,
-                        'defense': 179,
-                        'special-attack': 205,
-                        'special-defense': 179,
-                        'speed': 164,
-                        'attack_boost': 0,
-                        'defense_boost': 0,
-                        'special_attack_boost': 0,
-                        'special_defense_boost': 0,
-                        'speed_boost': 0,
-                        'status': None,
-                        'volatileStatus': [
-
-                        ],
-                        'moves': [
-                            {
-                                'id': 'icefang',
-                                'disabled': False,
-                                'current_pp': 24
-                            },
-                            {
-                                'id': 'facade',
-                                'disabled': False,
-                                'current_pp': 32
-                            }
-                        ],
-                        'types': [
-                            'electric'
-                        ]
-                    },
-                    'reserve': {
-
-                    },
-                    'side_conditions': {
-
-                    },
-                    'trapped': False
-                },
-                'weather': None,
-                'field': None,
-                'forceSwitch': False,
-                'wait': False,
-                'trickroom': False
-            }
-        )
-        self.mutator.state = self.state
-
-        bot_move = "fireblast"
-        opponent_move = "crunch"
-
-        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
-        expected_instructions = [
-            TransposeInstruction(
-                0.017,
-                [
-                    ('damage', 'opponent', 111),
-                    ('apply_status', 'opponent', 'brn'),
-                    ('damage', 'self', 37),
-                    ('boost', 'self', 'defense', -1),
-                    ('damage', 'opponent', 4)
-
-                ],
-                False
-            ),
-            TransposeInstruction(
-                0.068,
-                [
-                    ('damage', 'opponent', 111),
-                    ('apply_status', 'opponent', 'brn'),
-                    ('damage', 'self', 37),
-                    ('damage', 'opponent', 4)
-
-                ],
-                False
-            ),
-            TransposeInstruction(
-                0.15300000000000002,
-                [
-                    ('damage', 'opponent', 111),
-                    ('damage', 'self', 75),
-                    ('boost', 'self', 'defense', -1)
-
-                ],
-                False
-            ),
-            TransposeInstruction(
-                0.6120000000000001,
-                [
-                    ('damage', 'opponent', 111),
-                    ('damage', 'self', 75),
-
-                ],
-                False
-            ),
-            TransposeInstruction(
-                0.030000000000000006,
-                [
-                    ('damage', 'self', 75),
-                    ('boost', 'self', 'defense', -1)
-
-                ],
-                False
-            ),
-            TransposeInstruction(
-                0.12000000000000002,
-                [
-                    ('damage', 'self', 75),
-
-                ],
-                False
-            ),
-        ]
-
-        self.assertEqual(expected_instructions, instructions)
-
     def test_removes_flinch_status_when_pokemon_faints(self):
-        self.state = State.from_dict(
-            {
-                'self': {
-                    'active': {
-                        'canMegaEvo': False,
-                        'id': 'excadrill',
-                        'level': 83,
-                        'hp': 228,
-                        'maxhp': 257,
-                        'ability': 'moldbreaker',
-                        'item': '',
-                        'baseStats': {
-                            'hp': 73,
-                            'attack': 76,
-                            'defense': 75,
-                            'special-attack': 81,
-                            'special-defense': 100,
-                            'speed': 100
-                        },
-                        'attack': 174,
-                        'defense': 172,
-                        'special-attack': 182,
-                        'special-defense': 214,
-                        'speed': 214,
-                        'attack_boost': 0,
-                        'defense_boost': 0,
-                        'special_attack_boost': 0,
-                        'special_defense_boost': 0,
-                        'speed_boost': 0,
-                        'status': None,
-                        'volatileStatus': [
-
-                        ],
-                        'moves': [
-                            {
-                                'id': 'hiddenpower',
-                                'disabled': False,
-                                'current_pp': 24
-                            },
-                            {
-                                'id': 'willowisp',
-                                'disabled': False,
-                                'current_pp': 24
-                            },
-                            {
-                                'id': 'substitute',
-                                'disabled': False,
-                                'current_pp': 16
-                            },
-                            {
-                                'id': 'fireblast',
-                                'disabled': False,
-                                'current_pp': 8
-                            }
-                        ],
-                        'types': [
-                            'ground',
-                            'steel'
-                        ]
-                    },
-                    'reserve': {
-                        'registeel': {
-                            'canMegaEvo': False,
-                            'id': 'registeel',
-                            'level': 79,
-                            'hp': 256,
-                            'maxhp': 256,
-                            'ability': 'clearbody',
-                            'item': '',
-                            'baseStats': {
-                                'hp': 80,
-                                'attack': 75,
-                                'defense': 150,
-                                'special-attack': 75,
-                                'special-defense': 150,
-                                'speed': 50
-                            },
-                            'attack': 164,
-                            'defense': 283,
-                            'special-attack': 164,
-                            'special-defense': 283,
-                            'speed': 125,
-                            'attack_boost': 0,
-                            'defense_boost': 0,
-                            'special_attack_boost': 0,
-                            'special_defense_boost': 0,
-                            'speed_boost': 0,
-                            'status': None,
-                            'volatileStatus': [
-
-                            ],
-                            'moves': [
-                                {
-                                    'id': 'rest',
-                                    'disabled': False,
-                                    'current_pp': 16
-                                },
-                                {
-                                    'id': 'curse',
-                                    'disabled': False,
-                                    'current_pp': 16
-                                },
-                                {
-                                    'id': 'sleeptalk',
-                                    'disabled': False,
-                                    'current_pp': 16
-                                },
-                                {
-                                    'id': 'ironhead',
-                                    'disabled': False,
-                                    'current_pp': 24
-                                }
-                            ],
-                            'types': [
-                                'steel'
-                            ]
-                        },
-                        'swanna': {
-                            'canMegaEvo': False,
-                            'id': 'swanna',
-                            'level': 83,
-                            'hp': 259,
-                            'maxhp': 260,
-                            'ability': 'hydration',
-                            'item': '',
-                            'baseStats': {
-                                'hp': 75,
-                                'attack': 87,
-                                'defense': 63,
-                                'special-attack': 87,
-                                'special-defense': 63,
-                                'speed': 98
-                            },
-                            'attack': 192,
-                            'defense': 152,
-                            'special-attack': 192,
-                            'special-defense': 152,
-                            'speed': 210,
-                            'attack_boost': 0,
-                            'defense_boost': 0,
-                            'special_attack_boost': 0,
-                            'special_defense_boost': 0,
-                            'speed_boost': 0,
-                            'status': None,
-                            'volatileStatus': [
-
-                            ],
-                            'moves': [
-                                {
-                                    'id': 'icebeam',
-                                    'disabled': False,
-                                    'current_pp': 16
-                                },
-                                {
-                                    'id': 'raindance',
-                                    'disabled': False,
-                                    'current_pp': 8
-                                },
-                                {
-                                    'id': 'hurricane',
-                                    'disabled': False,
-                                    'current_pp': 16
-                                },
-                                {
-                                    'id': 'scald',
-                                    'disabled': False,
-                                    'current_pp': 24
-                                }
-                            ],
-                            'types': [
-                                'water',
-                                'flying'
-                            ]
-                        },
-                        'kommoo': {
-                            'canMegaEvo': False,
-                            'id': 'kommoo',
-                            'level': 79,
-                            'hp': 37,
-                            'maxhp': 248,
-                            'ability': 'bulletproof',
-                            'item': '',
-                            'baseStats': {
-                                'hp': 75,
-                                'attack': 110,
-                                'defense': 125,
-                                'special-attack': 100,
-                                'special-defense': 105,
-                                'speed': 85
-                            },
-                            'attack': 219,
-                            'defense': 243,
-                            'special-attack': 204,
-                            'special-defense': 211,
-                            'speed': 180,
-                            'attack_boost': 0,
-                            'defense_boost': 0,
-                            'special_attack_boost': 0,
-                            'special_defense_boost': 0,
-                            'speed_boost': 0,
-                            'status': None,
-                            'volatileStatus': [
-
-                            ],
-                            'moves': [
-                                {
-                                    'id': 'skyuppercut',
-                                    'disabled': False,
-                                    'current_pp': 24
-                                },
-                                {
-                                    'id': 'poisonjab',
-                                    'disabled': False,
-                                    'current_pp': 32
-                                },
-                                {
-                                    'id': 'dragonclaw',
-                                    'disabled': False,
-                                    'current_pp': 24
-                                },
-                                {
-                                    'id': 'dragondance',
-                                    'disabled': False,
-                                    'current_pp': 32
-                                }
-                            ],
-                            'types': [
-                                'dragon',
-                                'fighting'
-                            ]
-                        },
-                        'mothim': {
-                            'canMegaEvo': False,
-                            'id': 'mothim',
-                            'level': 83,
-                            'hp': 251,
-                            'maxhp': 252,
-                            'ability': 'tintedlens',
-                            'item': '',
-                            'baseStats': {
-                                'hp': 70,
-                                'attack': 94,
-                                'defense': 50,
-                                'special-attack': 94,
-                                'special-defense': 50,
-                                'speed': 66
-                            },
-                            'attack': 204,
-                            'defense': 131,
-                            'special-attack': 204,
-                            'special-defense': 131,
-                            'speed': 157,
-                            'attack_boost': 0,
-                            'defense_boost': 0,
-                            'special_attack_boost': 0,
-                            'special_defense_boost': 0,
-                            'speed_boost': 0,
-                            'status': None,
-                            'volatileStatus': [
-
-                            ],
-                            'moves': [
-                                {
-                                    'id': 'quiverdance',
-                                    'disabled': False,
-                                    'current_pp': 32
-                                },
-                                {
-                                    'id': 'gigadrain',
-                                    'disabled': False,
-                                    'current_pp': 16
-                                },
-                                {
-                                    'id': 'bugbuzz',
-                                    'disabled': False,
-                                    'current_pp': 16
-                                },
-                                {
-                                    'id': 'airslash',
-                                    'disabled': False,
-                                    'current_pp': 24
-                                }
-                            ],
-                            'types': [
-                                'bug',
-                                'flying'
-                            ]
-                        },
-                        'magearna': {
-                            'canMegaEvo': False,
-                            'id': 'magearna',
-                            'level': 75,
-                            'hp': 244,
-                            'maxhp': 244,
-                            'ability': 'soulheart',
-                            'item': '',
-                            'baseStats': {
-                                'hp': 80,
-                                'attack': 95,
-                                'defense': 115,
-                                'special-attack': 130,
-                                'special-defense': 115,
-                                'speed': 65
-                            },
-                            'attack': 186,
-                            'defense': 216,
-                            'special-attack': 239,
-                            'special-defense': 216,
-                            'speed': 141,
-                            'attack_boost': 0,
-                            'defense_boost': 0,
-                            'special_attack_boost': 0,
-                            'special_defense_boost': 0,
-                            'speed_boost': 0,
-                            'status': None,
-                            'volatileStatus': [
-
-                            ],
-                            'moves': [
-                                {
-                                    'id': 'icebeam',
-                                    'disabled': False,
-                                    'current_pp': 16
-                                },
-                                {
-                                    'id': 'flashcannon',
-                                    'disabled': False,
-                                    'current_pp': 16
-                                },
-                                {
-                                    'id': 'fleurcannon',
-                                    'disabled': False,
-                                    'current_pp': 8
-                                },
-                                {
-                                    'id': 'thunderbolt',
-                                    'disabled': False,
-                                    'current_pp': 24
-                                }
-                            ],
-                            'types': [
-                                'steel',
-                                'fairy'
-                            ]
-                        }
-                    },
-                    'side_conditions': {
-                        'stealthrock': 0,
-                        'spikes': 0
-                    },
-                    'trapped': False
-                },
-                'opponent': {
-                    'active': {
-                        'canMegaEvo': False,
-                        'id': 'luxray',
-                        'level': 83,
-                        'hp': 44,
-                        'maxhp': 268,
-                        'ability': None,
-                        'item': '',
-                        'baseStats': {
-                            'hp': 80,
-                            'attack': 120,
-                            'defense': 79,
-                            'special-attack': 95,
-                            'special-defense': 79,
-                            'speed': 70
-                        },
-                        'attack': 247,
-                        'defense': 179,
-                        'special-attack': 205,
-                        'special-defense': 179,
-                        'speed': 164,
-                        'attack_boost': 0,
-                        'defense_boost': 0,
-                        'special_attack_boost': 0,
-                        'special_defense_boost': 0,
-                        'speed_boost': 0,
-                        'status': None,
-                        'volatileStatus': [
-
-                        ],
-                        'moves': [
-                            {
-                                'id': 'icefang',
-                                'disabled': False,
-                                'current_pp': 24
-                            },
-                            {
-                                'id': 'facade',
-                                'disabled': False,
-                                'current_pp': 32
-                            }
-                        ],
-                        'types': [
-                            'electric'
-                        ]
-                    },
-                    'reserve': {
-
-                    },
-                    'side_conditions': {
-
-                    },
-                    'trapped': False
-                },
-                'weather': None,
-                'field': None,
-                'forceSwitch': False,
-                'wait': False,
-                'trickroom': False
-            }
-        )
-        self.mutator.state = self.state
-
         bot_move = "rockslide"
         opponent_move = "splash"
+
+        self.state.opponent.active.hp = 44
 
         instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
         expected_instructions = [
@@ -9381,421 +10645,6 @@ class TestGetStateInstructions(unittest.TestCase):
         self.assertEqual(expected_instructions, instructions)
 
     def test_explosion_kills_the_user(self):
-        self.state = State.from_dict(
-            {
-                'self': {
-                    'active': {
-                        'canMegaEvo': False,
-                        'id': 'ninetales',
-                        'level': 83,
-                        'hp': 228,
-                        'maxhp': 257,
-                        'ability': 'drought',
-                        'item': '',
-                        'baseStats': {
-                            'hp': 73,
-                            'attack': 76,
-                            'defense': 75,
-                            'special-attack': 81,
-                            'special-defense': 100,
-                            'speed': 100
-                        },
-                        'attack': 174,
-                        'defense': 172,
-                        'special-attack': 182,
-                        'special-defense': 214,
-                        'speed': 214,
-                        'attack_boost': 0,
-                        'defense_boost': 0,
-                        'special_attack_boost': 0,
-                        'special_defense_boost': 0,
-                        'speed_boost': 0,
-                        'status': None,
-                        'volatileStatus': [
-
-                        ],
-                        'moves': [
-                            {
-                                'id': 'hiddenpower',
-                                'disabled': False,
-                                'current_pp': 24
-                            },
-                            {
-                                'id': 'willowisp',
-                                'disabled': False,
-                                'current_pp': 24
-                            },
-                            {
-                                'id': 'substitute',
-                                'disabled': False,
-                                'current_pp': 16
-                            },
-                            {
-                                'id': 'fireblast',
-                                'disabled': False,
-                                'current_pp': 8
-                            }
-                        ],
-                        'types': [
-                            'fire'
-                        ]
-                    },
-                    'reserve': {
-                        'registeel': {
-                            'canMegaEvo': False,
-                            'id': 'registeel',
-                            'level': 79,
-                            'hp': 256,
-                            'maxhp': 256,
-                            'ability': 'clearbody',
-                            'item': '',
-                            'baseStats': {
-                                'hp': 80,
-                                'attack': 75,
-                                'defense': 150,
-                                'special-attack': 75,
-                                'special-defense': 150,
-                                'speed': 50
-                            },
-                            'attack': 164,
-                            'defense': 283,
-                            'special-attack': 164,
-                            'special-defense': 283,
-                            'speed': 125,
-                            'attack_boost': 0,
-                            'defense_boost': 0,
-                            'special_attack_boost': 0,
-                            'special_defense_boost': 0,
-                            'speed_boost': 0,
-                            'status': None,
-                            'volatileStatus': [
-
-                            ],
-                            'moves': [
-                                {
-                                    'id': 'rest',
-                                    'disabled': False,
-                                    'current_pp': 16
-                                },
-                                {
-                                    'id': 'curse',
-                                    'disabled': False,
-                                    'current_pp': 16
-                                },
-                                {
-                                    'id': 'sleeptalk',
-                                    'disabled': False,
-                                    'current_pp': 16
-                                },
-                                {
-                                    'id': 'ironhead',
-                                    'disabled': False,
-                                    'current_pp': 24
-                                }
-                            ],
-                            'types': [
-                                'steel'
-                            ]
-                        },
-                        'swanna': {
-                            'canMegaEvo': False,
-                            'id': 'swanna',
-                            'level': 83,
-                            'hp': 259,
-                            'maxhp': 260,
-                            'ability': 'hydration',
-                            'item': '',
-                            'baseStats': {
-                                'hp': 75,
-                                'attack': 87,
-                                'defense': 63,
-                                'special-attack': 87,
-                                'special-defense': 63,
-                                'speed': 98
-                            },
-                            'attack': 192,
-                            'defense': 152,
-                            'special-attack': 192,
-                            'special-defense': 152,
-                            'speed': 210,
-                            'attack_boost': 0,
-                            'defense_boost': 0,
-                            'special_attack_boost': 0,
-                            'special_defense_boost': 0,
-                            'speed_boost': 0,
-                            'status': None,
-                            'volatileStatus': [
-
-                            ],
-                            'moves': [
-                                {
-                                    'id': 'icebeam',
-                                    'disabled': False,
-                                    'current_pp': 16
-                                },
-                                {
-                                    'id': 'raindance',
-                                    'disabled': False,
-                                    'current_pp': 8
-                                },
-                                {
-                                    'id': 'hurricane',
-                                    'disabled': False,
-                                    'current_pp': 16
-                                },
-                                {
-                                    'id': 'scald',
-                                    'disabled': False,
-                                    'current_pp': 24
-                                }
-                            ],
-                            'types': [
-                                'water',
-                                'flying'
-                            ]
-                        },
-                        'kommoo': {
-                            'canMegaEvo': False,
-                            'id': 'kommoo',
-                            'level': 79,
-                            'hp': 37,
-                            'maxhp': 248,
-                            'ability': 'bulletproof',
-                            'item': '',
-                            'baseStats': {
-                                'hp': 75,
-                                'attack': 110,
-                                'defense': 125,
-                                'special-attack': 100,
-                                'special-defense': 105,
-                                'speed': 85
-                            },
-                            'attack': 219,
-                            'defense': 243,
-                            'special-attack': 204,
-                            'special-defense': 211,
-                            'speed': 180,
-                            'attack_boost': 0,
-                            'defense_boost': 0,
-                            'special_attack_boost': 0,
-                            'special_defense_boost': 0,
-                            'speed_boost': 0,
-                            'status': None,
-                            'volatileStatus': [
-
-                            ],
-                            'moves': [
-                                {
-                                    'id': 'skyuppercut',
-                                    'disabled': False,
-                                    'current_pp': 24
-                                },
-                                {
-                                    'id': 'poisonjab',
-                                    'disabled': False,
-                                    'current_pp': 32
-                                },
-                                {
-                                    'id': 'dragonclaw',
-                                    'disabled': False,
-                                    'current_pp': 24
-                                },
-                                {
-                                    'id': 'dragondance',
-                                    'disabled': False,
-                                    'current_pp': 32
-                                }
-                            ],
-                            'types': [
-                                'dragon',
-                                'fighting'
-                            ]
-                        },
-                        'mothim': {
-                            'canMegaEvo': False,
-                            'id': 'mothim',
-                            'level': 83,
-                            'hp': 251,
-                            'maxhp': 252,
-                            'ability': 'tintedlens',
-                            'item': '',
-                            'baseStats': {
-                                'hp': 70,
-                                'attack': 94,
-                                'defense': 50,
-                                'special-attack': 94,
-                                'special-defense': 50,
-                                'speed': 66
-                            },
-                            'attack': 204,
-                            'defense': 131,
-                            'special-attack': 204,
-                            'special-defense': 131,
-                            'speed': 157,
-                            'attack_boost': 0,
-                            'defense_boost': 0,
-                            'special_attack_boost': 0,
-                            'special_defense_boost': 0,
-                            'speed_boost': 0,
-                            'status': None,
-                            'volatileStatus': [
-
-                            ],
-                            'moves': [
-                                {
-                                    'id': 'quiverdance',
-                                    'disabled': False,
-                                    'current_pp': 32
-                                },
-                                {
-                                    'id': 'gigadrain',
-                                    'disabled': False,
-                                    'current_pp': 16
-                                },
-                                {
-                                    'id': 'bugbuzz',
-                                    'disabled': False,
-                                    'current_pp': 16
-                                },
-                                {
-                                    'id': 'airslash',
-                                    'disabled': False,
-                                    'current_pp': 24
-                                }
-                            ],
-                            'types': [
-                                'bug',
-                                'flying'
-                            ]
-                        },
-                        'magearna': {
-                            'canMegaEvo': False,
-                            'id': 'magearna',
-                            'level': 75,
-                            'hp': 244,
-                            'maxhp': 244,
-                            'ability': 'soulheart',
-                            'item': '',
-                            'baseStats': {
-                                'hp': 80,
-                                'attack': 95,
-                                'defense': 115,
-                                'special-attack': 130,
-                                'special-defense': 115,
-                                'speed': 65
-                            },
-                            'attack': 186,
-                            'defense': 216,
-                            'special-attack': 239,
-                            'special-defense': 216,
-                            'speed': 141,
-                            'attack_boost': 0,
-                            'defense_boost': 0,
-                            'special_attack_boost': 0,
-                            'special_defense_boost': 0,
-                            'speed_boost': 0,
-                            'status': None,
-                            'volatileStatus': [
-
-                            ],
-                            'moves': [
-                                {
-                                    'id': 'icebeam',
-                                    'disabled': False,
-                                    'current_pp': 16
-                                },
-                                {
-                                    'id': 'flashcannon',
-                                    'disabled': False,
-                                    'current_pp': 16
-                                },
-                                {
-                                    'id': 'fleurcannon',
-                                    'disabled': False,
-                                    'current_pp': 8
-                                },
-                                {
-                                    'id': 'thunderbolt',
-                                    'disabled': False,
-                                    'current_pp': 24
-                                }
-                            ],
-                            'types': [
-                                'steel',
-                                'fairy'
-                            ]
-                        }
-                    },
-                    'side_conditions': {
-                        'stealthrock': 0,
-                        'spikes': 0
-                    },
-                    'trapped': False
-                },
-                'opponent': {
-                    'active': {
-                        'canMegaEvo': False,
-                        'id': 'luxray',
-                        'level': 83,
-                        'hp': 115.24,
-                        'maxhp': 268,
-                        'ability': None,
-                        'item': '',
-                        'baseStats': {
-                            'hp': 80,
-                            'attack': 120,
-                            'defense': 79,
-                            'special-attack': 95,
-                            'special-defense': 79,
-                            'speed': 70
-                        },
-                        'attack': 247,
-                        'defense': 179,
-                        'special-attack': 205,
-                        'special-defense': 179,
-                        'speed': 164,
-                        'attack_boost': 0,
-                        'defense_boost': 0,
-                        'special_attack_boost': 0,
-                        'special_defense_boost': 0,
-                        'speed_boost': 0,
-                        'status': None,
-                        'volatileStatus': [
-
-                        ],
-                        'moves': [
-                            {
-                                'id': 'icefang',
-                                'disabled': False,
-                                'current_pp': 24
-                            },
-                            {
-                                'id': 'facade',
-                                'disabled': False,
-                                'current_pp': 32
-                            }
-                        ],
-                        'types': [
-                            'electric'
-                        ]
-                    },
-                    'reserve': {
-
-                    },
-                    'side_conditions': {
-
-                    },
-                    'trapped': False
-                },
-                'weather': 'sunnyday',
-                'field': None,
-                'forceSwitch': False,
-                'wait': False,
-                'trickroom': False
-            }
-        )
-        self.mutator.state = self.state
-
         bot_move = "explosion"
         opponent_move = "crunch"
 
@@ -9804,145 +10653,21 @@ class TestGetStateInstructions(unittest.TestCase):
             TransposeInstruction(
                 1.0,
                 [
-                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 115.24),
-                    (constants.MUTATOR_HEAL, constants.SELF, -228.0)
+                    (constants.MUTATOR_DAMAGE, constants.OPPONENT, 154),
+                    (constants.MUTATOR_HEAL, constants.SELF, -208.0),
+                    (constants.MUTATOR_DAMAGE, constants.SELF, 0)
                 ],
-                False
+                True
             )
         ]
 
         self.assertEqual(expected_instructions, instructions)
 
     def test_closecombat_kills_and_reduces_stats(self):
-        self.state = State.from_dict(
-            {'self': {'active': {'id': 'hitmontop', 'level': 81, 'hp': 77, 'maxhp': 214, 'ability': 'intimidate',
-                                 'item': None,
-                                 'baseStats': {'hp': 50, 'attack': 95, 'defense': 95, 'special-attack': 35,
-                                               'special-defense': 110, 'speed': 70}, 'attack': 201, 'defense': 201,
-                                 'special-attack': 103, 'special-defense': 225, 'speed': 160, 'attack_boost': 0,
-                                 'defense_boost': 0, 'special_attack_boost': 0, 'special_defense_boost': 0,
-                                 'speed_boost': 0, 'status': None, 'volatileStatus': [],
-                                 'moves': [{'id': 'toxic', 'disabled': False, 'current_pp': 11},
-                                           {'id': 'suckerpunch', 'disabled': False, 'current_pp': 8},
-                                           {'id': 'rapidspin', 'disabled': False, 'current_pp': 59},
-                                           {'id': 'machpunch', 'disabled': False, 'current_pp': 8}],
-                                 'types': ['fighting'], 'canMegaEvo': False}, 'reserve': {
-                'seismitoad': {'id': 'seismitoad', 'level': 81, 'hp': 195, 'maxhp': 303, 'ability': 'waterabsorb',
-                               'item': None, 'baseStats': {'hp': 105, 'attack': 95, 'defense': 75, 'special-attack': 85,
-                                                           'special-defense': 75, 'speed': 74}, 'attack': 201,
-                               'defense': 168, 'special-attack': 184, 'special-defense': 168, 'speed': 167,
-                               'attack_boost': 0, 'defense_boost': 0, 'special_attack_boost': 0,
-                               'special_defense_boost': 0, 'speed_boost': 0, 'status': 'tox', 'volatileStatus': [],
-                               'moves': [{'id': 'earthquake', 'disabled': False, 'current_pp': 16},
-                                         {'id': 'stealthrock', 'disabled': False, 'current_pp': 32},
-                                         {'id': 'scald', 'disabled': False, 'current_pp': 24},
-                                         {'id': 'knockoff', 'disabled': False, 'current_pp': 32}],
-                               'types': ['water', 'ground'], 'canMegaEvo': False},
-                'ribombee': {'id': 'ribombee', 'level': 80, 'hp': 0, 'maxhp': 227, 'ability': 'shielddust',
-                             'item': None, 'baseStats': {'hp': 60, 'attack': 55, 'defense': 60, 'special-attack': 95,
-                                                         'special-defense': 70, 'speed': 124}, 'attack': 134,
-                             'defense': 142, 'special-attack': 198, 'special-defense': 158, 'speed': 245,
-                             'attack_boost': 0, 'defense_boost': 0, 'special_attack_boost': 0,
-                             'special_defense_boost': 0, 'speed_boost': 0, 'status': None, 'volatileStatus': [],
-                             'moves': [{'id': 'bugbuzz', 'disabled': False, 'current_pp': 16},
-                                       {'id': 'moonblast', 'disabled': False, 'current_pp': 24},
-                                       {'id': 'roost', 'disabled': False, 'current_pp': 16},
-                                       {'id': 'quiverdance', 'disabled': False, 'current_pp': 32}],
-                             'types': ['bug', 'fairy'], 'canMegaEvo': False},
-                'leafeon': {'id': 'leafeon', 'level': 84, 'hp': 0, 'maxhp': 246, 'ability': 'chlorophyll', 'item': None,
-                            'baseStats': {'hp': 65, 'attack': 110, 'defense': 130, 'special-attack': 60,
-                                          'special-defense': 65, 'speed': 95}, 'attack': 233, 'defense': 267,
-                            'special-attack': 149, 'special-defense': 157, 'speed': 208, 'attack_boost': 0,
-                            'defense_boost': 0, 'special_attack_boost': 0, 'special_defense_boost': 0, 'speed_boost': 0,
-                            'status': None, 'volatileStatus': [],
-                            'moves': [{'id': 'xscissor', 'disabled': False, 'current_pp': 24},
-                                      {'id': 'healbell', 'disabled': False, 'current_pp': 8},
-                                      {'id': 'leafblade', 'disabled': False, 'current_pp': 24},
-                                      {'id': 'swordsdance', 'disabled': False, 'current_pp': 32}], 'types': ['grass'],
-                            'canMegaEvo': False},
-                'lickilicky': {'id': 'lickilicky', 'level': 84, 'hp': 0, 'maxhp': 322, 'ability': 'cloudnine',
-                               'item': None, 'baseStats': {'hp': 110, 'attack': 85, 'defense': 95, 'special-attack': 80,
-                                                           'special-defense': 95, 'speed': 50}, 'attack': 191,
-                               'defense': 208, 'special-attack': 183, 'special-defense': 208, 'speed': 132,
-                               'attack_boost': 0, 'defense_boost': 0, 'special_attack_boost': 0,
-                               'special_defense_boost': 0, 'speed_boost': 0, 'status': None, 'volatileStatus': [],
-                               'moves': [{'id': 'bodyslam', 'disabled': False, 'current_pp': 24},
-                                         {'id': 'powerwhip', 'disabled': False, 'current_pp': 16},
-                                         {'id': 'wish', 'disabled': False, 'current_pp': 16},
-                                         {'id': 'earthquake', 'disabled': False, 'current_pp': 16}],
-                               'types': ['normal'], 'canMegaEvo': False},
-                'magmortar': {'id': 'magmortar', 'level': 81, 'hp': 0, 'maxhp': 254, 'ability': 'vitalspirit',
-                              'item': None, 'baseStats': {'hp': 75, 'attack': 95, 'defense': 67, 'special-attack': 125,
-                                                          'special-defense': 95, 'speed': 83}, 'attack': 201,
-                              'defense': 155, 'special-attack': 249, 'special-defense': 201, 'speed': 181,
-                              'attack_boost': 0, 'defense_boost': 0, 'special_attack_boost': 0,
-                              'special_defense_boost': 0, 'speed_boost': 0, 'status': None, 'volatileStatus': [],
-                              'moves': [{'id': 'thunderbolt', 'disabled': False, 'current_pp': 24},
-                                        {'id': 'fireblast', 'disabled': False, 'current_pp': 8},
-                                        {'id': 'hiddenpowerice60', 'disabled': False, 'current_pp': 24},
-                                        {'id': 'earthquake', 'disabled': False, 'current_pp': 16}], 'types': ['fire'],
-                              'canMegaEvo': False}},
-                      'side_conditions': {'tailwind': 0, 'reflect': 0, 'lightscreen': 0, 'auroraveil': 0,
-                                          'stealthrock': 0, 'spikes': 0, 'stickyweb': 0, 'toxicspikes': 0, 'Wish': 0},
-                      'trapped': False}, 'opponent': {
-                'active': {'id': 'steelixmega', 'level': 77, 'hp': 4.84, 'maxhp': 242, 'ability': 'sandforce',
-                           'item': None, 'baseStats': {'hp': 75, 'attack': 125, 'defense': 230, 'special-attack': 55,
-                                                       'special-defense': 95, 'speed': 30}, 'attack': 237,
-                           'defense': 399, 'special-attack': 129, 'special-defense': 191, 'speed': 91,
-                           'attack_boost': -4, 'defense_boost': 0, 'special_attack_boost': 0,
-                           'special_defense_boost': 0, 'speed_boost': 0, 'status': 'par', 'volatileStatus': [],
-                           'moves': [{'id': 'heavyslam', 'disabled': False, 'current_pp': 16},
-                                     {'id': 'earthquake', 'disabled': False, 'current_pp': 16},
-                                     {'id': 'toxic', 'disabled': False, 'current_pp': 16},
-                                     {'id': 'roar', 'disabled': False, 'current_pp': 32}], 'types': ['steel', 'ground'],
-                           'canMegaEvo': False}, 'reserve': {
-                    'beartic': {'id': 'beartic', 'level': 84, 'hp': 297, 'maxhp': 297, 'ability': 'swiftswim',
-                                'item': None,
-                                'baseStats': {'hp': 95, 'attack': 130, 'defense': 80, 'special-attack': 70,
-                                              'special-defense': 80, 'speed': 50}, 'attack': 267, 'defense': 183,
-                                'special-attack': 166, 'special-defense': 183, 'speed': 132, 'attack_boost': 0,
-                                'defense_boost': 0, 'special_attack_boost': 0, 'special_defense_boost': 0,
-                                'speed_boost': 0, 'status': None, 'volatileStatus': [], 'moves': [], 'types': ['ice'],
-                                'canMegaEvo': False},
-                    'carbink': {'id': 'carbink', 'level': 84, 'hp': 0, 'maxhp': 221, 'ability': 'sturdy', 'item': None,
-                                'baseStats': {'hp': 50, 'attack': 50, 'defense': 150, 'special-attack': 50,
-                                              'special-defense': 150, 'speed': 50}, 'attack': 132, 'defense': 300,
-                                'special-attack': 132, 'special-defense': 300, 'speed': 132, 'attack_boost': 0,
-                                'defense_boost': 0, 'special_attack_boost': 0, 'special_defense_boost': 0,
-                                'speed_boost': 0, 'status': None, 'volatileStatus': [],
-                                'moves': [{'id': 'stealthrock', 'disabled': False, 'current_pp': 32},
-                                          {'id': 'powergem', 'disabled': False, 'current_pp': 32}],
-                                'types': ['rock', 'fairy'], 'canMegaEvo': False},
-                    'deoxysspeed': {'id': 'deoxysspeed', 'level': 73, 'hp': 73.34, 'maxhp': 193, 'ability': 'pressure',
-                                    'item': 'Life Orb',
-                                    'baseStats': {'hp': 50, 'attack': 95, 'defense': 90, 'special-attack': 95,
-                                                  'special-defense': 90, 'speed': 180}, 'attack': 181, 'defense': 174,
-                                    'special-attack': 181, 'special-defense': 174, 'speed': 305, 'attack_boost': 0,
-                                    'defense_boost': 0, 'special_attack_boost': 0, 'special_defense_boost': 0,
-                                    'speed_boost': 0, 'status': None, 'volatileStatus': [],
-                                    'moves': [{'id': 'psychoboost', 'disabled': False, 'current_pp': 8},
-                                              {'id': 'superpower', 'disabled': False, 'current_pp': 8}],
-                                    'types': ['psychic'], 'canMegaEvo': False},
-                    'volbeat': {'id': 'volbeat', 'level': 84, 'hp': 177.12, 'maxhp': 246, 'ability': 'prankster',
-                                'item': 'Leftovers',
-                                'baseStats': {'hp': 65, 'attack': 73, 'defense': 75, 'special-attack': 47,
-                                              'special-defense': 85, 'speed': 85}, 'attack': 171, 'defense': 174,
-                                'special-attack': 127, 'special-defense': 191, 'speed': 191, 'attack_boost': 0,
-                                'defense_boost': 0, 'special_attack_boost': 0, 'special_defense_boost': 0,
-                                'speed_boost': 0, 'status': 'par', 'volatileStatus': [],
-                                'moves': [{'id': 'tailwind', 'disabled': False, 'current_pp': 24},
-                                          {'id': 'thunderwave', 'disabled': False, 'current_pp': 32},
-                                          {'id': 'uturn', 'disabled': False, 'current_pp': 32},
-                                          {'id': 'roost', 'disabled': False, 'current_pp': 16}], 'types': ['bug'],
-                                'canMegaEvo': False}},
-                'side_conditions': {'tailwind': 0, 'reflect': 0, 'lightscreen': 0, 'auroraveil': 0, 'stealthrock': 1,
-                                    'spikes': 0, 'stickyweb': 0, 'toxicspikes': 0}, 'trapped': False}, 'weather': None,
-             'field': None, 'forceSwitch': False, 'wait': False, 'trickroom': False}
-        )
-        self.mutator.state = self.state
-
         bot_move = "closecombat"
         opponent_move = "tackle"
+
+        self.state.opponent.active.hp = 4.84
 
         instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
         expected_instructions = [
@@ -9960,140 +10685,9 @@ class TestGetStateInstructions(unittest.TestCase):
         self.assertEqual(expected_instructions, instructions)
 
     def test_willowisp_on_flashfire(self):
-        self.state = State.from_dict(
-            {'self': {'active': {'id': 'gardevoirmega', 'level': 76, 'hp': 96, 'maxhp': 228, 'ability': 'pixilate',
-                                 'item': None,
-                                 'baseStats': {'hp': 68, 'attack': 85, 'defense': 65, 'special-attack': 165,
-                                               'special-defense': 135, 'speed': 100}, 'attack': 173, 'defense': 143,
-                                 'special-attack': 295, 'special-defense': 249, 'speed': 196, 'attack_boost': 0,
-                                 'defense_boost': 0, 'special_attack_boost': 0, 'special_defense_boost': 0,
-                                 'speed_boost': 0, 'status': None, 'volatileStatus': [],
-                                 'moves': [{'id': 'hypervoice', 'disabled': False, 'current_pp': 13},
-                                           {'id': 'substitute', 'disabled': False, 'current_pp': 16},
-                                           {'id': 'psyshock', 'disabled': False, 'current_pp': 15},
-                                           {'id': 'willowisp', 'disabled': False, 'current_pp': 23}],
-                                 'types': ['psychic', 'fairy'], 'canMegaEvo': False}, 'reserve': {
-                'ninjask': {'id': 'ninjask', 'level': 84, 'hp': 0, 'maxhp': 240, 'ability': 'speedboost', 'item': None,
-                            'baseStats': {'hp': 61, 'attack': 90, 'defense': 45, 'special-attack': 50,
-                                          'special-defense': 50, 'speed': 160}, 'attack': 199, 'defense': 124,
-                            'special-attack': 132, 'special-defense': 132, 'speed': 317, 'attack_boost': 0,
-                            'defense_boost': 0, 'special_attack_boost': 0, 'special_defense_boost': 0, 'speed_boost': 0,
-                            'status': None, 'volatileStatus': [],
-                            'moves': [{'id': 'nightslash', 'disabled': False, 'current_pp': 24},
-                                      {'id': 'swordsdance', 'disabled': False, 'current_pp': 32},
-                                      {'id': 'leechlife', 'disabled': False, 'current_pp': 16},
-                                      {'id': 'aerialace', 'disabled': False, 'current_pp': 32}],
-                            'types': ['bug', 'flying'], 'canMegaEvo': False},
-                'mudsdale': {'id': 'mudsdale', 'level': 83, 'hp': 0, 'maxhp': 302, 'ability': 'stamina', 'item': None,
-                             'baseStats': {'hp': 100, 'attack': 125, 'defense': 100, 'special-attack': 55,
-                                           'special-defense': 85, 'speed': 35}, 'attack': 255, 'defense': 214,
-                             'special-attack': 139, 'special-defense': 189, 'speed': 106, 'attack_boost': 0,
-                             'defense_boost': 0, 'special_attack_boost': 0, 'special_defense_boost': 0,
-                             'speed_boost': 0, 'status': None, 'volatileStatus': [],
-                             'moves': [{'id': 'closecombat', 'disabled': False, 'current_pp': 8},
-                                       {'id': 'earthquake', 'disabled': False, 'current_pp': 16},
-                                       {'id': 'stealthrock', 'disabled': False, 'current_pp': 32},
-                                       {'id': 'heavyslam', 'disabled': False, 'current_pp': 16}], 'types': ['ground'],
-                             'canMegaEvo': False},
-                'terrakion': {'id': 'terrakion', 'level': 77, 'hp': 241, 'maxhp': 267, 'ability': 'justified',
-                              'item': None, 'baseStats': {'hp': 91, 'attack': 129, 'defense': 90, 'special-attack': 72,
-                                                          'special-defense': 90, 'speed': 108}, 'attack': 243,
-                              'defense': 183, 'special-attack': 155, 'special-defense': 183, 'speed': 211,
-                              'attack_boost': 0, 'defense_boost': 0, 'special_attack_boost': 0,
-                              'special_defense_boost': 0, 'speed_boost': 0, 'status': 'par', 'volatileStatus': [],
-                              'moves': [{'id': 'earthquake', 'disabled': False, 'current_pp': 16},
-                                        {'id': 'stoneedge', 'disabled': False, 'current_pp': 8},
-                                        {'id': 'swordsdance', 'disabled': False, 'current_pp': 32},
-                                        {'id': 'closecombat', 'disabled': False, 'current_pp': 8}],
-                              'types': ['rock', 'fighting'], 'canMegaEvo': False},
-                'dhelmise': {'id': 'dhelmise', 'level': 81, 'hp': 246, 'maxhp': 246, 'ability': 'steelworker',
-                             'item': None, 'baseStats': {'hp': 70, 'attack': 131, 'defense': 100, 'special-attack': 86,
-                                                         'special-defense': 90, 'speed': 40}, 'attack': 259,
-                             'defense': 209, 'special-attack': 186, 'special-defense': 192, 'speed': 111,
-                             'attack_boost': 0, 'defense_boost': 0, 'special_attack_boost': 0,
-                             'special_defense_boost': 0, 'speed_boost': 0, 'status': None, 'volatileStatus': [],
-                             'moves': [{'id': 'rapidspin', 'disabled': False, 'current_pp': 64},
-                                       {'id': 'anchorshot', 'disabled': False, 'current_pp': 32},
-                                       {'id': 'earthquake', 'disabled': False, 'current_pp': 16},
-                                       {'id': 'powerwhip', 'disabled': False, 'current_pp': 16}],
-                             'types': ['ghost', 'grass'], 'canMegaEvo': False},
-                'plusle': {'id': 'plusle', 'level': 84, 'hp': 238, 'maxhp': 238, 'ability': 'lightningrod',
-                           'item': None, 'baseStats': {'hp': 60, 'attack': 50, 'defense': 40, 'special-attack': 85,
-                                                       'special-defense': 75, 'speed': 95}, 'attack': 132,
-                           'defense': 115, 'special-attack': 191, 'special-defense': 174, 'speed': 208,
-                           'attack_boost': 0, 'defense_boost': 0, 'special_attack_boost': 0, 'special_defense_boost': 0,
-                           'speed_boost': 0, 'status': None, 'volatileStatus': [],
-                           'moves': [{'id': 'encore', 'disabled': False, 'current_pp': 8},
-                                     {'id': 'hiddenpowerice60', 'disabled': False, 'current_pp': 24},
-                                     {'id': 'nastyplot', 'disabled': False, 'current_pp': 32},
-                                     {'id': 'thunderbolt', 'disabled': False, 'current_pp': 24}], 'types': ['electric'],
-                           'canMegaEvo': False}},
-                      'side_conditions': {'tailwind': 0, 'reflect': 0, 'lightscreen': 0, 'auroraveil': 0,
-                                          'stealthrock': 1, 'spikes': 0, 'stickyweb': 0, 'toxicspikes': 0},
-                      'trapped': False}, 'opponent': {
-                'active': {'id': 'heatran', 'level': 75, 'hp': 213.2, 'maxhp': 260, 'ability': 'flashfire',
-                           'item': None, 'baseStats': {'hp': 91, 'attack': 90, 'defense': 106, 'special-attack': 130,
-                                                       'special-defense': 106, 'speed': 77}, 'attack': 179,
-                           'defense': 203, 'special-attack': 239, 'special-defense': 203, 'speed': 159,
-                           'attack_boost': 0, 'defense_boost': 0, 'special_attack_boost': 0, 'special_defense_boost': 0,
-                           'speed_boost': 0, 'status': None, 'volatileStatus': ['flashfire'],
-                           'moves': [{'id': 'stealthrock', 'disabled': False, 'current_pp': 32}],
-                           'types': ['fire', 'steel'], 'canMegaEvo': False}, 'reserve': {
-                    'victini': {'id': 'victini', 'level': 75, 'hp': 0, 'maxhp': 274, 'ability': 'victorystar',
-                                'item': None,
-                                'baseStats': {'hp': 100, 'attack': 100, 'defense': 100, 'special-attack': 100,
-                                              'special-defense': 100, 'speed': 100}, 'attack': 194, 'defense': 194,
-                                'special-attack': 194, 'special-defense': 194, 'speed': 194, 'attack_boost': 0,
-                                'defense_boost': 0, 'special_attack_boost': 0, 'special_defense_boost': 0,
-                                'speed_boost': 0, 'status': None, 'volatileStatus': [],
-                                'moves': [{'id': 'grassknot', 'disabled': False, 'current_pp': 32}],
-                                'types': ['psychic', 'fire'], 'canMegaEvo': False},
-                    'porygon2': {'id': 'porygon2', 'level': 79, 'hp': 44.88, 'maxhp': 264, 'ability': 'download',
-                                 'item': None,
-                                 'baseStats': {'hp': 85, 'attack': 80, 'defense': 90, 'special-attack': 105,
-                                               'special-defense': 95, 'speed': 60}, 'attack': 172, 'defense': 188,
-                                 'special-attack': 211, 'special-defense': 196, 'speed': 140, 'attack_boost': 0,
-                                 'defense_boost': 0, 'special_attack_boost': 0, 'special_defense_boost': 0,
-                                 'speed_boost': 0, 'status': None, 'volatileStatus': [],
-                                 'moves': [{'id': 'triattack', 'disabled': False, 'current_pp': 16},
-                                           {'id': 'thunderwave', 'disabled': False, 'current_pp': 32}],
-                                 'types': ['normal'], 'canMegaEvo': False},
-                    'beautifly': {'id': 'beautifly', 'level': 84, 'hp': 238, 'maxhp': 238, 'ability': 'swarm',
-                                  'item': None,
-                                  'baseStats': {'hp': 60, 'attack': 70, 'defense': 50, 'special-attack': 100,
-                                                'special-defense': 50, 'speed': 65}, 'attack': 166, 'defense': 132,
-                                  'special-attack': 216, 'special-defense': 132, 'speed': 157, 'attack_boost': 0,
-                                  'defense_boost': 0, 'special_attack_boost': 0, 'special_defense_boost': 0,
-                                  'speed_boost': 0, 'status': None, 'volatileStatus': [], 'moves': [],
-                                  'types': ['bug', 'flying'], 'canMegaEvo': False},
-                    'carnivine': {'id': 'carnivine', 'level': 84, 'hp': 0, 'maxhp': 262, 'ability': 'levitate',
-                                  'item': 'Leftovers',
-                                  'baseStats': {'hp': 74, 'attack': 100, 'defense': 72, 'special-attack': 90,
-                                                'special-defense': 72, 'speed': 46}, 'attack': 216, 'defense': 169,
-                                  'special-attack': 199, 'special-defense': 169, 'speed': 125, 'attack_boost': 0,
-                                  'defense_boost': 0, 'special_attack_boost': 0, 'special_defense_boost': 0,
-                                  'speed_boost': 0, 'status': 'par', 'volatileStatus': [],
-                                  'moves': [{'id': 'swordsdance', 'disabled': False, 'current_pp': 32},
-                                            {'id': 'return', 'disabled': False, 'current_pp': 32}], 'types': ['grass'],
-                                  'canMegaEvo': False},
-                    'dusknoir': {'id': 'dusknoir', 'level': 84, 'hp': 0, 'maxhp': 213, 'ability': 'pressure',
-                                 'item': 'Leftovers',
-                                 'baseStats': {'hp': 45, 'attack': 100, 'defense': 135, 'special-attack': 65,
-                                               'special-defense': 135, 'speed': 45}, 'attack': 216, 'defense': 275,
-                                 'special-attack': 157, 'special-defense': 275, 'speed': 124, 'attack_boost': 0,
-                                 'defense_boost': 0, 'special_attack_boost': 0, 'special_defense_boost': 0,
-                                 'speed_boost': 0, 'status': None, 'volatileStatus': [],
-                                 'moves': [{'id': 'substitute', 'disabled': False, 'current_pp': 16},
-                                           {'id': 'shadowsneak', 'disabled': False, 'current_pp': 48}],
-                                 'types': ['ghost'], 'canMegaEvo': False}},
-                'side_conditions': {'tailwind': 0, 'reflect': 0, 'lightscreen': 0, 'auroraveil': 0, 'stealthrock': 0,
-                                    'spikes': 0, 'stickyweb': 0, 'toxicspikes': 0}, 'trapped': False}, 'weather': None,
-             'field': None, 'forceSwitch': False, 'wait': False, 'trickroom': False}
-        )
-        self.mutator.state = self.state
-
         bot_move = "willowisp"
         opponent_move = "splash"
+        self.state.opponent.active.ability = 'flashfire'
 
         instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
         expected_instructions = [
@@ -10107,132 +10701,7 @@ class TestGetStateInstructions(unittest.TestCase):
         self.assertEqual(expected_instructions, instructions)
 
     def test_ground_immune_to_thunderwave(self):
-        self.state = State.from_dict(
-            {'self': {
-                'active': {'id': 'aggronmega', 'level': 77, 'hp': 88, 'maxhp': 234, 'ability': 'filter', 'item': None,
-                           'baseStats': {'hp': 70, 'attack': 140, 'defense': 230, 'special-attack': 60,
-                                         'special-defense': 80, 'speed': 50}, 'attack': 260, 'defense': 399,
-                           'special-attack': 137, 'special-defense': 168, 'speed': 122, 'attack_boost': 0,
-                           'defense_boost': 0, 'special_attack_boost': 0, 'special_defense_boost': 0, 'speed_boost': 0,
-                           'status': None, 'volatileStatus': [],
-                           'moves': [{'id': 'heavyslam', 'disabled': False, 'current_pp': 15},
-                                     {'id': 'earthquake', 'disabled': False, 'current_pp': 16},
-                                     {'id': 'thunderwave', 'disabled': False, 'current_pp': 32},
-                                     {'id': 'roar', 'disabled': False, 'current_pp': 32}], 'types': ['steel'],
-                           'canMegaEvo': False}, 'reserve': {
-                    'corsola': {'id': 'corsola', 'level': 84, 'hp': 0, 'maxhp': 246, 'ability': 'naturalcure',
-                                'item': None, 'baseStats': {'hp': 65, 'attack': 55, 'defense': 95, 'special-attack': 65,
-                                                            'special-defense': 95, 'speed': 35}, 'attack': 141,
-                                'defense': 208, 'special-attack': 157, 'special-defense': 208, 'speed': 107,
-                                'attack_boost': 0, 'defense_boost': 0, 'special_attack_boost': 0,
-                                'special_defense_boost': 0, 'speed_boost': 0, 'status': None, 'volatileStatus': [],
-                                'moves': [{'id': 'stealthrock', 'disabled': False, 'current_pp': 32},
-                                          {'id': 'toxic', 'disabled': False, 'current_pp': 16},
-                                          {'id': 'scald', 'disabled': False, 'current_pp': 24},
-                                          {'id': 'powergem', 'disabled': False, 'current_pp': 32}],
-                                'types': ['water', 'rock'], 'canMegaEvo': False},
-                    'excadrill': {'id': 'excadrill', 'level': 75, 'hp': 0, 'maxhp': 289, 'ability': 'moldbreaker',
-                                  'item': None,
-                                  'baseStats': {'hp': 110, 'attack': 135, 'defense': 60, 'special-attack': 50,
-                                                'special-defense': 65, 'speed': 88}, 'attack': 246, 'defense': 134,
-                                  'special-attack': 119, 'special-defense': 141, 'speed': 176, 'attack_boost': 0,
-                                  'defense_boost': 0, 'special_attack_boost': 0, 'special_defense_boost': 0,
-                                  'speed_boost': 0, 'status': None, 'volatileStatus': [],
-                                  'moves': [{'id': 'swordsdance', 'disabled': False, 'current_pp': 32},
-                                            {'id': 'earthquake', 'disabled': False, 'current_pp': 16},
-                                            {'id': 'rockslide', 'disabled': False, 'current_pp': 16},
-                                            {'id': 'ironhead', 'disabled': False, 'current_pp': 24}],
-                                  'types': ['ground', 'steel'], 'canMegaEvo': False},
-                    'purugly': {'id': 'purugly', 'level': 84, 'hp': 256, 'maxhp': 256, 'ability': 'thickfat',
-                                'item': None, 'baseStats': {'hp': 71, 'attack': 82, 'defense': 64, 'special-attack': 64,
-                                                            'special-defense': 59, 'speed': 112}, 'attack': 186,
-                                'defense': 156, 'special-attack': 156, 'special-defense': 147, 'speed': 236,
-                                'attack_boost': 0, 'defense_boost': 0, 'special_attack_boost': 0,
-                                'special_defense_boost': 0, 'speed_boost': 0, 'status': None, 'volatileStatus': [],
-                                'moves': [{'id': 'fakeout', 'disabled': False, 'current_pp': 16},
-                                          {'id': 'uturn', 'disabled': False, 'current_pp': 32},
-                                          {'id': 'return', 'disabled': False, 'current_pp': 32},
-                                          {'id': 'knockoff', 'disabled': False, 'current_pp': 32}], 'types': ['normal'],
-                                'canMegaEvo': False},
-                    'beedrill': {'id': 'beedrill', 'level': 84, 'hp': 246, 'maxhp': 246, 'ability': 'swarm',
-                                 'item': None,
-                                 'baseStats': {'hp': 65, 'attack': 90, 'defense': 40, 'special-attack': 45,
-                                               'special-defense': 80, 'speed': 75}, 'attack': 199, 'defense': 115,
-                                 'special-attack': 124, 'special-defense': 183, 'speed': 174, 'attack_boost': 0,
-                                 'defense_boost': 0, 'special_attack_boost': 0, 'special_defense_boost': 0,
-                                 'speed_boost': 0, 'status': None, 'volatileStatus': [],
-                                 'moves': [{'id': 'uturn', 'disabled': False, 'current_pp': 32},
-                                           {'id': 'toxicspikes', 'disabled': False, 'current_pp': 32},
-                                           {'id': 'poisonjab', 'disabled': False, 'current_pp': 32},
-                                           {'id': 'tailwind', 'disabled': False, 'current_pp': 24}],
-                                 'types': ['bug', 'poison'], 'canMegaEvo': False},
-                    'lurantis': {'id': 'lurantis', 'level': 83, 'hp': 0, 'maxhp': 252, 'ability': 'contrary',
-                                 'item': None,
-                                 'baseStats': {'hp': 70, 'attack': 105, 'defense': 90, 'special-attack': 80,
-                                               'special-defense': 90, 'speed': 45}, 'attack': 222, 'defense': 197,
-                                 'special-attack': 180, 'special-defense': 197, 'speed': 122, 'attack_boost': 0,
-                                 'defense_boost': 0, 'special_attack_boost': 0, 'special_defense_boost': 0,
-                                 'speed_boost': 0, 'status': None, 'volatileStatus': [],
-                                 'moves': [{'id': 'superpower', 'disabled': False, 'current_pp': 8},
-                                           {'id': 'synthesis', 'disabled': False, 'current_pp': 8},
-                                           {'id': 'hiddenpowerice60', 'disabled': False, 'current_pp': 24},
-                                           {'id': 'leafstorm', 'disabled': False, 'current_pp': 8}], 'types': ['grass'],
-                                 'canMegaEvo': False}},
-                'side_conditions': {'tailwind': 0, 'reflect': 0, 'lightscreen': 0, 'auroraveil': 0, 'stealthrock': 1,
-                                    'spikes': 0, 'stickyweb': 0, 'toxicspikes': 0}, 'trapped': False}, 'opponent': {
-                'active': {'id': 'mudsdale', 'level': 83, 'hp': 277.84000000000003, 'maxhp': 302, 'ability': 'stamina',
-                           'item': None, 'baseStats': {'hp': 100, 'attack': 125, 'defense': 100, 'special-attack': 55,
-                                                       'special-defense': 85, 'speed': 35}, 'attack': 255,
-                           'defense': 214, 'special-attack': 139, 'special-defense': 189, 'speed': 106,
-                           'attack_boost': 0, 'defense_boost': 2, 'special_attack_boost': 0, 'special_defense_boost': 0,
-                           'speed_boost': 0, 'status': None, 'volatileStatus': [],
-                           'moves': [{'id': 'earthquake', 'disabled': False, 'current_pp': 16}], 'types': ['ground'],
-                           'canMegaEvo': False}, 'reserve': {
-                    'dragonite': {'id': 'dragonite', 'level': 76, 'hp': 170.95000000000002, 'maxhp': 263,
-                                  'ability': 'multiscale', 'item': None,
-                                  'baseStats': {'hp': 91, 'attack': 134, 'defense': 95, 'special-attack': 100,
-                                                'special-defense': 100, 'speed': 80}, 'attack': 248, 'defense': 188,
-                                  'special-attack': 196, 'special-defense': 196, 'speed': 166, 'attack_boost': 0,
-                                  'defense_boost': 0, 'special_attack_boost': 0, 'special_defense_boost': 0,
-                                  'speed_boost': 0, 'status': None, 'volatileStatus': [], 'moves': [],
-                                  'types': ['dragon', 'flying'], 'canMegaEvo': False},
-                    'volcanion': {'id': 'volcanion', 'level': 77, 'hp': 0, 'maxhp': 250, 'ability': 'waterabsorb',
-                                  'item': 'Leftovers',
-                                  'baseStats': {'hp': 80, 'attack': 110, 'defense': 120, 'special-attack': 130,
-                                                'special-defense': 90, 'speed': 70}, 'attack': 214, 'defense': 229,
-                                  'special-attack': 245, 'special-defense': 183, 'speed': 152, 'attack_boost': 0,
-                                  'defense_boost': 0, 'special_attack_boost': 0, 'special_defense_boost': 0,
-                                  'speed_boost': 0, 'status': None, 'volatileStatus': [],
-                                  'moves': [{'id': 'substitute', 'disabled': False, 'current_pp': 16},
-                                            {'id': 'steameruption', 'disabled': False, 'current_pp': 8},
-                                            {'id': 'fireblast', 'disabled': False, 'current_pp': 8}],
-                                  'types': ['fire', 'water'], 'canMegaEvo': False},
-                    'wormadamsandy': {'id': 'wormadamsandy', 'level': 84, 'hp': 135.66, 'maxhp': 238,
-                                      'ability': 'overcoat', 'item': 'Leftovers',
-                                      'baseStats': {'hp': 60, 'attack': 79, 'defense': 105, 'special-attack': 59,
-                                                    'special-defense': 85, 'speed': 36}, 'attack': 181, 'defense': 225,
-                                      'special-attack': 147, 'special-defense': 191, 'speed': 109, 'attack_boost': 0,
-                                      'defense_boost': 0, 'special_attack_boost': 0, 'special_defense_boost': 0,
-                                      'speed_boost': 0, 'status': 'tox', 'volatileStatus': [],
-                                      'moves': [{'id': 'stealthrock', 'disabled': False, 'current_pp': 32},
-                                                {'id': 'protect', 'disabled': False, 'current_pp': 16},
-                                                {'id': 'toxic', 'disabled': False, 'current_pp': 16}],
-                                      'types': ['bug', 'ground'], 'canMegaEvo': False},
-                    'illumise': {'id': 'illumise', 'level': 84, 'hp': 24.6, 'maxhp': 246, 'ability': 'prankster',
-                                 'item': 'Leftovers',
-                                 'baseStats': {'hp': 65, 'attack': 47, 'defense': 75, 'special-attack': 73,
-                                               'special-defense': 85, 'speed': 85}, 'attack': 127, 'defense': 174,
-                                 'special-attack': 171, 'special-defense': 191, 'speed': 191, 'attack_boost': 0,
-                                 'defense_boost': 0, 'special_attack_boost': 0, 'special_defense_boost': 0,
-                                 'speed_boost': 0, 'status': None, 'volatileStatus': [],
-                                 'moves': [{'id': 'wish', 'disabled': False, 'current_pp': 16}], 'types': ['bug'],
-                                 'canMegaEvo': False}},
-                'side_conditions': {'tailwind': 0, 'reflect': 0, 'lightscreen': 0, 'auroraveil': 0, 'toxicspikes': 0,
-                                    'stealthrock': 0, 'spikes': 0, 'stickyweb': 0, 'Wish': 0}, 'trapped': False},
-             'weather': None, 'field': None, 'forceSwitch': False, 'wait': False, 'trickroom': False}
-        )
-        self.mutator.state = self.state
-
+        self.state.opponent.active.types = ['ground']
         bot_move = "thunderwave"
         opponent_move = "splash"
 
@@ -10256,157 +10725,6 @@ class TestGetStateInstructions(unittest.TestCase):
             TransposeInstruction(
                 1.0,
                 [],
-                False
-            )
-        ]
-
-        self.assertEqual(expected_instructions, instructions)
-
-    def test_dryskin_from_hydropump(self):
-        self.state = State.from_dict(
-            {'self': {'active': {'id': 'blastoisemega', 'level': 79, 'hp': 133, 'maxhp': 254, 'ability': 'megalauncher',
-                                 'item': None,
-                                 'baseStats': {'hp': 79, 'attack': 103, 'defense': 120, 'special-attack': 135,
-                                               'special-defense': 115, 'speed': 78}, 'attack': 208, 'defense': 235,
-                                 'special-attack': 259, 'special-defense': 227, 'speed': 169, 'attack_boost': 0,
-                                 'defense_boost': 0, 'special_attack_boost': 0, 'special_defense_boost': 0,
-                                 'speed_boost': 0, 'status': None, 'volatileStatus': [],
-                                 'moves': [{'id': 'dragontail', 'disabled': False, 'current_pp': 15},
-                                           {'id': 'rapidspin', 'disabled': False, 'current_pp': 64},
-                                           {'id': 'aurasphere', 'disabled': False, 'current_pp': 32},
-                                           {'id': 'hydropump', 'disabled': False, 'current_pp': 7}], 'types': ['water'],
-                                 'canMegaEvo': False}, 'reserve': {
-                'florges': {'id': 'florges', 'level': 79, 'hp': 0, 'maxhp': 253, 'ability': 'flowerveil', 'item': None,
-                            'baseStats': {'hp': 78, 'attack': 65, 'defense': 68, 'special-attack': 112,
-                                          'special-defense': 154, 'speed': 75}, 'attack': 148, 'defense': 153,
-                            'special-attack': 223, 'special-defense': 289, 'speed': 164, 'attack_boost': 0,
-                            'defense_boost': 0, 'special_attack_boost': 0, 'special_defense_boost': 0, 'speed_boost': 0,
-                            'status': None, 'volatileStatus': [],
-                            'moves': [{'id': 'moonblast', 'disabled': False, 'current_pp': 24},
-                                      {'id': 'wish', 'disabled': False, 'current_pp': 16},
-                                      {'id': 'toxic', 'disabled': False, 'current_pp': 16},
-                                      {'id': 'protect', 'disabled': False, 'current_pp': 16}], 'types': ['fairy'],
-                            'canMegaEvo': False},
-                'smeargle': {'id': 'smeargle', 'level': 84, 'hp': 230, 'maxhp': 230, 'ability': 'owntempo',
-                             'item': None, 'baseStats': {'hp': 55, 'attack': 20, 'defense': 35, 'special-attack': 20,
-                                                         'special-defense': 45, 'speed': 75}, 'attack': 82,
-                             'defense': 107, 'special-attack': 82, 'special-defense': 124, 'speed': 174,
-                             'attack_boost': 0, 'defense_boost': 0, 'special_attack_boost': 0,
-                             'special_defense_boost': 0, 'speed_boost': 0, 'status': None, 'volatileStatus': [],
-                             'moves': [{'id': 'stealthrock', 'disabled': False, 'current_pp': 32},
-                                       {'id': 'destinybond', 'disabled': False, 'current_pp': 8},
-                                       {'id': 'stickyweb', 'disabled': False, 'current_pp': 32},
-                                       {'id': 'spore', 'disabled': False, 'current_pp': 24}], 'types': ['normal'],
-                             'canMegaEvo': False},
-                'crabominable': {'id': 'crabominable', 'level': 84, 'hp': 0, 'maxhp': 300, 'ability': 'ironfist',
-                                 'item': None,
-                                 'baseStats': {'hp': 97, 'attack': 132, 'defense': 77, 'special-attack': 62,
-                                               'special-defense': 67, 'speed': 43}, 'attack': 270, 'defense': 178,
-                                 'special-attack': 152, 'special-defense': 161, 'speed': 120, 'attack_boost': 0,
-                                 'defense_boost': 0, 'special_attack_boost': 0, 'special_defense_boost': 0,
-                                 'speed_boost': 0, 'status': None, 'volatileStatus': [],
-                                 'moves': [{'id': 'earthquake', 'disabled': False, 'current_pp': 16},
-                                           {'id': 'closecombat', 'disabled': False, 'current_pp': 8},
-                                           {'id': 'stoneedge', 'disabled': False, 'current_pp': 8},
-                                           {'id': 'icehammer', 'disabled': False, 'current_pp': 16}],
-                                 'types': ['fighting', 'ice'], 'canMegaEvo': False},
-                'haxorus': {'id': 'haxorus', 'level': 77, 'hp': 0, 'maxhp': 244, 'ability': 'moldbreaker', 'item': None,
-                            'baseStats': {'hp': 76, 'attack': 147, 'defense': 90, 'special-attack': 60,
-                                          'special-defense': 70, 'speed': 97}, 'attack': 271, 'defense': 183,
-                            'special-attack': 137, 'special-defense': 152, 'speed': 194, 'attack_boost': 0,
-                            'defense_boost': 0, 'special_attack_boost': 0, 'special_defense_boost': 0, 'speed_boost': 0,
-                            'status': None, 'volatileStatus': [],
-                            'moves': [{'id': 'swordsdance', 'disabled': False, 'current_pp': 32},
-                                      {'id': 'earthquake', 'disabled': False, 'current_pp': 16},
-                                      {'id': 'poisonjab', 'disabled': False, 'current_pp': 32},
-                                      {'id': 'outrage', 'disabled': False, 'current_pp': 16}], 'types': ['dragon'],
-                            'canMegaEvo': False},
-                'dewgong': {'id': 'dewgong', 'level': 84, 'hp': 0, 'maxhp': 288, 'ability': 'thickfat', 'item': None,
-                            'baseStats': {'hp': 90, 'attack': 70, 'defense': 80, 'special-attack': 70,
-                                          'special-defense': 95, 'speed': 70}, 'attack': 166, 'defense': 183,
-                            'special-attack': 166, 'special-defense': 208, 'speed': 166, 'attack_boost': 0,
-                            'defense_boost': 0, 'special_attack_boost': 0, 'special_defense_boost': 0, 'speed_boost': 0,
-                            'status': None, 'volatileStatus': [],
-                            'moves': [{'id': 'icebeam', 'disabled': False, 'current_pp': 16},
-                                      {'id': 'toxic', 'disabled': False, 'current_pp': 16},
-                                      {'id': 'surf', 'disabled': False, 'current_pp': 24},
-                                      {'id': 'protect', 'disabled': False, 'current_pp': 16}],
-                            'types': ['water', 'ice'], 'canMegaEvo': False}},
-                      'side_conditions': {'tailwind': 0, 'reflect': 0, 'lightscreen': 0, 'auroraveil': 0,
-                                          'stealthrock': 0, 'Wish': 0, 'spikes': 0, 'stickyweb': 0, 'toxicspikes': 0},
-                      'trapped': False}, 'opponent': {
-                'active': {'id': 'toxicroak', 'level': 79, 'hp': 261, 'maxhp': 261, 'ability': 'dryskin', 'item': None,
-                           'baseStats': {'hp': 83, 'attack': 106, 'defense': 65, 'special-attack': 86,
-                                         'special-defense': 65, 'speed': 85}, 'attack': 213, 'defense': 148,
-                           'special-attack': 181, 'special-defense': 148, 'speed': 180, 'attack_boost': 0,
-                           'defense_boost': 0, 'special_attack_boost': 0, 'special_defense_boost': 0, 'speed_boost': 0,
-                           'status': None, 'volatileStatus': [],
-                           'moves': [{'id': 'gunkshot', 'disabled': False, 'current_pp': 8}],
-                           'types': ['poison', 'fighting'], 'canMegaEvo': False}, 'reserve': {
-                    'dugtrio': {'id': 'dugtrio', 'level': 77, 'hp': 0, 'maxhp': 180, 'ability': 'sandforce',
-                                'item': None,
-                                'baseStats': {'hp': 35, 'attack': 100, 'defense': 50, 'special-attack': 50,
-                                              'special-defense': 70, 'speed': 120}, 'attack': 199, 'defense': 122,
-                                'special-attack': 122, 'special-defense': 152, 'speed': 229, 'attack_boost': 0,
-                                'defense_boost': 0, 'special_attack_boost': 0, 'special_defense_boost': 0,
-                                'speed_boost': 0, 'status': None, 'volatileStatus': [],
-                                'moves': [{'id': 'earthquake', 'disabled': False, 'current_pp': 16}],
-                                'types': ['ground'], 'canMegaEvo': False},
-                    'kyuremwhite': {'id': 'kyuremwhite', 'level': 73, 'hp': 0, 'maxhp': 303, 'ability': 'turboblaze',
-                                    'item': None,
-                                    'baseStats': {'hp': 125, 'attack': 120, 'defense': 90, 'special-attack': 170,
-                                                  'special-defense': 100, 'speed': 95}, 'attack': 218, 'defense': 174,
-                                    'special-attack': 291, 'special-defense': 188, 'speed': 181, 'attack_boost': 0,
-                                    'defense_boost': 0, 'special_attack_boost': 0, 'special_defense_boost': 0,
-                                    'speed_boost': 0, 'status': 'tox', 'volatileStatus': [],
-                                    'moves': [{'id': 'focusblast', 'disabled': False, 'current_pp': 8}],
-                                    'types': ['dragon', 'ice'], 'canMegaEvo': False},
-                    'amoonguss': {'id': 'amoonguss', 'level': 77, 'hp': 0, 'maxhp': 302, 'ability': 'regenerator',
-                                  'item': 'Black Sludge',
-                                  'baseStats': {'hp': 114, 'attack': 85, 'defense': 70, 'special-attack': 85,
-                                                'special-defense': 80, 'speed': 30}, 'attack': 175, 'defense': 152,
-                                  'special-attack': 175, 'special-defense': 168, 'speed': 91, 'attack_boost': 0,
-                                  'defense_boost': 0, 'special_attack_boost': 0, 'special_defense_boost': 0,
-                                  'speed_boost': 0, 'status': None, 'volatileStatus': [],
-                                  'moves': [{'id': 'sludgebomb', 'disabled': False, 'current_pp': 16}],
-                                  'types': ['grass', 'poison'], 'canMegaEvo': False},
-                    'bellossom': {'id': 'bellossom', 'level': 84, 'hp': 0, 'maxhp': 263, 'ability': 'chlorophyll',
-                                  'item': 'Life Orb',
-                                  'baseStats': {'hp': 75, 'attack': 80, 'defense': 95, 'special-attack': 90,
-                                                'special-defense': 100, 'speed': 50}, 'attack': 183, 'defense': 208,
-                                  'special-attack': 199, 'special-defense': 216, 'speed': 132, 'attack_boost': 0,
-                                  'defense_boost': 0, 'special_attack_boost': 0, 'special_defense_boost': 0,
-                                  'speed_boost': 0, 'status': None, 'volatileStatus': [],
-                                  'moves': [{'id': 'moonblast', 'disabled': False, 'current_pp': 24}],
-                                  'types': ['grass'], 'canMegaEvo': False},
-                    'hoopaunbound': {'id': 'hoopaunbound', 'level': 76, 'hp': 138.32000000000002, 'maxhp': 247,
-                                     'ability': 'magician', 'item': 'Life Orb',
-                                     'baseStats': {'hp': 80, 'attack': 160, 'defense': 60, 'special-attack': 170,
-                                                   'special-defense': 130, 'speed': 80}, 'attack': 287, 'defense': 135,
-                                     'special-attack': 302, 'special-defense': 242, 'speed': 166, 'attack_boost': 0,
-                                     'defense_boost': 0, 'special_attack_boost': 0, 'special_defense_boost': 0,
-                                     'speed_boost': 0, 'status': None, 'volatileStatus': [],
-                                     'moves': [{'id': 'focusblast', 'disabled': False, 'current_pp': 8},
-                                               {'id': 'psyshock', 'disabled': False, 'current_pp': 16}],
-                                     'types': ['psychic', 'dark'], 'canMegaEvo': False}},
-                'side_conditions': {'tailwind': 0, 'reflect': 0, 'lightscreen': 0, 'auroraveil': 0, 'stealthrock': 0,
-                                    'stickyweb': 0, 'spikes': 0, 'toxicspikes': 0}, 'trapped': False}, 'weather': None,
-             'field': None, 'forceSwitch': False, 'wait': False, 'trickroom': False}
-        )
-        self.mutator.state = self.state
-
-        self.state.opponent.active.hp = self.state.opponent.active.maxhp - 1
-
-        bot_move = "hydropump"
-        opponent_move = "splash"
-
-        instructions = get_all_state_instructions(self.mutator, bot_move, opponent_move)
-        expected_instructions = [
-            TransposeInstruction(
-                1.0,
-                [
-                    (constants.HEAL, constants.OPPONENT, 1)
-                ],
                 False
             )
         ]
@@ -10674,6 +10992,7 @@ class TestUserMovesFirst(unittest.TestCase):
                                 "dragonite": Pokemon.from_state_pokemon_dict(StatePokemon("dragonite", 81).to_dict()),
                                 "hitmonlee": Pokemon.from_state_pokemon_dict(StatePokemon("hitmonlee", 81).to_dict()),
                             },
+                            (0, 0),
                             defaultdict(lambda: 0)
                         ),
                         Side(
@@ -10685,6 +11004,7 @@ class TestUserMovesFirst(unittest.TestCase):
                                 "toxapex": Pokemon.from_state_pokemon_dict(StatePokemon("toxapex", 73).to_dict()),
                                 "bronzong": Pokemon.from_state_pokemon_dict(StatePokemon("bronzong", 73).to_dict()),
                             },
+                            (0, 0),
                             defaultdict(lambda: 0)
                         ),
                         None,
@@ -10699,6 +11019,29 @@ class TestUserMovesFirst(unittest.TestCase):
         opponent = self.state.opponent
         user_move = lookup_move('tackle')
         opponent_move = lookup_move('tackle')
+
+        user.active.speed = 2
+        opponent.active.speed = 1
+
+        self.assertTrue(user_moves_first(self.state, user_move, opponent_move))
+
+    def test_grassyglide_goes_first_in_terrain(self):
+        user = self.state.self
+        opponent = self.state.opponent
+        user_move = lookup_move('tackle')
+        opponent_move = lookup_move('grassyglide')
+        self.state.field = constants.GRASSY_TERRAIN
+
+        user.active.speed = 2
+        opponent.active.speed = 1
+
+        self.assertFalse(user_moves_first(self.state, user_move, opponent_move))
+
+    def test_grassyglide_does_not_go_first_without_terrain(self):
+        user = self.state.self
+        opponent = self.state.opponent
+        user_move = lookup_move('tackle')
+        opponent_move = lookup_move('grassyglide')
 
         user.active.speed = 2
         opponent.active.speed = 1

@@ -18,14 +18,6 @@ class TestPokemonInit(unittest.TestCase):
               'maxhp': 0,
               'ability': 'regenerator',
               'item': 'fightiniumz',
-              'baseStats': {
-                'hp': 79,
-                'attack': 100,
-                'defense': 80,
-                'special-attack': 110,
-                'special-defense': 90,
-                'speed': 121
-              },
               'attack': 212,
               'defense': 197,
               'special-attack': 319,
@@ -39,7 +31,6 @@ class TestPokemonInit(unittest.TestCase):
               'accuracy_boost': 1,
               'evasion_boost': 1,
               'status': None,
-              'scoring_multiplier': 1,
               'volatileStatus': [
 
               ],
@@ -67,26 +58,16 @@ class TestPokemonInit(unittest.TestCase):
               ],
               'types': [
                 'flying'
-              ],
-              'canMegaEvo': False
+              ]
             },
             'reserve': {
               'greninja': {
-                'scoring_multiplier': 1,
                 'id': 'greninja',
                 'level': 100,
                 'hp': 285,
                 'maxhp': 285,
                 'ability': 'battlebond',
                 'item': 'choicespecs',
-                'baseStats': {
-                  'hp': 72,
-                  'attack': 95,
-                  'defense': 67,
-                  'special-attack': 103,
-                  'special-defense': 71,
-                  'speed': 122
-                },
                 'attack': 203,
                 'defense': 171,
                 'special-attack': 305,
@@ -128,25 +109,15 @@ class TestPokemonInit(unittest.TestCase):
                 'types': [
                   'water',
                   'dark'
-                ],
-                'canMegaEvo': False
+                ]
               },
               'mawile': {
-                'scoring_multiplier': 1,
                 'id': 'mawile',
                 'level': 100,
                 'hp': 261.0,
                 'maxhp': 261,
                 'ability': 'intimidate',
                 'item': 'mawilite',
-                'baseStats': {
-                  'hp': 50,
-                  'attack': 85,
-                  'defense': 85,
-                  'special-attack': 55,
-                  'special-defense': 55,
-                  'speed': 50
-                },
                 'attack': 295,
                 'defense': 206,
                 'special-attack': 131,
@@ -188,25 +159,15 @@ class TestPokemonInit(unittest.TestCase):
                 'types': [
                   'steel',
                   'fairy'
-                ],
-                'canMegaEvo': False
+                ]
               },
               'ferrothorn': {
-                'scoring_multiplier': 1,
                 'id': 'ferrothorn',
                 'level': 100,
                 'hp': 352.0,
                 'maxhp': 352,
                 'ability': 'ironbarbs',
                 'item': 'leftovers',
-                'baseStats': {
-                  'hp': 74,
-                  'attack': 94,
-                  'defense': 131,
-                  'special-attack': 54,
-                  'special-defense': 116,
-                  'speed': 20
-                },
                 'attack': 224,
                 'defense': 299,
                 'special-attack': 144,
@@ -248,25 +209,15 @@ class TestPokemonInit(unittest.TestCase):
                 'types': [
                   'grass',
                   'steel'
-                ],
-                'canMegaEvo': False
+                ]
               },
               'heatran': {
-                'scoring_multiplier': 1,
                 'id': 'heatran',
                 'level': 100,
                 'hp': 385,
                 'maxhp': 385,
                 'ability': 'flashfire',
                 'item': 'leftovers',
-                'baseStats': {
-                  'hp': 91,
-                  'attack': 90,
-                  'defense': 106,
-                  'special-attack': 130,
-                  'special-defense': 106,
-                  'speed': 77
-                },
                 'attack': 194,
                 'defense': 248,
                 'special-attack': 296,
@@ -308,25 +259,15 @@ class TestPokemonInit(unittest.TestCase):
                 'types': [
                   'fire',
                   'steel'
-                ],
-                'canMegaEvo': False
+                ]
               },
               'garchomp': {
-                'scoring_multiplier': 1,
                 'id': 'garchomp',
                 'level': 100,
                 'hp': 379,
                 'maxhp': 379,
                 'ability': 'roughskin',
                 'item': 'rockyhelmet',
-                'baseStats': {
-                  'hp': 108,
-                  'attack': 130,
-                  'defense': 95,
-                  'special-attack': 80,
-                  'special-defense': 85,
-                  'speed': 102
-                },
                 'attack': 296,
                 'defense': 317,
                 'special-attack': 176,
@@ -368,10 +309,10 @@ class TestPokemonInit(unittest.TestCase):
                 'types': [
                   'dragon',
                   'ground'
-                ],
-                'canMegaEvo': False
+                ]
               }
             },
+            'wish': (0, 0),
             'side_conditions': {
               'toxic_count': 0,
               'tailwind': 0,
@@ -387,20 +328,11 @@ class TestPokemonInit(unittest.TestCase):
           'opponent': {
             'active': {
               'id': 'landorustherian',
-              'scoring_multiplier': 1,
               'level': 100,
               'hp': 319.0,
               'maxhp': 319,
               'ability': 'intimidate',
               'item': 'choicescarf',
-              'baseStats': {
-                'hp': 89,
-                'attack': 145,
-                'defense': 90,
-                'special-attack': 105,
-                'special-defense': 80,
-                'speed': 91
-              },
               'attack': 389,
               'defense': 216,
               'special-attack': 223.63636363636363,
@@ -447,26 +379,16 @@ class TestPokemonInit(unittest.TestCase):
               'types': [
                 'ground',
                 'flying'
-              ],
-              'canMegaEvo': False
+              ]
             },
             'reserve': {
               'ferrothorn': {
                 'id': 'ferrothorn',
-                'scoring_multiplier': 1,
                 'level': 100,
                 'hp': 352.0,
                 'maxhp': 352,
                 'ability': 'ironbarbs',
                 'item': 'leftovers',
-                'baseStats': {
-                  'hp': 74,
-                  'attack': 94,
-                  'defense': 131,
-                  'special-attack': 54,
-                  'special-defense': 116,
-                  'speed': 20
-                },
                 'attack': 224,
                 'defense': 304,
                 'special-attack': 158.4,
@@ -508,25 +430,15 @@ class TestPokemonInit(unittest.TestCase):
                 'types': [
                   'grass',
                   'steel'
-                ],
-                'canMegaEvo': False
+                ]
               },
               'rotomwash': {
                 'id': 'rotomwash',
-                'scoring_multiplier': 1,
                 'level': 100,
                 'hp': 304.0,
                 'maxhp': 304,
                 'ability': 'levitate',
                 'item': 'leftovers',
-                'baseStats': {
-                  'hp': 50,
-                  'attack': 65,
-                  'defense': 107,
-                  'special-attack': 105,
-                  'special-defense': 107,
-                  'speed': 86
-                },
                 'attack': 150.9090909090909,
                 'defense': 330.0,
                 'special-attack': 246,
@@ -568,25 +480,15 @@ class TestPokemonInit(unittest.TestCase):
                 'types': [
                   'electric',
                   'water'
-                ],
-                'canMegaEvo': False
+                ]
               },
               'mawile': {
                 'id': 'mawile',
-                'scoring_multiplier': 1,
                 'level': 100,
                 'hp': 303.0,
                 'maxhp': 303,
                 'ability': 'intimidate',
                 'item': 'leftovers',
-                'baseStats': {
-                  'hp': 50,
-                  'attack': 85,
-                  'defense': 85,
-                  'special-attack': 55,
-                  'special-defense': 55,
-                  'speed': 50
-                },
                 'attack': 295.90000000000003,
                 'defense': 206,
                 'special-attack': 132.72727272727272,
@@ -628,25 +530,15 @@ class TestPokemonInit(unittest.TestCase):
                 'types': [
                   'steel',
                   'fairy'
-                ],
-                'canMegaEvo': False
+                ]
               },
               'greninja': {
                 'id': 'greninja',
-                'scoring_multiplier': 1,
                 'level': 100,
                 'hp': 285.0,
                 'maxhp': 285,
                 'ability': 'protean',
                 'item': 'choicescarf',
-                'baseStats': {
-                  'hp': 72,
-                  'attack': 95,
-                  'defense': 67,
-                  'special-attack': 103,
-                  'special-defense': 71,
-                  'speed': 122
-                },
                 'attack': 205.45454545454544,
                 'defense': 170,
                 'special-attack': 305,
@@ -688,25 +580,15 @@ class TestPokemonInit(unittest.TestCase):
                 'types': [
                   'water',
                   'dark'
-                ],
-                'canMegaEvo': False
+                ]
               },
               'scolipede': {
                 'id': 'scolipede',
-                'scoring_multiplier': 1,
                 'level': 100,
                 'hp': 261.0,
                 'maxhp': 261,
                 'ability': 'speedboost',
                 'item': 'wateriumz',
-                'baseStats': {
-                  'hp': 60,
-                  'attack': 100,
-                  'defense': 89,
-                  'special-attack': 55,
-                  'special-defense': 69,
-                  'speed': 112
-                },
                 'attack': 328.90000000000003,
                 'defense': 214,
                 'special-attack': 132.72727272727272,
@@ -748,10 +630,10 @@ class TestPokemonInit(unittest.TestCase):
                 'types': [
                   'bug',
                   'poison'
-                ],
-                'canMegaEvo': False
+                ]
               }
             },
+            'wish': (0, 0),
             'side_conditions': {
               'toxic_count': 0,
               'tailwind': 0,
@@ -790,3 +672,40 @@ class TestPokemonInit(unittest.TestCase):
         pkmn = Pokemon.from_state_pokemon_dict(state_pkmn_dict)
 
         self.assertEqual(2, pkmn.burn_multiplier)
+
+
+class TestPokemon(unittest.TestCase):
+    def setUp(self):
+        self.pokemon = Pokemon.from_state_pokemon_dict(
+          StatePokemon('pikachu', 100).to_dict()
+        )
+
+    def test_pokemon_item_can_be_removed_returns_true_in_basic_case(self):
+        self.pokemon.item = constants.UNKNOWN_ITEM
+        self.assertTrue(self.pokemon.item_can_be_removed())
+
+    def test_item_can_be_removed_returns_false_if_item_is_none(self):
+        self.pokemon.item = None
+        self.assertFalse(self.pokemon.item_can_be_removed())
+
+    def test_item_can_be_removed_returns_false_if_pokemon_is_silvallybug(self):
+        self.pokemon.id = 'silvallybug'
+        self.pokemon.item = 'bugmemory'
+        self.assertFalse(self.pokemon.item_can_be_removed())
+
+    def test_item_can_be_removed_returns_true_if_pokemon_is_silvallynormal(self):
+        self.pokemon.id = 'silvally'
+        self.pokemon.item = 'choicescarf'
+        self.assertTrue(self.pokemon.item_can_be_removed())
+
+    def test_item_can_be_removed_returns_false_if_pokemon_has_substitute(self):
+        self.pokemon.volatile_status.add('substitute')
+        self.assertFalse(self.pokemon.item_can_be_removed())
+
+    def test_item_can_be_removed_returns_false_if_pokemon_is_holding_zcrystal(self):
+        self.pokemon.item = 'fightiniumz'
+        self.assertFalse(self.pokemon.item_can_be_removed())
+
+    def test_item_can_be_removed_returns_false_if_target_is_kyogreprimal(self):
+        self.pokemon.id = 'kyogreprimal'
+        self.assertFalse(self.pokemon.item_can_be_removed())

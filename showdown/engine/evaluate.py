@@ -1,5 +1,4 @@
 import constants
-from .damage_calculator import is_super_effective
 
 
 class Scoring:
@@ -12,8 +11,8 @@ class Scoring:
         constants.SPECIAL_ATTACK: 15,
         constants.SPECIAL_DEFENSE: 15,
         constants.SPEED: 25,
-        constants.ACCURACY: 30,
-        constants.EVASION: 30
+        constants.ACCURACY: 3,
+        constants.EVASION: 3
     }
 
     POKEMON_BOOST_DIMINISHING_RETURNS = {
@@ -61,15 +60,10 @@ class Scoring:
     }
 
     POKEMON_COUNT_SCORED_SIDE_CONDITIONS = {
-        constants.STEALTH_ROCK: -15,
+        constants.STEALTH_ROCK: -10,
         constants.SPIKES: -7,
         constants.TOXIC_SPIKES: -7,
     }
-
-    WEAK_TO_OPPONENT_TYPE = 5
-    FASTER_POKEMON_IN_MATCHUP = 10
-    SUPER_EFFECTIVE_DAMAGING_MOVE = 5
-    FASTER_POKEMON_WITH_SUPER_EFFECTIVE_DAMAGING_MOVE = 3
 
 
 def evaluate_pokemon(pkmn):
@@ -101,33 +95,7 @@ def evaluate_pokemon(pkmn):
         except KeyError:
             pass
 
-    score *= pkmn.scoring_multiplier
-
     return round(score)
-
-
-def evaluate_matchup(user_pkmn, opponent_pkmn):
-    score = 0
-
-    if user_pkmn.hp <= 0 or opponent_pkmn.hp <= 0:
-        return score
-
-    if user_pkmn.speed > opponent_pkmn.speed:
-        score += Scoring.FASTER_POKEMON_IN_MATCHUP
-    elif user_pkmn.speed < opponent_pkmn.speed:
-        score -= Scoring.FASTER_POKEMON_IN_MATCHUP
-
-    # positive bonus for the bot's type being super effective against the opponent
-    for user_type in user_pkmn.types:
-        if is_super_effective(user_type, opponent_pkmn.types):
-            score += Scoring.WEAK_TO_OPPONENT_TYPE
-
-    # negative bonus for the opponent's type being super effective against the bot's
-    for opponent_type in opponent_pkmn.types:
-        if is_super_effective(opponent_type, user_pkmn.types):
-            score -= Scoring.WEAK_TO_OPPONENT_TYPE
-
-    return score
 
 
 def evaluate(state):
@@ -162,7 +130,5 @@ def evaluate(state):
             score -= count * Scoring.STATIC_SCORED_SIDE_CONDITIONS[condition]
         elif condition in Scoring.POKEMON_COUNT_SCORED_SIDE_CONDITIONS:
             score -= count * Scoring.POKEMON_COUNT_SCORED_SIDE_CONDITIONS[condition] * opponent_alive_reserves_count
-
-    score += evaluate_matchup(state.self.active, state.opponent.active)
 
     return int(score)

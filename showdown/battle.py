@@ -7,7 +7,8 @@ from abc import ABC
 from abc import abstractmethod
 
 import constants
-from config import logger
+import config
+import logging
 
 import data
 from data import all_move_json
@@ -38,7 +39,11 @@ from showdown.helpers import normalize_name
 from showdown.helpers import calculate_stats
 
 
-LastUsedMove = namedtuple('LastUsedMove', ['pokemon_name', 'move'])
+logger = logging.getLogger(__name__)
+
+
+LastUsedMove = namedtuple('LastUsedMove', ['pokemon_name', 'move', 'turn'])
+DamageDealt = namedtuple('DamageDealt', ['attacker', 'defender', 'move', 'percent_damage', 'crit'])
 
 
 class Battle(ABC):
@@ -51,6 +56,8 @@ class Battle(ABC):
         self.field = None
         self.trick_room = False
 
+        self.turn = False
+
         self.started = False
         self.rqid = None
 
@@ -60,7 +67,7 @@ class Battle(ABC):
         self.battle_type = None
         self.generation = None
 
-        self.time_remaining = 240
+        self.request_json = None
 
     def initialize_team_preview(self, user_json, opponent_pokemon, battle_mode):
         self.user.from_json(user_json, first_turn=True)
@@ -89,12 +96,16 @@ class Battle(ABC):
         self.started = True
         self.rqid = user_json[constants.RQID]
 
-    def prepare_battles(self, join_moves_together=False):
+    def mega_evolve_possible(self):
+        return any(g in self.generation for g in constants.MEGA_EVOLVE_GENERATIONS) or 'nationaldex' in config.pokemon_mode
+
+    def prepare_battles(self, guess_mega_evo_opponent=True, join_moves_together=False):
         """Returns a list of battles based on this one
         The battles have the opponent's reserve pokemon's unknowns filled in
         The opponent's active pokemon in each of the battles has a different set"""
         battle_copy = deepcopy(self)
         battle_copy.opponent.lock_moves()
+        battle_copy.user.lock_active_pkmn_first_turn_moves()
 
         if battle_copy.user.active.can_mega_evo:
             # mega-evolving here gives the pkmn the random-battle spread (Serious + 85s)
@@ -102,7 +113,7 @@ class Battle(ABC):
             # this only happens on the turn the pkmn mega-evolves - the next turn will be fine
             battle_copy.user.active.forme_change(get_mega_pkmn_name(battle_copy.user.active.name))
 
-        if not battle_copy.opponent.mega_revealed() and any(g in self.generation for g in constants.MEGA_EVOLVE_GENERATIONS):
+        if guess_mega_evo_opponent and not battle_copy.opponent.mega_revealed() and self.mega_evolve_possible():
             check_in_sets = battle_copy.battle_type == constants.STANDARD_BATTLE
             battle_copy.opponent.active.try_convert_to_mega(check_in_sets=check_in_sets)
 
@@ -113,7 +124,8 @@ class Battle(ABC):
         try:
             pokemon_sets = get_pokemon_sets(battle_copy.opponent.active.name)
         except KeyError:
-            logger.warning("No set for {}".format(battle_copy.opponent.active.name))
+            logger.warning("No sets for {}, trying to find most likely attributes".format(battle_copy.opponent.active.name))
+            battle_copy.opponent.active.guess_most_likely_attributes()
             return [battle_copy]
 
         possible_spreads = sorted(pokemon_sets[SPREADS_STRING], key=lambda x: x[2], reverse=True)
@@ -134,8 +146,6 @@ class Battle(ABC):
 
         combinations = list(itertools.product(spreads, items, abilities, chance_move_combinations))
 
-        logger.debug("Guessing these moves for the opponent's {}: {}".format(battle_copy.opponent.active.name, expected_moves))
-
         # create battle clones for each of the combinations
         battles = list()
         for c in combinations:
@@ -148,6 +158,8 @@ class Battle(ABC):
 
             if join_moves_together or set_makes_sense(c[0][0], c[0][1], c[1], c[2], all_moves):
                 new_battle.opponent.active.set_spread(c[0][0], c[0][1])
+                if new_battle.opponent.active.name == 'ditto':
+                    new_battle.opponent.active.stats = battle_copy.opponent.active.stats
                 new_battle.opponent.active.item = c[1]
                 new_battle.opponent.active.ability = c[2]
                 for m in expected_moves:
@@ -155,7 +167,7 @@ class Battle(ABC):
                 for m in c[3]:
                     new_battle.opponent.active.add_move(m)
 
-                logger.debug("Possible set for opponent's {}: {}".format(battle_copy.opponent.active.name, c))
+                logger.debug("Possible set for opponent's {}:\t{} {} {} {} {}".format(battle_copy.opponent.active.name, c[0][0], c[0][1], c[1], c[2], all_moves))
                 battles.append(new_battle)
 
             new_battle.opponent.lock_moves()
@@ -173,8 +185,8 @@ class Battle(ABC):
         for mon in self.opponent.reserve:
             opponent_reserve[mon.name] = TransposePokemon.from_state_pokemon_dict(mon.to_dict())
 
-        user = Side(user_active, user_reserve, copy(self.user.side_conditions))
-        opponent = Side(opponent_active, opponent_reserve, copy(self.opponent.side_conditions))
+        user = Side(user_active, user_reserve, copy(self.user.wish), copy(self.user.side_conditions))
+        opponent = Side(opponent_active, opponent_reserve, copy(self.opponent.wish), copy(self.opponent.side_conditions))
 
         state = State(user, opponent, self.weather, self.field, self.trick_room)
         return state
@@ -186,12 +198,32 @@ class Battle(ABC):
         # double faint or team preview
         if force_switch and wait:
             user_options = self.user.get_switches() or [constants.DO_NOTHING_MOVE]
-            opponent_options = self.opponent.get_switches() or [constants.DO_NOTHING_MOVE]
+
+            # edge-case for uturn or voltswitch killing
+            if (
+                    self.user.last_used_move.move in constants.SWITCH_OUT_MOVES and
+                    self.opponent.active.hp <= 0 and
+                    self.user.last_used_move.turn == self.turn
+
+            ):
+                opponent_options = [constants.DO_NOTHING_MOVE]
+            else:
+                opponent_options = self.opponent.get_switches() or [constants.DO_NOTHING_MOVE]
+
             return user_options, opponent_options
 
         if force_switch:
-            opponent_options = [constants.DO_NOTHING_MOVE]
             user_options = self.user.get_switches()
+
+            # uturn or voltswitch
+            if (
+                    self.user.last_used_move.move in constants.SWITCH_OUT_MOVES and
+                    self.opponent.last_used_move.turn != self.turn and
+                    self.user.last_used_move.turn == self.turn
+            ):
+                opponent_options = [m.name for m in self.opponent.active.moves if not m.disabled] or [constants.DO_NOTHING_MOVE]
+            else:
+                opponent_options = [constants.DO_NOTHING_MOVE]
         elif wait:
             opponent_options = self.opponent.get_switches()
             user_options = [constants.DO_NOTHING_MOVE]
@@ -218,20 +250,39 @@ class Battler:
 
         self.name = None
         self.trapped = False
+        self.wish = (0, 0)
 
         self.account_name = None
 
-        self.last_used_move = LastUsedMove('', '')
+        self.last_used_move = LastUsedMove('', '', 0)
 
     def mega_revealed(self):
         return self.active.is_mega or any(p.is_mega for p in self.reserve)
 
-    def lock_moves(self):
+    def lock_active_pkmn_first_turn_moves(self):
+        # disable firstimpression and fakeout if the last_used_move was not a switch
+        if self.last_used_move.pokemon_name == self.active.name:
+            for m in self.active.moves:
+                if m.name in constants.FIRST_TURN_MOVES:
+                    m.disabled = True
+
+    def lock_active_pkmn_status_moves_if_active_has_assaultvest(self):
+        if self.active.item == 'assaultvest':
+            for m in self.active.moves:
+                if all_move_json[m.name][constants.CATEGORY] == constants.STATUS:
+                    m.disabled = True
+
+    def choice_lock_moves(self):
         # if the active pokemon has a choice item and their last used move was by this pokemon -> lock their other moves
         if self.active.item in constants.CHOICE_ITEMS and self.last_used_move.pokemon_name == self.active.name:
             for m in self.active.moves:
                 if m.name != self.last_used_move.move:
                     m.disabled = True
+
+    def lock_moves(self):
+        self.choice_lock_moves()
+        self.lock_active_pkmn_status_moves_if_active_has_assaultvest()
+        self.lock_active_pkmn_first_turn_moves()
 
     def from_json(self, user_json, first_turn=False):
 
@@ -287,6 +338,11 @@ class Battler:
         except KeyError:
             self.active.can_ultra_burst = False
 
+        try:
+            self.active.can_dynamax = user_json[constants.ACTIVE][0][constants.CAN_DYNAMAX]
+        except KeyError:
+            self.active.can_dynamax = False
+
         # clear the active moves so they can be reset by the options available
         self.active.moves.clear()
 
@@ -326,6 +382,7 @@ class Battler:
             constants.TRAPPED: self.trapped,
             constants.ACTIVE: self.active.to_dict(),
             constants.RESERVE: [p.to_dict() for p in self.reserve],
+            constants.WISH: copy(self.wish),
             constants.SIDE_CONDITIONS: copy(self.side_conditions)
         }
 
@@ -364,8 +421,11 @@ class Pokemon:
         self.boosts = defaultdict(lambda: 0)
         self.can_mega_evo = False
         self.can_ultra_burst = False
+        self.can_dynamax = False
         self.is_mega = False
         self.can_have_choice_item = True
+        self.can_have_life_orb = True
+        self.can_have_heavydutyboots = True
 
     def forme_change(self, new_pkmn_name):
         hp_percent = float(self.hp) / self.max_hp
@@ -426,32 +486,25 @@ class Pokemon:
 
     def set_likely_moves_unless_revealed(self):
         if len(self.moves) == 4:
-            logger.debug("{} revealed 4 moves: {}".format(self.name, self.moves))
             return
         additional_moves = get_all_likely_moves(self.name, [m.name for m in self.moves])
-        logger.debug("Guessing additional moves for {}: {}".format(self.name, additional_moves))
         for m in additional_moves:
             self.moves.append(Move(m))
 
     def set_most_likely_ability_unless_revealed(self):
         if self.ability is not None:
-            logger.debug("{} has revealed it's ability as {}, not guessing".format(self.name, self.ability))
             return
         ability = get_most_likely_ability(self.name)
-        logger.debug("Guessing ability={} for {}".format(ability, self.name))
         self.ability = ability
 
     def set_most_likely_item_unless_revealed(self):
         if self.item != constants.UNKNOWN_ITEM:
-            logger.debug("{} has revealed it's item as {}, not guessing".format(self.name, self.item))
             return
         item = get_most_likely_item(self.name)
-        logger.debug("Guessing item={} for {}".format(item, self.name))
         self.item = item
 
     def set_most_likely_spread(self):
         nature, evs, _ = get_most_likely_spread(self.name)
-        logger.debug("Spread assumption for {}: {}, {}".format(self.name, nature, evs))
         self.set_spread(nature, evs)
 
     def guess_most_likely_attributes(self):
@@ -480,6 +533,10 @@ class Pokemon:
                 if i[1] < 10 or cumulative_percentage >= 80:
                     return possible_items if possible_items else [constants.UNKNOWN_ITEM]
                 elif i[0] in constants.CHOICE_ITEMS and not self.can_have_choice_item:
+                    pass
+                elif i[0] == 'lifeorb' and not self.can_have_life_orb:
+                    pass
+                elif i[0] == 'heavydutyboots' and not self.can_have_heavydutyboots:
                     pass
                 elif i[0] not in PASS_ITEMS:
                     possible_items.append(i[0])
@@ -519,7 +576,7 @@ class Pokemon:
         chance_moves = list()
 
         for m in moves:
-            if moves_remaining == 0:
+            if moves_remaining <= 0:
                 break
             elif m[1] > 60 and self.get_move(m[0]) is None:
                 expected_moves.append(m[0])
@@ -534,6 +591,7 @@ class Pokemon:
             constants.FAINTED: self.fainted,
             constants.ID: self.name,
             constants.LEVEL: self.level,
+            constants.TYPES: self.types,
             constants.HITPOINTS: self.hp,
             constants.MAXHP: self.max_hp,
             constants.ABILITY: self.ability,
@@ -543,9 +601,7 @@ class Pokemon:
             constants.BOOSTS: self.boosts,
             constants.STATUS: self.status,
             constants.VOLATILE_STATUS: set(self.volatile_statuses),
-            constants.MOVES: [m.to_dict() for m in self.moves],
-            constants.TYPES: self.types,
-            constants.CAN_MEGA_EVO: self.can_mega_evo
+            constants.MOVES: [m.to_dict() for m in self.moves]
         }
 
     @classmethod

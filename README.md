@@ -18,7 +18,6 @@ The configurations available are:
 ```
 BATTLE_BOT: (string, default "safest") The BattleBot module to use. More on this below
 SAVE_REPLAY: (bool, default False) Specifies whether or not to save replays of the battles
-LOG_TO_FILE: (bool, default False) Specifies whether or not to write logs to files in {PWD}/logs/
 LOG_LEVEL: (string, default "DEBUG") The Python logging level 
 WEBSOCKET_URI: (string, default is the official PokemonShowdown websocket address: "sim.smogon.com:8000") The address to use to connect to the Pokemon Showdown websocket 
 PS_USERNAME: (string, required) Pokemon Showdown username
@@ -115,6 +114,11 @@ Create a package in `showdown/battle_bots` with a module named `main.py`. In thi
 
 Set the `BATTLE_BOT` environment variable to the name of your package and your function will be called each time PokemonShowdown prompts the bot for a move
 
+## The Battle Engine
+The bots in the project all use a Pokemon battle engine to determine all possible transpositions that may occur from a pair of moves.
+
+For more information, see [ENGINE.md](https://github.com/pmariglia/showdown/blob/master/ENGINE.md) 
+
 ## Specifying Teams
 You can specify teams by setting the `TEAM_NAME` environment variable.
 Examples can be found in `teams/teams/`.
@@ -127,7 +131,7 @@ The path specified should be relative to `teams/teams/`.
 
 Specify a file:
 ```
-TEAM_NAME=gen8/ou/ttar_band
+TEAM_NAME=gen8/ou/clef_sand
 ```
 
 Specify a directory:
